@@ -1,0 +1,423 @@
+# ชื่อบทความข่าวลือ Ivalice / หัวข้อภารกิจ  (421 รายการไม่ซ้ำ)
+
+[0x5577ef] x138	dummy
+[0x557837]	Unfair Laws!
+[0x557850]	Clashing Clans
+[0x55788e]	Famfrit
+[0x557897]	The Crystals
+[0x5578b0]	Strong Laws
+[0x5578c7]	Secret Shop
+[0x5578de]	Ultima
+[0x5578e6]	Adrammalech
+[0x5578f3]	The Jagds
+[0x557906]	Trade Goods
+[0x55791d]	Wanted Poster
+[0x557938]	New Clock
+[0x55794b]	Serious Search
+[0x557968]	Exodus
+[0x557970]	Judges Alone
+[0x557989]	Matius
+[0x557991]	Audience Day
+[0x5579aa]	Prices Soar
+[0x5579df]	NewAdventure
+[0x5579fb]	Clan Borzoi
+[0x557a12]	Dirty Secret
+[0x557a2b]	Thief Exposed
+[0x557a46]	Area Freed!
+[0x557a5d]	Our Heroes!
+[0x557a74]	Borzoi's Plan
+[0x557a8f]	Borzoi's End
+[0x557aa8]	Gukko Gone
+[0x557abd]	Foreign Ship
+[0x557ad6]	Crime Ring
+[0x557aeb] x2	The Redwings
+[0x557b04]	Monopoly
+[0x557b0f]	Falgabird
+[0x557b3a]	The Sages
+[0x557b4d]	Peace At Last
+[0x557b68]	Grissom's End
+[0x557b83]	Weird Minstrel
+[0x557ba0]	ForeignFiends
+[0x557bbe]	Heroes
+[0x557be7]	Hooray
+[0x557bf7]	The Liberators
+[0x557c14]	Tourney
+[0x557c1d]	The Tourneys
+[0x557c36] x2	Clan League
+[0x557c4d]	Snowy Pass
+[0x557c62]	Poaching
+[0x557c6c]	Ruins Found
+[0x557ca1]	Blank Cards
+[0x557cb8]	Abilities
+[0x557cc4]	!Ability Types
+[0x557ce1]	!Job Change
+[0x557cf8]	!Expert Jobs
+[0x557d11]	Morphing
+[0x557d1c]	Conditions
+[0x557d29]	Combos
+[0x557d32]	Exemption
+[0x557d3e]	!The Totema
+[0x557d63]	!Law Rankings
+[0x557d7e]	Imprisoned
+[0x557d92]	!Law Cards
+[0x557dae]	Negotiations
+[0x557de9]	Requests
+[0x557dfb]	!Mission Items
+[0x557e1f]	!Clan Level
+[0x557e36]	!Skill Levels
+[0x557e51]	!Clan Turf
+[0x557e6d]	Linking
+[0x557e7e]	!Trade Goods
+[0x55800b]	Snowball Fight
+[0x558028]	Another World
+[0x558043]	Herb Picking
+[0x55805c]	Thesis Hunt
+[0x558073]	The Cheetahs
+[0x55808c]	Desert Peril
+[0x5580a5]	Twisted Flow
+[0x5580be]	Antilaws
+[0x5580c8]	Diamond Rain
+[0x5580e1]	HotAwakening
+[0x5580fd]	Magic Wood
+[0x558112]	Emerald Keep
+[0x55812b]	Pale Company
+[0x558144]	Jagd Hunt
+[0x558157]	The Bounty
+[0x55816c]	Golden Clock
+[0x558185]	Scouring Time
+[0x5581a0]	The Big Find
+[0x5581b9]	Desert Patrol
+[0x5581d4]	Quiet Sands
+[0x5581eb]	Materite Now!
+[0x558206]	Present Day
+[0x55821d]	Hidden Vein
+[0x558234]	To Ambervale
+[0x55824d]	Over The Hill
+[0x558268]	Royal Valley
+[0x558288] x6	Wanted
+[0x5582be]	Ruby Red
+[0x5582cf]	Tower Ruins
+[0x558307]	Magewyrm
+[0x558311]	Salika Keep
+[0x558328]	Twin Swords
+[0x55833f]	Village Hunt
+[0x55836f]	The Wanderer
+[0x558388]	BattleTourney
+[0x5583a6]	Mage Tourney
+[0x5583bf]	SwimmingMeet
+[0x5583f2]	Snow In Lutia
+[0x55840d]	Frosty Mage
+[0x558445]	Hot Recipe
+[0x558462]	A Lost Ring
+[0x558479]	Staring Eyes
+[0x558492]	Desert Rose
+[0x5584a9]	Friend Trouble
+[0x5584c6]	Flesh Bones
+[0x5584e1]	For A Song
+[0x5584f6]	White Flowers
+[0x558511]	New Antilaw
+[0x558528]	Prison Break
+[0x558541]	Royal Ruins
+[0x558558]	Sketchy Thief
+[0x558573]	Showdown
+[0x55857e]	Hit Again
+[0x558591]	Oasis Frogs
+[0x5585a8]	Missing Prof
+[0x5585c1]	Den of Evil
+[0x5585d8]	Exploration
+[0x55860b]	Missing Meow
+[0x558624]	Fowl Thief
+[0x558639]	Free Sprohm!
+[0x558652]	Raven's Oath
+[0x55866b]	NubswoodBase
+[0x558687]	Lutia Mop-up
+[0x5586a0]	Borzoi Falling
+[0x5586bd]	Cadoan Watch
+[0x5586d6]	Free Cadoan!
+[0x5586ef]	Fire Sigil
+[0x558704]	Free Baguba!
+[0x55871d]	Water Sigil
+[0x558734]	Wind Sigil
+[0x558749]	Earth Sigil
+[0x5587eb]	Last Stand
+[0x558800]	Free Bervenia!
+[0x55881d]	The Worldwyrm
+[0x558838]	Moogle Bride
+[0x558851]	Clan Law
+[0x558862]	Challengers
+[0x558870]	Cursed Bride
+[0x558889]	Flan Breakout!
+[0x5588a6]	Sorry, Friend
+[0x5588c1]	Carrot
+[0x5588ca]	Shadow Clan
+[0x55891f]	The Fey Blade
+[0x55893a]	Fiend Run
+[0x55894d]	Clan Roundup
+[0x558966]	Wyrms Awaken
+[0x55897f]	Yellow Powerz
+[0x55899a]	Blue Geniuses
+[0x5589b5]	Brown Rabbits
+[0x5589d0]	White Kupos
+[0x5589e7]	Mythril Rush
+[0x558a00]	Stolen Scoop
+[0x558a19]	Smuggle Bust
+[0x558a32]	Resistance
+[0x558a45]	Old Friends
+[0x558a5c]	Poachers
+[0x558a66]	Snow Fairy
+[0x558a7b]	Revenge
+[0x558a84]	Retrieve Mail!
+[0x558aa1]	A Challenge
+[0x558abf]	Human Wanted
+[0x558ad8]	BangaaWanted
+[0x558b11]	Viera Wanted
+[0x558b2a]	MoogleWanted
+[0x558b46]	Watching You
+[0x558b5f]	Golden Gil
+[0x558b74]	Dueling Sub
+[0x558b8b]	Gulug Ghost
+[0x558ba2]	Water City
+[0x558bb7]	Mirage Tower
+[0x558bd0]	A Barren Land
+[0x558beb]	Cadoan Meet
+[0x558c02]	Sprohm Meet
+[0x558c19]	Run For Fun
+[0x558c30]	Hungry Ghost
+[0x558c49]	Pirates Ahoy
+[0x558c62]	Castle Sit-In
+[0x558c7d]	Wine Delivery
+[0x558c98]	Broken Tunes
+[0x558cb1]	Falcon Flown
+[0x558cca]	Danger Pass
+[0x558ce1]	Mist Stars
+[0x558cf6]	Adaman Alloy
+[0x558d0f]	Mysidia Alloy
+[0x558d2a]	Crusite Alloy
+[0x558d45]	Faceless Dolls
+[0x558d62]	Faithful Fairy
+[0x558d7f]	For The Lady
+[0x558d98]	Seven Nights
+[0x558db1]	Shady Deals
+[0x558dc8]	Earthy Colors
+[0x558de3]	Lost Heirloom
+[0x558dfe]	Young Love
+[0x558e13]	Ghosts Of War
+[0x558e2e]	The Last Day
+[0x558e47]	The Bell Tolls
+[0x558e64]	Goblin Town
+[0x558e7b]	Secret Books
+[0x558e94]	Words Of Love
+[0x558eaf]	You, Immortal
+[0x558eca]	Clocktower
+[0x558ed6]	An Education
+[0x558eef]	Morning Woes
+[0x558f25]	To Meden
+[0x558f36]	Neighbor
+[0x558f41]	Honor Lost
+[0x558f56]	Inspiration
+[0x558f63]	Coo's Break
+[0x558f7a]	The Match
+[0x558f8d]	The Deep Sea
+[0x558fa6]	A Worthy Eye
+[0x558fbf]	Lost In Mist
+[0x558fd8]	Darn Kids
+[0x558feb]	Stage Fright
+[0x559004]	Diary Dilemma
+[0x55901f]	HundredEye
+[0x55902c]	Runaway Boy
+[0x559043]	Mad Alchemist
+[0x55905e]	Caravan Guard
+[0x559079]	Lifework
+[0x559083]	Cheap Laughs
+[0x5590a4]	Frozen Spring
+[0x5590bf]	No Scents
+[0x5590d2]	On The Waves
+[0x5590eb]	Spirited Boy
+[0x559104]	PowderWorries
+[0x559122]	The Blue Bolt
+[0x55913d]	Sweet Talk
+[0x559152]	Scarface
+[0x55915c]	Mirage Town
+[0x559173]	Soldier's Wish
+[0x559190]	Dry Spell
+[0x5591a3]	Swap Meet
+[0x5591b6]	Adaman Order
+[0x5591cf]	Magic Mysidia
+[0x5591ea]	Conundrum
+[0x5591f5]	Lucky Night
+[0x55920c]	Tutor Search
+[0x559243]	Run With Us
+[0x55925a]	Lucky Charm
+[0x559271]	Alchemist Boy
+[0x55928c]	Thorny Dreams
+[0x5592a7]	Free Cyril!
+[0x5592be]	Ship Needed
+[0x5592d5]	Mind Ceffyl
+[0x5592ec]	Body Ceffyl
+[0x559303]	TheSpiritstone
+[0x559323]	Girl In Love
+[0x55933c]	Chocobo Help!
+[0x559357]	The Skypole
+[0x55936e]	Ruins Survey
+[0x559387]	Dig Dig Dig
+[0x55939e]	Seeking Silver
+[0x5593bb]	Materite
+[0x5593c5]	The Wormhole
+[0x5593de]	Metal Hunt
+[0x5593f3]	Math Is Hard
+[0x55940c]	The Witness
+[0x559423]	Life Or Death
+[0x55943e]	Karlos's Day
+[0x559457]	To Father
+[0x55946a]	Oh Milese
+[0x55947d]	Skinning Time
+[0x559498]	Wild River
+[0x5594ad]	Magic Cloth
+[0x5594c4]	Cotton Guard
+[0x5594dd]	Help Dad
+[0x55950d]	Into The Wood
+[0x559528]	Jerky Days
+[0x55953d]	New Fields
+[0x559552]	Strange Fires
+[0x55956d]	Better Living
+[0x559588]	Malboro Hunt
+[0x5595a1]	Chocobo Work
+[0x5595ba]	Party Night
+[0x5595d1]	Mama's Taste
+[0x5595ea]	The Well Maze
+[0x559605]	She's Gone
+[0x55961a]	Magic Vellum
+[0x559633]	Novel Ascent
+[0x55964c]	Shiver
+[0x559654]	Bread Woes
+[0x559669]	Book Mess
+[0x55967c]	One More Tail
+[0x559697]	Relax Time!
+[0x5596ae]	Foma Jungle
+[0x5596c5]	For A Flower
+[0x5596de]	Giza Plains
+[0x5596f5]	Lutia Pass
+[0x55970a]	The Nubswood
+[0x559723]	Eluut Sands
+[0x55973a]	Ulei River
+[0x55974f]	Aisenfield
+[0x55975b]	Roda Volcano
+[0x559774]	Travel Aid
+[0x559789]	TheSalikawood
+[0x5597a7]	Nargai Cave
+[0x5597be]	Kudik Peaks
+[0x5597d5]	Jeraw Sands
+[0x5597ec]	Uladon Bog
+[0x559801]	Gotor Sands
+[0x559818]	Delia Dunes
+[0x55982f]	Bugbusters
+[0x55983b]	Tubola Cave
+[0x559852]	Deti Plains
+[0x559869]	Siena Gorge
+[0x559880]	Jagd Ahli
+[0x559893]	Jagd Helje
+[0x5598a8]	Jagd Dorsa
+[0x5598bd]	Ambervale
+[0x5598c8]	Ozmonfield
+[0x5598f5]	Newbie Hall
+[0x55990c]	Voodoo Doll
+[0x559923]	Come On Out
+[0x559959]	Alba Cave
+[0x55996c]	The Performer
+[0x5599a4]	Spring Tree
+[0x5599bb]	Who Am I?
+[0x5599ce]	ReaperRumors
+[0x5599ea]	Dog Days
+[0x5599fb]	Good Bread
+[0x559a10]	Sword Needed
+[0x559a29]	El Ritmo
+[0x559a3a]	Her Big Move
+[0x559a6a]	Janitor Duty
+[0x559a83]	Unlucky Star
+[0x559a9c]	Corral Care
+[0x559ab3]	Beastly Gun
+[0x559aca]	Blade Turtle
+[0x559ae7]	Valuable Fake
+[0x559b02]	Weaver's War
+[0x559b1b]	Fabled Sword
+[0x559b34]	Refurbishing
+[0x559b42]	Stone Secret
+[0x559b5b]	Sword Stuff
+[0x559b91]	Minstrel Song
+[0x559bac]	Gun Crazy
+[0x559bbf]	Black Hat
+[0x559bd2]	Hat For A Girl
+[0x559c0e]	Dark Armor
+[0x559c23]	Fashion World
+[0x559c3e]	FashionHoopla
+[0x559c5c]	First Mission
+[0x559c77]	Marche's
+[0x559c9d]	MonBro
+[0x559ca5]	Bounty
+[0x559cad]	Llednar
+[0x559cb6]	Into
+[0x559cc1]	Where's
+[0x559cd2]	MeetingDoned
+[0x559cee]	Cid's Message
+[0x559d09] x2	Shining Lake
+[0x559d3b] x2	Sauce Recipe
+[0x559d6d] x2	Hero Of Yore
+[0x559d9f] x3	My Mission
+[0x559dde]	Jade Dream
+[0x559df3]	Help Nubs!
+[0x559e08]	Help Giza!
+[0x559e1d]	Help Kudik!
+[0x559e34]	Help Uladon!
+[0x559e4d]	Help Jeraw!
+[0x559e64]	Help Lutia!
+[0x559e7b]	Help Koring!
+[0x559e94]	Help Ulei!
+[0x559ea9]	Help Aisen!
+[0x559ec0]	Help Roda!
+[0x559ed5]	Help Eluut!
+[0x559eec]	Help Nargai!
+[0x559f05]	Help Salika!
+[0x559f1e]	Help Delia!
+[0x559f35]	Help Gotor!
+[0x559f4c]	Help Ozmon!
+[0x559f63]	Help Deti!
+[0x559f78]	Help Siena!
+[0x559f8f]	Help M'wood
+[0x559fa6]	Help Tubola!
+[0x559fbf]	Help Dorsa!
+[0x559fd6]	Help Helje!
+[0x559fed]	Help Ahli!
+[0x55a002]	Encounter
+[0x55a00d]	Human Help?
+[0x55a024]	Bangaa Help?
+[0x55a03d]	Nu Mou Help?
+[0x55a056]	Viera Help?
+[0x55a06d]	Moogle Help?
+[0x55a086]	Pam Le Fey
+[0x55a09b]	Dark Wanderer
+[0x55a0b6]	Demon Redux
+[0x55a0cd]	Newbie Hunt
+[0x55a0e4]	Real Hunt
+[0x55a0f7]	Expert Hunt
+[0x55a10e]	Ezel's Letter
+[0x55a129]	Ritz's Letter
+[0x55a144]	Cid's Letter
+[0x55a172]	Reconcilliation
+[0x55a183]	Left Behind
+[0x55a19a]	With Babus
+[0x55a1af]	Mortal Snow
+[0x55a1e5]	Cleanup Time
+[0x55a1fe]	Memories
+[0x55a208]	Bored
+[0x55a210]	Doned Here!
+[0x55a227]	Ritz's Offer
+[0x55a240]	Cid's Mission
+[0x55a25b]	No Arms Rule
+[0x55a274]	Kissing Rule
+[0x55a28d]	Immunity Pass
+[0x55a2a8]	No Full HP
+[0x55a2bd]	No Literacy
+[0x55a2d4]	Favoritism
+[0x55a2e0]	No Answers
+[0x55a2f5]	No Jumping
+[0x55a30a]	Decision Time

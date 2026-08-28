@@ -1,0 +1,102 @@
+# ชื่อเฉพาะอ้างอิงในบทสนทนา (ตัวละคร/มอนสเตอร์)  (100 รายการไม่ซ้ำ)
+
+[0x55128c]	CRNNONE
+[0x551296]	CRNDEF
+[0x55129f]	Marche
+[0x5512a7]	Mewt
+[0x5512ad]	Ritz
+[0x5512b3]	Remedi
+[0x5512bb]	Cid
+[0x5512c0]	Doned
+[0x5512c7]	Montblanc
+[0x5512d2]	Babus
+[0x5512d9]	Ezel
+[0x5512df]	Nono
+[0x5512e5]	Shara
+[0x5512ec]	Llednar
+[0x5512f5]	Lyle
+[0x5512fb]	Guinness
+[0x551305]	Colin
+[0x55130c]	Leslaie
+[0x551315] x2	Mateus
+[0x55131d] x2	Adrammelech
+[0x55132a]	Ultima Crystal
+[0x551347]	Exodus Fruit
+[0x551360] x2	Famfrit
+[0x551369]	Judge
+[0x55138e]	Littlevili
+[0x5513ae]	Dabarosa
+[0x5513b8]	Dolce
+[0x5513bf]	Warose
+[0x5513c7]	Raven
+[0x5513ce]	Hejaat
+[0x5513d6]	Batalise
+[0x5513e0]	Golitaire
+[0x5513eb]	Bishon
+[0x5513f3]	Steraiz
+[0x5513fc]	Gukko
+[0x551403]	Maliris
+[0x55140c]	Sandy
+[0x551413]	Cindy
+[0x55141a]	Mindy
+[0x551421]	Kraken
+[0x551429]	Tiamat
+[0x551431]	Lich
+[0x551437]	Glasm
+[0x55143e]	Silverlock
+[0x55144a]	Gutskor
+[0x551453]	Ogma
+[0x551459]	Reaker
+[0x551461]	Bladesman
+[0x55146c]	Carot
+[0x551473]	Hanzou
+[0x55147b]	Dark Knight
+[0x551492]	Buckles
+[0x55149b]	Gagat
+[0x5514a2]	Meow
+[0x5514a8]	Mystery Box
+[0x5514bf]	Odd Statue
+[0x5514d4]	Magic Device
+[0x5514ed]	Big Gabbana
+[0x551504]	Lil Gabbana
+[0x55151b]	Diaghilev
+[0x551526]	Kanan
+[0x55152d]	Rayne
+[0x551534]	Lodion
+[0x55153c]	Gerland
+[0x551545]	Lord Ghost
+[0x55155a]	Gelato
+[0x551562]	Auggie
+[0x55156a]	Belvay
+[0x551572]	Delia Wyrms
+[0x551589]	Grissom
+[0x551592]	Mombomb
+[0x55159b]	Celia
+[0x5515a2]	Redy
+[0x5515a8]	Queen Lamia
+[0x5515bf]	Adamantoise
+[0x5515cc]	Ochu
+[0x5515d2]	Neochu
+[0x5515da]	Dread Lord
+[0x5515ef]	Apanda
+[0x5515f7]	Archaedemon
+[0x551604]	Mamaflan
+[0x55160e]	Fog
+[0x551613]	Grang
+[0x55161a]	Vili
+[0x551620]	Haweh
+[0x551627]	Ganderu
+[0x551630]	Weaver
+[0x551638]	Mintz
+[0x55163f]	Eldena
+[0x551647]	Cheney
+[0x55164f]	Pallanza
+[0x551659]	Lini
+[0x55165f]	Quin
+[0x551665]	Pam Le Fay
+[0x55167a]	Delusiah
+[0x55169e]	Don Brass
+[0x5516b1]	Leanan
+[0x5516b9]	Dredd
+[0x5516c0]	Reinhold
+[0x5516ca]	Mike

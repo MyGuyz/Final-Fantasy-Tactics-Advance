@@ -1,0 +1,39 @@
+# ============================================
+# ROM files — NEVER commit these (copyrighted)
+# ============================================
+*.gba
+*.sav
+*.srm
+*.ss0
+*.ss1
+*.ss2
+*.ss3
+*.st0
+*.st1
+
+# Patched / working ROM copies
+*_patched*
+*_thai*
+*.ips
+*.bps
+*.ups
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Scratch / intermediate output
+scratch/
+*.tmp
+*.bin
+font_*.png
+cand_*.png
+lz01_*.png
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini

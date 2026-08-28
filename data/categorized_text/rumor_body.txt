@@ -1,0 +1,1801 @@
+# เนื้อหาข่าวลือ Ivalice + ข้อความภารกิจ (ปนกัน)  (392 รายการไม่ซ้ำ)
+
+[0x4b545e]	Might be better just
+to let them go.
+---
+[0x4b5508]	Now's your chance
+to give up!
+---
+[0x4b554a]	It takes courage
+to admit defeat.
+---
+[0x4b55b7]	Run away if you
+like, kupo.
+---
+[0x4b56be]	We're clean! Here,
+take this chocobo
+skin and leave.
+---
+[0x4b5728]	Trade our antilaw for
+your phoenix down?
+We've got a man down.
+---
+[0x4b57a0]	seems worried.
+Who said the blue
+rose calms the soul?
+---
+[0x4b5870]	Oh, if only I had a
+yummy sweet as cold
+as fallen snow.
+---
+[0x4b58e4]	Step aside! I must
+avenge my family!
+---
+[0x4b5932]	What? I'll get the
+mail where it's
+ssupossed to go!
+---
+[0x4b599c]	Decided to join
+Clan Baham? Your
+clan title'll change!
+---
+[0x4b5afa]	Try not to get
+caught again!
+---
+[0x4b5b38]	See? Just hand
+over the money, and
+there's no problem!
+---
+[0x4b5bac]	What, you're really
+running? Thesse
+guyss are wimps...
+---
+[0x4b5c1c]	A wise decision.
+Feel free to cheer
+us on to victory.
+---
+[0x4b5c84]	Hmph, I suppose
+we'll let you off
+the hook this time.
+---
+[0x4b5cf4]	Phew, kupo! I was
+sure you were going
+to beat us, kupo.
+---
+[0x4b5d60]	Thanks! I'll use
+this to fund my
+research.
+---
+[0x4b5dba]	You found nothing,
+and don't forget--
+no, forget, forget!
+---
+[0x4b5e16]	Here's the skin I
+promised you. Run
+along now.
+---
+[0x4b5e78]	Phew, thanks. With
+law as our enemy, we
+need every man!
+---
+[0x4b5eee]	For me? What a nice
+smell! I feel much
+better now.
+
+Here, this is for
+you. Now let's do
+what we came to do!
+---
+[0x4b5fae]	He heh heh. Thanks
+a bunch, partner.
+---
+[0x4b6060]	What? Give you thiss
+letter? Think again,
+human.
+---
+[0x4b60c6]	OK! From now on,
+Clan
+is part of our clan!
+---
+[0x4b6214]	Hunh? You don't have
+the gil? Sorry then,
+no deal for you!
+---
+[0x4b62a0]	You don't have
+enough gil! Nothing
+is free, buddy.
+---
+[0x4b6312]	You don't seem to
+have one. No matter,
+we'll make do.
+---
+[0x4b63f2]	Oh yeah? Don't think
+I'm going to let you
+just walk out now.
+---
+[0x4b658e]	Let goCapture
+[0x4b65b0]	Pay gilRound up
+[0x4b65da] x4	SurrenderEngage
+[0x4b6672]	DealJust take it
+[0x4b66ee]	TradeDemand antilaw
+[0x4b6720]	Give flowerCancel
+[0x4b6774]	You mean this?No sweets!
+[0x4b67ac]	Step asideStop him
+[0x4b67d8]	ExplainGrab the mail
+[0x4b6808]	Join Clan BahamEngage
+[0x4b6f9c]	Good with bows. Watch
+out for attacks from
+behind.
+---
+[0x4b84d8]	Cancellations Accepted
+[0x4b850d]	No Cancellations
+[0x4b8539]	Mission Begins Immediately
+[0x4b87d0]	Defeat all enemies!
+[0x4b87fc]	Survive a few turns!
+[0x4b882a]	Destroy all targets!
+[0x4b8a02] x2	NO
+[0x4b8a0e]	Back to clan menu?
+YES
+---
+[0x4b8a4c] x2	Clan full.
+This unit cannot join.
+---
+[0x4b8c26]	That went well!
+Let's keep up
+the good work!
+---
+[0x4b8d98]	Well that was
+a total failure.
+---
+[0x4b8de1]	here!
+We got a bonus for
+---
+[0x4b90cf]	here.
+That wass no
+problem.
+---
+[0x4b91e3]	here.
+I losst. I dare you
+to complain.
+---
+[0x4b923b]	here.
+We got a bonus for
+---
+[0x4b9307]	here.
+It was close, but
+I prevailed.
+---
+[0x4b9431]	here.
+My apologies. I
+did not prevail.
+---
+[0x4b9ca7] x2	Swain reporting.
+[0x4b9d5c]	Swain reporting.
+Mission accomplished.
+Returning to clan now.
+---
+[0x4ba0db]	here.
+It was tough, but
+I made it somehow.
+---
+[0x4ba27e]	Urm...I kinda messed
+up big time. Sorry.
+Really, I am!
+---
+[0x4ba35b] x2	back from duty.
+[0x4ba43b]	here. It was a
+success! Heading back
+to the clan now.
+---
+[0x4ba5d1]	here. I'll keep
+my report quick—
+I goofed. Sorry.
+---
+[0x4ba6fb] x2	reporting back.
+[0x4ba7da]	My apologies. I seem
+to have failed
+---
+[0x4ba8e8]	The battle did not go
+well, and I was forced
+to retreat. Sorry.
+---
+[0x4baa04]	Right-o. Hope
+to hang out with
+you again sometime.
+---
+[0x4baa6e]	To tell the truth,
+I never liked you
+much anyway.
+---
+[0x4baad8]	It was an honor to
+be part of Clan
+.
+---
+[0x4bab28]	Figuress. I'll jusst
+go look for another
+clan. Later!
+---
+[0x4bab98]	I sslave and sslave
+and thiss is what I
+get? I quit!
+---
+[0x4babf4]	Thank you for having
+me. I feel that I
+learned much here.
+---
+[0x4bac66]	I was just thinking
+I needed some quiet
+reflection time.
+---
+[0x4bacda]	I see no need to
+remain where I am
+not wanted.
+---
+[0x4bad94]	OK, I understand.
+Hope I can join up
+again later on.
+---
+[0x4bae22]	Thank you sooo
+sooo much, kupo!
+I had lots of fun!
+---
+[0x4bae8c]	Too bad, but I guess
+there's no helping
+it, kupo. So long!
+---
+[0x4baf04]	This clan was the
+pits, kupo. I'm
+glad to leave, kupo!
+---
+[0x4baf72] x3	It's about time I got
+back to my work.
+Later!
+---
+[0x4bb096] x3	This may be goodbye,
+but we will always
+be friends.
+---
+[0x4bb1d4] x3	Are you sure you'll be
+OK without me?
+Call any time!
+---
+[0x4bb302] x3	You know, your clan's
+pretty fun. See ya!
+---
+[0x4bb410] x3	May your way be paved
+with good fortune!
+So long!
+---
+[0x4bb672]	How Laws Came To Be:
+Laws have been a part of
+life in Ivalice for
+hundreds of years.
+The king in those days
+used powerful magic to
+create the first laws.
+
+The king then established
+the judicial system to
+enforce his laws.
+Knowledge of the means
+to control the laws has
+been passed down the
+royal line ever since.
+---
+[0x4bb8ec]	Laws Are Unfair!:
+Resentment towards
+Queen has been
+building these last few
+years.
+
+The reason? Frequent and
+seemingly arbitrary
+changes in the laws.
+It's gone so far that
+some pundits wryly say
+she's "...doing it to please
+thatbrat, the prince."
+---
+[0x4bbaea]	Clashing Clans!:
+Turf wars between the
+clans have never been
+fiercer. This latest
+round was set off by the
+rise of the Borzoi clan,
+but has since spread.
+
+Because a greater sphere
+of influence means cheap
+items and special deals
+at pubs, every clan
+wants a piece of the
+action.
+
+The wars are expected
+to continue for the
+foreseeable future.
+---
+[0x4bbd9e]	The Cause Of The Craze:
+Reports of crazy monsters
+have been increasing all
+over Ivalice. While the
+cause is unknown, experts
+believe it has something
+to do with the crystals.
+
+The crystals--pure magic
+in a solid form--are
+supposed to be somewhere
+in this kingdom. Rumors
+say the palace made the
+crystals--rumors the
+palace firmly denies.
+---
+[0x4bc05c]	What Are The Crystals?:
+Bervenia Palace, silent
+on the matter up until
+now, has radically
+reversed its policy
+concerning the crystals.
+
+According to information
+just released, crystals
+exist in special folds
+in space, called "seams."
+
+The report goes on to
+state that "as the
+crystal's magic is
+beneficial to all
+Ivalice, special means
+are being employed to
+protect them."
+---
+[0x4bc34e]	Laws Get Tougher:
+By the order of Queen
+, laws are getting
+tougher once again.
+Protest movements have
+already started in some
+clans.
+
+The reason given for this
+latest strengthening of
+the laws is "to maintain
+public order." This is
+likely a reaction to
+the recent surge in
+clan warring.
+---
+[0x4bc596]	's Secret Shop:
+The famed Berbier
+has apparently opened
+a secret shop in the
+town of Cadoan. The new
+shop reportedly caters
+to law card traders.
+---
+[0x4bc6ec]	Jagds— The Bitter Truth:
+The law is absolute in
+Ivalice, but there are
+some areas it cannot
+reach— the jagds, lawless
+slums where no judge
+will ever go.
+
+While this may sound
+appealing to some, even
+hardened class-A criminals
+avoid the jagds, for
+without judges and laws,
+there is nothing to
+prevent true death.
+---
+[0x4bc964]	Trading Boom:
+One-man trade merchants
+using small airships
+to do their business
+are on the rise.
+
+Many of the merchants
+sell rare items, and
+the number of shops
+selling traded goods
+is growing daily.
+---
+[0x4bcafc]	Wanted!:
+Bervenia Palace has put
+a fat bounty on someone's
+head--but who? All the
+palace can say is the
+fugitive is "a human
+member of some clan."
+---
+[0x4bcc2a]	A New Clock From Belta:
+Belta Co., renown for
+their exacting and
+professional work, has
+announced a new product—
+the "Golden Sandclock."
+
+Belta timepieces are
+widely praised by judges
+for their accuracy.
+---
+[0x4bcdca]	Palace Gets Serious:
+A search of all the clans
+has begun by orders of
+Her Majesty the queen,
+led by none other than
+Judgemaster himself.
+
+It appears the palace
+is finally getting
+serious about finding
+that wanted boy.
+---
+[0x4bcf9c]	s Go Independent:
+Yesterday, master
+ announced that the
+judicial system would
+hereafter operate
+independently of the
+palace.
+
+This establishes the
+judicial system as a
+truly neutral entity,
+free from palace politics.
+The decision was made with
+the queen's approval.
+---
+[0x4bd1d2]	Audience Day:
+The day of the yearly
+audience ceremony for
+Queen and Prince
+ is fast approaching.
+
+Also called "Gift Day,"
+this day is an opportunity
+for people to bring gifts
+to the royal mother and
+son. Will somebody find
+that special something
+to satisfy them this year?
+---
+[0x4bd404]	Materite Prices Soaring:
+With Audience Day near,
+prices for materite, a
+prized manufacturing
+material, are rising
+sharply.
+
+The price hike is thought
+to be due to a rise in
+demand as craftsmen and
+machinists work around
+the clock to make the
+ultimate gift for the
+royal mother and son.
+---
+[0x4bd64a]	Queen On Vacation:
+Her majesty Queen ,
+along with Prince
+have decided to take a
+break from the hectic
+administration of Ivalice
+and go on vacation.
+
+There has been no
+announcement of where
+they are headed, nor
+any indication yet
+of when they will return.
+---
+[0x4bd858]	A New Adventure Awaits?:
+The Pubkeepers Association
+recently announced the
+introduction of "expert"
+missions, kept secret up
+until now.
+
+Clans across Ivalice have
+high expectations for the
+new missions.
+---
+[0x4bd9f6]	Clan Borzoi:
+I hear Clan Borzoi's on
+the war path these days,
+challenging other clans,
+fighting for turf. Ach,
+things just aren't the
+way they used to be.
+---
+[0x4bdb34]	Borzoi's Dirty Secret:
+Word on the street's that
+Clan Borzoi's got the
+backing of a foreign
+criminal ring!
+Maybe one with eyes
+on Ivalice itself...
+---
+[0x4bdc64]	Thief Exposed:
+The thief they caught was
+identified as a member of
+Clan Borzoi. I dare say
+they won't be sitting
+around quietly with one
+of their own in prison...
+---
+[0x4bddb2]	Area Freed!:
+The merchants are back in
+town now that Clan Borzoi
+is gone. Prices be coming
+down, and us pubmasters
+can offer info at a
+discount, too!
+---
+[0x4bdee6]	Our Heroes!:
+The members of Clan
+ are
+our heroes!
+Go show those Borzoi
+clanners who's boss!
+---
+[0x4bdfa8]	What's Borzoi Up To?:
+Why is Clan Borzoi
+restricting merchants
+from coming and going?
+You'd think they'd be
+the ones to suffer with
+the shop shelves bare!
+---
+[0x4be0e6]	The End Of Borzoi:
+Clan Borzoi is no more!
+That should put a stop
+to those Borzoi clanners'
+shenanigans, no matter
+where they be. 'Tis a
+proud day for Ivalice!
+---
+[0x4be22e]	On The Lam:
+It seems that , the
+Clan Borzoi Boss, has
+escaped. A man fitting his
+description was seen on
+a small ship leaving for
+barbarous lands.
+---
+[0x4be364]	Foreign Ship Spotted:
+Someone said they saw a
+big old ship from foreign
+lands off the eastern
+coast. I hear the word
+"Redwings" was painted
+on her bow!
+---
+[0x4be49c]	Foreign Criminal Ring?:
+Word on the street's that
+the ship "Redwings" is the
+property of a foreign
+band of criminals! They
+better keep their paws
+off of Ivalice!
+---
+[0x4be5e8]	The Redwings:
+The Redwings are active
+and up to no good in
+Ivalice--and they're using
+Clan Borzoi to do their
+dirty work for them!
+---
+[0x4be6f6]	Monopoly!:
+The Redwings are making a
+move to control all the
+markets in Ivalice.
+I guess Clan Borzoi was
+just laying the ground-
+work for them!
+---
+[0x4be820]	Falgabird:
+I hear the special
+"Falgabird" squad of
+Redwings is out looking
+for Clan ,
+after what they did to
+Clan Borzoi...
+---
+[0x4be922]	The Spiritstone:
+A minstrel I'd not seen
+before was in here the
+other day, and according
+to him the Redwings boss
+has got access to powerful
+magic.
+
+Apparently, the only thing
+that can get past his
+defenses is something
+called the "Spiritstone"--
+a magical stone made by
+alchemy from a sigil.
+---
+[0x4beb74]	The Three Sages:
+The three sages of Ivalice
+have joined forces to
+make the Spiritstone!
+To work this feat of
+alchemy they need the
+sigils, and quick!
+---
+[0x4beca8]	Peace At Last:
+The Redwings have been
+driven from Ivalice
+at last!
+Thank you,
+Clan !
+---
+[0x4bed60]	's Last Stand:
+The Grissom
+is said to have turned
+into a cloud and floated
+up into the heavens upon
+his death. Afterwards,
+heavy rains fell for days.
+---
+[0x4bee9c]	Mysterious Minstrel:
+That minstrel that was
+giving me information
+about the Redwings
+disappeared when things
+quieted down. Haven't
+seen him since.
+---
+[0x4befca]	Foreign Fiends:
+Emergency!
+The Redwings smuggled
+strange fiends from
+foreign lands into the
+country, and now they're
+on the loose!
+---
+[0x4bf0d8]	Heroes Of The People:
+The Redwings are gone
+from Ivalice for good
+this time!
+We owe you our lives,
+Clan !
+---
+[0x4bf1b6]	's Return:
+You heard!?
+Word is that the Borzoi
+Clan Boss, 's come
+back to Ivalice! He's
+holed up in Cyril with
+his monstrous retinue!
+---
+[0x4bf2d0]	The Clan Of The Century:
+Our heroes have once again
+saved the day by defeating
+the monstrous !
+Peace, at last!
+Long live Clan !
+Clan !
+---
+[0x4bf404]	All Areas Freed!:
+All areas have been
+freed, and the clan
+wars have finally
+quieted down. Everyone's
+taken to calling you
+folks the "liberators"!
+---
+[0x4bf530]	Bervenia Tourney's Back:
+The Bervenia Tourney is
+scheduled to be held again
+this year in the palace
+courtyard, and everyone's
+excited to see the best
+in the land compete!
+---
+[0x4bf68e]	Swords And Sorcery:
+Swordsmen and sorcerers
+alike are competing in
+monthly tourneys across
+Ivalice. There's even
+a few "tourney pros" who
+live off their winnings!
+---
+[0x4bf7dc]	Best Clan In The Land?:
+The Clan League will be
+running again this year.
+While the favorites are
+last year's winner, the
+Brown Rabbits, they'll
+have a lot of competition.
+
+--About the Clan League--
+The Clan League is a
+tiered competition to
+determine the best clan
+in the land. Winners are
+chosen by popular vote
+and engagement standings.
+
+League Committee Chair
+ expects a good turnout
+this year. The winners
+last year were the
+Brown Rabbits, led by the
+Viera, .
+---
+[0x4bfb8a]	Snow in Lutia!:
+Snow was reported falling
+in large amounts in Lutia.
+While the parents worry
+about the cause of this
+strange weather, the kids
+are out enjoying the snow.
+---
+[0x4bfce6]	Poaching Problem:
+Recently, the poaching of
+endangered animals by
+some clans is becoming
+a problem.
+
+With the decrease in
+dragoons, both rockbeasts
+and kudik tigers have
+dropped in numbers, and
+even the rabite commonly
+known as the "lucky
+rabbit" is endangered.
+---
+[0x4bfefe]	Ruins Found In Nargai!:
+Ancient ruins have been
+discovered deep within
+Nargai Cave.
+Clan claims
+credit for the find.
+
+The entrance to the
+ruins appears to be a
+statue found within the
+cave. Perhaps other such
+statues can be found
+elsewhere?
+---
+[0x4c00ee]	Unfair s?:
+s are supposed to be
+the justice of the land,
+but rumors have surfaced
+that immunity from the
+law is for sale.
+
+The judges deny the
+claims, but we hear that
+the Watch board has
+agents looking into the
+matter!
+---
+[0x4c02b6]	Blank Cards:
+Apparently, the new laws
+springing up all over the
+place are the result of
+experimental "blank
+cards" hitting the market.
+
+The source of the leak is
+unknown, but it's clear
+that corrupt officials are
+using the cards to make
+laws as they please.
+Are the judges involved?
+Are they to blame!?
+---
+[0x4c051c]	! Abilities !:
+If you want to win when
+you engage, master some
+abilities! Your weapons
+and armor determine which
+abilities you can use,
+so choose carefully.
+
+You'll also need some
+Ability Points AP to
+learn abilities you
+can get those by equipping
+armor and weapons, or by
+clearing missions.
+
+Everybody who goes on
+a mission has a chance
+of getting AP, so be
+sure to take along your
+friends! That's all,
+good luck to you!
+---
+[0x4c0876]	! Ability Types !:
+Action Abilities—
+Standard actions, like
+Black Magic or Monk Tech.
+Reaction Abilities—
+Dodging or striking back
+when attacked.
+
+Support Abilities—
+Enhancement abilities
+such as Double Sword.
+Combo Abilities—
+Abilities triggered when
+an ally uses a "combo."
+---
+[0x4c0abe]	! Job Change !:
+Job changing can come in
+handy. Any soldier can
+cast spells by changing
+jobs to mage. Choose the
+right job to maximize
+your engagement potential.
+
+One thing though, your
+race determines what jobs
+you can be. Only vieras
+can become quick-footed
+fencers, and bangaas are
+tailor-made warriors...
+so make lots of friends!
+---
+[0x4c0d62]	! Expert Jobs !:
+The better you are at one
+job, the more job options
+that become available.
+Expert jobs give access to
+powerful abilities, like
+Double Sword and Jump.
+---
+[0x4c0eb8]	! Morphing !:
+Been to the Monster Bank
+yet? Did you know that
+Morphers can use their
+Morph ability to borrow
+the abilities of any
+monster in the bank?
+
+For example, you can
+borrow a bomb's abilities
+to deal fire damage to
+your enemies.
+
+Use "Capture" to put
+monsters into the bank,
+then equip the "soul"
+they drop to gain their
+Morph ability. Yep,
+monsters can sometimes
+be your best friend.
+---
+[0x4c11d2]	! WinLose Conditions !:
+Thought engaging was all
+about defeating your
+enemy? Think again--there
+are many kinds of win
+condition depending on
+the engagement.
+
+You can check the win
+condition during an
+engagement by selecting
+"Mission" from the main
+command menu. But, there's
+a lose condition as well,
+so be careful!
+
+If
+---
+[0x4c145d]	leaves an
+engagement, whether he's
+sent to prison or even
+zombified and then
+snuffed, you lose!
+---
+[0x4c1522]	! Combos !:
+Ever notice the judge
+gives you a Point
+JP when you defeat
+an enemy? You can use
+those points to cooperate
+on "combo" attacks.
+
+Stock up those
+Points and do some
+real damage! Just make
+sure your allies have
+combo abilities so they
+can pitch in!
+---
+[0x4c173a]	! Prison Exemption !:
+You know there's people
+out there that never get
+a red card when they
+engage? There's a special
+law that turns all their
+red cards yellow!
+
+You can tell one by
+the ribbon they wear...
+the lucky bums.
+---
+[0x4c18fe]	! The Totema !:
+The totema's appearance
+in Ivalice was sudden,
+and their origin unknown.
+Unfathomable, too, is
+their incredible power.
+
+One thing we can say is,
+they seem willing to lend
+that power to us. It is
+possible to summon the
+totema using Points
+JP obtained by defeating
+an enemy in an engagement.
+
+Only members of the race
+that a totema represents
+may summon that totema.
+In other words, you'd get
+further talking to a
+rock than trying to summon
+another race's totema.
+---
+[0x4c1cdc]	! Laws And Penalties !:
+Laws, set by the palace,
+reign in Ivalice. s
+enforce those laws, and
+those who break them are
+penalized--even sent to
+prison in the worst cases.
+
+There are two kinds of
+cards you can get for
+breaking a law. A minor
+infraction gets you a
+yellow card. A major
+infraction will earn you
+a red card.
+
+Whichever penalty card you
+get, it'll go down on
+your record--and the more
+cards on your record,
+the steeper your penalty
+becomes, so watch out!
+---
+[0x4c208a]	! Law Rankings !:
+The judges use a ranking
+system to classify laws.
+The stricter the law, the
+higher its rank. R: laws
+are easy, but an R: law
+is nothing but trouble.
+---
+[0x4c21e8]	! Imprisoned !:
+One of your friends in
+jail? That means they
+can't fight, and that's
+bad. But, if you got the
+gil, you can get them out,
+and that's good!
+
+A "release" gets them out
+of prison, but their
+penalty record stays.
+A "pardon" erases one
+person's past record,
+but you have to go into
+prison in their place!
+---
+[0x4c2478]	! Law Cards !:
+Thanks to , there's
+these cards out on the
+market now that can
+change the laws. Select
+"Law Cards" after engaging
+to see what you have.
+
+If there's a particular
+card you want, try trading
+with . White cards
+add new laws. Black cards,
+or "antilaw cards" nullify
+laws, and the judges can't
+do a darn thing about it!
+---
+[0x4c272a]	! Engage or Negotiate? !:
+Clan competition is fierce
+and engaging is the
+order of the day, but try
+negotiating with the
+friendlier clans to avoid
+needless engagements!
+---
+[0x4c2894]	! Treasure Hunt !:
+Sometimes treasure appears
+when you place a symbol
+on the world map. When
+you see a symbol shaking,
+that's where the treasure
+is, so go get it!
+---
+[0x4c29f4]	! Mission Requests !:
+You can advance your clan
+by accepting mission
+requests at the pub.
+You can use the gil and
+items you earn on missions
+to equip your clan!
+---
+[0x4c2b50]	! Mission Items !:
+So, you got yourself a
+mission item, eh? You
+can't equip those, but
+you can bring them along
+on your missions.
+
+Mission items are good
+for boosting an ally's
+capabilities--and some
+missions require certain
+items, so get as many
+as you can.
+---
+[0x4c2d70]	! Clan Level !:
+Take a look at your clan
+level to see how well your
+clanwork's going. You also
+have a skill level that
+goes up when you complete
+a mission.
+
+You need skill levels to
+take on new missions.
+The higher your skill and
+clan levels go, the better
+your clan title gets, and
+that means more items
+and cheaper prices!
+---
+[0x4c313a]	! Clans And Their Turf !:
+The area of a clan's
+influence is called
+its "turf"--and some clans
+think that means they can
+exploit whoever lives on
+land under their control.
+
+If you look at the map,
+you'll see that only your
+turf is colored in.
+Take care if you're going
+to try to liberate any
+areas under the control
+of another clan--
+
+if you see a free area go
+red, it means that another
+clan's trying to take it!
+If you don't engage them
+quick and drive them off,
+it's all theirs.
+---
+[0x4c3518]	! Link !:
+Attach a Game Boy
+Advance Game Link
+cable to link with others.
+You can fight together,
+trade items, and even
+trade clan members!
+---
+[0x4c364c]	! Trade Items !:
+You can buy trade items
+just like regular items,
+and some are great deals!
+The more you link, the
+more items can offer,
+so link often, kupo--!
+---
+[0x4c39e8]	Not Yet Freed!
+[0x4c3a1c]	Under Attack!
+[0x4c3ee5] x21	No
+[0x4c3f28]	Accept these conditions?
+Yes
+---
+[0x4c3f70]	Cancel this mission?
+Yes
+---
+[0x4c3fb0]	Currently being used for—
+[0x4c3ff8]	Unit cannot be removed
+from battle.
+---
+[0x4c4104]	Unit released from
+prison!
+---
+[0x4c413e]	Changes are irreversible. OK?
+Yes
+---
+[0x4c41b0]	Link broken.
+Returning to world map.
+---
+[0x4c4293]	joined your
+clan!
+---
+[0x4c42ba]	Unequipped all items.
+[0x4c42ec]	Dismiss unit from clan?
+Yes
+---
+[0x4c4332]	New unit seeks membership
+in the clan!
+---
+[0x4c4386]	Welcome unit to clan?
+Yes
+---
+[0x4c43c8]	Added new clan member!
+[0x4c43fc]	The unit left crying.
+[0x4c4534]	Restore default options?
+Yes
+---
+[0x4c4612]	Write over old save data?
+Yes
+---
+[0x4c465c]	Run away from battle?
+Yes
+---
+[0x4c46d8]	Return to title screen?
+Yes
+---
+[0x4c4770]	Saving erases previously
+saved game.
+
+OK?
+Yes
+---
+[0x4c47dc]	Loading erases previously
+saved game.
+
+OK?
+Yes
+---
+[0x4c48a2]	Press SELECT to display
+the list of jobs.
+---
+[0x4c4928]	Back to clan menu?
+Yes
+---
+[0x4c49ae]	Erase all save data?
+Yes
+---
+[0x4c4a22]	All data have been erased.
+[0x4c4b26]	Waiting for response
+from Clan .
+---
+[0x4c4d2e]	Added the nu mou battle
+command— "Totema."
+---
+[0x4c4de2]	Added the viera battle
+command— "Totema."
+---
+[0x4c5326]	Leave battle and forfeit
+the mission.
+---
+[0x4c54f4]	Stay put. Unit's next turn
+will come more quickly.
+---
+[0x4c5560]	Check unit status.
+[0x4c558c]	Fight with bare hands or
+a weapon, if equipped.
+---
+[0x4c55f2]	Throw a snowball.
+No rocks, please.
+---
+[0x4c5640]	Summon unit's racial
+totema. Uses all JP.
+---
+[0x4c5896]	Move cursor to the
+selected area.
+---
+[0x4c5938]	Save the current game.
+[0x4c5b30] x3	Return to the world map.
+[0x4c5c96]	Purchase items from
+the shop.
+---
+[0x4c5cd8]	Sell carried items.
+[0x4c609e]	Change equipped armor,
+weapons, etc.
+---
+[0x4c6218]	Carry out selected action.
+[0x4c6254]	Cancel selected action.
+[0x4c628a]	Confirm selection.
+[0x4c634c]	Display list of cleared
+missions.
+---
+[0x4c6396]	Display clan's
+turf within Ivalice.
+---
+[0x4c663c]	Team up with a friend's
+clan on a mission.
+---
+[0x4c6698]	Trade items and law cards
+with a friend.
+---
+[0x4c66f0]	Trade clan members
+with a friend.
+---
+[0x4c677c]	Offer weapons and armor
+up for trade.
+---
+[0x4c67ce]	Offer mission items
+up for trade.
+---
+[0x4c6818]	Offer law cards
+up for trade.
+---
+[0x4c7390]	Icy cold breath.
+Deals damage.
+---
+[0x4c769a]	Sweeps out to afflict
+doom with horrid speed.
+---
+[0x4c76fc]	Damages and knocks
+back target.
+---
+[0x4c7742]	Steals enemy's
+A-ability for your use.
+---
+[0x4c7796]	Charge attack born from
+ultima magic.
+---
+[0x4c77e8]	Assassin attack born from
+ultima magic.
+---
+[0x4c783e]	Hunting attack born from
+ultima magic.
+---
+[0x4c7892]	Mageblade attack born
+from ultima magic.
+---
+[0x4c78ea]	Powerful sage attack
+born from ultima magic.
+---
+[0x4c7a08]	Shoots bullet of
+crystallized fire.
+---
+[0x4c7b56]	Controls blade biters
+and toughskins.
+---
+[0x4c7c6a]	Envelops target in a
+damaging sphere of water.
+---
+[0x4c7cce]	This attack carries a
+powerful, deadly curse.
+---
+[0x4c7dec]	Creates damaging whirl-
+wind in front of you.
+---
+[0x4c7e4e]	Creates damaging
+whorl of wind.
+---
+[0x4c8082]	Disinfects wounds to heal
+HP and remedy status.
+---
+[0x4c8146]	Causes feverish chills
+to slow target.
+---
+[0x4c819a]	Reduces the speed
+of nearby units.
+---
+[0x4c81e6]	Use item— "maiden kiss"
+Cures frogshape.
+---
+[0x4c830c]	Summons fairy Carbuncle
+to cast "reflect."
+---
+[0x4c84d8]	Addles monster. Temporary
+loss of A and R-abilities
+---
+[0x4c86d4]	Fire jutsu. Damages
+and confuses target.
+---
+[0x4c88ce]	Shoots bullet of
+crystallized ice.
+---
+[0x4c8cac]	Metal jutsu. Damages
+and inflicts darkness.
+---
+[0x4c8d96]	Use item— "soft"
+Cures petrification.
+---
+[0x4c9028]	Steals judge points
+from enemy.
+---
+[0x4c95c6]	Damages and silences
+target.
+---
+[0x4c9606]	Uses the power of stars
+to damage all enemies.
+---
+[0x4c9774]	Electrically charged
+cloud. Deals damage.
+---
+[0x4c97ce]	Most powerful lightning
+spell. Shoots many bolts.
+---
+[0x4c9838]	Powerful lightning spell.
+Shoots a giant bolt.
+---
+[0x4c9c9a]	Absorbs MP used to cast
+a spell against you.
+---
+[0x4c9ea0]	Water jutsu. Damages
+and silences target.
+---
+[0x4ca168]	Flurry of attacks. Good
+hit rate, light damage.
+---
+[0x4ca1ce]	Drops damaging water ball
+to slow target.
+---
+[0x4ca3aa]	Focuses mind to increase
+attack hit rate.
+---
+[0x4ca404]	Use item— "holy water"
+Cures zombification.
+---
+[0x4ca462]	Blessed aura. Deals
+area holy damage.
+---
+[0x4ca4b4]	Turn transparent until
+you next take action.
+---
+[0x4caa9c]	Choking attack.
+Target loses next turn.
+---
+[0x4caaf2]	Damages and charms
+target.
+---
+[0x4cac36]	Attack so powerful it
+can rend the very earth.
+---
+[0x4cb116]	Summons random creature
+from the spirit world.
+---
+[0x4cb76a]	Carefully aimed shot. Good
+hit rate, low damage.
+---
+[0x4cc032]	Generates damaging
+ball of flame.
+---
+[0x4cc114]	Incendiary breath.
+Deals damage.
+---
+[0x4cc15c]	Most powerful fire spell.
+Deals incredible damage.
+---
+[0x4cc1c8]	Powerful fire spell.
+Deals great damage.
+---
+[0x4cc49a]	Buries zombified units
+immediately.
+---
+[0x4cc5e6]	Damages and inflicts
+darkness.
+---
+[0x4cc73e]	Most powerful blizzard
+spell.
+---
+[0x4cc782]	Creates chunk of
+ice to deal damage.
+---
+[0x4cc7d2]	Icy blade.
+Deals damage.
+---
+[0x4cc80a]	Powerful blizzard spell.
+Fires larger chunk of ice.
+---
+[0x4cc906]	Controls ice flans,
+jellies, and creams.
+---
+[0x4cc95e]	Strikes target's will
+directly, damaging MP.
+---
+[0x4cc9be]	Sudden temperature spike.
+Deals damage.
+---
+[0x4ccc34]	Meddle with time's flow
+to increase speed.
+---
+[0x4cce7c]	Throw stocked item
+to deal damage.
+---
+[0x4ccf88]	Attack with a pure heart.
+Deals holy damage.
+---
+[0x4ccfe8]	Smacks head with ball
+to confuse target.
+---
+[0x4cd040]	Controls bombs and
+grenades.
+---
+[0x4cd0e6]	Soothing fairy fire.
+Heals HP.
+---
+[0x4cd1e8]	Reduces target's
+magic power.
+---
+[0x4cd22a]	Mystical hammer.
+Deals damage to MP.
+---
+[0x4cd27a] x2	Deals damage to MP.
+[0x4cd2a8]	Catnip!
+Drives target berserk.
+---
+[0x4cd3a4]	Switches target's
+HP and MP.
+---
+[0x4cd3e4]	Counters magic attack
+with the same spell.
+---
+[0x4cd676]	Absorbs HP from target.
+[0x4cdcec]	Deals damage equal to
+amount of HP lost.
+---
+[0x4cde00]	Summons Ramuh to deal
+lightning damage.
+---
+[0x4cde56]	Shoots bullet of
+crystallized lightning.
+---
+[0x4cdeae]	Self-KO. Deals area
+damage equal to own HP.
+---
+[0x4ce066]	Persuades dragon to leave
+the field of battle.
+---
+[0x4ce0ca]	Auto-raises unit damaged
+by weapon.
+---
+[0x4ce1ba]	Revives KO'd unit.
+Deals damage to zombies.
+---
+[0x4ce488]	Cast two spells in
+quick succession.
+---
+[0x4ce596]	Throws hoop to stop
+target.
+---
+[0x4ce698]	Secret alchemy. Puts
+all enemies to sleep.
+---
+[0x4ce750]	Calls forth decay to
+damage and poison target.
+---
+[0x4ce9e6]	The fatherspell of Omega
+and Ultima.
+
+Deals incredible damage.
+---
+[0x4cea6a]	Summmons random totema.
+[0x4cee12]	Morph into goblins
+and red caps.
+---
+[0x4cf07a]	Morph into floateyes
+and ahrimans.
+---
+[0x4cf212]	Nullifies a yellow
+card from record.
+---
+[0x4cf262]	Slash to damage and
+steal JP.
+---
+[0x4cf2a4]	Gives target a
+yellow card.
+---
+[0x4cf2e2]	Deadly whirl to
+deal damage around.
+---
+[0x4cf612]	Paladin command. Defend
+allies with your sword.
+---
+[0x4cf678]	Bishop command. Sway the
+battle with prayers.
+---
+[0x4cf6da]	Lamia command. Confuse
+enemy with beautiful song.
+---
+[0x4cfa70]	Gunner command. Use
+special bullets to fight.
+---
+[0x4cfd9a]	White monk command. Use
+own body as a weapon.
+---
+[0x4d0120]	Jelly command. Attack with
+superheated body.
+---
+[0x4d023e]	Archer command. Shoot a
+well-aimed arrow.
+---
+[0x4d0596]	Runeseeker command. Use
+all forms of magic.
+---
+[0x4d05f4]	Hermetic command. Use
+extremely potent alchemy.
+---
+[0x4d07da]	Totema command.
+Drive off all intruders.
+---
+[0x4d0834]	Totema command. Use all
+the world's magic.
+---
+[0x4d0890]	Red cap command. Deliver
+an all-out punch.
+---
+[0x4d08ec]	Ice flan command. Attack
+with frozen body.
+---
+[0x4d0948]	Cream command. Attack with
+electrically charged body.
+---
+[0x4d0b86]	Blade biter command. Crush
+weapons in powerful jaws.
+---
+[0x4d0ea7]	command.
+Sentence given to criminals.
+---
+[0x4d13fe]	Refreshing wood filled
+with ambient pure magic.
+---
+[0x4d1464]	Largest river in Ivalice.
+Winds through swamplands.
+---
+[0x4d1538]	Volcano asleep for
+years. Recently active.
+---
+[0x4d1960]	Deep valley. A source of
+amber, like Deti Plains.
+---
+[0x4d1d6c]	Failproof combo ability
+for paladins.
+---
+[0x4d1dbe]	Ranged combo ability
+for bishops.
+---
+[0x4d1e0a]	Ranged combo ability
+for black mages.
+---
+[0x4d1e5c]	Well-balanced combo
+ability for sages.
+---
+[0x4d1eb0]	Failproof combo ability
+for templars.
+---
+[0x4d1f02]	Failproof combo ability
+for thieves.
+---
+[0x4d20f8]	Ranged combo ability
+for white mages.
+---
+[0x4d214a]	Well-balanced combo
+ability for elementalists.
+---
+[0x4d21ae]	Failproof combo ability
+for soldiers warriors.
+---
+[0x4d2216]	Ranged combo ability
+for snipers.
+---
+[0x4d2260]	Ranged combo ability
+for illusionists.
+---
+[0x4d23be]	Ranged combo ability
+for time mages.
+---
+[0x4d240e]	Failproof combo ability
+for fencers.
+---
+[0x4d245e]	Failproof combo ability
+for morphers.
+---
+[0x4d24b0]	Failproof combo ability
+for ninjas.
+---
+[0x4d24fe]	Long-range combo ability
+for gadgeteers.
+---
+[0x4d2556]	Long-range combo ability
+for archers.
+---
+[0x4d25a8]	Failproof combo ability
+for gladiators.
+---
+[0x4d270e]	Well-balanced combo
+ability for alchemists.
+---
+[0x4d560a]	Thrusting sword with a
+beautiful lace-like guard.
+
+Rapier-hand
+---
+[0x4d579c]	This sword was once used
+to hunt down rogue mages.
+
+Rapier-hand
+---
+[0x4dbe02]	Shirt woven of
+adamantite alloy.
+
+Clothing
+---
+[0x4de616]	BLK:Wields fire, ice,
+and lightning magic.
+---
+[0x4dec12]	Not the sprite of tales.
+A dangerous beastie.
+---
+[0x4dedee]	Powerful sprite. Wields
+holy magic.
+---
+[0x4df0fe]	Purple, hooded monster.
+Carries a lantern.
+---
+[0x4df5d2]	Giant scaly monster.
+Breathes clouds of ice.
+---
+[0x4df982]	ARC:Archers are essential
+for long-range combat.
+---
+[0x4df9ec]	Lamias lure prey with
+sweet songs...watch out!
+---
+[0x4dff00]	Head judge in Ivalice,
+and a strong fighter.
+---
+[0x4dffb9]	's nickname
+since he changed schools.
+---
+[0x4e02af]	in battle gear.
+Wields a white sickle.
+---
+[0x4e0302]	A totema's alternate
+form.
+---
+[0x4e0928]	One of the greatest
+smiths in Ivalice.
+---
+[0x4e0a3a]	Spirit of a person lost
+in the snows.
+---
+[0x4e0a8c]	Ancient, ever-watchful
+guardians of the ruins.
+---
+[0x4e0cdc]	Lost race that feeds on
+adamantite.
+---
+[0x4e0dd8]	Kith of the dark.
+Heartless beings.
+---
+[0x4e2d72] x2	R: Penalty for
+causing status ailment.
+---
+[0x4e7323]	point bonus for
+a successful—
+
+Bowgreatbowgun hit.
+---
+[0x4e831d]	point bonus for
+a staff hit.
+---
+[0x4e8361]	point bonus for
+a rod hit.
+---
+[0x4e83a1]	point bonus for
+a knife hit.
+---
+[0x4e83e5]	point bonus for
+an instrument hit.
+---
+[0x4e8435]	point bonus for
+a rapier hit.
+---
+[0x4e847b]	point bonus for
+a spear hit.
+---
+[0x4e84bf]	point bonus for
+a saber hit.
+---
+[0x4e8503]	point bonus for
+a greatsword hit.
+---
+[0x4e8551]	point bonus for
+a mace hit.
+---
+[0x4e8593]	point bonus for
+a broadsword hit.
+---
+[0x4e85e1]	point bonus for
+a knightsword hit.
+---
+[0x4e8631]	point bonus for
+a soul hit.
+---
+[0x4e8673]	point bonus for
+a knuckles hit.
+---
+[0x4e86bd]	point bonus for
+a swords hit.
+---
+[0x4e880d]	point bonus for
+frogshaping.
+---
+[0x4e8851]	point bonus for
+petrifying.
+---
+[0x4e8893]	point bonus for
+immobilizingdisabling.
+---
+[0x4e88ed]	point bonus for
+driving berserk.
+---
+[0x4e8939]	point bonus for
+charming.
+---
+[0x4e8977]	point bonus for
+addling.
+---
+[0x4e89b3]	point bonus for
+confusing.
+---
+[0x4e89f3] x2	point bonus for
+slowing a unit.
+---
+[0x4e8a3d]	point bonus for
+stopping a unit.
+---
+[0x4e8ac7] x2	point bonus for
+silencing.
+---
+[0x4e909a]	Choose one of three
+cursor movement speeds.
+---
+[0x4e931e]	Reset all options to
+the default.
+---
+[0x4eea3a]	Very old sword.
+Buy to inspect closer.
+---
+[0x4eea8e]	Large, two-handed sword.
+Buy to inspect closer.
+---
+[0x4eeaf4]	Heavy, two-handed sword.
+Buy to inspect closer.
+---
+[0x4eeb5a]	Pocket-sized blade.
+Buy to inspect closer.
+---
+[0x4eebb6]	Ornamental sword.
+Buy to inspect closer.
+---
+[0x4eed8c]	Ornamental bow.
+Buy to inspect closer.
+---
+[0x4eede0]	Hard-to-pull bow.
+Buy to inspect closer.
+---
+[0x4eef3c]	Beautiful sphere.
+Buy to inspect closer.
+---
+[0x4eef94]	Rusty, unfamiliar gun.
+Clean before using.
+---
+[0x4ef286]	Old, worn armlets.
+Buy to inspect closer.
+---

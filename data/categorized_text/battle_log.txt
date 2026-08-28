@@ -1,0 +1,753 @@
+# ข้อความระบบการต่อสู้ + คำอธิบายเอฟเฟกต์  (298 รายการไม่ซ้ำ)
+
+[0x49783d]	JP received!
+[0x4978d3]	gil spilled out!
+[0x49791a]	The laws have changed!
+[0x49794c]	HP MP have switched!
+[0x49799d]	was zombified!
+[0x497ac3]	can speak now!
+[0x497b2f]	can act again!
+[0x497b6e]	Nothing detected!
+[0x497b96]	Nothing stolen!
+[0x497c13]	finally woke up!
+[0x497d40]	Throw a stocked item!
+[0x497d70]	Toss a stocked item!
+[0x497d9e]	st doublecast spell!
+[0x497e18]	Change equipped items!
+[0x497e4a]	WorldWarp! You can attack!
+[0x497e84]	WorldWarp! No attacking!
+[0x497ebf]	received JP!
+[0x497f0a]	Yellow card!
+[0x497f28] x3	Holy aura heals HP!
+[0x497fac] x2	Cure status ailments!
+[0x497ff6] x2	Completely revive KO!
+[0x498026]	Auto KO revive!
+[0x49804a]	Raise magic resistance!
+[0x49807e]	Raise weapon defense!
+[0x4980ae] x4	Dispel magic!
+[0x4980ce] x5	Holy damage!
+[0x4980ec] x5	Raise defense resistance!
+[0x498156] x2	Water damage!
+[0x498176] x3	Wind damage!
+[0x4981ec] x12	Heavy damage!
+[0x498252] x10	Fire damage!
+[0x4982ac] x8	Lightning damage!
+[0x4983a6] x2	Take turn now!
+[0x4983c8]	Slow down time!
+[0x4983ec]	Magic reflect status!
+[0x49854e]	Damage all enemies!
+[0x49859a] x2	Earth damage!
+[0x4985d8]	Fire damage disable!
+[0x49860a]	Earth energy cures HP!
+[0x49863c]	White flame cures HP!
+[0x49869a]	Dark damage confusion!
+[0x4986d0]	Earth damage immobilize!
+[0x498738]	Shift elemental resistance!
+[0x498774] x2	Nullify status ailment once!
+[0x4987cc] x3	KO with dark power!
+[0x498896] x6	Cure status heal HP!
+[0x49894a]	Enable magic reflection!
+[0x498a00]	Weaken weapon attacks!
+[0x498a32]	Weaken magic power!
+[0x498a78] x2	Reduce speed!
+[0x498ada] x2	Find concealed items!
+[0x498b0a]	Self-damaging attack!
+[0x498b3a] x3	Damage nullify R-ability!
+[0x498bd0]	Shield target!
+[0x498c0a]	Reduced damage!
+[0x498c2e] x3	Remove from combat!
+[0x498ce6] x2	Knock back nearby units!
+[0x498d1c]	Hibernate cure status!
+[0x498d52]	Area damage! but no evade
+[0x498d8e]	Auto KO revive HP heal!
+[0x498dc6]	Completely nullify damage!
+[0x498e00]	Area damage! use all HP
+[0x498e38] x4	Damage surrounding units!
+[0x498edc] x2	Bury zombie!
+[0x498f2e] x2	Area damage!
+[0x498f6a]	Self-damaging fire attack!
+[0x49902a] x2	Aimed attack!
+[0x4990cc]	Reduce nearby units' speed!
+[0x499108] x2	Improve weapon attacks!
+[0x499156]	Deal own HP loss in damage!
+[0x49924c]	Heavy damage to dragons!
+[0x4994e4]	Attack with thrown item!
+[0x499548]	Fire damage confuse!
+[0x4995cc]	Water damage silence!
+[0x499600]	Nullify magic effect!
+[0x49970e]	Steal armor!
+[0x49972c]	Steal shield!
+[0x49974c]	Steal accessory!
+[0x499772]	Steal helmet!
+[0x499792]	Steal weapon!
+[0x4997fe]	Steal ability!
+[0x4998b6]	Never-miss damage!
+[0x499978]	Improve critical!
+[0x4999a0] x2	Random status ailment!
+[0x4999d2]	Extra JP bonus attack!
+[0x499a56]	Capture weakened monster!
+[0x499a8e]	Control goblinkind!
+[0x499aba]	Control flankind!
+[0x499ae2]	Control bombkind!
+[0x499b0a]	Control dragonkind!
+[0x499b36]	Control lamiakind!
+[0x499b60]	Control bugkind!
+[0x499b86]	Control tonberrykind!
+[0x499bb6]	Control pantherkind!
+[0x499be4]	Control malborokind!
+[0x499c12]	Control ahrimankind!
+[0x499c40]	Control undead!
+[0x499c64]	Control fairykind!
+[0x499c8e]	Control rockbeastkind!
+[0x499cc0]	Goblin morph!
+[0x499d18]	Dragon morph!
+[0x499d38]	Lamia morph!
+[0x499d70]	Panther morph!
+[0x499d92]	Malboro morph!
+[0x499db4]	Ahriman morph!
+[0x499dd6]	Attack with hurled item!
+[0x499eae]	Thrown gil attack!
+[0x499f1e]	Invisibility!
+[0x499f68]	Consecutive damage!
+[0x499f94]	Destroy armor!
+[0x499fb6]	Destroy weapon!
+[0x499fda]	Lighten wallet!
+[0x49a04c]	Completely heal HP!
+[0x49a0b8]	Summon aid at random!
+[0x49a224]	Speed time at random!
+[0x49a254]	Dispel magic at random!
+[0x49a288]	Poison at random!
+[0x49a2b0]	Blind at random!
+[0x49a2d6]	Heal HP at random!
+[0x49a300]	Doom at random!
+[0x49a324]	Sleep at random!
+[0x49a34a]	Raise def res at random!
+[0x49a3e2]	Heal HP restore MP!
+[0x49a42c]	Cure silence!
+[0x49a44c]	Cure frogshape!
+[0x49a470]	Cure petrify!
+[0x49a490]	Cure zombie!
+[0x49a4ae]	Cure poison!
+[0x49a4e8]	Cure immobilize disable!
+[0x49a552]	Change equipment!
+[0x49a57a]	Random damage!
+[0x49a632]	Heavy area damage!
+[0x49a67a]	Ice area damage!
+[0x49a6dc] x2	Lower defense resistance!
+[0x49a718]	Raise all weapon magic!
+[0x49a78a]	Damage and delay turn!
+[0x49a844]	Earth damage blind!
+[0x49a930]	Destroy weapon or damage!
+[0x49a992]	Karmic damage!
+[0x49a9fa]	Hinder time!
+[0x49aa42]	Status ailment!
+[0x49aab8]	KO random target!
+[0x49ab06]	Weaken attacks magic!
+[0x49ab52]	Heavy dark damage!
+[0x49aba2]	Zombify with dark power!
+[0x49ac34]	Heavy holy damage!
+[0x49ac5e]	Summon Addramalech!
+[0x49aca2]	Summon Ultima!
+[0x49acc4]	Summon Exodus!
+[0x49acfe]	Heavy fire damage!
+[0x49ae44]	Change the law at random!
+[0x49ae9c]	Incredible damage!
+[0x49aec6]	Summon random totema!
+[0x49af16]	Damage reduce speed!
+[0x49afb6]	Slow down nearby units!
+[0x49b047]	left battle!
+[0x49b0c6]	Immobilize disable!
+[0x49b0f6]	Give own JP!
+[0x49b114]	Nullify a yellow card!
+[0x49b146]	Yellow-card a foe!
+[0x49b170]	All-direction damage!
+[0x49b1a0]	Random law change!
+[0x49b366]	Greetings!
+How may I help
+you today?
+---
+[0x49b3b6]	You don't seem to
+have enough gil.
+---
+[0x49b48b] x5	CANCEL
+[0x49b4a0]	You don't seem
+to have anything
+for sale.
+---
+[0x49b4fa]	You can't sell items
+that are equipped.
+---
+[0x49b550]	Thank you for
+your patronage!
+---
+[0x49b592]	Sorry, no trade
+goods right now.
+---
+[0x49b602]	Greetings!
+We've got some
+new items in stock.
+---
+[0x49b6d0]	Oh, a cusstomer.
+What do you want?
+---
+[0x49b71c]	You've not enough
+gil for that!
+---
+[0x49b7ea]	You don't sseem
+to have anything
+for ssale...
+---
+[0x49b84a]	You can't ssell
+itemss that are
+equipped, sson.
+---
+[0x49b8c6]	All out today,
+come back later.
+---
+[0x49b928]	Greetingss!
+We've got ssome new
+thingss in sstock.
+---
+[0x49b9e8]	Welcome to our
+establishment.
+---
+[0x49ba28]	A thousand pardons,
+but you haven't
+enough gil for that.
+---
+[0x49bb30]	You do not seem to
+have anything for
+sale.
+---
+[0x49bb8c]	You cannot sell any
+items that are
+equipped, friend.
+---
+[0x49bc1a]	I am truly sorry, but
+we are out of trade
+items for the day.
+---
+[0x49bc8c]	Thank you for your
+patronage. Please,
+favor us again.
+---
+[0x49bcf8]	Welcome.
+We have some new
+items in stock.
+---
+[0x49bdf0]	Oh, I'm sorry,
+but you don't
+have enough gil!
+---
+[0x49bef6]	I'm sorry, but I
+can't buy something
+you don't have!
+---
+[0x49bf5c]	Hmm. You'll have to
+unequip items before
+you try to sell them.
+---
+[0x49bff2]	I'm sorry, but we're
+out right now. Come
+back another time!
+---
+[0x49c06c]	Thank you for
+stopping in!
+Come again soon!
+---
+[0x49c0c8]	You're timing is
+perfect! Take a look
+at our new items.
+---
+[0x49c248]	You can't carry any
+more of those, kupo!
+Too heavy, kupo!
+---
+[0x49c30f]	But you don't have
+anything to sell,
+kupo!
+---
+[0x49c368]	You'll have to un-
+equip those items
+to sell them, kupo!
+---
+[0x49c494]	Welcome, kupo!
+We've just got
+some new items, kupo!
+---
+[0x49c588]	Just got some new
+trade items in, kupo!
+Take a look, kupo!
+---
+[0x49c5f8]	I just got some new
+trade items in,
+! Kupo!
+
+Trading's hard, kupo.
+I have to go to other
+lands to get stuff.
+---
+[0x49c6d4]	Sit down, take
+a load off.
+---
+[0x49c710]	Heard the latest
+rumors?
+---
+[0x49c748]	Hasn't been many
+good rumors, lately.
+---
+[0x49c79a]	No missions on
+the board right
+now, sorry.
+---
+[0x49c7f6]	What mission
+will you take?
+---
+[0x49c834]	These are the
+missions you've
+accepted.
+---
+[0x49c88a]	Sorry, you haven't
+got any missions.
+---
+[0x49c8da]	Hold on, you don't
+have a member to
+dispatch!
+---
+[0x49c93c]	This mission will
+run you .
+Come back later.
+---
+[0x49c99c]	This mission requires
+the following—
+.
+
+Better come back
+later.
+---
+[0x49cbf6]	Choose what to bring
+on
+---
+[0x49cc84]	I've put you down
+for the mission.
+Good luck!
+---
+[0x49cce4]	Looks like you don't
+have any mission
+items to bring.
+---
+[0x49cd56]	I canceled that
+mission for you.
+---
+[0x49cdc4]	Good luck on
+your mission!
+---
+[0x49ce00]	You're all set
+for mission items.
+---
+[0x49ce78]	Make sure you're cool
+with the mission
+before signing up.
+---
+[0x49cee8]	This mission requires
+the following—
+
+Looks like you've
+got neither! Bring
+them in next time.
+---
+[0x49cf9c]	OK, .
+You got any mission
+items?
+
+Those are items you
+need for certain
+missions.
+
+You can get them by
+completing missions.
+
+Looks like you don't
+have any yet, so
+just hit "OK."
+---
+[0x49d0ac]	This one doesn't
+require items.
+Just hit "OK."
+---
+[0x49d10e]	Welcome to prison,
+where "law is master
+ justice is served."
+---
+[0x49d188]	Hmph. Doesn't look
+like anyone you know
+is in here.
+---
+[0x49d1f6]	Who is it you'd
+like to see?
+---
+[0x49d234]	Sorry, can't release
+that one. They're in
+here for a pardon.
+---
+[0x49d31c]	Sorry, no can do.
+You don't have enough
+gil. Go home.
+---
+[0x49d38c]	The release papers
+are signed.
+Prisoner freed.
+---
+[0x49d3ea]	No one seems to need
+a pardon. Keep up
+the good work.
+---
+[0x49d458]	Who would you like
+to have pardoned?
+---
+[0x49d4a8]	Sorry, that's not
+enough gil to
+secure a pardon.
+---
+[0x49d50e]	You're willing to
+imprison this person
+
+to get a pardon?
+
+YesNo
+---
+[0x49d592]	We'll hold on to this
+one for you, then.
+Stay out of trouble.
+---
+[0x49d60a]	Farewell. May the
+light of righteous-
+ness be your guide.
+---
+[0x49d684]	Not proceeding?
+Very well.
+---
+[0x49d6be]	While the clan boss
+is securing a pardon,
+all clan work stops.
+
+Are you sure you want
+to go in, ?
+YesNo
+---
+[0x49d780]	Come on in,
+[0x49d7c6]	The pardon was
+granted. You're
+free to go.
+---
+[0x49d820]	Ah, . One
+of your clanners is
+cleared to leave.
+---
+[0x49d893]	.
+Looks like you're in
+need of my help!
+---
+[0x49d8e6]	Laws are no fun at
+all. Get all the
+cards you can!
+---
+[0x49d94a]	These are all the
+cards I have right
+now. Any you want?
+---
+[0x49d9bc]	Sorry, all out of
+cards. I'll have more
+next time, promise.
+---
+[0x49da32]	Sorry, ,
+but to trade, you
+need to have cards.
+---
+[0x49da94]	That looks like a
+trade to me.
+
+How about it?
+
+YesNo
+---
+[0x49db08]	All right! Hope you
+get the most out of
+your cards.
+---
+[0x49db6e]	You come back anytime
+if you need help,
+.
+---
+[0x49dbcc]	No trade then?
+OK, no problem.
+---
+[0x49dc0e]	With so few fighters
+around, combat cards
+are going cheap!
+---
+[0x49dc82]	With the magic judge
+on vacation, magic
+cards are cheap!
+---
+[0x49dcec]	Low prices on copycat
+cards to commemorate
+national mime day!
+---
+[0x49dd66]	Combo cards cheap
+while the combo laws
+are being revised!
+---
+[0x49ddd4]	Heal cards cheap for
+all you white mages
+out there!
+---
+[0x49de3e]	A weapon collector
+just sold his stock.
+Weapon cards cheap!
+---
+[0x49deaa]	Status cards cheap
+now that malboro
+season's ending.
+---
+[0x49df16]	The palace is pushing
+for racial equality.
+Cheap Dmg cards!
+---
+[0x49df90]	I've perfected my
+technique! Discounts
+on rare cards!
+---
+[0x49e002]	The combat guild is
+driving up prices on
+combat cards, sorry.
+---
+[0x49e07a]	With finals coming up
+at Cadoan Academy,
+magic cards are hot.
+---
+[0x49e106]	The "Neighbors" are
+driving up target
+area card prices.
+---
+[0x49e178]	The judges have a new
+system for figuring
+damage--watch out!
+---
+[0x49e1f6]	Stricter weapon laws
+mean higher prices
+on weapon cards.
+---
+[0x49e254]	Status cards are up.
+Someone "slowed" the
+prince's horse.
+---
+[0x49e2ca]	Love and peace are
+rampant. Now dmg
+card prices are up.
+---
+[0x49e33b]	crackdown!
+Rare cards'll be
+going up in price.
+---
+[0x49e3ab]	,
+I got a favor to
+ask of you.
+---
+[0x49e416]	One of my friends
+is starting a
+resistance movement.
+
+Fighting against the
+laws, and all that.
+I want you to help.
+
+I'll put a request
+up at the pub.
+---
+[0x49e506]	I had a great idea
+yesterday for a super
+powerful antilaw!
+
+I was wondering if
+you could gather the
+necessary materials?
+---
+[0x49e5d8]	No problem! Just put
+a mission request up
+at the pub.
+---
+[0x49e822]	Welcome to the
+monster bank.
+How may I help you?
+---
+[0x49e888]	Welcome to
+monster bank.
+Your monster awaits!
+---
+[0x49e8e0]	How may I help you?
+[0x49e90c]	You have to "Capture"
+a monster before
+you can raise it!
+---
+[0x49e980]	Raise your monster
+to be a good little
+monster!
+---
+[0x49ea2e]	Are you sure? It
+won't ever come back!
+Yes
+---
+[0x49ea88] x2	No
+[0x49eade]	Come back to visit
+any time!
+---
+[0x49eb1e]	Understood. I'll keep
+it here for now.
+---
+[0x49ebf4]	It seems to like
+that quite a lot!
+---
+[0x49ec40]	It seems to be
+enjoying it!
+---
+[0x49ede0]	!!
+Please, help us find
+our escaped monsters!
+
+I'll put up a
+request at the pub!
+---
+[0x49ee80]	Hello, .
+Have you tried
+linking yet?
+
+If you link, you can
+team up and trade
+with other clans!
+
+Every clan you team
+up with becomes a
+"support clan."
+
+Team up with as
+many clans as
+you can!
+---
+[0x49ef7e]	Welcome back,
+. Here
+to do some linking?
+---
+[0x49f004]	Hold on, I'll look
+for a clan to join
+you on a mission.
+---
+[0x49f074]	Ah, a new clan!
+Clan
+wants to join you.
+
+I'll put them on
+your list. Now,
+choose a mission.
+---
+[0x49f12a]	Clan
+will help you.
+Choose a mission!
+---
+[0x49f180]	You'll be helping
+Clan for
+the first time!
+
+I'll put them on
+your list. Wait for
+your mission...
+---
+[0x49f28e]	I can't find any
+clans for you to
+team up with.
+---
+[0x49f2f6]	There doesn't seem
+to be any good
+missions. Try later.
+---
+[0x49f36a]	Is this the mission
+you want to go on?
+YesNo
+---
+[0x49f3c8]	Mission selected!
+Check it out and
+hit "OK" to confirm.
+---
+[0x49f43a]	OK, you're all set.
+Good luck on your
+mission!
+---
+[0x49f60a] x2	Hang on, I'll see if
+I can find a clan
+to trade with you.
+---
+[0x49f680]	A new clan! Clan
+ will
+trade with you.
+
+I'll put them on
+your list. What do
+you want to trade?
+---
+[0x49f724]	Clan is
+interested. What do
+you want to trade?
+---
+[0x49f78a] x2	I can't find any
+clans to trade with
+you. Try later.
+---
+[0x49f882] x2	Trade fee received.
+Wait for the other
+party to confirm...
+---
+[0x49f9cc]	A new clan! Clan
+ will
+trade with you.
+
+I'll put them on
+your list. Who do
+you want to trade?
+---
+[0x49fa70]	Clan is
+interested. Who do
+you want to trade?
+---
+[0x49fb46]	You can't trade
+someone who's
+not here right now.
+---
+[0x49fd62]	You can't carry
+any more items! Go
+lighten your load!
+---
+[0x49fe2c]	I have to save
+your game when
+you link.
+
+Eh? You don't have
+any save data!
+
+Go save and come back.
+---
+[0x49fec6]	I have to save
+your game when
+you link.
+
+You might want to
+go ahead and save
+now.
+---
+[0x49ff50]	Welcome back.
+I'll save your
+mission results now.
+---
+[0x49ffba]	Hey, you don't have
+enough gil to pay
+your trade fee!
+---

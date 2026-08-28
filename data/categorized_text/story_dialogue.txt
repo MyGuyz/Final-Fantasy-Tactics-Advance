@@ -1,0 +1,9007 @@
+# บทสนทนาเนื้อเรื่อง/คัตซีน/บทพูดตัวละคร (ส่วนใหญ่บีบอัด LZSS ฝังใน)  (1839 รายการไม่ซ้ำ)
+
+[0x9c16ee]	Aww, man!
+Why do I get stuck
+on the weak team?
+
+We're just gonna
+lose. Where's the
+fun in that?
+---
+[0x9c1802]	He didn't want his
+precious bear to
+get wet in the snow!
+---
+[0x9c1870]	Awww...
+Did your mommy give
+you that bear?
+---
+[0x9c190c]	Leave him alone.
+He's not going to
+say anything anyway.
+
+He's like a
+little girl!
+---
+[0x9c199e]	Hey! That's gender
+discrimination!
+
+And I know some
+"little girls" who
+can kick your butt!
+---
+[0x9c1a96]	You don't want
+to be on that
+team, right?
+
+How about we switch?
+Would that be better?
+Let's start already!
+---
+[0x9c1b4a]	You should speak
+up. Tell them your
+name, at least.
+
+You can't be the
+"new kid" forever!
+---
+[0x9c1cc8]	Then let's get this
+snowball fight
+started! Ready?
+---
+[0x9c1dba]	Will you two
+stop it?
+---
+[0x9c1dec]	What? We're not
+breaking any rules!
+---
+[0x9c1e3a]	Sure! You've been
+aiming at
+this whole time!
+---
+[0x9c1ee8]	See? He says he's
+fine, so what's
+the problem?
+---
+[0x9c1f48]	He knows you'd pick
+on him worse if he
+said anything else!
+---
+[0x9c1fd7]	, your forehead
+is bleeding!
+---
+[0x9c202c]	There was a rock
+in that snowball!
+---
+[0x9c2078]	Hey, I didn't throw
+any rocks!
+---
+[0x9c2104]	He's an easy target,
+and we've gotta get
+points, right?
+---
+[0x9c21ec]	Whatever you say,
+whitey-locks!
+---
+[0x9c2264]	We know you dye your
+hair 'cause it's
+really all white!
+---
+[0x9c234a]	Step over here
+and say that again!
+---
+[0x9c24b8]	That's it for class
+today. The rest of
+you can go home.
+---
+[0x9c2548]	I can't stand
+bullies who pick
+on little kids!
+
+Those jerks!
+---
+[0x9c25d1]	.
+What are you doing
+after this?
+---
+[0x9c2630]	I was going to go
+buy this book...
+
+and I was wondering
+if you wanted to
+come along?
+---
+[0x9c26c4]	Sorry, I can't.
+
+My little brother's
+getting out of the
+hospital today.
+---
+[0x9c2786]	No, it's something
+he was born with.
+
+We have to take him
+to the hospital
+every now and then.
+---
+[0x9c2856]	What kind of
+book are you
+going to buy?
+---
+[0x9c28aa]	It's about monsters
+and magic and stuff
+like that.
+---
+[0x9c2910]	Why don't you bring
+it over to my house?
+
+I'm sure ,
+my brother, would
+love to see it.
+---
+[0x9c2abe]	Great!
+You two know where
+my house is?
+---
+[0x9c2bd2]	Eww, that guy's
+drinking, and it's
+only noon!
+---
+[0x9c2c5c]	Say, , what're
+you doing out of
+school at this hour?
+---
+[0x9c2ccc]	How's about having
+a drink with yer
+pops? Whaddya say?
+---
+[0x9c2d3e]	...No thanks. Are
+you sure you can
+get home OK, Dad?
+---
+[0x9c2dee]	Don't be this much
+of a mess tomorrow,
+OK?
+---
+[0x9c2eae]	He's been like that
+ever since Mom died.
+It's embarrassing.
+---
+[0x9c2f28]	Your parents must
+have been really
+close...
+---
+[0x9c2f86]	Well, we'll be
+waiting for you
+at my place!
+---
+[0x9c2fe7]	, how much do
+you know about
+---
+[0x9c303c]	I mean, your dad
+might be a little
+embarrasing...
+
+But I heard that
+ doesn't
+even have a dad.
+---
+[0x9c30fa]	Oh, hiya. Welcome
+back. You're kinda
+late, aren't you?
+---
+[0x9c316a]	We had a snowball
+fight at school.
+I'm totally soaked!
+---
+[0x9c324c]	I'm just not used
+to the snow,
+that's all.
+---
+[0x9c32a6]	Yeah, you always
+were bad at sports!
+---
+[0x9c332e]	Tell them to
+come on up!
+---
+[0x9c3366]	You invited over
+some friends?
+---
+[0x9c33a8]	Yeah, one of them
+says he found this
+really cool book.
+
+I thought you might
+want to see it, too.
+
+You like books,
+don't you? You're
+always reading them.
+---
+[0x9c3492]	Only 'cause there's
+nothing else to do
+at the hospital.
+
+Nothing except read
+and play games...
+---
+[0x9c35e8]	Yeah, right here.
+But I don't know
+what the title is...
+
+Even the guy at
+the used bookshop
+couldn't read it.
+---
+[0x9c36e2]	I can't read these
+letters at all!
+
+Maybe they're
+some kind of
+magic spell!
+---
+[0x9c3772]	You might not be
+too far off. Look,
+a magic circle!
+
+Maybe this is in
+Latin or something?
+
+And there are some
+later additions...
+What does this say?
+---
+[0x9c3970]	If you could use
+magic, maybe you'd
+be better at sports!
+---
+[0x9c3a3a]	It'd be cool if
+this really were
+a magic book...
+
+Haven't you ever
+read a book and
+thought...
+
+"What if the world
+in this book was
+the real world?"
+---
+[0x9c3bf6]	Games! You know,
+fighting monsters
+and all that.
+---
+[0x9c3c5c]	OK, if you could
+make any game real,
+which would it be?
+---
+[0x9c3d6e]	My, my, look at the
+time. I should get
+going soon.
+---
+[0x9c3dd8]	Yeah, me too.
+See you at school,
+---
+[0x9c3f69]	! It's time
+for your medicine!
+---
+[0x9c40e8]	Everyone ready? Let's
+get this snowball
+fight started.
+
+One snowball, one
+point. First team
+to get points wins!
+---
+[0x9c41a6]	Gotten used to the
+snow in St. Ivalice
+yet, ?
+
+It's much warmer
+where you're from,
+isn't it?
+---
+[0x9c425e]	Yes, sir. It never
+snowed.
+
+This is practically
+my first snowball
+fight...
+---
+[0x9c42ec]	Really? Then let
+me give you some
+pointers.
+---
+[0x9c434d]	, could you
+help us out?
+---
+[0x9c43a2]	Kids with the highest
+"speed" move first.
+---
+[0x9c43fa]	Once your turn comes
+around, first you
+have to "move."
+
+You can only go a set
+distance, so think
+first, then move.
+---
+[0x9c44b8]	When the menu isn't
+up, press the B BUTTON
+to see your move range.
+---
+[0x9c4536]	You can redo a move
+as many times as you
+want!
+---
+[0x9c45b6]	Okay, now that you're
+in position, you can
+throw a snowball.
+
+Choose "Snowball"
+from the "Action"
+menu.
+---
+[0x9c4662]	The green colored
+panels show your
+throwing range.
+
+Now choose where
+you want to aim
+within that range!
+---
+[0x9c4712]	If no one from the
+other team is in
+range, just "wait."
+---
+[0x9c4786]	Waiting makes your
+next turn come
+around quicker.
+---
+[0x9c4826]	Once you've thrown,
+you have to choose
+a "facing."
+
+Once you've chosen
+a facing, your turn
+ends.
+---
+[0x9c491e]	Let's get back
+to the snowball
+fight, then.
+---
+[0x9c4998]	Ah, there's a trick
+to throwing a snow-
+ball, too.
+---
+[0x9c49f8]	It's easier to hit
+someone from the side
+or behind.
+
+Think about which way
+your opponent's
+facing when you move.
+---
+[0x9c4aba]	Hey, stop that! The
+snowball fight's
+over!
+---
+[0x9c4b14]	We only played once!
+It's best out of
+two. T-W-O!
+---
+[0x9c4be6]	You guys are just
+grumpy because
+you lost!
+
+Grrr... This is why
+I can't stand boys!
+---
+[0x9c4c7e]	Can't you let it
+rest! You won,
+already!
+
+Grrr... This is why
+I can't stand boys!
+---
+[0x9c4d5e] x2	I'm really, really
+sorry. Please accept
+my apologies...
+---
+[0x9c4dc8]	Mr. Randell. We
+expect a certain
+level of performance.
+
+Regardless of
+circumstances...
+---
+[0x9c4ea0]	Don't worry, I'll
+fix things up here.
+---
+[0x9c4f16]	Thank you for
+waiting. Shall we?
+---
+[0x9c4f5c]	Look at that guy
+cringing like that!
+Embarrassing...
+---
+[0x9c504e]	These your friends?
+[0x9c5116]	You all keep an eye
+on for me, eh?
+---
+[0x9c5164]	He used to work at
+a bigger company
+before.
+
+When Mom died, he
+stopped caring. He
+broke down big time.
+---
+[0x9c5220]	He seems nice. Not
+many parents talk to
+their kids like that.
+
+I bet you used to
+go out on vacations
+and stuff a lot.
+---
+[0x9c52f4]	I guess your family
+has had its problems,
+too...
+
+But I heard that
+ doesn't
+have a dad...
+---
+[0x9c53c4]	Shucks.
+Can't win all the
+time, I guess.
+---
+[0x9c541c]	Could you explain
+one more time?
+---
+[0x9c5462]	Sure thing.
+I'm here to teach,
+after all.
+---
+[0x9c57c2]	Watch where
+you're going, sson!
+---
+[0x9c58a8]	It takess a lot of
+nerve to call a
+bangaa a lizard!
+---
+[0x9c594c]	Moogle...
+Thiss human brat
+with you?
+---
+[0x9c599a]	Yes, kupo! He's just
+come in from the
+countryside you see.
+---
+[0x9c5a29]	Apologize to the
+bangaa, kupo!
+---
+[0x9c5a9a]	Please excuse him.
+He's not used to
+seeing bangaa.
+---
+[0x9c5b3c]	Those clothess...
+You're a ssoldier
+aren't you?
+---
+[0x9c5bc0]	Yess... Sso you
+wouldn't mind a
+little engagement?
+---
+[0x9c5cf0]	Thanks for
+helping me.
+---
+[0x9c5d22]	Never ever call a
+bangaa a lizard!
+Kupo!
+---
+[0x9c5e78]	Kupo! Where exactly
+are you from, kupo?
+Cadoan? Muscadet?
+---
+[0x9c5ef0]	I...I don't know.
+I'm all confused.
+
+And to top it off,
+I'm talking to
+a stuffed animal!
+---
+[0x9c5f8e]	A stuffed animal!?
+I'll have you know
+I'm a moogle, kupo!
+---
+[0x9c605c]	OK, I believe you!
+You're confused.
+Let me explain—
+
+This is the town of
+Cyril, in the
+land of Ivalice.
+---
+[0x9c611c]	Ivalice? That's the
+name of the town
+where I'm from!
+---
+[0x9c618b]	Town? But Ivalice
+is a country!
+---
+[0x9c61ce]	Not my Ivalice. And
+there's no liz--er,
+bangaa there either.
+---
+[0x9c6240]	What about moogles?
+Surely the other
+towns have them?
+---
+[0x9c62ae]	Nope. We just have
+normal things, like
+dogs and cats.
+---
+[0x9c631e]	But you said you'd
+seen a bangaa,
+only not a real one!
+
+What did you
+mean, kupo?
+---
+[0x9c6464]	It's called "Final
+Fantasy." It's not
+real. Not really.
+
+It's like a pretend
+world, with heroes
+and monsters...
+---
+[0x9c652a]	So you're saying
+here is just like
+your pretend world?
+---
+[0x9c659c]	Yeah, come to think
+of it, it's just
+like in the game!
+---
+[0x9c6664]	Sorry, I know I'm
+not being very
+helpful...
+---
+[0x9c66c0]	No, this is by far
+the most kupo story
+I've ever heard!
+---
+[0x9c675a]	Of course, I'm not
+entirely sure I
+believe you, kupo.
+---
+[0x9c68e4]	Thanks. By the way,
+I'm
+---
+[0x9c69d2]	This is where our
+clan members hang
+out.
+
+Clans are like...
+groups of people
+who work together.
+---
+[0x9c6ac6]	Well, our clan
+takes on some
+pretty rough jobs.
+
+Of course, the pay's
+good, and there's
+never a dull moment!
+---
+[0x9c6b8a]	Maybe someone here
+knows how I can
+get back home...?
+---
+[0x9c6bf5]	You could ask
+around, kupo!
+---
+[0x9c6c34]	Can I join
+the clan, too?
+---
+[0x9c6c6c]	Sure thing! I just
+have to introduce
+you, and you're in!
+---
+[0x9c6ce1]	Hey, everyone, I'd
+like to introduce
+---
+[0x9c6d52]	Me and the others
+will help you out!
+
+And maybe we can
+help you find your
+way home, kupo!
+---
+[0x9c6de6]	OK, let's get you
+settled in, shall
+we, kupo?
+
+This is where we
+are right now,
+in Ivalice!
+---
+[0x9c7116]	You sure are a keen
+observer of the
+obvious, kupo!
+
+There's the judge,
+and the laws for
+today are all set.
+---
+[0x9c71f0]	Uh-oh, don't tell
+me you don't know
+about those!
+
+The laws today
+forbid the use of
+all items, kupo!
+
+Always be sure to
+check the laws,
+or you'll be sorry!
+---
+[0x9c72de]	OK, wait, so an
+"engagement" is a
+battle...
+
+And the "laws" are
+the rules for
+the battle...
+
+And that guy in
+armor is the
+"judge"?
+---
+[0x9c75ce]	Yeah, prison--they
+send people who
+break the law there.
+
+Oh, it's a dark
+and scary place.
+Kupo!
+---
+[0x9c767e]	Perpetrator
+sentenced and
+imprisoned!
+
+Visitors are asked
+to go to the prison
+facility in Sprohm.
+---
+[0x9c7728]	Sprohm?
+Prison?
+
+What have I gotten
+myself into?
+---
+[0x9c780c]	Collect judge
+points!
+
+That way you can
+use "combos" with
+other clan members.
+
+It makes engagements
+a snap, kupo!
+---
+[0x9c78e6]	So all I have to
+do is defeat my
+opponents? Gotcha.
+---
+[0x9c79f8]	Yeah, there was
+one that seemed
+easy enough.
+---
+[0x9c7a5b]	When can you
+start, kupo?
+---
+[0x9c7b4e]	We'll have to deal
+with these monsters
+first...
+
+Then we can gather
+those herbs!
+---
+[0x9c7be5]	I told you our clan
+does rough work!
+Kupo!
+---
+[0x9c7c89]	What were we
+looking for, kupo?
+---
+[0x9c7d33]	Muscmaloi! That
+grows all over
+the place, kupo!
+---
+[0x9c7db6]	Yeah--there's some
+right there. And
+over there, too!
+
+I used to pick it
+all the time when
+I was little, kupo!
+---
+[0x9c7e70]	The info fee for
+this mission was
+cheap, wasn't it?
+---
+[0x9c7f32]	That figures. Still,
+it's probably good
+to start slow.
+
+Let's pick us some
+herbs and get back
+to town, kupo!
+---
+[0x9c80cc]	Why would bandits
+be interested in
+a thesis, anyway?
+---
+[0x9c8136]	Kupopo?
+Maybe they're
+nerdy bandits?
+
+Some thieves are
+interested in more
+than money, kupo!
+---
+[0x9c82e6]	Hey, man, we got
+you a thesis,
+just like you asked.
+---
+[0x9c834c]	Well, I can only
+give you half of
+your fee, then.
+---
+[0x9c83b6]	That's not an
+option, gramps.
+Pay up!
+---
+[0x9c8406]	Looks like you were
+right, .
+
+The bandits just
+wanted money after
+all, kupo!
+---
+[0x9c84aa]	Don't worry about
+that! Let's get
+the thesis back!
+---
+[0x9c8512]	Hey, you!
+That thesis is
+stolen property!
+---
+[0x9c856c]	What's that kid
+yelping about?
+---
+[0x9c85ae]	That's no ordinary
+boy! Look--he's
+with a clan!
+
+Coleman must have
+posted a reward
+for that thesis!
+---
+[0x9c8668]	Ah! So this kid is
+here on business!
+
+No need for me
+to play nice,
+then, is there?
+---
+[0x9c86fe]	I think I'm getting
+the hang of these
+engagement things.
+---
+[0x9c880c]	Yup, they're
+all in there!
+
+All we have to do
+is bring this back,
+and we're done!
+---
+[0x9c8897]	You're doing
+a kupo job,
+---
+[0x9c88d6]	You really
+think so?
+---
+[0x9c8904]	I'd thought it would
+be best to wait a
+little longer...
+
+But I think we're
+ready for the clan
+wars!
+---
+[0x9c89d4]	It's not really
+a war, kupo!
+
+It's when we
+compete with other
+clans for turf.
+---
+[0x9c8a6a]	The bigger your
+turf, the cheaper
+it is to get info.
+
+And there's other
+benefits as well.
+Kupo!
+---
+[0x9c8b18]	Do we actually
+engage with other
+clan members?
+---
+[0x9c8c54]	It gets busier from
+here on out, kupo!
+Hope you're ready!
+---
+[0x9c8dbe]	Now that I've
+gotten used to
+clan work...
+
+I think I'll try
+taking on a few
+more missions.
+---
+[0x9c8e6a]	Well, if it isn't
+[0x9c8efe]	Can't complain,
+can't complain!
+
+I thought you might
+be busy with the
+clan wars and all.
+---
+[0x9c8f8c]	You have no idea
+what I'm talking
+about, do you?
+
+Basically, it's
+like a turf war
+between clans.
+---
+[0x9c904a]	What's there to
+gain if you win?
+---
+[0x9c9090]	You can buy stuff
+cheap and get some
+deals at the pubs.
+---
+[0x9c9128]	There's a lot of
+clanners out there
+looking for fights.
+
+Everyone wants to
+spread their
+influence, you dig?
+---
+[0x9c91e2]	So, if you don't
+have business with
+another clan...
+
+I'd keep your
+distance!
+---
+[0x9c927a]	If you fought every
+clan, you'd never
+get any work done.
+
+Not that all the
+clans are bad...
+Still, be careful.
+---
+[0x9c9332]	Thanks for the
+tip! I'll keep
+an eye out.
+---
+[0x9c94b8]	If we did, we
+wouldn't be much
+of a clan, would we?
+---
+[0x9c96de]	I'll help!
+I came here to
+get them, too.
+---
+[0x9c972e]	Boy, I sure didn't
+expect to find
+you here, !
+---
+[0x9c9790]	Likewise! I'd never
+have expected you to
+be in a clan...
+---
+[0x9c982e]	It's just, you were
+so...timid in the
+other world.
+---
+[0x9c98a6]	You've changed here,
+too, haven't you?
+I know I have!
+---
+[0x9c9936]	It's funny for you
+to be worried about
+me, .
+
+Thanks, though.
+You were a big help.
+---
+[0x9c99da]	Let me introduce
+my fellow clan
+member, .
+---
+[0x9c9a7a]	Like I said before,
+he's a friend from
+the other world.
+---
+[0x9c9aec]	Speaking of worlds,
+do you know what
+this place is?
+---
+[0x9c9b58]	I thought you of
+all people would
+have figured it out!
+
+This is "Final
+Fantasy"--the game!
+But this is real!
+---
+[0x9c9c14]	At first, I thought
+I had really fallen
+into the game...
+
+But this is our
+town, St. Ivalice!
+
+It's like our whole
+town has become
+part of the game!
+---
+[0x9c9cfa]	How could it
+have happened?
+---
+[0x9c9d38]	I'm trying not
+to think about it.
+---
+[0x9c9d92]	There doesn't seem
+to be much point.
+---
+[0x9c9dff]	doesn't want
+to go back, see?
+---
+[0x9c9e88]	What? You mean
+you'd rather
+stay here!?
+---
+[0x9c9ede]	Yeah. I like this
+world. Don't you,
+---
+[0x9c9f4c]	If you want to
+turn everything
+back to normal...
+
+Go ahead.
+But don't expect
+me to help you.
+---
+[0x9ca177]	Kupo!
+What's on your
+mind,
+---
+[0x9ca1b8]	Oh, um, I was just
+thinking about the
+next mission...
+
+...Wondering what's
+in store for us.
+---
+[0x9ca263]	Looks like you're
+enjoying this,
+kupo!
+---
+[0x9ca2b4]	Yeah, missions
+are kind of fun,
+aren't they?
+
+I could never do
+stuff like this
+where I come from.
+---
+[0x9ca362]	I've always wanted
+to use magic and
+fight monsters...
+
+And now I can!
+---
+[0x9ca3e8]	So you should stay
+in this world!
+
+We could make our
+clan the strongest
+clan ever, kupo!
+---
+[0x9ca486]	The strongest
+clan ever?
+Sounds cool...
+---
+[0x9ca4ec]	You've got to be
+one of the nicest
+people I know...
+
+Were you like this
+in the other world,
+too, kupo?
+---
+[0x9ca626]	Of course I trust
+you! You've helped
+me out so much!
+---
+[0x9ca690]	You can be honest
+around me, kupo!
+We're friends!
+
+And I know you're
+still getting used
+to our world.
+---
+[0x9ca7e4]	I was sure that
+ would help
+me find a way back.
+
+But I was wrong.
+---
+[0x9ca8ee]	I know that, it's
+just...it's hard to
+accept sometimes.
+---
+[0x9ca95a]	Will I ever be
+able to find my
+way back home?
+
+What'll I do if
+the world stays
+like this forever?
+---
+[0x9caa0f]	My advice is, take
+it easy, kupo!
+---
+[0x9cab18]	What could
+make a monster
+go crazy?
+---
+[0x9cac20]	Really?
+I wonder what
+causes it?
+---
+[0x9cad0a]	They say the palace
+made these magical
+crystals, kupo!
+
+Their magic is so
+strong that it
+affects the animals.
+---
+[0x9cadc0]	So you think
+a crystal
+is nearby?
+---
+[0x9cae08]	I don't know, kupo!
+It might just be
+a rumor, after all.
+
+How could you make
+anything in a
+wrinkle in space?
+---
+[0x9caf28]	Thank you for
+helping us deal
+with those monsters.
+---
+[0x9caf94]	Do monsters often
+go crazy like that
+around here?
+---
+[0x9caffe]	It happens every
+now and then, yes.
+---
+[0x9cb04a]	Wouldn't it be
+easier to deal
+with the monsters...
+
+...if you knew what
+was making them
+go crazy like that?
+---
+[0x9cb10a]	Well...there is a
+rumor going around.
+
+People think it has
+something to do
+with the crystals.
+---
+[0x9cb1b6]	The palace made
+the crystals, see?
+They're magical...
+
+So magical that
+have an effect on
+nearby animals.
+---
+[0x9cb264]	So one of those
+crystals is
+around here?
+---
+[0x9cb2ba]	That we don't know.
+And the palace
+denies everything.
+
+Besides, people say
+the crystals are
+impossible to find.
+
+"Made in wrinkles
+in space,"
+they say.
+---
+[0x9cb5e6]	What was that!?
+
+That black thing
+in the river
+swallowed me, and...
+---
+[0x9cb662]	What is this place?
+Am I still in
+Ivalice?
+---
+[0x9cb736]	A wrinkle
+in space!
+---
+[0x9cb762]	So the crystal's
+magic was making
+the river bend.
+
+The rumors were
+true! The warping
+was a way in!
+---
+[0x9cb802]	I have to find out
+what this crystal
+really is...
+
+But before that,
+I should find
+a way out!
+---
+[0x9cb8a6]	Speak your name,
+you who profane
+the light!
+---
+[0x9cb922]	I ask again—
+
+Speak your name,
+you who profane
+the light!
+---
+[0x9cb9aa]	My name is
+[0x9cb9fa]	I am the totema
+.
+
+I am wielder of
+the power. I am
+the protector.
+---
+[0x9cbada]	You are an
+intruder!
+---
+[0x9cbb0a]	Look, I don't know
+anything about
+your crystal!
+---
+[0x9cbb6e]	I am under orders
+to expel all
+intruders!
+---
+[0x9cbbc2]	Wait! I'm telling
+you, I came in
+here by accident!
+---
+[0x9cbc94]	Well, no point
+worrying whether
+I can win or not...
+
+I just have
+to try!
+---
+[0x9cbd4e]	What is this
+crystal?
+Tell me!
+
+Why go to such
+lengths to
+protect it!?
+---
+[0x9cbdd4]	The crystal is the
+thread that binds
+our world...
+
+The world I
+was born to
+protect!
+
+With the white
+ones, I was
+born...
+---
+[0x9cbeb8]	Skilled machinists.
+They are the source
+of my power.
+---
+[0x9cbf56]	If they wish it,
+I will lend you
+my power...
+---
+[0x9cbfc6]	When the thread
+dissolves, so will
+this world...
+
+And another world
+will be revealed.
+---
+[0x9cc1c4]	Did something
+happen?
+---
+[0x9cc1f4]	Papa...
+I just remembered
+something horrible!
+
+All the kids at
+school were throwing
+snowballs at me...
+
+And one of the
+snowballs had
+a rock inside it!
+---
+[0x9cc330]	That...That's right.
+I'm royalty...
+I'm a prince.
+
+Everyone listens
+to whatever I say.
+My word is...law.
+
+This is my country!
+Nobody picks on me!
+---
+[0x9cc49e]	It's OK, , you
+don't have to be
+scared anymore.
+
+To our people, I am
+Queen , but
+always remember...
+
+To you, I am your
+mother, and I love
+you very much.
+---
+[0x9cc59a]	And your papa is
+the highest
+judge in the land!
+
+That means that
+all the judges
+will protect you.
+---
+[0x9cc6b6]	Of course you can!
+You know we'd do
+anything for you.
+---
+[0x9cc71e]	Your Highness, it
+might not be wise
+to so lightly--
+---
+[0x9cc784]	One of the crystals
+has been destroyed.
+---
+[0x9cc80e]	...I see.
+
+There will surely be
+no complaints about
+stronger laws, then.
+---
+[0x9cc922]	Well, I seem to
+have made it back
+in one piece.
+---
+[0x9cc986]	He said that
+the crystal was
+a thread...
+
+That if the thread
+dissolved, a new
+world would appear.
+---
+[0x9cca2c]	But this world
+is still here...
+
+Destroying one of
+the crystals must
+not be enough.
+
+If I destroy them
+all, will I be able
+to go back home?
+---
+[0x9cccb0]	What's new? The
+palace is always
+doing that.
+---
+[0x9ccd0c]	I swear the queen
+takes pleasure in
+watching us squirm!
+---
+[0x9ccd7c]	Hey, hey, watch
+what you're saying!
+
+You never know
+who might be
+listening...
+---
+[0x9cce10]	The new laws
+bothering you,
+too, eh?
+---
+[0x9cce60]	Hah! Pretty soon,
+laws will be nothing
+but a bad memory!
+---
+[0x9cced6]	How can you be
+so sure?
+
+I thought laws were
+everything in
+Ivalice?
+---
+[0x9ccf5e]	True...but there's
+a way around
+everything, my boy.
+---
+[0x9ccfca]	Hey, have you
+heard that rumor?
+---
+[0x9cd010]	You mean about
+ Berbier
+and his antilaws?
+---
+[0x9cd06a]	It's hard to believe
+that anyone could
+nullify a law!
+---
+[0x9cd16a]	And Berbier
+figured out
+how to do it?
+---
+[0x9cd1be]	He certainly did...
+But if you want to
+meet him, forget it.
+
+He's a busy man,
+with many admirers,
+shall we say.
+---
+[0x9cd28a]	You seem to know
+a lot about him.
+---
+[0x9cd2d2]	Fame has always
+fascinated me,
+you see.
+
+Ah, sorry, have
+to run. I've an
+appointment to keep.
+---
+[0x9cd410]	You can't run
+forever, !
+
+Why don't you just
+turn yourself in
+quietly?
+---
+[0x9cd49a]	No, I've never been
+good at sitting in
+one place for long.
+---
+[0x9cd510]	You've overestimated
+your ability to
+escape this time,
+
+"genius"!
+---
+[0x9cd594]	Well, these
+things happen.
+
+Life wouldn't be
+any fun if you
+always won!
+---
+[0x9cd620]	Seize him! And
+feel free to break
+whatever you want!
+
+Just keep his
+head in one piece!
+---
+[0x9cd7d2]	Ah well, I guess
+the moogle's out
+of the bag.
+---
+[0x9cd832]	Who are these
+guys? Why are
+they after you?
+---
+[0x9cd884]	Just a little
+misunderstanding
+about a job...
+
+I ask for ,
+gil, and they call
+me a gouger!
+---
+[0x9cd956]	Yup. That's all
+it takes to make
+laws go away...
+
+Pretty cheap,
+really.
+---
+[0x9cd9ee]	Are you all right?
+[0x9cda1a]	I seem to be all
+here. Thanks for
+your help, eh?
+---
+[0x9cda80]	Where are my
+manners? I've not
+introduced myself!
+
+I am Berbier,
+at your service.
+---
+[0x9cdb6c]	Had I more time,
+I'd love to thank
+you more properly...
+
+But as it is,
+I must be off!
+---
+[0x9cdc06]	Someone else
+after you?
+---
+[0x9cdc3a]	Something like that.
+
+It's hard when
+everyone thinks
+of you as a genius.
+---
+[0x9cdcc4]	I heard that the
+nu mou call you
+an eccentric loony.
+---
+[0x9cdd30]	...They only say
+that because they
+are jealous!
+
+This, too, is a
+burden we geniuses
+must bear.
+---
+[0x9cde06]	The judgemaster
+himself!
+I'm honored.
+---
+[0x9cde56]	Might I ask you
+to come with me?
+
+I'd like to hear
+more about these
+antilaws of yours.
+---
+[0x9cdefa]	I must respectfully
+decline.
+
+Sorry, but judges
+rub me the
+wrong way!
+---
+[0x9cdf88]	Ah, an advanced law!
+Only the judgemaster
+can use those.
+
+If I use any ability
+at all, it's
+the slammer for me!
+
+I'm practically
+shaking in my boots!
+---
+[0x9ce082]	Ah, I'm glad you
+are familiar with
+advanced laws.
+
+Saves me the trouble
+of explaining them
+to you.
+
+And I do so dislike
+violence...
+---
+[0x9ce1ba]	But I suppose a
+demonstration
+wouldn't hurt--
+
+Behold, the
+antilaw!
+---
+[0x9ce244]	He can stop even
+an advanced law?
+
+Hmm... Maybe he's
+smarter than
+I thought.
+---
+[0x9ce2da]	Back to the palace!
+[0x9ce33e]	Sure was!
+It nullified the
+judgemaster's law,
+
+allowing me to
+use whatever
+ability I wished!
+---
+[0x9ce432]	Yes, you might
+say that I'm
+really something.
+
+But to receive a
+visit from the
+judgemaster!
+---
+[0x9ce4e6]	, are you sure
+you're not getting
+in over your head?
+---
+[0x9ce54a]	No, no, no! It is
+THEY who have
+crossed the line!
+
+Making all their
+laws without asking
+us what we think.
+
+Besides, annoying
+the judges with
+antilaws is fun!
+---
+[0x9ce63c]	That reminds me,
+I should tell you
+about my store.
+---
+[0x9ce8ea]	I was kind of hoping
+the "diamonds" would
+be crystals...
+
+But I guess--
+---
+[0x9ce9d0]	What could it have
+been? It wasn't
+snow...
+
+Maybe this rain does
+have something to do
+with the crystals...
+---
+[0x9cead8]	Ugh...it's so hot!
+How can I get
+anything done here?
+---
+[0x9ceb46]	Earthquake! This
+thing's not going
+to erupt, is it?
+---
+[0x9cec60]	This place isn't
+like the last one
+at all...
+
+Maybe this crystal
+is different from
+the other one?
+---
+[0x9ced02]	I have to destroy
+it. That's my only
+way home!
+---
+[0x9ced64]	Funny, there doesn't
+seem to be a totema
+here on guard...
+---
+[0x9cee24]	This place...
+This whole shrine
+is a totema!
+---
+[0x9ceeca]	The totema
+said he was born
+with the moogles...
+
+I wonder if this
+crystal is allied
+to one of the races?
+
+And if it is,
+which one?
+---
+[0x9cefa0]	Those things around
+the crystal formed
+a magic circle...
+
+Magic...hmm...
+The nu mou totema?
+---
+[0x9cf120]	Mama's not dead--
+Mama's alive!
+She was just here!
+---
+[0x9cf184]	Who's trying to
+wreck my world?
+
+Get out!
+Get out of
+my world!
+---
+[0x9cf22e]	This world must be
+a reflection of
+'s desires!
+
+His mom's still
+alive, everyone
+does what he says...
+
+I'm living inside
+'s dream!
+---
+[0x9cf30a]	So if I change the
+world back to the
+way it was...
+
+I'm destroying
+his dream world!
+
+No wonder he
+doesn't want
+me here.
+---
+[0x9cf40f]	This tree looks
+good, kupo!
+---
+[0x9cf44c]	Yes, yes. Just
+the right size.
+Let's get it!
+---
+[0x9cf4aa]	I could get used to
+this tree-cutting
+business, kupo!
+
+So much easier than
+cutting things that
+fight back, kupo!
+---
+[0x9cf568]	Indeed! And they
+sell for a pretty
+gil. What a bargain!
+---
+[0x9cf5da]	Oh no!
+They're trying to
+cut down that tree!
+---
+[0x9cf68a]	Not a problem, as
+long as we keep
+them from reporting!
+---
+[0x9cfa3e]	I am , personal
+mage to His Highness
+Prince .
+
+I am here surveying
+this land on his
+direct request.
+---
+[0x9cfb24]	The prince has
+informed me that
+there is someone...
+
+who means him ill.
+Know you anything
+of this?
+---
+[0x9cfbd4]	If you do, tell
+me at once!
+---
+[0x9cfc10]	Who, me?
+I...I don't know
+anything, sir.
+
+I had no idea he
+wanted this world
+to exist.
+---
+[0x9cfcb2]	Ahem?
+What was that
+you just said?
+---
+[0x9cfcfe]	I didn't know
+wanted the world
+to change like this!
+---
+[0x9cfd6e]	Wait a minute...
+
+Perhaps it is you
+of whom His Highness
+spoke!
+---
+[0x9cfdec]	No, I don't mean
+him any ill at all!
+
+I just want the
+world to go back
+the way it was!
+---
+[0x9cfe80]	Back the way it
+was? You speak
+nonsense!
+
+Get him!
+---
+[0x9cfeea]	You said you wanted
+the world to go back
+the way it was...
+
+What did you mean?
+---
+[0x9cff6a]	Ivalice isn't a
+desert it's a
+snowy, country town!
+
+Everything went
+crazy! This isn't
+the real world--
+
+This is 's
+fantasy world...
+It's like a game!
+---
+[0x9d005c]	Hah! The only thing
+that's crazy around
+here is you, my boy!
+---
+[0x9d00f6]	So this world is a
+figment of Prince
+'s imagination?
+
+Nonsense!
+I've served the
+prince for years!
+---
+[0x9d0210]	How dare you call
+the prince an
+ordinary commoner!
+---
+[0x9d0278]	Grr. Caught me off
+my guard, you did.
+I'll be back!
+---
+[0x9d02e4]	Whatever the reason,
+the prince wants
+you dealt with.
+
+You cause him pain,
+and that is real
+enough for me!
+---
+[0x9d03aa]	Now I know what you
+look like, there'll
+be no escape!
+---
+[0x9d0628]	Intruder!
+
+No one but my master
+may approach the
+world-thread!
+---
+[0x9d06a8]	I came to destroy
+that crystal...
+
+...or world-thread
+or whatever
+you call it.
+
+And I'm not leaving
+until I do!
+---
+[0x9d076e]	I am the totema
+Adrammalech!
+
+By my strength, I
+shall defend the
+world-thread...
+
+And destroy all
+those who seek
+to harm it!
+---
+[0x9d0838]	That ghost must have
+become part of the
+crystal's power!
+
+I heard that the
+crystals were pure
+magic...
+
+but now I think
+there must be
+something more.
+
+Some kind of
+incredible energy...
+
+that could create
+the totema and all
+the different races.
+---
+[0x9d09a6]	The air here has
+changed... What
+have you done!?
+
+Acting against the
+the prince's wishes
+again, are you!?
+---
+[0x9d0c76]	What do you have
+there that you
+do not have here?
+
+Money? Power?
+
+Something worth
+causing the prince
+so much pain for?
+---
+[0x9d0d72]	You would make the
+prince suffer over
+...nothing?
+---
+[0x9d0dd6]	I must return--the
+prince needs me.
+We'll meet again.
+
+And next time,
+I will not be
+so forgiving!
+---
+[0x9d0f8a]	!
+Long time no kupo!
+You look well!
+---
+[0x9d1106]	is an
+apprentice
+gadgeteer...
+
+And he just finished
+building the airship
+of his dreams.
+---
+[0x9d1210]	Someone ran into
+you and took off?
+Gee...that stinks!
+---
+[0x9d1312]	Do you know
+who did it?
+---
+[0x9d1514]	A place where
+judges can't go!
+A lawless zone!
+---
+[0x9d1578]	So there's no
+penalty for
+breaking the law?
+
+That sounds great!
+---
+[0x9d15f4]	If it were that
+great, all the clans
+would go, kupo.
+---
+[0x9d167e]	Nope. In fact,
+they avoid them
+like the plague!
+---
+[0x9d16fc]	It's true that
+there are no laws
+in the jagds...
+
+But lawlessness
+comes at a steep
+price, kupo!
+---
+[0x9d181e]	Ever wonder why
+no one ever dies
+when they engage?
+
+It's because laws
+and the judges are
+there to stop death!
+---
+[0x9d18d6]	So without the
+judges...
+you can die?
+---
+[0x9d198c]	But what about
+'s airship?
+
+We can't just let
+whoever did this
+get away scot-free!
+---
+[0x9d1a2c]	I thought you'd
+say something
+like that, kupo.
+---
+[0x9d1b45]	So you'll go to
+Jagd Dorsa for me?
+Really, kupo?
+---
+[0x9d1baa]	We'll go, but I
+can't promise
+we'll succeed.
+---
+[0x9d1c04]	Sorry for dragging
+you into this,
+.
+
+I know you've got
+other things on
+your mind, kupo!
+---
+[0x9d1caa]	No problem. Don't
+worry about it.
+Besides...
+
+I've got a little
+brother, too, so
+I know how you feel.
+---
+[0x9d1d98]	Thank me when
+I get back in
+one piece...
+---
+[0x9d1f28]	Sorry, no can do.
+Not after what you
+did to my friend!
+---
+[0x9d1f9a]	I see what they
+were saying
+about the jagds...
+
+This place gives
+me the creeps.
+---
+[0x9d202c]	I hope this is the
+last time I have to
+come here.
+---
+[0x9d2086]	Let's go report
+to . Off to
+Baguba Port!
+---
+[0x9d219e]	Pleased to
+meet you!
+---
+[0x9d23a0]	I got a reward for
+turning those guys
+in...
+
+Here, . I want
+you to use it to
+repair your airship.
+---
+[0x9d24ac]	No, it's OK. The
+clan already got
+its cut. Go ahead.
+---
+[0x9d25ca]	In order to fix her,
+I'd have to borrow
+money...
+
+So I was thinking
+of making her into
+a merchant ship!
+---
+[0x9d26be]	Is your airship
+even big enough?
+---
+[0x9d2704]	Oh, I couldn't carry
+any large cargoes
+of course, kupo.
+
+I could supply small
+merchants, though.
+Kupo!
+---
+[0x9d27bb]	Kupo!
+That sounds like
+a pretty good idea!
+---
+[0x9d2819]	You really think
+so, kupo?
+---
+[0x9d2a2c]	You are
+[0x9d2a52]	I have a message
+from for you.
+---
+[0x9d2a9a]	Is something
+wrong?
+---
+[0x9d2ac8]	He has begun
+his business!
+---
+[0x9d2b1c]	That's what the
+message is about.
+
+He had to borrow
+money to fix his
+ship, you see.
+
+So to pay it back,
+he's made his ship
+a merchant craft!
+---
+[0x9d2c48]	He's doing it all,
+buying and selling
+to the shops.
+
+He said he'd let
+you know if he gets
+anything good.
+---
+[0x9d2cfc]	It's good to
+hear that 's
+back on his feet.
+---
+[0x9d2d5a]	Thanks for the
+message!
+
+I'll be sure
+to check out
+the shops...
+---
+[0x9d2e00]	Are you with
+Clan Ox?
+---
+[0x9d2e32]	Hmm? You know
+something about
+the wanted kid?
+---
+[0x9d2e92]	Actually, I was
+hoping you could
+tell me about it...
+---
+[0x9d2f00]	Hey, Boss, remember
+the description the
+palace sent out?
+
+Don't you think this
+guy here fits it
+pretty close?
+---
+[0x9d2fc0]	Hmm, now that you
+mention it...
+Better get his name.
+---
+[0x9d30de]	Boss, it's him!
+He's the one the
+palace is after!
+---
+[0x9d313e]	What? You mean
+they put out a
+bounty on me!?
+---
+[0x9d3210]	I heard the wanted
+fellow was from
+a small clan...
+
+And I wondered if
+it might be yours.
+Guess I was right!
+---
+[0x9d32cc]	Get the fugitive!
+The bounty's as good
+as in our pockets!
+---
+[0x9d333e]	I can't believe the
+palace would put a
+bounty on my head!
+
+I have to find the
+rest of those
+crystals, and fast!
+---
+[0x9d350a]	Long time no see.
+You seem to be
+doing well...
+---
+[0x9d35d6]	Don't worry--
+I'm not in a clan
+for the money.
+
+And I certainly
+wouldn't turn in a
+friend for some gil.
+---
+[0x9d3688]	Us meeting was an
+accident. We're not
+after your bounty.
+
+We're here on
+some other
+business.
+---
+[0x9d373a]	Stop hiding, and
+come on out!
+---
+[0x9d377a]	We know you're the
+no-good, swindling
+clock-forgers!
+---
+[0x9d37e8]	They probably think
+they can trade you
+in for a pardon.
+---
+[0x9d3854]	Get that bounty!
+Deal with the others
+as you see fit!
+---
+[0x9d396e]	Is this Prince
+who's after you
+really our ?
+---
+[0x9d39d0]	...Yeah, I think so.
+He's not too happy
+about me being here.
+---
+[0x9d3a4a]	Well, if we know
+that our wimpy
+ is prince here,
+
+then we can be
+pretty sure who
+changed Ivalice!
+---
+[0x9d3b02]	doesn't like
+the other world.
+He's happy here.
+
+And I'm his enemy,
+since I want to
+go back home.
+---
+[0x9d3bbe]	So you know this is
+'s dream world,
+
+and you still want
+to destroy it?
+
+I'd have thought
+this world was
+better for you, too.
+---
+[0x9d3cb4]	People don't pick on
+you here or call you
+"new kid," do they?
+
+Wouldn't you like to
+change things if you
+had the chance?
+
+Your brother, for
+instance...?
+---
+[0x9d3df8]	Ask me a thousand
+times, and my answer
+will still be "no."
+---
+[0x9d426e]	I might just join
+sides with ,
+you know!
+
+Then we'd be
+enemies, got it?
+---
+[0x9d42fc]	You know, , I
+think 's
+worried about you.
+
+Why not help him?
+You're no friend
+of the palace.
+---
+[0x9d43e8]	If what he says is
+true, his family is
+in the other world.
+
+And so is yours,
+.
+
+You don't want to
+see them or your
+friends again?
+---
+[0x9d44c2]	I do, but, here I've
+got something that I
+don't want to lose.
+
+It's...my hair.
+This normal, non-
+white, hair.
+---
+[0x9d45d8]	In the other world,
+in reality, my hair
+is pure white.
+
+I was born that way.
+I had to dye it
+every morning...
+---
+[0x9d468e]	Before I learned
+how, my mom would
+do it for me.
+
+And that...
+I couldn't stand it.
+---
+[0x9d472c]	She was always
+so sad...
+
+She looked like she
+would cry every time
+she took out the dye.
+---
+[0x9d47d4]	I'd rather be called
+"whitey-locks" than
+see her face...
+
+What did she have
+to cry about?
+Her hair was normal!
+---
+[0x9d489e]	I was the one that
+should have been
+crying, not her!
+---
+[0x9d4908]	I can find family
+and friends here.
+
+But I'd never be able
+to change things in
+that world.
+---
+[0x9d4a38]	Well, he's probably
+trying very hard
+not to be found.
+---
+[0x9d4c24]	Your Highness,
+please, calm down.
+
+Master will
+surely find him.
+---
+[0x9d4cde]	I shall summon her
+for you. Just a
+moment...
+---
+[0x9d5004]	Quite the fuss
+they're making
+over you, no?
+
+I hear you've got
+a bounty on your
+head, my friend.
+---
+[0x9d5112]	Hmm, that's odd.
+You seem harmless
+enough!
+---
+[0x9d51b2]	I'm enjoying the
+recent lapse in
+my popularity...
+
+All the judges and
+bounty hunters are
+after you, now.
+---
+[0x9d527e]	Have you looked
+outside recently?
+
+It's quite the
+ruckus out there,
+I tell you!
+---
+[0x9d5342]	The judges are
+searching the
+clans one-by-one.
+---
+[0x9d53a2]	Searching the
+clans? What for?
+---
+[0x9d53e4]	Looking for you,
+I'd wager.
+
+You're a slippery
+fish, see. They're
+getting desperate.
+
+The palace is rather
+...eager, shall we
+say, to get you.
+---
+[0x9d5522]	And help the palace?
+Not a chance!
+
+Any enemy of the
+judges is a friend
+of mine.
+---
+[0x9d55b6]	Nice to know there's
+still somebody on
+my side...
+---
+[0x9d56bc]	See you around...
+perhaps at my shop?
+---
+[0x9d5748]	Don't play
+innocent with
+me, moogle!
+---
+[0x9d5796]	But isn't the one
+with the bounty on
+his head a human?
+
+I'm a moogle!
+You said it
+yourself, kupo!
+---
+[0x9d584a]	We have witnesses
+that saw the human
+with a moogle.
+---
+[0x9d58ae]	Kupo! That's no
+reason to send me
+to prison!
+---
+[0x9d5910]	It's enough reason
+for me. Now come
+along quietly!
+---
+[0x9d597a]	That's horrible!
+That judge isn't
+even listening!
+
+He's no better than
+a schoolyard bully!
+---
+[0x9d5a27]	I guess they're
+beyond worrying
+about appearances...
+---
+[0x9d5a96]	That's it!
+I'm not standing
+for this anymore!
+---
+[0x9d5b86]	Eh? Is it really
+you? You're turning
+yourself in?
+---
+[0x9d5be8]	Yes! And I want you
+to release all the
+innocents!
+---
+[0x9d5c50]	Not going to happen.
+Not until we know
+you're really him!
+---
+[0x9d5eb0]	I cannot say for
+sure... I didn't
+ask his name.
+---
+[0x9d5f14]	Right, bring him
+and his friends
+in for questioning!
+---
+[0x9d5f7a]	Wait! The others
+have nothing to
+do with this!
+---
+[0x9d5fd6]	Oh, but they do--
+they aided a
+wanted fugitive!
+---
+[0x9d638a]	The one we want is
+the one destroying
+the crystals...
+
+Is that you?
+---
+[0x9d63fc]	I've destroyed
+three of the
+crystals, yes.
+
+And I defeated
+, Ultima,
+and Adrammalech.
+---
+[0x9d649e]	He appears to speak
+the truth.
+
+Only a few at the
+palace know the
+names of the totema.
+---
+[0x9d6530]	My clan was just
+helping me so
+I could get back...
+
+To the real world.
+...My home!
+---
+[0x9d65f4]	Ah yes, he was
+babbling something
+about Ivalice.
+
+He claims Ivalice
+is really some
+countryside town!
+
+Futhermore, he says
+this world is just
+an illusion...
+
+And all who live
+here, mere dreams!
+---
+[0x9d6710]	It's true!
+
+And I wasn't the
+only one living in
+the real Ivalice!
+
+ was there,
+and so was his
+dad--you!
+---
+[0x9d67c0]	I warned you before,
+commoner--mind your
+manners!
+---
+[0x9d6822]	Destroying the
+crystals will
+destroy Ivalice!
+
+Yet you say this
+will bring back
+the "real" world?
+---
+[0x9d68ca]	I ask you, is there
+no other way for
+you to go home?
+---
+[0x9d695c]	Then you will have
+to abandon this
+mission of yours.
+
+The balance of our
+world depends on
+the crystals.
+
+You cannot be
+allowed to destroy
+them.
+
+You cannot be
+allowed to destroy
+our world.
+---
+[0x9d6a54]	You will have to
+accept where and
+who you are now.
+
+In time, you will
+forget this other
+world you speak of.
+---
+[0x9d6b22]	I hear your clan
+is doing quite
+well of late.
+
+Power, friends,
+rank, wealth...
+
+This world offers
+all of these
+things, and more.
+
+What else could
+you possibly
+desire?
+---
+[0x9d6c2a]	Think also of ,
+and the pain you
+are causing him.
+
+If your heart is
+good, your path
+should be clear.
+---
+[0x9d6ce4]	Wrong! This world
+might make him
+happy now...
+
+But it's just an
+illusion, a dream!
+---
+[0x9d6d86]	needs to go
+back and live his
+real life, not this!
+
+If he just stays
+here--
+---
+[0x9d6e36]	You...You called
+it! Somehow, you
+summoned it here!
+---
+[0x9d6ed0]	The totema is weak.
+All its power goes
+to the crystal...
+
+A weakened totema
+cannot defend its
+crystal...
+---
+[0x9d6f6e]	They look like
+trees. They're
+the totema!?
+
+This reminds me
+of Ultima.
+
+I bet if I just
+crush all of
+these fruits...!
+---
+[0x9d7036]	Destroy the fruits
+to destroy the
+crystal, is that it?
+---
+[0x9d7096]	You're alone now.
+None of your friends
+can help you.
+---
+[0x9d70fa]	You would fight even
+with the odds
+stacked against you?
+
+Are you so sure
+of your abilities?
+---
+[0x9d71a0]	Not at all. I'm
+always nervous.
+
+But...I can't
+afford to let
+that stop me.
+---
+[0x9d7230]	I love this world.
+There's magic, and
+the clan is fun...
+
+Sometimes, I'm not
+sure I really want
+to go home.
+---
+[0x9d72f0]	But I am sure that
+this place isn't
+real. It's a game!
+
+It's just a dream--
+an escape from the
+real world!
+---
+[0x9d73a4]	But you can't just
+avoid problems
+forever...
+
+I have to go back!
+I have to destroy
+the crystals!
+---
+[0x9d7450]	And I suppose you
+think we're just
+going to stand here?
+---
+[0x9d74c0]	How can a whole world
+be someone's attempt
+to escape?
+---
+[0x9d75de]	All the more reason
+to protect this
+world from you!
+---
+[0x9d7646]	It's escapism!
+Can't you see?
+It's not healthy!
+---
+[0x9d76a6]	Wrong! The prince
+himself has said,
+
+if the world is to go
+back, he should
+be the one to do it!
+
+These are not the
+words of a dreamer!
+
+No, he looks reality
+in the face, and it
+pains him terribly.
+---
+[0x9d77e8]	You...You think
+only of yourself.
+
+Selfish child,
+all you want to
+do is go home!
+---
+[0x9d79d2]	How can I remember
+a place where I
+have never been?
+
+I am master
+, the most
+powerful judge in...
+---
+[0x9d7b08]	All were destroyed?
+No... I tried but I
+could not stop him!
+---
+[0x9d7c7a]	He's been like that
+ever since mom died.
+It's embarrassing.
+---
+[0x9d7d2e]	Now I remember.
+That was me.
+After she died...
+
+I didn't work...
+All I did was
+drink.
+---
+[0x9d7e00]	didn't want to
+believe it...
+
+To think, his own
+father...crying
+in the gutters.
+
+That's why he made
+me judgemaster here
+in this world.
+---
+[0x9d7ee0]	Or...maybe it was
+I myself who did
+that.
+---
+[0x9d7f54]	!
+The judges are
+leaving!
+
+From now on, the
+palace and the
+judges are separate!
+---
+[0x9d7fe2]	What?
+Y-You would leave
+the palace?
+
+Leave the prince!?
+---
+[0x9d804c]	He should not see
+me here--his false
+father.
+
+I believe this is
+best for both
+and myself.
+
+I will go to the
+palace at once and
+report my decision.
+---
+[0x9d8136]	Let the prisoners
+go free...
+The boy, too.
+---
+[0x9d81e0]	It is not in my
+power at this time
+to judge the danger
+
+he does or does
+not present to
+and this land.
+---
+[0x9d827e]	I do not doubt that
+ will continue
+his pursuit of you.
+
+But that is no
+longer the concern
+of the judges.
+---
+[0x9d832c]	We are, from this
+day forth, servants
+of the law only.
+---
+[0x9d844c]	What's up with
+the judgemaster?
+---
+[0x9d8490]	Separating the
+palace and the
+judges, really!
+---
+[0x9d84ea]	You seem gloomy...
+'Tis good news for
+the clans, no?
+---
+[0x9d8586]	I'm not sure I get
+what all this means.
+---
+[0x9d85da]	It means the judges
+are neutral now.
+
+No more palace
+pulling strings
+in the shadows.
+---
+[0x9d866e]	It's odd that
+they'd just let
+him go like that.
+---
+[0x9d86ca]	I hear he walked
+right out--the
+palace be damned!
+---
+[0x9d872e]	Her Majesty must
+be in a rightful
+fit!
+---
+[0x9d8780]	More the prince than
+the queen. I hear
+he threw a tantrum.
+---
+[0x9d87e6]	, if you need
+anything, don't
+hesitate to call.
+
+I will always be
+there for you.
+---
+[0x9d8886]	Master , will
+you truly leave
+the palace?
+
+Please, stay with
+us. Stay with the
+prince! I beg you!
+---
+[0x9d8932]	Quiet, ! Papa
+said he's going to
+leave, so let him.
+
+He can do whatever
+he wants.
+I don't care.
+---
+[0x9d8b04]	This is the boy
+I spoke of. His
+power has grown...
+
+He's more powerful
+than you now. He'll
+be your replacement.
+---
+[0x9d8bbe]	...It's not very
+nice of Papa to
+leave you like this.
+---
+[0x9d8cbe]	Do not worry, .
+I will always
+be with you.
+---
+[0x9d8dba]	, this
+is .
+
+You must protect
+him now that the
+judgemaster is gone.
+---
+[0x9d8e42]	I am Twem.
+It is an honor to
+serve you.
+---
+[0x9d8e9c]	You brought him
+here for me?
+Thank you, Mama!
+---
+[0x9d8efc]	We met you that day
+in town...
+
+You were apologizing,
+and I think it made
+ sad to see you.
+---
+[0x9d903c]	When Mom died, he
+stopped caring. He
+made some mistakes...
+---
+[0x9d90b0]	That person... You're
+saying that's who
+I really am?
+---
+[0x9d911c]	Yes...yes, that was
+me. I remember now.
+
+Nothing seemed to go
+right, ever since she
+died...
+---
+[0x9d93e4]	Hiss information
+wass very detailed.
+I trusst him.
+---
+[0x9d9450]	Here comes our
+pot of gold now!
+---
+[0x9d9496]	We've been waiting
+for you, fugitive!
+---
+[0x9d9508]	Yess! We were told
+you would be
+coming here!
+---
+[0x9d9560]	You may have been
+let go, but there's
+still that bounty!
+---
+[0x9d9678]	Was someone watching
+me just now?
+---
+[0x9d97f0]	The prince will
+thank uss highly
+for thiss one!
+
+Let'ss get him!
+---
+[0x9d989e]	Tell me about the
+boy that was here
+before we engaged!
+
+Everything you
+know! Tell me!
+---
+[0x9d992e]	Ssorry, but I
+don't know much...
+
+He ssaid he'd ssell
+uss info about
+the fugitive--you.
+---
+[0x9d9c80]	I cannot allow
+you to interfere
+any further!
+---
+[0x9d9d3a]	Your time here
+is up.
+---
+[0x9d9da4]	The fifth...and
+final! I have to
+find that crystal.
+
+Who was that guy,
+anyway? Wonder if
+he's still around.
+---
+[0x9d9e5e]	You shall go
+no farther!
+---
+[0x9d9ec4]	It appears I have
+made it in time!
+---
+[0x9d9f0e]	! Use your
+power here, and the
+crystal will break!
+---
+[0x9d9f7a]	...Ah, I see. We
+are too close to
+the crystal.
+
+And I so wanted
+to use Omega...
+---
+[0x9da078]	But this is the last
+crystal! This is
+my only way home!
+---
+[0x9da0dc]	This guy
+sends chills up
+my spine.
+
+What did mean,
+"You cannot hope
+to win"?
+---
+[0x9da17e]	You cannot
+defeat me.
+---
+[0x9da1c0]	You will lose.
+It is inevitable.
+---
+[0x9da2e2]	I'm glad you've
+finally accepted
+the truth.
+---
+[0x9da420]	It is. You won.
+What now?
+
+If you wish to go
+back, I'll take you
+outside the seam.
+---
+[0x9da4ba]	I have to find
+the last crystal.
+---
+[0x9da670]	Why do you seek
+to destroy this
+world?
+---
+[0x9da7a6]	You don't sound too
+sure of yourself.
+Why not quit?
+
+If you went back,
+you'd just be a
+normal boy again!
+---
+[0x9da8ea]	I can be a warrior,
+fighting monsters...
+
+Or a sorceror,
+casting spells...
+changing the world!
+
+Just like a game!
+Isn't this what we
+all wanted?
+---
+[0x9da9d2]	There's so much to
+do in this world
+it's so exciting!
+
+Just try doing half
+the stuff you can do
+here back home!
+---
+[0x9daa94]	What's so great
+about going back?
+Why go home at all?
+---
+[0x9dab10]	Will your dad
+come back,
+---
+[0x9dab5e]	All your parents
+do is fight!
+
+Dad's always at work
+and Mom's always
+looking after .
+---
+[0x9daca8]	Why don't we just
+stay here? Here
+we can be happy!
+---
+[0x9dade0]	Strong enough to
+break out of this
+place, I'd say.
+---
+[0x9dae62]	You're so strong,
+you don't need this
+world, or magic.
+
+That's right! You're
+even tough enough to
+take on yourself!
+---
+[0x9daf74]	You shouldn't hold
+back so much.
+
+Always thinking with
+your head--denying
+what you want!
+---
+[0x9db086]	I'm going to bring
+the world back--
+the real world!
+---
+[0x9db0e2]	That should do it!
+Everything will go
+back the way it was.
+---
+[0x9db21c]	Then why are
+we still here?
+---
+[0x9db29a]	Even without the
+world-threads
+binding it...
+
+As long as this
+world is wanted,
+it will exist.
+---
+[0x9db448]	It is not only
+, either...
+
+You, too, are not
+yet ready to bid
+this world farewell.
+---
+[0x9db4de]	You destroyed the
+crystals, and yet
+this world stayed.
+
+What are you going
+to do now?
+---
+[0x9db5e2]	How will you go to
+him? will not
+leave the palace.
+---
+[0x9db64a]	I am sorry, but I
+can offer you no
+assistance in this.
+---
+[0x9db6bc]	It's OK. This is
+a decision I have
+to make.
+---
+[0x9db71a]	I see.
+I wish you good
+luck, then.
+---
+[0x9db7a2]	The palace will
+be packed this
+year, as always.
+---
+[0x9db802]	I went once, on
+a job.
+
+The place was so
+full I could hardly
+breathe.
+---
+[0x9db940]	Well, the official
+name is "Audience
+Day," kupo.
+
+But since everybody
+tries to bring the
+fanciest gift,
+
+they call it
+"Gift Day."
+---
+[0x9dba28]	And people can go
+inside the palace
+that day? Anyone?
+---
+[0x9dba96]	Anyone can ask for
+an audience, kupo.
+
+Anyone with the
+right connections,
+that is.
+---
+[0x9dbd6e]	Bartender, what
+are they talking
+about?
+---
+[0x9dbdc4]	Eh? Ah, that'd be
+Gift Day. It's
+coming up, you know.
+---
+[0x9dbe34]	The real name is
+"Audience Day."
+
+But since everyone
+competes to bring
+the best gift,
+
+they call it
+"Gift Day"
+instead.
+---
+[0x9dbf00]	Yup, just about
+anyone can apply
+for an audience.
+
+If you've got the
+right connections,
+you're in for sure.
+---
+[0x9dbfb8]	If you brought a
+good-enough gift,
+you'd have a chance.
+---
+[0x9dc096]	Then you should
+talk to .
+
+He's good with his
+hands, that one.
+
+He could make you
+a fine gift,
+I'd wager.
+
+How about I talk
+to him next time
+he comes in?
+---
+[0x9dc476]	We'll be taking
+that load off
+your hands.
+---
+[0x9dc540]	Wow, you sure found
+yourself a big
+chunk, didn't you?
+---
+[0x9dc5d4]	I know all about
+your plans.
+
+You're going to use
+this to make a gift
+for , right?
+---
+[0x9dc684]	What is he going to
+make for you?
+
+A magic salad
+shooter? Or maybe
+a Murasumthin'?
+
+Hah hah!
+I want one, too!
+---
+[0x9dc79a]	! What has
+gotten into you!?
+
+Selling me to the
+bounty hunters,
+taking my materite!
+---
+[0x9dc82e]	You're trying to
+make the world the
+way it was, right?
+
+That's why you're
+going to see ,
+isn't it?
+---
+[0x9dc900]	I don't want you to.
+I don't want to
+go back, ever!
+
+That's why I'm
+going to stop you!
+---
+[0x9dc99e]	Of course you want
+to go back. You have
+a reason to!
+
+You can run around
+and play with your
+friends...
+---
+[0x9dca52]	But what's waiting
+for me? Have you
+thought of that?
+
+You have everything
+back there, and I
+have nothing!
+---
+[0x9dcb5c]	But I don't.
+
+There's something
+you have. Something
+I've always wanted.
+
+You just don't
+realize it.
+---
+[0x9dcc70]	, you got
+to relax--just act
+natural, kupo!
+---
+[0x9dcccc]	It's hard when the
+palace still has a
+bounty on my head!
+
+Shouldn't I, like,
+go in disguise or
+something?
+---
+[0x9dcd92]	Hardly anyone knows
+your face,
+.
+
+Just pretend like
+you belong, and no
+one will look twice!
+---
+[0x9dce3e]	I guess you're
+right.
+
+And we have that
+gift from !
+
+I'm amazed he did
+such a great job...
+
+Especially after
+ wrecked most
+of my materite.
+---
+[0x9dcf94]	's "lugaborg"
+will get us in the
+door for sure!
+---
+[0x9dcffa]	...Why is it taking
+so long? Everyone
+else's already gone.
+---
+[0x9dd0da]	Some kind of
+trouble during
+an audience, or...
+---
+[0x9dd13e]	They might have
+figured out who
+you are, kupo...
+---
+[0x9dd1e2]	I can't believe it!
+Not after we came
+this far, kupo!
+---
+[0x9dd256]	We received a tip
+from a concerned
+citizen!
+---
+[0x9dd311]	, you got
+to relax--just act
+natural!
+---
+[0x9dd360]	Hardly anyone knows
+your face,
+.
+
+Watch me. Pretend
+you belong, and
+no one looks twice!
+---
+[0x9dd406]	He'll make a fine
+gadgeteer, that one.
+---
+[0x9dd458]	Well, ,
+you watch yourself.
+
+Hope you get
+to see the
+prince, eh?
+---
+[0x9dd4d6]	Thanks for coming
+this far with me.
+Here goes nothing!
+---
+[0x9dd540]	...Why is it taking
+so long? All the
+others have gone in.
+---
+[0x9dd5ae]	What!? Not after
+I made it this far!
+How did you know?
+---
+[0x9dd69a]	Oh no! I can't let
+them capture me!
+---
+[0x9dd73a]	Come!
+I'll take you to
+see His Highness.
+---
+[0x9dd78e]	You came here to
+meet the prince,
+didn't you?
+---
+[0x9dd84a]	Don't get me wrong,
+I didn't come here
+to help you.
+---
+[0x9dd8aa]	I want to know what
+the prince is really
+thinking, and...
+
+I need your help.
+---
+[0x9dd93e]	You want me
+to help you?
+What for?
+---
+[0x9dd988]	I need to understand
+this "other world,"
+you see...
+
+As much as it pains
+me, you're the only
+one I can turn to.
+---
+[0x9ddb9c]	You have a visitor,
+Your Highness.
+---
+[0x9ddc82]	You betrayed me!
+Just like Papa,
+you betrayed me!
+---
+[0x9ddd60]	If that were true,
+he certainly would
+not bring YOU here!
+
+I was the one that
+wanted you arrested!
+---
+[0x9dde08]	needs to
+make sure!
+
+He needs to know
+that you're not
+just escaping...
+---
+[0x9ddeca]	...I have heard this
+world is an escape
+for you, a dream.
+
+If this is so, then
+perhaps, staying
+here in Ivalice...
+
+would not be best
+for Your Highness.
+---
+[0x9ddfb8]	Do you not think
+so as well?
+
+That you should face
+reality in the
+other world?
+---
+[0x9de07a]	Your Highness is a
+bright lad. You
+should understand...
+
+why it is you would
+want to live in a
+world like this.
+
+And...why it is
+that you cannot.
+---
+[0x9de14a]	Quiet! Be quiet!
+
+It's not that
+simple! You
+wouldn't understand!
+---
+[0x9de2be]	Why don't you just
+go home, ?
+By yourself?
+
+I'm staying here!
+I don't want to
+go back, ever!
+---
+[0x9de366]	Somewhere in my
+heart, I want to
+stay here, too...
+
+If I didn't, then
+destroying the
+last crystal...
+
+would have been
+enough to get
+me home.
+---
+[0x9de444]	If...If I go home,
+everyone'll pick on
+me! And Papa...
+
+Back there, I can't
+change anything!
+I need magic!
+---
+[0x9de664]	Why must you drag
+ back against
+his will?
+---
+[0x9de6be]	Because I think that
+ doesn't want
+to live in a dream!
+
+We're here to help
+him realize that!
+---
+[0x9de7e4]	Don't listen to
+her, ! Make
+your own decision.
+---
+[0x9de956]	Aside, !
+If you are truly
+loyal to the prince,
+
+then you won't let
+him and the queen
+get away!
+---
+[0x9dea42]	What are you
+talking about!?
+---
+[0x9dea80]	! Go follow
+those two! Leave
+this one to me!
+---
+[0x9deadc]	I sent for
+he should be
+here soon.
+
+Hold out until
+he arrives!
+---
+[0x9deb54]	It won't be long!
+Until then, fight,
+and fight well!
+---
+[0x9debee]	You are interfering
+in matters that do
+not concern you!
+---
+[0x9dec56]	Hmm...that chill
+running up my spine.
+Just like before...
+
+Who is this guy?
+---
+[0x9decea]	No matter how many
+times you try, you
+will always lose.
+---
+[0x9ded58]	All I have to do is
+hold out until the
+judgemaster arrives!
+---
+[0x9dedd4]	Dying breath, light
+my blade and sing
+in shadow...Omega!
+---
+[0x9dee74]	...Lucky timing.
+I was just about
+to finish you off.
+---
+[0x9def7e]	I thought he was
+'s attendant,
+like ...
+
+But he acts totally
+different and...he
+gives me the creeps.
+---
+[0x9df05e]	Or rather, he is the
+distillation of an
+aspect of ...
+
+The most violent,
+dangerous aspect.
+---
+[0x9df0fc]	Why would he make
+such a thing?
+---
+[0x9df140]	is just
+like the totema.
+
+He was created to
+protect and
+the crystals.
+---
+[0x9df1c4]	That was my role,
+in the beginning.
+
+Now, because of my
+actions, it has
+come to this.
+---
+[0x9df340]	While you're doing
+that, I'll go talk
+to Doned and .
+
+They have to be
+convinced, too.
+---
+[0x9df3e2]	I will let you know
+when I find them.
+---
+[0x9df4f8]	And the prince
+with her.
+---
+[0x9df52e]	Together with the
+judgemaster?
+---
+[0x9df570]	After he split off
+from the palace?
+Not likely.
+---
+[0x9df5d2]	Didn't they say
+where they were
+going?
+---
+[0x9df61a]	Since when have
+they told us
+anything?
+---
+[0x9df66c]	I'm sure or
+Judgemaster will
+find them...
+
+I need to focus
+on doing what I
+must do now.
+---
+[0x9df71c]	If I go back everyone
+will pick on me!
+
+And Papa will go
+back to the way he
+was before... No!
+
+I won't go back!
+I need magic to make
+things better!
+---
+[0x9df8a1]	Kupo!
+So, what's our next
+job,
+---
+[0x9df8ee]	We need to find
+some mythril ore.
+---
+[0x9df936]	Kupokupo...
+Mythril hunting?
+
+Why do you always
+have to pick the
+tough jobs, kupo?
+---
+[0x9df9dc]	Just trying to make
+a name for us, you
+know.
+---
+[0x9dfa3f]	That's true. If we
+find some, our clan
+will be famous!
+---
+[0x9dfb46]	I didn't think he'd
+come if I just
+asked him normally.
+---
+[0x9dfbbd]	So you're going to
+lure him in, kupo?
+---
+[0x9dfc0c]	When he hears I'm
+out looking for
+mythril...
+
+There's no way he'll
+be able to resist
+interfering!
+---
+[0x9dfe6c]	I really had no idea
+what was going on
+at first...
+
+All I could do was
+worry about getting
+back home.
+---
+[0x9dff20]	To tell the truth,
+I still don't know
+what's going on.
+
+But I do know that
+as long as I truly
+want to go home...
+
+I'll be able to.
+No matter how
+long it takes.
+---
+[0x9e000c]	But you should try
+to make up with
+your brother, kupo!
+---
+[0x9e02dc]	Well, we sort of
+had a falling out...
+---
+[0x9e032c]	Well, whatever the
+reason, I wish you
+good luck.
+
+And don't fight with
+your brother--he's
+family, remember.
+---
+[0x9e04ac]	I was just trying
+to find out if there
+really was any here!
+---
+[0x9e051a]	Heh! Nice try! We
+know why you're
+here,
+---
+[0x9e05c6]	Looks like I managed
+to get 's
+attention...
+
+He must be around
+here somewhere.
+---
+[0x9e06b0]	So, this was just
+a trick to get
+me to come, eh?
+---
+[0x9e0858]	How isn't it true?
+You can run!
+You're not sick!
+
+You have friends,
+and you can have
+snowball fights...
+---
+[0x9e0904]	Well, I can have all
+those things, too.
+In this world!
+---
+[0x9e0970]	I have lots of
+friends in my clan.
+
+And someday soon,
+I'll be strong
+enough to engage!
+
+I can have fun here,
+fun! And you want
+to take it all away!
+---
+[0x9e0a62]	I don't think going
+back home means
+losing everything.
+---
+[0x9e0aca]	That's because you
+are you! You have
+everything there!
+---
+[0x9e0b5e]	What then?
+What don't you
+have!?
+
+Don't tell me
+you want more!
+---
+[0x9e0bcc]	I never said I
+"wanted" anything!
+
+I gave all the "I
+wants" and the "I
+don't wants" to you!
+---
+[0x9e0c5a]	You were always
+saying "I want this"
+and "I want that."
+
+And I always had
+to put up with
+everything!
+---
+[0x9e0d06]	Yes, you were always
+sick, and I wasn't.
+
+And Mom was so busy
+looking after you...
+
+I couldn't ask for
+anything for me,
+could I?
+---
+[0x9e0dd8]	I was jealous that
+Mom gave you all
+the attention...
+
+Especially after we
+moved away from Dad,
+into the country.
+
+It was like I
+was living alone.
+---
+[0x9e0ecc]	I don't have
+everything.
+---
+[0x9e0f02]	I know, you were
+happy when you
+found yourself here.
+
+I was, too. I like
+this world--you
+can do anything.
+---
+[0x9e1028]	It's so much fun.
+I can run!
+
+I don't have to
+go back to my
+wheelchair...
+---
+[0x9e10b8]	It's like I said.
+Even if the world
+turns back...
+
+I don't think you
+have to lose what
+you've found here.
+---
+[0x9e1174]	I'm sure you'll be
+able to run when
+we go back!
+
+I'll do everything
+I can to help, too!
+---
+[0x9e12bc]	You don't have
+any idea where
+ went?
+---
+[0x9e13f8]	Everybody's too
+busy with the
+clan wars to care.
+---
+[0x9e1458]	sigh
+I guess we just have
+to sit and wait.
+---
+[0x9e14cc]	I have a message
+from Lord
+for you.
+---
+[0x9e1560]	The queen and prince
+are both to be found
+in the Ambervale.
+
+He asks you to come
+find him on the
+Deti Plains.
+---
+[0x9e161c]	The Deti Plains?
+Judgemaster
+is there?
+---
+[0x9e16c4]	The Ambervale...
+I think that's
+the Royal Valley!
+---
+[0x9e1758]	It's supposed to be
+the most beautiful
+place in Ivalice.
+
+The king used to
+have a summer
+palace there.
+---
+[0x9e1942]	You sure got
+here fast.
+---
+[0x9e1976]	Well, it's not like
+I've got anything
+better to do.
+
+Have you met
+them already?
+---
+[0x9e1a12]	No, not yet.
+There's something
+I need first.
+
+That's why I've
+come here.
+---
+[0x9e1a9d]	, can I
+ask you to do
+something for me?
+---
+[0x9e1b18]	I want you to go
+to the Siena Gorge
+and find some amber.
+---
+[0x9e1b9c]	It's a request from
+your friend ,
+the genius.
+
+He needs it to make
+a powerful antilaw.
+---
+[0x9e1cb0]	We may need it
+in the Ambervale.
+---
+[0x9e1cf6]	Are you sure it's
+OK? You being the
+judgemaster and all?
+---
+[0x9e1d6a]	I'm prepared
+to face the
+consequences.
+---
+[0x9e1dbe]	All right then.
+I'll go look
+for some.
+---
+[0x9e1e10]	I'll meet up
+with you there
+a little later.
+---
+[0x9e1e6a]	Seems like he's
+heading toward
+the Siena Gorge.
+
+What do you want
+to do, ? Should
+we follow him?
+---
+[0x9e1ff1]	always got picked
+on over there...
+---
+[0x9e203a]	When I imagined us
+engaging him head-
+on...
+
+It just seemed
+kind of funny.
+---
+[0x9e20c4]	They don't pick on
+ anymore,
+though. Not here.
+---
+[0x9e214a]	I hoped we'd
+never have to
+meet like this.
+---
+[0x9e21b8]	I have no desire to
+discuss this with
+you, .
+
+I can't let you
+go any farther.
+
+And even if it
+means fighting you,
+I won't back down.
+---
+[0x9e22a0]	My feelings exactly,
+. I have to
+see .
+
+And that means
+I'm going through
+this valley.
+---
+[0x9e236c]	You said from the
+beginning you didn't
+want our world back.
+
+But you knew it
+would have to come
+back, didn't you?
+---
+[0x9e2420]	Maybe I did.
+
+I guess...games
+always have an
+ending, after all.
+---
+[0x9e249c]	That's part of the
+fun, really. Getting
+to the end.
+
+Of course, sometimes
+you don't want them
+to end just yet...
+---
+[0x9e2598]	That's why I decided
+I'd at least do
+everything I could.
+
+Even if the world
+is going to turn
+back no matter what.
+
+I don't have to
+take it lying
+down!
+---
+[0x9e268a]	, you don't
+have to do this,
+you know.
+
+We can stop him
+without you.
+---
+[0x9e27d4]	I don't suppose
+you'd come with
+me if I asked?
+---
+[0x9e2838]	We'll let you
+pass...
+
+But I'll have you
+know my mind is
+still made up.
+---
+[0x9e28ea]	See you later.
+Judgemaster
+is waiting for me.
+---
+[0x9e294e]	Hey, ! Will you
+hate me if I bring
+the real world back?
+---
+[0x9e29c4]	No, I won't.
+
+I don't think what
+you're doing is
+wrong, either.
+
+I just want to
+stay here,
+that's all.
+---
+[0x9e2a70]	He's really
+going to do it.
+---
+[0x9e2c62]	Wow, it really
+is beautiful.
+---
+[0x9e2ca0]	A king in ancient
+times built it as
+a prayer for peace.
+
+In that sense, it's
+more of a chapel
+than a palace.
+---
+[0x9e2de8]	He's not dead.
+Merely unconscious.
+---
+[0x9e2e32]	We are here to see
+ and the queen.
+Let us in.
+---
+[0x9e3052]	I hereby nullify
+all laws protecting
+!
+---
+[0x9e31f0]	You...get out of
+here, weakling!
+You disgust me!
+---
+[0x9e326c]	Only his aggression
+and violence, not
+all of .
+---
+[0x9e32d0]	This time, I will
+not fail to carry
+out my orders!
+---
+[0x9e338e]	You'll be gone
+soon. What does
+it matter?
+---
+[0x9e3626]	I...seem to have
+taken more damage
+than I thought.
+---
+[0x9e36d4]	Do not make me
+worry further on
+your account.
+---
+[0x9e377c]	No, I am the one
+who must apologize.
+
+You would not have
+been injured had I
+gotten here sooner.
+---
+[0x9e382a]	I will be fine,
+Master . Quickly,
+you must hurry...
+
+The prince is
+waiting for you.
+---
+[0x9e38cc]	Yes, that is why
+we are here.
+---
+[0x9e393a]	Don't worry, I'm
+sure he'll listen
+to us this time.
+---
+[0x9e39d0]	The prince!
+Where is His
+Highness!?
+---
+[0x9e3b32]	He hasn't lost
+anything--he just
+thinks he has!
+---
+[0x9e3b86]	This world is
+illusion.
+
+You can hold it in
+your hand and still
+be holding nothing.
+
+You...have
+accepted this?
+---
+[0x9e3c34]	No, I think you have
+not. You still want
+it, don't you?
+
+A happy family,
+and power...
+and friends.
+
+All this you have
+here... This is the
+real you!
+---
+[0x9e3d0e]	I did want all
+those things, yes.
+But that's not me.
+
+I felt like I had
+become someone else
+when I came here...
+
+But I hadn't. I am
+who I am, I am what
+I have done.
+
+There's no "real"
+me out there!
+I'm right here!
+---
+[0x9e3e28]	understands,
+I know he does.
+
+That's why he's
+torn...
+
+Let me talk to him!
+I want to go back
+home, together!
+---
+[0x9e3ee6]	Well, ?
+I'm on your side,
+you know.
+
+Say what you want
+to happen, and I
+will make it so.
+---
+[0x9e4022]	No! I don't want
+you to go! Don't
+leave me alone!
+---
+[0x9e4114]	I am the
+fulfiller of
+wishes.
+---
+[0x9e4154]	Now, 's dearest
+wish is to stay
+here...
+
+And, there is
+another who wishes
+the same thing.
+---
+[0x9e41fc]	I don't deny what
+you say, but...
+
+This world is just
+a dream, and I'm
+done with dreaming!
+---
+[0x9e4498]	I am the wish-
+gatherer. I am
+the world-maker.
+
+Desire is the
+thread that binds
+the worlds together.
+---
+[0x9e453e]	This is
+no longer.
+This is...
+
+the pure essence of
+every wish that
+makes up this world.
+---
+[0x9e45dc]	Every wish...
+
+So, if we can get
+rid of this, we
+can go home!
+---
+[0x9e4676]	I can't do
+this alone!
+
+If you don't help
+me destroy this,
+nothing will happen!
+---
+[0x9e4a24]	I mean, going back.
+I thought you still
+weren't sure.
+---
+[0x9e4a92]	I'm not sure. Maybe
+I never will be.
+
+I certainly don't
+want to lose
+this hair...
+---
+[0x9e4b34]	Is white hair
+really so bad?
+---
+[0x9e4b9a]	But my hair's white.
+Did you think worse
+of me because of it?
+---
+[0x9e4c12]	, no... I think
+all vieras have
+beautiful hair.
+
+But it's different
+for me. I'm a human.
+---
+[0x9e4cbe]	Then you are well-
+loved by the spirits
+of the viera!
+
+White hair is the
+most beautiful gift
+of the spirits.
+---
+[0x9e4dae]	No mere human could
+receive this gift,
+. Only you.
+
+You were chosen.
+You are special.
+---
+[0x9e4e50]	Well, it's tough
+being special.
+---
+[0x9e4ef4]	And if you laugh,
+your mother will
+not be sad.
+
+I think it was you
+being sad that made
+her sad.
+---
+[0x9e4f9e]	I would like to
+see your true hair.
+I would!
+
+I think it must
+be as beautiful
+as new-fallen snow.
+---
+[0x9e513e]	What!?
+What is the
+meaning of this!?
+---
+[0x9e51da]	...no, his
+wishes disappeared,
+and so did he.
+
+ wanted to
+search for him, but
+I wouldn't allow it.
+---
+[0x9e5490]	She told me to
+look after
+you, Dad.
+---
+[0x9e556a]	Even after we leave,
+your mom will still
+be in your heart.
+
+That will never
+change. Even if
+we do...
+
+But let's take it
+easy and see what
+happens.
+---
+[0x9e56f0]	There won't be time
+to say good-bye or
+thanks to everyone.
+---
+[0x9e57f2]	Thanks, .
+You've been a great
+friend.
+
+I never would have
+made it this far
+without you.
+---
+[0x9e58a0]	Leave it to me.
+I will spread
+the word!
+---
+[0x9e59a4]	Even if you do
+forget, Prince
+...
+
+I will remember and
+remain your faithful
+servant, always.
+---
+[0x9e5aba]	I have to go home!
+Bye, everyone!
+It was fun!
+---
+[0x9e5b1c]	I wonder if this
+Ivalice will just
+disappear...
+---
+[0x9e5bb8]	If we wish it, the
+world will change.
+Likewise...
+
+perhaps if those
+here wish it enough,
+they will remain.
+
+Though we from the
+other world may
+never come back.
+---
+[0x9e5e62]	Ewww! Gross!
+Still, it would
+be kind of cool...
+---
+[0x9e5ec8]	How about a
+game of pool?
+---
+[0x9e5f00]	Why, sure!
+Sounds like fun.
+
+Great to see you
+back in good spirits
+again, Mr. Randell.
+---
+[0x9e5fa6]	Eh-heh.
+Yeah, you could
+say I've got...
+
+a new perspective
+on life these days.
+---
+[0x9e6040]	Hey, !
+You finished "Final
+Fantasy" yet?
+
+Can you tell me
+how to defeat
+Adrammalech?
+---
+[0x9e60ea]	Easy! Double Sword
+and Mindbreak are
+pretty good...
+
+Show me your
+save data... I'll
+get you set up.
+---
+[0x9e61fa]	Hmm? That's not
+where I was aiming.
+---
+[0x9e63ec]	See you guys
+at school tomorrow.
+---
+[0x9e647c]	Remember me? I...
+I used to work
+for you!
+---
+[0x9e64d4]	Yes! Biggs! You look
+well. So, you started
+your own company?
+---
+[0x9e654e]	That's right, and,
+actually...a big
+project's coming up.
+
+I thought you'd be
+the best man for the
+job! How about it?
+---
+[0x9e6699]	!
+Glad we made
+it in time!
+---
+[0x9e66d4]	That was a close
+one. I owe you
+again,
+---
+[0x9e6818]	It looks tough!
+Is that a spear
+on its back!?
+---
+[0x9e6876]	We did it! We beat
+it. That wraps up
+that job nicely.
+---
+[0x9e69ca]	You're not a Borzoi!
+What are you
+doing here?
+---
+[0x9e6c52]	If I'd only used
+my secret attack...
+---
+[0x9e6d0c]	I am unused to
+these sorts of
+places...
+---
+[0x9e6e26]	You're waiting here
+for him, right?
+He'll be here soon.
+---
+[0x9e6ec5]	? You came
+all the way here?
+---
+[0x9e6f42]	How did it go,
+[0x9e6ff2]	I hope you find
+whatever it is
+ lost.
+---
+[0x9e7046]	You want to come
+along?
+---
+[0x9e70c8]	Certainly.
+
+It might even be
+better for you to
+go than me.
+---
+[0x9e72cc]	Yeah, me too.
+
+What could he have
+possibly forgotten?
+---
+[0x9e73bc]	Is something wrong?
+[0x9e75b2]	But...I still follow
+Prince .
+
+I will always
+be loyal!
+
+Please, do not
+stop me from doing
+my sworn duty.
+---
+[0x9e7670]	And if I stop you?
+[0x9e76b0]	You would raise a
+sword against me,
+your queen?
+---
+[0x9e7712]	I have no qualms
+about fighting you.
+
+You are a ghost.
+The real queen left
+with the prince!
+---
+[0x9e77be]	A stuffed bear?
+This is what
+ forgot?
+---
+[0x9e7810]	This bear...this
+is proof that
+was in this world.
+
+It's all you
+have to remember
+him by, isn't it?
+---
+[0x9e78ce]	Are you going to
+bring that back to
+his palace room?
+---
+[0x9e7932]	Of course. This
+belongs to the
+prince.
+---
+[0x9e7b10]	Then that settles
+it! Friends!
+---
+[0x9e7c1c]	I still have much
+to think about.
+---
+[0x9e7e8a]	Good news for you
+though--there's
+hazard pay!
+---
+[0x9e7eec]	Hey Pubmaster!
+That snow mission
+still available?
+---
+[0x9e7f59]	?
+What about the
+snow mission?
+---
+[0x9e7f9a]	...
+Oh, so you were the
+one who took it.
+
+That works out
+perfectly, then!
+---
+[0x9e80aa]	Well, sure, but...
+
+Mind telling me why
+you want to go so
+much?
+---
+[0x9e8126]	Dead people in the
+snow intrigue me,
+what can I say?
+
+That's all,
+really.
+---
+[0x9e81b4]	Pretty please?
+I promise I won't
+get in your way!
+---
+[0x9e8274]	You kids watch
+yourselves out there!
+---
+[0x9e82dc]	We won! This snowball
+fight's over, OK?
+---
+[0x9e83dc]	They were throwing
+snowballs and hurting
+people...
+
+Didn't it remind
+you of anything?
+---
+[0x9e851a]	Just, when I saw that
+mission listed back
+at the pub...
+
+I knew, for some
+reason, I had to
+take it.
+---
+[0x9e85d0]	I...I wish I could
+do the same back
+there.
+---
+[0x9e86b6]	Of course you can!
+That's easy!
+---
+[0x9e86fa]	...It never seemed
+that easy. I guess
+you're right, though.
+---
+[0x9e877f]	,
+you want me to
+help out?
+---
+[0x9e8894]	Why not? C'mon!
+I just thought it
+might be fun.
+
+Hey, if you've got
+a problem with it,
+just let me know.
+---
+[0x9e894e]	With me on your team,
+you can't lose!
+---
+[0x9e8adc]	I had no idea you
+were here!
+---
+[0x9e8b1a]	I had no idea you
+would come here
+either, !
+
+I can't believe
+someone put a notice
+up at the pub.
+---
+[0x9e8bc4]	You must really have
+been screaming!
+---
+[0x9e8c5e]	Heh. I think he's
+probably right.
+
+I thought I was
+going to lose my
+mind!
+---
+[0x9e8ce8]	Can I ask what
+was in the cave?
+---
+[0x9e8d3c]	I understand if
+you don't want
+to talk about it.
+---
+[0x9e8e88]	Aaah! Stop talking
+about it! Don't make
+me remember!
+---
+[0x9e8ef8]	Wow, that must have
+been pretty rough.
+---
+[0x9e8f4a]	But, you're safe now,
+and that's what
+matters!
+---
+[0x9e8fec]	Well, I should
+be getting back.
+---
+[0x9e9054]	I was wondering
+if you could help us?
+---
+[0x9e9118]	They're both pretty
+bad at talking, see.
+
+I was wondering if
+you could, kind of
+help them out.
+---
+[0x9e91c4]	I mean, I get the
+feeling they still
+haven't made up.
+
+I was hoping you
+could, kind of
+help them out.
+---
+[0x9e927a]	Well, sure.
+I wouldn't mind
+doing that.
+---
+[0x9e9316]	Just let me know
+what you want me
+to do.
+
+I'll help where
+I'm able!
+---
+[0x9e93ce]	Why not?
+
+I thought it would
+be a good chance for
+you and ...
+---
+[0x9e949c]	Fine. Just trying
+to help. Geez.
+---
+[0x9e94ef]	.
+See you later.
+
+Thanks for helping
+me out!
+---
+[0x9e959c]	I am so embarrassed.
+[0x9e95ca]	What is it this
+time? Step on a
+grub or something?
+---
+[0x9e962e]	Hey, but this is
+a great second chance
+for you, !
+
+How about letting
+her into the clan?
+---
+[0x9e97cc]	See you two around.
+[0x9e98c4]	Well? Did you find
+any proof of
+corruption?
+---
+[0x9e9920]	Nothing. Whoever is
+responsible is very
+good at covering up.
+
+It's hard to catch
+a judge who doesn't
+want to be found...
+---
+[0x9e99f6]	Our split from the
+palace is a two-edged
+sword, it seems.
+
+This is my
+responsibility.
+---
+[0x9e9abe]	If our resources are
+at their limits,
+then...
+---
+[0x9e9b34]	They're the ones most
+affected by corrupt
+judges' actions.
+
+They should be
+willing to help.
+---
+[0x9e9be0]	Can we trust them?
+What if the judges
+bribe them?
+---
+[0x9e9c3a]	Do not worry.
+There's at least one
+clan we can trust.
+---
+[0x9e9ca4]	I hereby bestow you
+with "justice"--
+red card immunity!
+---
+[0x9e9d16]	What are you doing
+here? You pledged
+to defend the law!
+---
+[0x9e9d86]	Judgemaster !
+I've done nothing...
+
+I was just passing
+judgement on this
+fellow here.
+---
+[0x9e9e22]	Is this true,
+[0x9e9e48]	He was about to give
+me immunity to red
+cards.
+---
+[0x9e9ea8]	Giving out immunity
+on your own? That's
+illegal, you know.
+---
+[0x9e9f1c]	I was asked to root
+out corruption...
+
+The request came from
+an official at the
+Watch board!
+---
+[0x9e9fd0]	Wait a second, so you
+two were in cahoots
+this whole time!
+---
+[0x9ea044]	Indeed. My checkers
+weren't able to catch
+judges like you.
+
+So I had to go to
+the clans for some
+assistance...
+---
+[0x9ea126]	I'll take that as an
+admission of guilt.
+You'll be punished.
+---
+[0x9ea1e6]	I'll be joining
+you this time.
+---
+[0x9ea228]	Ha...hah hah!
+This is rich!
+
+I hope you intend to
+follow the law, Sir
+master!
+---
+[0x9ea2be]	Of course.
+And I expect to be
+judged fairly.
+---
+[0x9ea31e]	s have absolute
+power, and that power
+must not be abused!
+
+You understand the
+consequences of
+your actions?
+---
+[0x9ea3e0]	Thank you for your
+help,
+---
+[0x9ea41e]	I'm glad we could
+catch the rotten
+judge.
+---
+[0x9ea476]	Yes...
+
+But I fear this is
+only the tip of the
+iceberg.
+---
+[0x9ea4e2]	The society of judges
+is in upheaval since
+the split...
+---
+[0x9ea550]	Without the ordering
+force of the palace,
+they have more power.
+---
+[0x9ea5bc]	We can monitor the
+cities, but not the
+outlying areas...
+
+If only I could
+patrol them myself!
+---
+[0x9ea6c4]	Would you mind me
+imposing myself on
+your clan a while?
+---
+[0x9ea748]	Joining a clan would
+be a perfect way to
+monitor the country.
+
+I could devote myself
+to the task, going
+incognito.
+---
+[0x9ea84e]	Perhaps just until
+I've completed my
+survey?
+---
+[0x9ea8e0]	I am in your hands,
+then.
+
+Treat me as you would
+any other new recruit,
+please.
+---
+[0x9ea972]	Hmm...it'd be hard
+for me to give orders
+to the judgemaster!
+---
+[0x9ea9e8]	Hah! I'll do my best
+so you won't have to
+give too many, then!
+---
+[0x9eaaf8]	I expected you to
+say something of
+the sort.
+
+Me being there would
+hamper your clan's
+freedom, no doubt.
+---
+[0x9eabc8]	Not at all.
+
+This problem is one
+for us judges to
+work out.
+---
+[0x9eac3c]	You don't mind if I
+ask you to do other
+tasks now and then?
+---
+[0x9eacac]	Not at all! We're
+here to help whenever
+you need it!
+---
+[0x9ead74]	You were going
+all out in that
+engagement!
+
+How many of them
+did you KO?
+---
+[0x9eae00]	They weren't much
+of a challenge.
+---
+[0x9eae4a]	You're too good,
+that's the problem!
+---
+[0x9eaf6a]	I mean, I say what
+I think all the time.
+
+And I love swinging
+my sword around in
+engagements...
+---
+[0x9eb03a]	What's so funny?
+Hey, I'm being
+serious, here!
+
+I just don't think
+I fit the "cute"
+model, that's all.
+---
+[0x9eb0f6]	Why don't you ask
+[0x9eb1c6]	You're here at
+just the right
+time!
+---
+[0x9eb2b6]	, now you can't
+just leave him
+hanging like this...
+---
+[0x9eb3b4]	Let's talk about
+the next mission,
+shall we?
+---
+[0x9eb4f4]	Not a spell, just,
+well, something that
+was stuck in my head.
+
+I can't remember
+where I heard it
+for certain...
+---
+[0x9eb5b4]	Yes, of course!
+The prince kept
+saying it to himself!
+
+"Alta Oron Sondus
+Kameela."
+---
+[0x9eb668]	Yes. I'm sure
+of it now.
+
+It sounded like some
+ancient spell to me
+at the time.
+---
+[0x9eb6fa]	The words do have a
+nice ring to them.
+What do they mean?
+---
+[0x9eb766]	I do not know, but
+it must be something
+auspicious.
+---
+[0x9eb7d0]	Ancient tongues
+placed a lot of
+value on sounds...
+
+Good sounds often
+mean good things.
+---
+[0x9eb866]	Blessings unto you?
+That sort of thing?
+
+I wonder if
+knows what those
+words mean?
+---
+[0x9eb91e]	Regardless, it's
+strange he'd know
+such a thing at all.
+---
+[0x9eb9ac]	By the way, ,
+what were you doing
+here?
+---
+[0x9eba02]	Oh...
+I was just whiling
+away the day here.
+---
+[0x9ebb30]	You worked so hard,
+none of us could
+slack off!
+---
+[0x9ebc26]	I've never been
+good with jokes.
+---
+[0x9ebc6e]	Yes, you are
+Swain, personal mage
+to the prince.
+---
+[0x9ebce8]	And that's good
+enough for anyone,
+I should think.
+---
+[0x9ebe5c]	You fell for
+it, kupo!
+
+Now you'll get a
+lesson in humility
+from Clan Rose!
+---
+[0x9ec10e]	They've spread to
+all but a few certain
+areas...
+---
+[0x9ec174]	A few certain areas?
+What's the deal with
+that?
+---
+[0x9ec1d6]	It is only a
+rumor...
+
+But they say that the
+judgemaster is on a
+crackdown of sorts.
+---
+[0x9ec290]	Yes. He's using the
+clans to help him,
+it seems.
+
+They're seizing
+immunity seals and
+blank cards...
+---
+[0x9ec33e]	Shall we reduce
+production of
+the seals?
+---
+[0x9ec392]	No, I see no reason
+to change our current
+operations.
+
+As long as their
+secrecy remains
+uncompromised...
+---
+[0x9ec4ce]	Terrible news! Our
+"seal of immunity"
+deal was discovered!
+
+Leave this area at
+once! We'll handle
+the...
+---
+[0x9ec590]	Ah, the local
+official. Just who
+I was looking for.
+
+Were you on your
+way somewhere? Just
+as I was arriving?
+---
+[0x9ec646]	I...I had no idea
+you'd be gracing us
+with your presence!
+
+I'll stay, of course!
+---
+[0x9ec6e4]	Actually, my search
+for a wanted criminal
+led me here.
+
+I'll have to make a
+brief investigation.
+If you don't mind?
+---
+[0x9ec7f6]	Excuse me? Is there
+a problem?
+
+Not hiding any
+"seals of immunity"
+now, are you?
+---
+[0x9ec93c]	Sorry to barge in
+all of a sudden
+like this.
+
+We're with
+Clan .
+
+We're here to meet
+you at master
+'s request.
+---
+[0x9eca2e]	We heard a fugitive
+from the law was in
+hiding here.
+
+Sorry, but we have
+to make a brief
+investigation...
+---
+[0x9ecaf0]	How do I know you're
+really working for
+the judgemaster?
+---
+[0x9ecb66]	The pub has records
+of the judgemaster's
+request...
+---
+[0x9ecbcc]	We'd like to start
+our investigation,
+if you don't mind.
+---
+[0x9ecc50]	Is there a problem?
+
+Not hiding any "seals
+of immunity" by any
+chance, are you?
+---
+[0x9eccea]	I'm sorry, but you
+have to die.
+
+I'll let the pub
+know of your wish to
+cancel this mission!
+---
+[0x9ecdea]	Oh, I'm under no
+delusions that this
+is the end.
+---
+[0x9ece48]	I can't believe he'd
+break the law like
+that--a judge!
+---
+[0x9ecf2e]	We're expecting a
+visit from the
+judgemaster soon.
+---
+[0x9ecfac]	Cyril's judge was
+sent to prison
+you know...
+
+What do you intend
+to do?
+---
+[0x9ed032]	Unlike my peer in
+Cyril, I don't sell
+seals of immunity.
+
+All I do is judge
+engagements--my job.
+---
+[0x9ed0e4]	Excuse me, your
+honor. The donations
+for the month are in.
+
+The usual seven clans
+gave generously. And
+two new ones as well.
+---
+[0x9ed1ba]	Very well. Give me
+the names of the new
+clans...
+
+And add them onto
+the law benefits
+list.
+---
+[0x9ed2bc]	You know why I
+am here today.
+
+We've received word
+that your judging
+is unfairly biased.
+---
+[0x9ed36e]	Indeed! Me? Play
+favorites?
+
+What ever could I
+hope to gain from
+fixing an engagement?
+---
+[0x9ed4fe]	What were you asking
+just now? Oh yes...
+what could you gain?
+---
+[0x9ed5ff]	A mison?hat
+ beWe've been asked to
+find out whether you
+are being unfair.
+
+You mean the rumors
+of me playing
+favorites? Please!
+
+What ever could I
+hope to gain from
+fixing an engagement?
+---
+[0x9ed790]	I'd think if you
+were willing to relax
+certain laws for gil,
+
+many clans would be
+interested in doing
+business with you.
+---
+[0x9ed858]	Are you saying I'm
+taking bribes to make
+unfair judgements!?
+---
+[0x9ed8d4]	I've heard from the
+clans giving you
+"donations."
+
+I think you should
+come with me to see
+Judgemaster .
+---
+[0x9ed990]	First "seals of
+immunity." Now "blank
+cards" and donations!
+---
+[0x9eda0a]	s are the arm
+of the law. They
+can't play favorites!
+
+Think about what
+you've done...
+in prison!
+---
+[0x9edbe2]	Seals of immunity,
+"blank cards," and
+judicial bribery!
+---
+[0x9edc56]	The split from the
+palace was supposed
+to be good for us...
+
+But corruption among
+the judges is worse
+now than ever!
+---
+[0x9edd24]	Indeed.
+
+It seems the split
+from the palace was
+an unwise decision.
+---
+[0x9edda2]	I, too, believed the
+judges should be
+separate.
+
+But, perhaps the
+timing was too soon?
+---
+[0x9ede3e]	Timing has nothing
+to do with it.
+
+It is a problem with
+the moral fiber of
+judges themselves!
+---
+[0x9edee6]	What!? You claim
+that our judges are
+morally lacking?
+
+Th-This is
+sacrilege!
+---
+[0x9edf7a]	So, you think our
+morals are in
+top shape, then?
+---
+[0x9edfe0]	Such words I did not
+expect from our
+judgemaster!
+
+Or are you admitting
+a personal failing?
+---
+[0x9ee098]	I feel responsible
+for what is going
+on, yes.
+
+I am prepared to
+resign once I finish
+my current survey.
+---
+[0x9ee166]	However, there is
+something I have
+already learned.
+
+Both of the judges
+we have captured
+so far...
+
+were following orders
+from higher up.
+---
+[0x9ee240]	Someone who knows
+the judges, the laws,
+and the prison.
+---
+[0x9ee2a6]	If come across any
+information, please
+let me know.
+---
+[0x9ee35c]	Tell me--who's the
+source of all this
+corruption?
+
+You know, do you
+not?
+---
+[0x9ee3ec] x2	Why...it's the judge
+right here in
+Sprohm.
+---
+[0x9ee4ca]	The rank of
+judgemaster.
+---
+[0x9ee518]	I see what you're
+trying to do.
+
+If judges everywhere
+are cheating, the
+blame falls on me.
+---
+[0x9ee61a]	I had no idea you
+were contemplating
+resignation...
+
+No matter. The end
+result is the same.
+---
+[0x9ee6c0]	I would never pass
+my judge sword on
+to the likes of you!
+---
+[0x9ee736]	I don't need you to
+pass me anything.
+I'll just take it!
+---
+[0x9ee7ac]	Tell me--who's the
+source of all this
+corruption?
+
+You know, don't you?
+---
+[0x9ee896]	The judge in charge
+of the prison!?
+What does he want?
+---
+[0x9ee902]	The title of
+judgemaster!
+---
+[0x9ee93a]	I get it...
+
+If judges everywhere
+are corrupt, the
+blame falls on .
+
+You're trying to force
+Judgemaster
+to resign!
+---
+[0x9eeae6]	Unfortunate.
+Then I'm afraid I
+must ask you to die!
+---
+[0x9eeb52]	s trying to gain
+ranks by breaking
+the law...
+---
+[0x9eebb0]	Even I can see that
+you can't become
+judgemaster...
+
+By breaking the very
+laws it's your duty
+to uphold!
+---
+[0x9eec90]	Thank you,
+.
+
+You went above and
+beyond the call of
+duty.
+---
+[0x9eed0a]	Not at all!
+I'm glad I was
+able to help!
+---
+[0x9eed92]	I would give you
+my judge sword.
+---
+[0x9eedee]	Ah ha ha. That
+surprised, are you?
+---
+[0x9eee60]	All I said is I would
+give it to you. Not
+that I will give it.
+
+But, if you are as
+just when you grow
+older as you are now,
+
+then you will be
+deserving of it.
+---
+[0x9ef01c]	Oh ho! Nice timing!
+I've been waiting
+for you,
+---
+[0x9ef11e]	Bingo!
+You always were a
+sharp one, my boy!
+---
+[0x9ef17a]	You want me to gather
+ingredients for your
+antilaw cards?
+---
+[0x9ef2a4]	See, the resistance
+and the palace have
+agreed to hold talks.
+---
+[0x9ef30c]	Wow! I can't imagine
+either of them in the
+same room!
+
+Let alone talking!
+---
+[0x9ef394]	Amazing though it may
+sound, they are
+willing to talk.
+
+And they need a
+mediator.
+
+I tried to weasel
+out of it, but they
+insisted.
+---
+[0x9ef544]	Oh, just the usual—
+some people are
+against the talks...
+
+So they need a guard
+to make sure no one
+interferes, see?
+---
+[0x9ef684]	I forgot. The palace
+still has a bounty
+on my head.
+
+If I go there,
+they'll throw me in
+prison for sure.
+---
+[0x9ef740]	Not a chance! Heck,
+they made ME the
+mediator...
+
+And I'm at least the
+second most wanted
+man in the land!
+---
+[0x9ef804]	Don't worry so much!
+
+If things start
+going wrong, just
+split!
+---
+[0x9ef8b2]	I'll put a request
+in at the pub, just
+to make it official.
+---
+[0x9ef988]	Things seem to
+be going pretty
+well.
+---
+[0x9ef9fe]	So, you'll sign the
+non-action treaty?
+---
+[0x9efa50]	And you'll allow
+limited use of
+selected antilaws...
+
+And promise not to
+persecute ex-members
+of the resistance?
+---
+[0x9efb14]	Bervenia Palace
+agrees to both
+of those demands.
+---
+[0x9efbb6]	Don't listen to them,
+they're playing you
+for fools!
+
+The palace has only
+lied to us in the
+past! Why trust them?
+---
+[0x9efc70]	Trust or no trust,
+we're here to get
+this treaty signed.
+
+And I'll stand
+witness to its
+signing.
+---
+[0x9efd18]	Then we'll bury you
+along with that
+stupid treaty!
+---
+[0x9efdb6]	Any more of them
+hiding out there?
+
+One engagement a
+day is enough for
+me, thanks!
+---
+[0x9efe46]	Looks like the
+coast is clear.
+---
+[0x9efe88]	Then let's get on
+with the talks.
+
+I want to get this
+done with and go
+home!
+---
+[0x9eff0c]	May the words spoken
+here be honored for
+all time.
+---
+[0x9effdc]	I'm glad they managed
+to make peace with
+the palace.
+---
+[0x9f0040]	Yeah, well, it's
+going to mean more
+free time for me.
+---
+[0x9f0168]	And I've you to
+thank for it, kiddo.
+---
+[0x9f03e6]	I know! I'll give you
+the greatest gift
+of all... Me!
+
+I'll join your
+clan!
+---
+[0x9f04ac]	Of course, I'll be
+busy with my shop
+most days...
+
+Maybe I can be a kind
+of honorary member?
+---
+[0x9f06ae]	I think I'll have
+to decline
+your offer.
+
+I mean, you're
+so busy and all...
+---
+[0x9f078c]	Hmm. OK, I'll
+think of something
+else to give you.
+
+How about dinner,
+for starters?
+---
+[0x9f1ee2]	I don't know about
+you, but I'm not
+ready to die!
+
+See you back
+at the shop!
+---
+[0x9f1f72]	I'm sorry, but I'm
+too wounded to be of
+much use.
+
+I'll return to the
+palace. Farewell.
+---
+[0x9f2016]	I'm not dying here!
+I think I'll head
+back to my old clan!
+---
+[0x9f208c]	This is my chance to
+get out of here in
+one piece! Later!
+---
+[0x9f20fc]	I do not think I'm
+cut out for this
+clan business.
+
+I shall leave before
+I burden you further.
+We'll meet again!
+---
+[0x9f36fe]	Who are you guys?
+Hey! I paid for
+that food, really!
+---
+[0x9f380a]	Clan !
+You won't be getting
+out of thiss one!
+---
+[0x9f38ce]	Clan .
+Hope you're ready to
+go to prison.
+---
+[0x9f3a84]	You won't get away,
+Gabbana Brothers!
+---
+[0x9f3c2c]	You won't get away
+this time, Gabbana
+Brothers!
+---
+[0x9f3d15]	This was definitely
+not our lucky day,
+kupo.
+---
+[0x9f3dcc]	Bounty hunters?
+I saw you coming...
+with my third eye!
+---
+[0x9f4080]	Unh...heh heh.
+It seems it was fated
+that I be captured...
+---
+[0x9f432e]	Bounty hunters, eh?
+You've come a long
+way...for naught!
+---
+[0x9f4406]	Swampking !
+Raiding townsfolk,
+have you no shame?
+---
+[0x9f4470]	You've fallen a long
+way from your guard
+dayss "Sswampking"!
+---
+[0x9f44ee]	Why do you attack
+the locals, Swampking
+?
+---
+[0x9f454a]	Swampking !
+Didn't you become a
+guard to help people!?
+---
+[0x9f4628]	I've made some bad
+choices...haven't I?
+I am finished.
+---
+[0x9f46f2]	Didn't think anyone
+would follow me here!
+Eat Ultima Masher!
+---
+[0x9f4770]	I didn't really want
+to come here, but we
+gotta do this. gulp
+---
+[0x9f47f2]	Just like an assassin
+to hide from the
+judges in a jagd!
+---
+[0x9f4862]	Jagd or no jagd,
+jusstice musst be
+sserved, ssucker!
+---
+[0x9f48c6]	It matters not that
+we're in a jagd, for
+I foresee we will win.
+---
+[0x9f493e]	And I suppose you
+think we came here
+unprepared?
+---
+[0x9f49a2]	Ultima Masher, kupo?
+I've heard rumors
+about that, kupo! Eek!
+---
+[0x9f4ade]	Come to find out why
+they call me
+"Dark Duke "?
+---
+[0x9f4b46]	Dark Duke or not,
+we're taking you in!
+---
+[0x9f4b98]	We know who you are,
+and we're not afraid!
+We've got a job to do.
+---
+[0x9f4c12]	Oh, pleasse tell me!
+I've SSO much wanted
+to know. Sscumface.
+---
+[0x9f4c90]	The "Dark Duke," you
+say? We'll be careful
+when arresting you.
+---
+[0x9f4d0a]	You don't scare me!
+Well, actually, you
+do. But we'll win!
+---
+[0x9f4e04]	How could I fail!?
+Darkness, take me
+into your fold...
+---
+[0x9f5006]	Then let uss check
+your bagss...
+---
+[0x9f504c]	Really? By the way,
+how did you know we
+were here for YOU?
+---
+[0x9f50c2]	You guys are totally
+busted. Give that
+ruby back!
+---
+[0x9f512a]	I didn't say anything,
+kupo! You said "ruby"!
+You must have it, kupo!
+---
+[0x9f51f2]	We'll be taking
+that ruby back now!
+---
+[0x9f5294]	I'll be taking
+that ruby back.
+---
+[0x9f52d6]	Hmm. That may be.
+Return the ruby
+at once.
+---
+[0x9f5332]	Give that ruby back
+now, buddy!
+---
+[0x9f537b]	Phew, kupo!
+Looks like we'll get
+that ruby back!
+---
+[0x9f541c]	The red-armed fiend
+may be gone from
+these woods now,
+
+but there's plenty
+of monsters to take
+its place!
+---
+[0x9f54da]	So this is the wood
+where Gaol fought
+that fiend.
+
+Guess we should do
+our part, too!
+---
+[0x9f5576]	Thesse are the woodss
+where Gaol fought the
+red-armed beasst!
+
+To think that we can
+engage monssters in
+the ssame place!
+---
+[0x9f563a]	Ah, the wood from
+the Gaol legend. May
+he watch over us.
+---
+[0x9f56aa]	These are the woods in
+the Gaol legend. Let's
+do his memory honor!
+---
+[0x9f572a]	Gaol's woods, kupo!
+Guess we better be
+heroic, too, kupo!
+---
+[0x9f579e]	A hero... I wonder if
+I'll ever be a hero
+like that?
+---
+[0x9f5800]	Hero Gaol, watch over
+us that we may walk
+the true path!
+---
+[0x9f586c]	A hero...
+We've got a lot of
+work ahead of uss.
+---
+[0x9f58ca]	Strength alone does
+not a hero make. One
+must live a true life.
+---
+[0x9f5942]	A hero... I guess
+I might be a heroine
+some day...
+---
+[0x9f59a0]	Gaol adventured with
+a moogle, kupo! Every
+moogle knows that!
+---
+[0x9f5a56] x3	The battlefield of
+Aisen... This is where
+the knights fought.
+---
+[0x9f5b46]	This iss where the
+knightss fought. Not a
+bad place for battle!
+---
+[0x9f5c3a]	Wow! The battlefield
+where the fought.
+What a sight!
+---
+[0x9f5ca8]	The Aisen battlefield,
+kupo! I'll fight like
+a knight, too, kupo!
+---
+[0x9f5d34]	The knights gathered
+in this place... Wish
+I could've seen it.
+---
+[0x9f5db0]	There are none like
+the knights now.
+They were true heroes.
+---
+[0x9f5e1c]	How many people could
+call themsselvess true
+"knightss" now?
+---
+[0x9f5e9a]	The knights gathered
+here. A historical
+place, indeed.
+---
+[0x9f5f0a]	The knights gathered
+here. They must have
+been so cool!
+---
+[0x9f6062]	Magewrym !
+I thought Gaol
+defeated you!
+---
+[0x9f6128]	Magewyrm !
+You're back jusst in
+time to fight uss!
+---
+[0x9f6194]	Magewyrm !?
+Did your resentment
+bring you back?
+---
+[0x9f6346]	If Gaol hadn't wounded
+him we'd be goners for
+sure.
+---
+[0x9f63b2]	We'd have gotten him
+eassy if we had the
+twin Ayvuir swordss...
+---
+[0x9f6490]	Hero Gaol...we've
+defeated your enemy.
+Rest in peace.
+---
+[0x9f6500]	Gaol! We did it, kupo!
+We defeated the
+magewyrm, kupo!
+---
+[0x9f659e]	Gaol... You must die!
+Evelyn is mine,
+all mine!
+---
+[0x9f65fe]	The keeplord's ghost!?
+He thinks I'm Gaol!
+
+The hero Gaol is no
+more, but I will fight
+you in his stead!
+---
+[0x9f66b2]	The Salika Keeplord,
+or his ghost. I guess
+Gaol did defeat him.
+---
+[0x9f6732]	The keeplord'ss
+ghosst!?
+
+Guesss I'll have to
+finissh what Gaol
+sstarted!
+---
+[0x9f6a14]	This is one of the
+twin swords. The
+Red Ayvuir!
+---
+[0x9f6a74]	The Red Ayvuir...one
+of the twin swords
+that killed him.
+---
+[0x9f6c5d]	Kupo! The legendary
+Red Ayvuir, kupo!
+---
+[0x9f6d54]	The grave of the
+brave ...
+
+I feel like something
+has called me to
+this place.
+---
+[0x9f6de6]	We've come to honor
+Gaol's memory!
+Let us pass!
+---
+[0x9f6ec6]	This is brave 's
+grave? May I please
+examine it?
+---
+[0x9f6f2a]	I...don't know what
+it is. I feel called
+to this place!
+---
+[0x9f6fa6]	's grave, kupo!
+I'll show you I'm
+worthy to visit here!
+---
+[0x9f702a]	You have proven your
+worthiness to visit
+the grave, kupo.
+---
+[0x9f70a4]	Have 's soul and
+the Ayvuir Blue chosen
+me?
+---
+[0x9f7168]	The Blue Avyuir...
+Brave ! Hero Gaol!
+I honor your namess!
+---
+[0x9f735c] x3	Look at all the
+antlions! This must
+be their nest!
+---
+[0x9f73c2]	Look at all the
+antlions...going
+through won't be easy.
+---
+[0x9f7432]	Look at all the
+antlionss...
+Time to exterminate.
+---
+[0x9f7564]	Look at all the
+antlions! This must
+be their nest, kupo!
+---
+[0x9f7a90]	Look at all the bombs!
+They'll burn down
+the whole town!
+---
+[0x9f7afa]	This place is bomb-
+infested. Nothing to
+do but clean them up.
+---
+[0x9f7b78]	Fire ssquad time!
+Let'ss clean thesse
+bombss up!
+---
+[0x9f7bda]	This many bombs will
+cause a great deal of
+property damage.
+---
+[0x9f7c54]	Look at all of those
+bombs! We have to
+stop them, quick!
+---
+[0x9f7cc8]	Kupo! I've never seen
+so many bombs, kupo!
+Put them out, kupo!
+---
+[0x9f7d4a]	Whew. Glad we stopped
+them before it spread
+to other streets...
+---
+[0x9f7dbe]	Fire extinguished!
+Glad it didn't spread
+to other streets.
+---
+[0x9f7e32]	Well, that'ss finally
+over. Glad we caught
+it before it sspread.
+---
+[0x9f7eb4]	It is over.
+Fortunately, the blaze
+did not spread.
+---
+[0x9f7f1e]	Whew, glad that's done
+with--and before the
+fire spread!
+---
+[0x9f7f8a]	That did it, kupo!
+We stopped the fire
+before it spread...
+---
+[0x9f80a2]	What are you doing
+here at this hour?
+Wait...the killer!
+---
+[0x9f810e]	Only a killer would
+walk like that...
+---
+[0x9f815e]	By your appearance
+and walk, I surmise
+you are the killer!
+---
+[0x9f8232]	What are you doing
+out this late, kupo?
+Looking for victims!?
+---
+[0x9f8590]	We'll win this one,
+no problem!
+---
+[0x9f85d6]	They won't forget
+Clan
+after today!
+---
+[0x9f8702]	We did it!
+The crowd loves us!
+---
+[0x9f8746]	Heh heh, not bad.
+We are the victors!
+---
+[0x9f87ee]	We have done it!
+Clan
+shall be famous.
+---
+[0x9f8846]	Yippee!
+Is the crowd looking
+at us?
+---
+[0x9f8922]	A mage tourney couldbe
+the ideal place to put
+our magic to the test!
+---
+[0x9f899a]	A mage tourney?
+We'll win that!
+---
+[0x9f89de]	A tourney of magess?
+Nothing to do but
+try our besst...
+---
+[0x9f8a46]	A perfect opportunity
+to test our magical
+talents! Let us go!
+---
+[0x9f8ac2]	A mage tourney!
+I can't wait to have
+a go at that!
+---
+[0x9f8b26]	A mage tourney, kupo!
+Good chance to try
+out our magic, kupo!
+---
+[0x9f8b9e]	We did it!
+Our magic rocks!
+---
+[0x9f8bda]	Not bad, not bad.
+One mage tourney win
+under our belts.
+---
+[0x9f8c42]	Maybe thiss magic
+issn't sso hard
+after all...
+---
+[0x9f8ca6]	We won! Our magic has
+proven its worthiness.
+---
+[0x9f8d42]	We won, kupo!
+A good day for moogle
+magic, kupo!
+---
+[0x9f8de0]	Urm...I'd take a fight
+on dry land over water
+any day...
+---
+[0x9f8e52]	A swimming tourney?
+Well, we'll just have
+to keep up.
+---
+[0x9f8ec4]	A sswimming tourney?
+Leave it to me!
+---
+[0x9f8f12]	Swimming is no problem
+as long as we are
+allowed to use magic.
+---
+[0x9f8f88]	A swimming tourney?
+I love the water!
+---
+[0x9f9188]	It's the finals at
+last! We're ready
+to take you on.
+---
+[0x9f91f4]	Sorry, but we're
+not going to lose
+this one!
+---
+[0x9f9252]	Better get readier!
+We've come too far
+to lose this one!
+---
+[0x9f9318]	Let us both observe
+the rules of fair
+play. Good luck!
+---
+[0x9f9426]	W-We lost...
+I guess this makes
+you the champions!
+---
+[0x9f94ec]	We have to clear
+these monsters out
+of here...
+---
+[0x9f954c]	Stay away from those
+children, you smarmy
+fiends!
+---
+[0x9f95b4]	Wild monsterss...we
+have to keep them
+away from the kidss!
+---
+[0x9f9626]	Despicable fiends!
+We must keep them
+from the children!
+---
+[0x9f9696]	We have to get those
+monsters out of here,
+and quick...
+---
+[0x9f9706]	Monsters, kupo!
+Keep them away from
+the kids, kupo!
+---
+[0x9f9774]	Things should be
+safe now.
+
+It's about time we
+brought these kids
+back home.
+---
+[0x9f9802]	Things should be
+safe now.
+
+OK, playtime's over,
+kids! We're heading
+back to town.
+---
+[0x9f9934]	Things should be
+safe now.
+
+Playtime is over now,
+children. Let us head
+home.
+---
+[0x9f9a5b]	Things should be
+safe now.
+Playtime's over, kupo!
+---
+[0x9f9af8]	Hrm...no more ice.
+This experiment is
+finished.
+
+Who are you!?
+I do not take
+interference lightly!
+---
+[0x9f9bac] x2	Stop your experiments
+at once!
+
+Nobody can get through
+with you blocking the
+pass!
+---
+[0x9f9c4c]	So the freak weather
+recently was all your
+fault!
+
+You've caused more
+than enough trouble,
+mister!
+---
+[0x9f9cfe]	Your experimentss are
+causing the ssnowss!
+Sstop at once!
+---
+[0x9f9d76]	So you are the cause
+of the abnormal
+weather! Stop at once!
+---
+[0x9f9f52]	If you had just gotten
+permission, it might
+have been fine!
+---
+[0x9f9fcc]	That's what you get
+for not thinking of
+others!
+---
+[0x9fa086]	Your experiments do
+seem fascinating...
+
+But you must always
+take into account
+their effects!
+---
+[0x9fa1c4]	You should get a
+job as a snowmaker
+somewhere safer, kupo.
+
+I'm sure the kids
+would love it, kupo.
+Me too!
+---
+[0x9fa30c]	Professor ,
+are you OK? We've
+come to help you!
+---
+[0x9fa372]	There he iss.
+Hang in there.
+We'll come help!
+---
+[0x9fa502]	Everyone's worried
+about you. Let's get
+back right away.
+---
+[0x9fa574]	Why go out to do
+research in the
+driving snow?
+---
+[0x9fa63a]	Your students are
+worried, Professor!
+Let us go home!
+---
+[0x9fa6aa]	We'll catch our death
+of a cold out here.
+Let's go home.
+---
+[0x9fa71a]	That was close, kupo.
+You would have been
+a popsicle, kupo!
+---
+[0x9fa7c6]	I'm pretty sure she
+wants some bomb claws
+for her recipe.
+---
+[0x9fa834]	If we could get some
+bomb claws, that'd be
+spicy enough!
+---
+[0x9fa8a6]	Ssome bomb clawss
+ought to make the
+perfect ingredient.
+---
+[0x9fa91c]	Some bomb claws
+ought to make the
+perfect ingredient.
+---
+[0x9fa98e]	We need some bomb
+claws for her recipe!
+Let's give it a shot!
+---
+[0x9faa08]	Let's get some bomb
+claws, kupo. Those
+are spicy, kupo.
+---
+[0x9faa80]	This is all the stuff
+we need. Let's take
+it back to Rolana.
+---
+[0x9faafa] x2	We've got the
+ingredients! This is
+going to be good!
+---
+[0x9fab5e]	Rolana will be able
+to work wonders with
+this much sspice!
+---
+[0x9fabd0]	This is all we need.
+Let us take it
+back to Rolana.
+---
+[0x9fac9c]	This is all we need,
+kupo! Let's bring it
+back and eat, kupo!
+---
+[0x9fafc4] x2	We've got monsters!
+Better find that ring,
+and fast!
+---
+[0x9fb090]	Thosse monssterss
+better not get in
+our way...
+---
+[0x9fb0ec]	Oh dear, monsters!
+We must find that
+ring post haste.
+---
+[0x9fb152]	Monsters! Better deal
+with them before
+looking for the ring.
+---
+[0x9fb1c4]	Monsters, kupo!
+Better deal with them
+first, kupo!
+---
+[0x9fb4aa]	I've been watching you!
+You dare interfere
+with my plans!?
+---
+[0x9fb522] x4	So you're the criminal!
+You won't get away
+now!
+---
+[0x9fb5ec]	Sso you're the
+criminal! You won't
+get away now!
+---
+[0x9fb721]	So you're the criminal!
+You won't get away
+now, kupo!
+---
+[0x9fb800]	Watch all you want.
+We have nothing to
+hide!
+---
+[0x9fb894]	Watch all you want.
+The resst of uss will
+be getting work done.
+---
+[0x9fb914]	Then we shall keep an
+eye on you, too. To
+ensure good behavior.
+---
+[0x9fb992]	We'll have you so
+well watched you won't
+be able to!
+---
+[0x9fb9fb]	Got the ahriman eye,
+kupo. Your spying
+days are over!
+---
+[0x9fbaa6]	The oasis is up ahead.
+Just got to get
+through here first.
+---
+[0x9fbb16] x2	The oasis is up ahead.
+Just got to get through
+these monsters first.
+---
+[0x9fbb92]	Monssterss... They
+won't jusst sstep
+asside, I guesss?
+---
+[0x9fbbf8]	The oasis is near.
+We must pass through
+here first, though.
+---
+[0x9fbcde]	The oasis is coming
+up, kupo! Got to get
+through these fiends!
+---
+[0x9fbe5e]	If we continue on, we
+shall soon reach the
+oasis.
+---
+[0x9fbfc2]	I wonder what's gotten
+these monsters all
+riled up...?
+---
+[0x9fc030]	These monsters are
+really riled! Usually,
+they're not like this.
+---
+[0x9fc0ae]	Don't know why they're
+sso riled up, but I'll
+take them on!
+---
+[0x9fc126]	I detect much
+aggression in these
+monsters...odd.
+---
+[0x9fc18a]	These monsters are out
+to kill! They're not
+like this usually...
+---
+[0x9fc204]	These monsters are
+out to kill, kupo!
+Unusual for here, kupo!
+---
+[0x9fc288] x2	Something's wrong
+with the mountain.
+I wonder what?
+---
+[0x9fc2ee]	The mountain is
+troubled...
+Let's find the cause.
+---
+[0x9fc3b0]	Those monsters were
+scared of something.
+I wonder what?
+---
+[0x9fc486]	They seemed scared
+of something, kupo.
+Let's check it out!
+---
+[0x9fc5ea] x2	Clan is
+here to make sure
+you don't get away!
+---
+[0x9fc69a]	There is no place you
+can run where we
+cannot find you.
+---
+[0x9fc7ca]	Dang it! And we
+were making good
+gil, there...
+---
+[0x9fc82c]	Poaching is a crime!
+[0x9fc85a]	Sorry, but we'll be
+confiscating those
+profits...
+---
+[0x9fc8c2]	You were ssetting
+yoursselvess up for
+a fall. Deal with it.
+---
+[0x9fc934]	We are here to make
+sure people like you
+are caught and tried.
+---
+[0x9fc9a4]	If you do bad things,
+you're going to get
+punished!
+---
+[0x9fca11]	We'll take those
+profits, kupo!
+---
+[0x9fcac4]	Ah, monsters!
+You'd best get back,
+miss songstress.
+---
+[0x9fcb2c]	Monssterss! We'll
+deal with thesse
+in no time, ma'am.
+---
+[0x9fcbd4]	Monsters! You might
+want to wait in the
+back, .
+---
+[0x9fccfc]	Sorry about that,
+. Are you OK?
+
+Let's hurry, I'm
+sure your friend is
+waiting.
+---
+[0x9fcd98]	That'ss over with.
+You've no need to
+fear with uss here!
+---
+[0x9fce00]	It is over.
+
+Let's us continue
+on. Your friend
+awaits us.
+---
+[0x9fce72]	Whew. Glad that's
+over!
+
+Let's get going.
+I'm sure your
+friend is waiting!
+---
+[0x9fcfa2]	I wonder where
+Temil planted
+those flowers?
+---
+[0x9fcffe]	Why did that kid
+have to plant his
+flowers here?
+---
+[0x9fd05e]	Temil'ss flowerss...
+
+Let'ss go find them.
+Wonder where they
+could be?
+---
+[0x9fd0de]	I wonder where Temil
+has planted his
+flowers?
+---
+[0x9fd140]	Let's hurry up and
+find the flowers
+Temil planted.
+---
+[0x9fd1af]	I wonder where
+Temil's flowers
+are, kupo?
+---
+[0x9fd214] x2	Here they are!
+Let's get these
+back home!
+---
+[0x9fd2bc]	Ah hah. Thesse are
+the flowerss. Let'ss
+take ssome back.
+---
+[0x9fd328]	Ah, here they are.
+Let us bring these
+back to Temil.
+---
+[0x9fd392]	The flowers! Let's
+get these back
+right away.
+---
+[0x9fd3f0]	Here they are, kupo!
+These have got to
+be Temil's flowers!
+---
+[0x9fd49c]	This is our turf.
+
+If you're here for
+amber, you're out
+of luck.
+---
+[0x9fd50a]	We need that amber
+for a good reason!
+We're not leaving!
+---
+[0x9fd662]	This land belongs to
+no clan. We shall not
+leave.
+---
+[0x9fd6ca]	We really need that
+amber. Sorry, but
+we're not leaving!
+---
+[0x9fd7b2]	Grr... And we had
+all that amber to
+ourselves!
+---
+[0x9fd814]	Well, we got the
+amber we needed.
+
+I wonder what kind
+of antilaw 's
+going to make?
+---
+[0x9fd8ae] x2	We got the amber!
+Can't wait to see
+the new antilaw!
+---
+[0x9fd914]	We got the amber we
+need. Let'ss give it
+to .
+---
+[0x9fd976]	The amber is ours.
+I wonder what kind of
+antilaw plans?
+---
+[0x9fda55]	The amber's ours,
+kupo! Just think,
+a new antilaw!
+---
+[0x9fdaf8]	Emergency! That
+Julian's running
+again!
+---
+[0x9fdbb0]	We're found!
+Nothing to do but
+engage, now.
+---
+[0x9fdc0e]	They found uss.
+Time to engage!
+---
+[0x9fdc54]	We're found?
+I suppose we must
+fight, then.
+---
+[0x9fdcb2]	They found us!
+Guess we'll have
+to fight!
+---
+[0x9fde12]	Julian, please come
+back like you said!
+---
+[0x9fded2]	We trust you Julian,
+but please, come back
+like you said!
+---
+[0x9fe204]	So this is where the
+ancient coins were
+found...
+---
+[0x9fe262]	I wonder if any of
+those gold coins
+are still here?
+---
+[0x9fe2d0]	I'm entitled to
+keep any coinss
+I find, right?
+---
+[0x9fe332]	Examining this site
+would surely be
+exciting!
+---
+[0x9fe390]	I wonder if any of
+those coins
+still lay here?
+---
+[0x9fe3f2]	The ancient ruins,
+kupo! I'm going back
+rich, kupo!
+---
+[0x9fe4b4]	I see. This switch
+opens the door to
+the inner ruins.
+---
+[0x9fe566]	Hm. The switch opened
+the door leading
+deeper down...
+---
+[0x9fe5d4]	Yes! A switch!
+I'm ready for some
+serious exploring!
+---
+[0x9fe647]	Kupo! A switch!
+Let's go get that
+treasure!
+---
+[0x9fe6d8]	Came for this
+sketchbook, did you?
+
+Well, you can play
+with the flan that
+I created!
+---
+[0x9fe7bc]	You'll going to pay
+for stealing from
+little kids!
+---
+[0x9fe826]	Sstealing from little
+kidss? Sscum!
+---
+[0x9fe872]	Magic that can give
+life to drawings?
+Fascinating!
+---
+[0x9fe8da]	Hey, you shouldn't be
+stealing from little
+kids! Scum!
+---
+[0x9fe951]	That's the most
+tasteless flan I've
+ever seen, kupo!
+---
+[0x9fea1c]	We got back the
+sketchbook. Let's
+head home.
+---
+[0x9feaac]	And I ssay, fight
+with your own
+two handss!
+---
+[0x9feb08]	We have retrieved the
+sketchbook and shall
+now return it.
+---
+[0x9feb7a]	All right, we got
+back the sketchbook!
+---
+[0x9febd1]	Kupopo! We won!
+Thank goodness
+his art stinks!
+---
+[0x9fec72]	The Bardo Band is
+nothing but a bunch
+of weaklings, kupo!
+---
+[0x9fee0a]	You will not be
+saying that after
+we engage!
+---
+[0x9fee68]	Yeah, yeah.
+Can we start the
+battle, please?
+---
+[0x9fefa4] x2	All right!
+Bardo Band won!
+---
+[0x9fefde]	You shouldn't take
+these clan wars too
+far. It does no good!
+---
+[0x9ff058]	That ssure wass a
+wasste of my
+preciouss time...
+---
+[0x9ff0b8]	Bardo Band prevails!
+[0x9ff127]	Yaay! We won!
+Hooray for Bardo
+Band, kupo!
+---
+[0x9ff1b6]	A hit-and-run? Nope,
+don't know anything
+about it.
+---
+[0x9ff21e]	I know you do!
+You won't go un-
+punished for this!
+---
+[0x9ff288]	Your airship has a
+very suspicious
+looking scratch!
+---
+[0x9ff2f6]	Look, pal, we got
+proof. You'll pay
+for thiss!
+---
+[0x9ff356]	You are willing to
+contest all the
+evidence we have?
+---
+[0x9ff40b]	Your airship is
+scratched, kupo!
+I know you did it!
+---
+[0x9ff4f4]	Apologize to .
+And don't ever do
+it again.
+---
+[0x9ff552]	Apologizing won't help
+next time you
+hit-and-run, buddy.
+---
+[0x9ff5c8]	Apologize quicker
+next time, and no
+one hass to get hurt.
+---
+[0x9ff642]	Case closed.
+Now we shall take
+him to .
+---
+[0x9ff698]	Case closed!
+Let's take this guy
+back to .
+---
+[0x9ff798]	Lamias! Are they
+the ones eating
+the frogs?
+---
+[0x9ff7ee]	Lamias! So you're
+the ones eating
+the frogs!
+---
+[0x9ff848]	Lamiass...Eat what
+you like, but sstop
+attacking people!
+---
+[0x9ff8b8]	So the Lamias are
+preying on both
+the people and frogs!
+---
+[0x9ff96e]	Kupo! I must tell the
+lamias to stop
+attacking people!
+---
+[0x9ffa42]	What's that? The
+lamias left something
+behind.
+---
+[0x9ffa9e]	Iss thiss a...book?
+I didn't know lamiass
+could read at all.
+---
+[0x9ffb72]	Hey, the lamias left
+a book behind!
+---
+[0x9ffce4]	Hey, prof, come out
+of your hiding!
+We won't bite!
+---
+[0x9ffd4e]	Vanishing without a
+trace is impossible.
+Hmm...
+---
+[0x9ffdb4]	All these people
+vanishing! Sure is
+bizarre.
+---
+[0x9ffebe]	!!
+It's coming from
+behind the statue!
+---
+[0x9fff10]	This looks like a
+switch...to the
+hidden room, I bet!
+---
+[0x9fff7c]	Thiss musst be the
+sswitch. And the prof
+should be near!
+---
+[0x9fffea]	This statue must be
+the switch!
+---
+[0xa00030]	Yes! This must be the
+switch!
+---
+[0xa0011c]	Heh, so someone had
+what it takes to get
+this far.
+---
+[0xa00180]	I see... We'll need
+to win to enter this
+jagd!
+---
+[0xa001de]	Now this is what
+I call a welcome
+party!
+---
+[0xa00234]	We got a lot more
+than what you got.
+Let'ss get it on!
+---
+[0xa0029a]	An engagement as a
+means of welcome?
+How unsophisticated.
+---
+[0xa0030e]	Gee, thanks.
+Where are my welcome
+presents?
+---
+[0xa0036a]	Kupo! I demand some
+tea and cake after we
+win, kupo!
+---
+[0xa003d8]	You've done it,
+strangers. Welcome
+to Jagd Helje.
+---
+[0xa00440]	Another jagd...
+Another place where
+no laws can reach.
+---
+[0xa0049e]	I suppose the jagd is
+the only place with
+absolute freedom...
+---
+[0xa00516]	No lawss, and no
+protection. You're
+on your own here.
+---
+[0xa00584]	No laws, and no
+protection.
+A dangerous place!
+---
+[0xa005e6]	I don't think I want
+to get used to these
+welcome engagements!
+---
+[0xa006e4]	Our destination must
+be right ahead!
+Or...so I hope!
+---
+[0xa00752]	We've got to get
+through this to
+proceed...
+---
+[0xa007aa]	Thiss better be the
+last obsstacle before
+our desstination!
+---
+[0xa00818]	Perhaps we're nearing
+our destination...
+I pray.
+---
+[0xa0087e]	This means we're
+almost there! Ah, the
+unspoilt wilderness!
+---
+[0xa00972]	Yes! Now we'll enter
+the uncharted lands!
+---
+[0xa009ca]	Done! All right, I'm
+get where we're
+going now!
+---
+[0xa00a30]	I think I'm ready for
+the "unspoilt
+wilderness."
+---
+[0xa00a96]	We shall proceed now.
+The unspoilt wilds
+await us!
+---
+[0xa00b00]	All right, let's go!
+My legs could use a
+good oasis dip!
+---
+[0xa00b70]	Kupopo! Let's go!
+The uncharted lands
+await us, kupo!
+---
+[0xa00c16]	This is the sanctuary
+of the .
+Away with you!
+---
+[0xa00c72]	I've come for your
+help! Only you can
+save Baguba!
+---
+[0xa00cd9]	! We
+need your help to
+save Baguba!
+---
+[0xa00d29]	s, only
+you can ssave Baguba!
+Hear uss out!
+---
+[0xa00d89]	, your
+strength is needed
+to save Baguba.
+---
+[0xa00de2]	Please help us! The
+Roda Dragon is
+destroying Baguba!
+---
+[0xa00e52]	Kupo! Please save
+Baguba from the
+Roda Dragon, kupo!
+---
+[0xa00ec4]	I see you have the
+wyrmstoneandstrength.
+
+We shall offer our
+help in driving away
+the Roda Dragon.
+---
+[0xa0154a]	I've been found!
+Nothing to do but
+fight my way out!
+---
+[0xa015ba]	Thief!
+Give back those
+chickens!
+---
+[0xa0163a]	Think you can beat
+uss, thief?
+Think again!
+---
+[0xa0168e]	I would tell you to
+surrender, though I
+doubt you'd listen.
+---
+[0xa01700]	You're caught, so
+come in quietly.
+Or else.
+---
+[0xa0175c]	Watch out, kupo!
+I got a thing against
+thieves, kupo!
+---
+[0xa01890]	Clan Borzoi!
+We're taking
+you down!
+---
+[0xa018de]	Just try to escape!
+This place is
+surrounded!
+---
+[0xa0193e]	There iss no esscape
+for you! Come quietly
+or elsse!
+---
+[0xa019aa]	We were only keeping
+an eye on you, but
+if we must fight...
+---
+[0xa01a20]	Clan Borzoi!
+Give up now while
+you're still alive!
+---
+[0xa01b16]	Finally, we'll have
+peace in Sprohm
+once more.
+---
+[0xa01b78]	Sprohm is a safer
+place now, thanks
+to us.
+---
+[0xa01bd2]	That Clan Borzoi
+iss alwayss up to
+no good.
+---
+[0xa01c8c]	Now that Sprohm's
+safe, let's go do
+some shopping.
+---
+[0xa01cf6]	Sprohm is safe, kupo!
+Let's go do some
+shopping, kupo!
+---
+[0xa01d98]	I'll get you back
+for what you did
+to my comrades!
+---
+[0xa01dfe]	If you're then
+you should know Clan
+Borzoi never wins!
+---
+[0xa01ec0]	Ah, great! I love
+a good fight!
+---
+[0xa01f06]	We shall not lose to
+Clan Borzoi or any
+of its underlings.
+---
+[0xa01f82]	You're ? Then
+you should know— we
+always beat Borzoi!
+---
+[0xa01ff4]	We're here to meet
+your challenge, kupo!
+We won't lose, kupo!
+---
+[0xa020fc]	We won!
+That settles that.
+---
+[0xa02136]	It'ss good to avenge
+your friendss, but
+pick better friendss.
+---
+[0xa021a8]	I am relieved the
+fight is over.
+---
+[0xa021ee]	We won! I wonder if
+his friends will try
+to avenge him?
+---
+[0xa02404]	I won't go down
+without a fight!
+---
+[0xa02552]	We cannot allow you
+to escape, .
+Come with us quietly.
+---
+[0xa0261f]	Clan is
+here, kupo! Get ready
+to lose!
+---
+[0xa026d0]	You call other people
+suffering "glorious"?
+---
+[0xa0272c]	You've caused a lot
+of suffering, and now
+you're going to pay.
+---
+[0xa027a8]	Clan Borzoi iss
+finished! I've done
+my bit for peace!
+---
+[0xa0281a]	Clan Borzoi is
+no more.
+---
+[0xa02852]	So much for Clan
+Borzoi!
+---
+[0xa02a88]	We have to keep our
+distance from those
+bombs!
+---
+[0xa02aed]	Look at all of the
+bombs, kupo! Better
+keep my distance!
+---
+[0xa02b6e]	Glad we managed to
+deal with them before
+they got to Cadoan.
+---
+[0xa02c2c]	Ssaving Ivalice one
+town at a time.
+---
+[0xa02c78]	I wonder where all
+those bombs came
+from? Curious...
+---
+[0xa02ce4]	That was close!
+I wonder where they
+all came from?
+---
+[0xa02d4a]	All out, kupo! But
+I wonder where all
+those came from?
+---
+[0xa02dfa] x2	Redwings! Keep your
+hands off Ivalice!
+---
+[0xa02e4e]	So you're the
+criminals from
+afar!
+---
+[0xa02e9a]	The Redwingss, eh?
+You came all thiss
+way to get beaten?
+---
+[0xa02f10]	Ah, the Redwings,
+I presume. You are
+not welcome here.
+---
+[0xa02fd9]	So you're the
+criminals from
+afar, kupo!
+---
+[0xa0303a]	Something tells me we
+haven't seen the last
+of the Redwings.
+---
+[0xa030aa]	Just as Clan Borzoi
+is dealt with, these
+guys show up!
+---
+[0xa0316e]	I believe we have not
+seen the last of the
+Redwings.
+---
+[0xa031d4]	Those Redwings bother
+me...but at least
+Cadoan is safe!
+---
+[0xa03248]	Something tells me we
+haven't seen the last
+of the Redwings, kupo.
+---
+[0xa03300]	I am the Falgabird
+of fire, Marilith!
+---
+[0xa03352]	She looks tough.
+Better be careful.
+---
+[0xa0339e]	Looks like she's
+after us... Better
+watch out!
+---
+[0xa03400]	I don't care who
+you are. We're ready
+to fight!
+---
+[0xa03464]	This is no easy
+opponent. Best
+be careful.
+---
+[0xa034be]	We're ready for
+you, whoever you
+are!
+---
+[0xa0350e]	She looks tough,
+kupo! Better be
+careful, kupo!
+---
+[0xa0364a]	She was tough, but
+nothing sspecial.
+---
+[0xa03af8]	Falgabird!
+So there's more than
+just Marilith!
+---
+[0xa03b5a]	Another Falgabird,
+eh? No problem.
+Come and get uss!
+---
+[0xa03bca]	Falgabird! So you're
+cooperating with
+the Redwings!
+---
+[0xa03c36]	Falgabird! And a
+friend to the
+Redwings at that!
+---
+[0xa03d4e]	I wonder how many
+more of those there
+are...?
+---
+[0xa03daa]	Something tells me
+that wasn't the
+last Falgabird.
+---
+[0xa03e0e]	Something tellss me
+that wasn't the
+lasst Falgabird.
+---
+[0xa03e76]	We have prevailed,
+but I fear this is
+not over.
+---
+[0xa03ed8]	How many more
+Falgabirds are out
+there, I wonder?
+---
+[0xa03f40]	That was tough, kupo!
+Figures that
+Falgabird had friends.
+---
+[0xa03fec]	I am , Falgabird
+of Wind! Prepare for
+your doom!
+---
+[0xa04056]	The Falgabird of
+wind! Uh oh!
+---
+[0xa04098]	Falgabird! We're
+ready for you!
+---
+[0xa040dc]	You're the one that
+should be preparing,
+Falgabird!
+---
+[0xa04142]	Ah, another Falgabird,
+one of wind, this
+time.
+---
+[0xa041ce]	A Falgabird of wind,
+kupo! These Redwings
+never stop, kupo!
+---
+[0xa0424e]	You are strong...I
+hope to challenge you
+again sometime.
+---
+[0xa042be]	Now I wonder who's
+leading these
+Falgabirds?
+---
+[0xa0431c]	These Falgabirds
+are quite the
+opponents...
+---
+[0xa04378]	These Falgabirdss
+are quite the
+opponentss...
+---
+[0xa043d6]	There must be a leader
+somewhere controlling
+these Falgabirds...
+---
+[0xa04454]	Who is the Redwings
+leader, I wonder?
+---
+[0xa044a4]	Whew, we did it, kupo!
+Hope that was the
+last one, kupo!
+---
+[0xa04542]	I am , Falgabird
+of earth! I will rot
+you alive!
+---
+[0xa045ee]	The Falgabird of
+earth, huh? Bring
+it on!
+---
+[0xa04646]	The Falgabird of earth
+you ssay? Take it
+eassy on uss...
+---
+[0xa046b8]	To think that one of
+the Falgabirds is
+an undead!
+---
+[0xa0471c]	This earth Falgabird
+is a bit different
+from its brethren.
+---
+[0xa0478a]	Falgabird of earth,
+kupo! I'll put you
+to rest, kupo!
+---
+[0xa048ce]	That was certainly
+nothing human...
+---
+[0xa0491a]	The earth ssigil...
+This sseemss usseful
+ssomehow...
+---
+[0xa04a0c]	That was a tough one!
+I guess there are all
+types in the Redwings.
+---
+[0xa04a88]	That was tough, kupo!
+But we got the earth
+sigil!
+---
+[0xa04b26]	First you found Clan
+Borzoi, and now you've
+found us...
+
+You've done well...
+too bad it all ends
+here!
+---
+[0xa04bd6]	We'll win again!
+Everyone's on
+our side!
+---
+[0xa04c2c]	We'll do more than
+just find you!
+Get ready to fight!
+---
+[0xa04c98]	Ssee how well you
+do againsst the
+sspiritsstone!
+---
+[0xa04cfe]	Your magic is useless
+against the bearers
+of the spiritstone!
+---
+[0xa04d76]	We can't lose with
+the spiritstone on
+our side!
+---
+[0xa04dd2]	Your magic is useless,
+kupo! The spiritstone
+is on our side!
+---
+[0xa04f10]	Remember the ones
+that defeated you—
+Clan !
+---
+[0xa04f70]	Sso much for the
+Redwingss! Peace at
+lasst!
+---
+[0xa04fcc]	Return to the
+darkness whence
+you came.
+---
+[0xa05022]	So much for the
+Redwings!
+---
+[0xa0505a]	So much for the
+Redwings, kupo!
+Whew! Kupopo!
+---
+[0xa050f0]	Clan Borzoi will
+never die. We'll
+rise again...
+
+After we beat
+you!
+---
+[0xa0517c]	Clan Borzoi leftovers?
+Don't they ever
+give up?
+---
+[0xa051e2]	Didn't Clan Borzoi
+learn its lesson?
+---
+[0xa05230]	We beat the Redwingss
+and you think you can
+beat uss?
+---
+[0xa0528c]	Clan Borzoi leftovers?
+I would think they'd
+have learned by now.
+---
+[0xa0530e]	Clan Borzoi leftovers?
+Aren't you guys a
+little late?
+---
+[0xa05385]	Clan Borzoi?
+I thought we'd dealt
+with you, kupo!
+---
+[0xa05426]	At last Muscadet will
+have some peace and
+quiet.
+---
+[0xa054e0]	Finally, we can have
+ssome peace and quiet
+in Musscadet.
+---
+[0xa05550]	I do hope that was the
+last we'll see of
+Clan Borzoi.
+---
+[0xa055ba]	At last, some peace
+and quiet for
+Muscadet!
+---
+[0xa0561b]	Whew, kupo!
+Clan Borzoi is nothing
+to laugh at.
+---
+[0xa056ba] x2	A fiend from afar...
+Wonder if it's any
+worse than the locals?
+---
+[0xa05732]	I've heard fiends from
+other lands fight
+differently...
+---
+[0xa0579c]	A foreign fiend, eh?
+Who caress! I'll fight
+anything!
+---
+[0xa0580a]	A foreign fiend...
+What a lovely gift the
+Redwings have left us.
+---
+[0xa05900]	A foreign fiend, kupo!
+I thought we were done
+with those Redwings...
+---
+[0xa0598e]	And I thought
+was the end of the
+Redwings.
+---
+[0xa059e6] x2	I guess foreign fiends
+die just like the ones
+here in Ivalice.
+---
+[0xa05a5c]	Ssorry I had to beat
+up on a sscaly friend,
+but a job'ss a job.
+---
+[0xa05ad4]	When with the shadow
+of the Redwings truly
+be gone from Ivalice?
+---
+[0xa05c5c]	We better get this
+thing out of here,
+quick!
+---
+[0xa05cb6]	Now turtles! How many
+fiends did those
+Redwings bring!?
+---
+[0xa05d24]	No turtle can attack
+Ivalice'ss townss when
+I'm around!
+---
+[0xa05d94]	! And I
+thought there were
+none left!
+---
+[0xa05de6]	How many fiends did
+those Redwings bring
+here, anyway?
+---
+[0xa05e59]	Stay away from our
+towns, kupo!
+---
+[0xa05f34]	Any more and the town
+would have been in
+serious trouble!
+---
+[0xa05fa6]	Even "extinct" species
+can cause a great deal
+of damage, it seems.
+---
+[0xa0602c]	That was close! But,
+we protected the town.
+---
+[0xa06088]	That was close, kupo!
+Glad we were able to
+make it on time!
+---
+[0xa0613a]	Plants, huh... Did
+the Redwings bring
+this over, too?
+---
+[0xa061a2]	Plants...
+And I thought I had
+seen everything.
+---
+[0xa06204]	Plant monsterss?
+Thosse Redwingss were
+keeping busy!
+---
+[0xa0626e]	O-! Another rare
+beast, and right after
+the adamantoise!
+---
+[0xa06338]	Plant problems, kupo?
+Did the Redwings bring
+this over, too?
+---
+[0xa063c0]	Snakes, turtles,
+plants. Foreign beasts
+come in all kinds!
+---
+[0xa0643a]	Snakes, turtles,
+plants. Are lizards
+next?
+---
+[0xa06494]	Thesse foreign fiendss
+are nothing to worry
+about after all.
+---
+[0xa0650e]	A queen lamia, an ochu,
+and an adamantoise.
+How fascinating!
+---
+[0xa06586]	I hope our local
+plants don't start
+acting up like that.
+---
+[0xa065fc]	I don't like malboros,
+kupo. Even when they
+aren't called malboros.
+---
+[0xa066b0]	What...what is that!?
+I feel something
+really, really weird!
+---
+[0xa06720]	Is this another fiend
+from afar? Why am I
+shivering like this?
+---
+[0xa06792]	Hrm...I have a bad
+feeling about thiss
+one. Musst take care.
+---
+[0xa06808]	It is living darkness!
+This is no garden-
+variety fiend!
+---
+[0xa06878]	I got a bad feeling
+about this one!
+---
+[0xa068c9]	Uh oh! This one has
+me worried, kupo!
+---
+[0xa06924]	The darkness fades...
+And the last of the
+Redwings with it!
+---
+[0xa06992]	The darkness is gone.
+And so are the
+Redwings, save .
+---
+[0xa06a00]	That'ss it for the
+Redwingss!
+---
+[0xa06a40]	The darkness fades...
+and with it, the last
+of the foreign fiends.
+
+Now to find where
+ has gone.
+---
+[0xa06ae6]	The dark has faded...
+I feel sorry for these
+monsters they brought.
+---
+[0xa06dee]	I've learned a few
+tricks overseas...
+
+Now I'm more powerful
+than ever! The dark
+shall prevail!
+---
+[0xa06e9c]	! So you're
+back with the power
+of the dark, eh?
+---
+[0xa06f6c]	! Sso you're back
+jusst in time for me
+to beat you!
+---
+[0xa06fd6]	! You have the
+power of the dark,
+you say?
+
+I am afraid you will
+not be able to enjoy
+it for much longer.
+---
+[0xa0709a]	! So you didn't
+learn your lesson
+last time!
+---
+[0xa071b1]	. Nothing good
+can come of the
+darkness.
+---
+[0xa07206]	Nothing shall dim
+the light of Ivalice,
+least of all, you!
+---
+[0xa07276]	Back to the darknesss,
+. Never come to
+Ivalice again!
+---
+[0xa072e6]	Back to the darkness,
+and never again return
+to Ivalice.
+---
+[0xa074bf]	!
+We have to defeat
+him, somehow!
+---
+[0xa07506]	Sorry to disturb your
+rest just to put you
+down once again...
+---
+[0xa0757f]	! Sso you really
+do exisst!
+---
+[0xa075ba]	The Worldwyrm !
+So the legend was
+indeed true!
+---
+[0xa07623]	! Wow, you're
+not just a fairy
+tale after all!
+---
+[0xa0780a]	You know how many
+clans have suffered
+because of you!?
+
+When a clan grabs all
+the power, a dictator
+is not far behind!
+
+We will defeat you
+for our fallen friends
+and...for freedom!
+---
+[0xa0792c]	Who's a dictator!?
+Why can't we all
+be friends?
+---
+[0xa07990]	The only people who
+would suspect that
+of us...
+
+Are the ones really
+trying to grab power!
+---
+[0xa07c08]	You may have beaten
+us, but you can't
+beat all the clans!
+
+Someone will rise to
+take our place! Enjoy
+your short reign!
+---
+[0xa07cde]	Reign...dictator...
+Who said we were
+interested at all?
+---
+[0xa07d44]	I certainly hope none
+of the other clans are
+as misguided as you!
+---
+[0xa07dc4]	You could try helping
+people before taking
+it out on uss...
+---
+[0xa07e38]	Why can't we all
+simply be friends?
+---
+[0xa07e84]	Dictators...reigns...
+Who said we wanted
+any of that?
+---
+[0xa07eee]	I think you have a
+very active
+imagination, kupo!
+---
+[0xa07f90]	Waahahaha! So you're
+the strongest
+swordsman!?
+
+I'll take you
+all on!
+---
+[0xa08034]	Very well, here
+we come!
+---
+[0xa080e2]	Very well, prepare
+yourself!
+---
+[0xa0817b]	Oh yeah? Get ready,
+kupo! Here we come!
+---
+[0xa081d4]	Your strength is true.
+I give you this sword
+to honor that.
+---
+[0xa082a0]	Nooo! No one can
+see me like this
+and live!
+---
+[0xa08376]	Yes I did see you!
+Monsster!
+---
+[0xa083b4]	A lilith! Only your
+kind would hide their
+true form to marry!
+---
+[0xa0842e]	We're here to save
+that poor boy from
+you!
+---
+[0xa08488]	I see you, kupo!
+But I don't plan on
+dying any time soon!
+---
+[0xa0859e]	I've never seen
+so much flan!
+---
+[0xa085de]	Look at all the
+flan! This is an
+infestation!
+---
+[0xa08638]	Look at all the flan!
+Thiss iss truly a
+infesstation!
+---
+[0xa0869e]	This is the first time
+I've heard of flan
+acting in groups...
+---
+[0xa08714]	Wow! Look at all the
+flan! This is going
+to get messy...
+---
+[0xa08784]	Look at all the flan,
+kupo! This is gonna
+be messy work, kupo!
+---
+[0xa0880c]	We better warn the
+other clans so this
+never happens again!
+---
+[0xa0887c]	Well well. Glad that's
+over, but I wonder
+what caused it?
+---
+[0xa088f0]	Never come back,
+flanny fiends!
+---
+[0xa08934]	I will have to
+investigate the cause
+of this infestation.
+---
+[0xa089a0]	Whew. Let's tell the
+other clans so this
+doesn't happen again!
+---
+[0xa08a1c]	Well, that's over,
+kupo! We should warn
+the other clans.
+---
+[0xa08ace]	That must be the
+monster. Sorry, but
+you gotta go.
+---
+[0xa08b36]	That must be it! Sorry
+to send you back after
+you just got here.
+---
+[0xa08bae]	Kidss do the darndesst
+thingss. Ssorry about
+this...
+---
+[0xa08c10]	The monster has done
+nothing wrong, but
+drive it off we must.
+---
+[0xa08c8a]	Sorry, you haven't
+done anything wrong,
+we know.
+---
+[0xa08cf5]	Sorry, monster. I know
+it's not your fault,
+kupo!
+---
+[0xa08db8]	Well, we'll have to
+see that that boy
+gets punished.
+---
+[0xa08e1a]	The boy who sstarted
+all thiss musst be
+punished.
+---
+[0xa08e7e]	He must study hard
+so that this never
+happens again.
+---
+[0xa08ee6]	We're really sorry to
+drive you off just as
+you got here.
+---
+[0xa08f5b]	I can't believe they
+teach how to summon
+at school, kupo!
+---
+[0xa090ea]	Carrot? Please
+come on out?
+---
+[0xa0921c]	So you've come to
+face us!
+---
+[0xa09256]	I hate to disappoint
+you, but we're going
+to win!
+---
+[0xa092ba]	We're ready to face
+you!
+---
+[0xa092f0]	We accept your
+challenge! And we
+shall be the victorss!
+---
+[0xa09360]	We shall not lose!
+We have come too far
+for that!
+---
+[0xa093c2]	Well get ready for
+everything we've
+got!
+---
+[0xa09472]	Your clan is good...
+Take these tabi as
+a sign of our respect.
+---
+[0xa0975e]	Who are you?
+A leftover Redwing?
+---
+[0xa097c4]	Who are you?
+Are you a former
+Redwing?
+---
+[0xa098a6]	I'll forge you a
+dark blade. Give me
+those materials.
+---
+[0xa09970]	Oh, so you heard
+that rumor about the
+sword, eh?
+
+I'll forge you one
+...only after you
+defeat me in battle!
+---
+[0xa09a2c]	We will need your
+sword... Here goes!
+---
+[0xa09a7e]	For the legendary
+weapons!
+---
+[0xa09aba]	We'll have you
+begging to be our
+blackssmith!
+---
+[0xa09b1a]	We shall defeat you
+only for the sake
+of your weapons!
+---
+[0xa09b80]	You're going to want
+to forge stuff for
+us, I tell you!
+---
+[0xa09bea]	No problem, kupo!
+We're not losing
+to anyone, kupo!
+---
+[0xa09c58]	Indeed you're worthy.
+I will forge you the
+mightiest sword.
+---
+[0xa09d24]	A customer, eh?
+You read my notice
+about the conditions?
+---
+[0xa09d9a]	Yes. We'll defeat
+you for your
+fey blade!
+---
+[0xa09df0]	We'd like to add
+your fey blade to
+our collection!
+---
+[0xa09e52]	Ssure did. Come on,
+let'ss get thiss
+over with!
+---
+[0xa09eb6]	We challenge
+you for the fey
+blade!
+---
+[0xa09f04]	We want that fey
+blade of yours!
+Let's go!
+---
+[0xa09fce]	You defeated me...
+And for that, I will
+forge you the blade.
+
+But know this— it is
+a cursed blade.
+Use it with caution.
+---
+[0xa0a148]	Let's hope they
+don't bite us
+too bad!
+---
+[0xa0a19c]	Time for a bit of
+monsster-capturing!
+---
+[0xa0a1ec]	They leave us no
+choice--we must
+capture them.
+---
+[0xa0a24c]	Let's capture them!
+Their caretaker is
+waiting for them!
+---
+[0xa0a2b9]	I guess we'll have
+to capture them,
+kupo!
+---
+[0xa0a31c] x2	Whew! That should get
+them back in the
+monster farm.
+---
+[0xa0a3fa]	That sshould keep
+them quiet for
+a while!
+---
+[0xa0a452]	They will return to
+the monster farm
+now... Case closed.
+---
+[0xa0a4ca]	The caretaker
+should be happy
+now!
+---
+[0xa0a519]	They'll stay where
+they belong, kupo!
+---
+[0xa0a59e]	We might spare your
+lives if you hand
+over your gil!
+---
+[0xa0a600]	You won't get
+our gil or our
+lives, thief!
+---
+[0xa0a65a]	Look, we're used
+to this sneak attack
+stuff. Sorry.
+---
+[0xa0a6c6]	Think your ssneak
+attack sstuff
+workss? Think again!
+---
+[0xa0a728]	Only cowards use
+surprise attack
+strategy. Pitiful.
+---
+[0xa0a796]	Your surprise attack
+isn't going to work
+here!
+---
+[0xa0a7fd]	No one is taking
+our money, kupo!
+Hands off!
+---
+[0xa0a97e]	We do not tolerate
+such criminal
+behavior!
+---
+[0xa0a9d8]	We got them! Let's
+hope that was the
+last of them...
+---
+[0xa0aa39]	They'd better start
+behaving well,
+kupo.
+---
+[0xa0aaca]	Why are they going
+to Baguba? We've
+got to stop them!
+---
+[0xa0ab32]	We don't want them
+destroying Baguba...
+Let's stop them!
+---
+[0xa0ac02]	Why go to Baguba?
+I suppose we should
+stop them for now!
+---
+[0xa0ac78]	What's at Baguba?
+I guess stopping
+them comes first!
+---
+[0xa0ace2]	Let's stop them
+before they destroy
+Baguba, kupo!
+---
+[0xa0ad58]	We stopped them for
+now, but there must
+be a better way...
+---
+[0xa0adc8]	This isn't going to
+work the next time
+this happens...
+---
+[0xa0ae34]	We won't be able to
+sstop them the next
+time... Hmm.
+---
+[0xa0ae9a]	We must look into
+the matter before
+it happens again.
+---
+[0xa0b048]	You're nothing if
+we nullify your
+physical attacks!
+---
+[0xa0b0b4]	Your sstrength and
+our sstrength—
+which iss better?
+---
+[0xa0b10c]	We'll teach you that
+you can't win with
+just brute force.
+---
+[0xa0b17a] x2	You're the ones
+going down!
+---
+[0xa0b1bb]	We don't judge
+strength by
+appearance, kupo!
+---
+[0xa0b266]	We won!
+That's one win
+for us!
+---
+[0xa0b2aa]	Game set!
+That's one win
+for us.
+---
+[0xa0b2f2]	Game sset!
+That's one win
+for uss.
+---
+[0xa0b33e]	We have won our
+first tourney
+meet.
+---
+[0xa0b38c]	Yes! All right!
+That's our first
+win!
+---
+[0xa0b3dc]	We won, kupo!
+That makes it
+one for us, kupo!
+---
+[0xa0b46c]	Our magic force will
+have you laying
+on the ground!
+---
+[0xa0b4d8]	So they use magic...
+Let's nullify their
+magical powers!
+---
+[0xa0b546]	Seal their magic,
+and this will be
+a piece of cake.
+---
+[0xa0b5b0]	We'll defeat you
+before you get to
+use your magic!
+---
+[0xa0b612]	This will be a good
+opportunity to
+study others' magic.
+---
+[0xa0b686]	A bunch of mages?
+Then we only have to
+nullify their magic!
+---
+[0xa0b6ff]	We will nullify their
+magic, kupo!
+---
+[0xa0b7f0]	Here's the magic
+word— balance.
+---
+[0xa0b836]	Here'ss the magic
+word— balance.
+---
+[0xa0b87e]	Victory! We shall
+defeat our next
+opponent, too.
+---
+[0xa0b8e4]	Yay! We won!
+Now let's go get
+our next opponent!
+---
+[0xa0b94f]	You shouldn't have
+relied too heavily
+on magic, kupo!
+---
+[0xa0ba48]	You're the previous
+champion... We will
+take your challenge!
+---
+[0xa0baea]	Let'ss hear it for
+a fair battle!
+We sstill will win.
+---
+[0xa0bb52]	You seem confident,
+but we are not
+losing, either.
+---
+[0xa0bbbe]	Honored!
+But we're not
+losing to you!
+---
+[0xa0bc4a]	You got us... But
+this doesn't make
+you the champions!
+---
+[0xa0bcba]	All right! Maybe
+we can go for the
+championship!
+---
+[0xa0bd20]	We beat the previous
+champions, so maybe
+we can...?
+---
+[0xa0bd88]	I think I ssee the
+championsship
+trophy coming!
+---
+[0xa0bde6]	Defeating the former
+champions give us
+confidence.
+---
+[0xa0be52]	Awesome! Let's go
+for the championship!
+---
+[0xa0bea6]	Wow, we won!
+Against the previous
+champions, kupo!
+---
+[0xa0bf98]	This is the last
+match. We will
+win this one!
+---
+[0xa0bfee]	The final match!
+Let's go get
+them, guys!
+---
+[0xa0c044]	We're not going
+eassy on you.
+Here goess!
+---
+[0xa0c09a]	This is the last
+match. We must
+win.
+---
+[0xa0c0e4]	This is the last
+match, and we're
+not losing!
+---
+[0xa0c1f6]	Finally! Does this
+mean we're going
+for the finals?
+---
+[0xa0c25c]	Whew. This makes
+us finalists, right?
+---
+[0xa0c2ac]	Won again. That
+sshould take uss
+to the finalss.
+---
+[0xa0c30e]	Yet another victory.
+Who will face us at
+the final match?
+---
+[0xa0c380]	Yes! Hopefully this
+should take us to
+the finals...
+---
+[0xa0c3e8]	I hope this win will
+take us to the
+final match, kupo!
+---
+[0xa0c66e]	W-What is this!?
+What do you think
+you're doing?
+---
+[0xa0c6c2]	We need mythril--even
+if it means we have
+to fight you for it!
+---
+[0xa0c796]	We don't have the
+fundss to get mythril
+...sso here we are!
+---
+[0xa0c806]	My apologies, but we
+are in dire need
+of mythril.
+---
+[0xa0c870]	We really need some
+mythril! Sorry!
+---
+[0xa0c8c1]	We really need some
+mythril, kupo! Sorry!
+---
+[0xa0c91e]	But I'm the one who
+found the mythril
+vein...!
+---
+[0xa0c978]	We got our mythril,
+but this just
+doesn't feel right...
+---
+[0xa0c9ea]	This doesn't feel so
+right, but at least
+we got the mythril...
+---
+[0xa0ca66]	Mythril! Yess!
+He can find another
+vein, I'm ssure.
+---
+[0xa0cad2]	The mythril was
+obtained through
+just measures.
+---
+[0xa0cc0e]	Taking my money
+would've spared
+your lives, fools!
+---
+[0xa0cc78]	Fools!
+You could've spared
+your own lives!
+---
+[0xa0ccd0]	We don't want money!
+Just give back the
+article!
+---
+[0xa0cd34]	Give up the article,
+and we might sspare
+you a few boness!
+---
+[0xa0cdac]	Give back what you
+stole, thief.
+---
+[0xa0cdf4]	You can't run!
+Hand over the
+article, creep!
+---
+[0xa0cea6]	Aw, man, it would've
+been our scoop!
+---
+[0xa0cef6]	Retrieved the
+article. Let's
+hurry back!
+---
+[0xa0cf4e]	Stealing doesn't
+make it YOUR
+scoop, thief.
+---
+[0xa0cfac]	Go get your own
+sscoop, sslacker!
+---
+[0xa0cff6]	We must return the
+article to its
+rightful owner.
+---
+[0xa0d05e]	We got it back!
+Let's head back
+quick!
+---
+[0xa0d0a8]	You need to learn to
+get your own scoops,
+kupo!
+---
+[0xa0d144]	Who are you, anyway?
+I tell you, I have
+nothing!
+---
+[0xa0d1a2]	Then what's moving
+inside your box?
+A monster, isn't it!
+---
+[0xa0d214]	We got proof of your
+smuggling! Give up,
+and come with us!
+---
+[0xa0d28a]	Then it'ss OK for
+me to invesstigate
+your box, right?
+---
+[0xa0d2fa]	Then what is moving
+inside your box?
+A monster, isn't it!
+---
+[0xa0d368]	Stop lying! We know
+you're smuggling
+monsters.
+---
+[0xa0d3cf]	Kupopo!
+Then what's moving
+inside your box?
+---
+[0xa0d470]	That should be the
+end of monster
+smuggling!
+---
+[0xa0d4ce]	Can't believe anyone
+would be fooled by
+that old trick!
+---
+[0xa0d594]	We have put an
+end to the monster
+smuggling.
+---
+[0xa0d5f4]	Of course not!
+You insult me!
+---
+[0xa0d634]	Of course not, kupo!
+You were way too
+suspicious, kupo!
+---
+[0xa0d6d6]	You're not taking
+this! We need it to
+abolish the laws!
+---
+[0xa0d740]	But your radical
+actions won't do
+any good!
+---
+[0xa0d79e]	I know, but we need
+antilaws, too.
+---
+[0xa0d7e8]	We can put it to
+better usse than
+you can.
+---
+[0xa0d83e]	Abolishment of laws
+is not the solution
+we should seek.
+---
+[0xa0d8ae]	But we need that
+antilaw! Sorry!
+---
+[0xa0d8f9]	Don't worry, we'll
+put it to good use,
+kupo!
+---
+[0xa0d95c]	We're free to the
+end! Freedom will
+never die!
+---
+[0xa0d9c1]	There must
+difnol
+
+Got the antilaw!
+We got nothing to
+fear in engagements!
+
+Got the antilaw!
+I'm ready to take
+on any foess!
+
+Rebelling against
+the court cannot be
+the only solution...
+
+All right! Now we
+can engage without
+a single worry.
+
+I dislike the idea
+of rebelling against
+the court, kupo.
+---
+[0xa0dd7a]	Fools! Do you know
+how much these
+skins can sell for?
+---
+[0xa0ddea]	That's not an excuse
+to hunt down
+endangered animals!
+---
+[0xa0de5a]	You're the fools
+for breaking the
+law!
+---
+[0xa0dea8]	I like money, but
+not that of the
+likess of you!
+---
+[0xa0df06]	That is not the
+point. All evil
+should be punished.
+---
+[0xa0df74]	That's not an
+excuse to go
+poaching! Creep!
+---
+[0xa0e03c]	Curses! I could've
+made so much
+with those skins...!
+---
+[0xa0e0a8]	You should've known—
+Foul play only
+takes you to prison.
+---
+[0xa0e11a]	You should've come
+up with a different
+way to get rich!
+---
+[0xa0e18e]	You would've put
+your richess to the
+wrong usse anyway.
+---
+[0xa0e200]	Regret your choice
+of business in
+prison!
+---
+[0xa0e25a]	Listen to you!
+You're pathetic!
+---
+[0xa0e2a3]	Rethink your life
+in prison, kupo!
+---
+[0xa0e378]	What? We've done
+nothing wrong!
+---
+[0xa0e3bc]	We've done nothing
+wrong! Here we go,
+I guess.
+---
+[0xa0e41a]	A fairy's engaging
+uss? Thiss iss
+interessting...
+---
+[0xa0e47a]	A fairy is engaging
+us? This is most
+interesting.
+---
+[0xa0e4da]	But we've done
+nothing wrong!
+---
+[0xa0e51a]	We've done nothing
+wrong, kupo! This is
+ridiculous, kupo!
+---
+[0xa0e5a6]	I don't understand
+fairies at all...
+---
+[0xa0e5f6]	I DO feel like I've
+picked on the fairy.
+Geez.
+---
+[0xa0e658]	What's the chilly
+sweet that the
+fairy wanted?
+---
+[0xa0e6b6]	Those capricious
+fairies!
+---
+[0xa0e6f0]	I'll give her some
+icecream next time.
+That should do!
+---
+[0xa0e7f2]	You're with the
+church, aren't you!?
+To the underworld!
+---
+[0xa0e862]	No! I only want to
+stop you from
+committing a crime!
+---
+[0xa0e8d0]	He's enraged...
+An engagement will
+calm him, hopefully!
+---
+[0xa0e93e]	Avenging will only
+take you to prisson!
+---
+[0xa0e994]	Is an engagement
+the only way to
+calm him?
+---
+[0xa0e9f0]	No! We only want
+to stop you!
+---
+[0xa0ea35]	We need to engage
+to calm him, kupo!
+---
+[0xa0eb30]	Hey! Sstealing
+letterss iss
+againsst the law!
+---
+[0xa0eb92] x2	We're not trying
+to steal! Why don't
+you listen?
+---
+[0xa0ec60]	I ssee. Now'ss the
+time to usse "all
+meanns!"
+---
+[0xa0ecbc]	For the last time—
+We're here on request
+of the mail sorter.
+---
+[0xa0ed28]	Why don't you
+listen? We were
+asked to do this!
+---
+[0xa0ee54]	I'm glad you take
+your job seriously,
+but...
+---
+[0xa0eeb4]	Start listening to
+people talking!
+---
+[0xa0ef4c]	Let us go together.
+The sorter will
+explain it for you.
+---
+[0xa0efbe]	Stubborn, stubborn!
+That's not a bad
+quality, though.
+---
+[0xa0f026]	You're stubborn,
+kupo! We'll need to
+sort this out, kupo.
+---
+[0xa0f2b8]	You're gonna be
+history!
+---
+[0xa0f2ee]	We're not going to
+lose to any other
+clan!
+---
+[0xa0f37a]	You expect uss to
+jusst move over?
+Not on my life!
+---
+[0xa0f3de]	I wish to avoid these
+confrontations as much
+as possible...
+---
+[0xa0f495]	You're not going to
+hit and slap me
+around, kupo!
+---
+[0xa0f542]	I wonder if other
+clans will come with
+their challenges?
+---
+[0xa0f5ae]	Whew!
+It's tough to be
+popular.
+---
+[0xa0f5f2]	There'ss got to be
+better challengerss
+out there!!
+---
+[0xa0f650]	We won, but I do
+prefer to avoid
+such confrontations.
+---
+[0xa0f6c0]	Whew. I hope no
+other clans come to
+challenge us again!
+---
+[0xa115d6]	Who are you!?
+
+Mess with my weapon
+collecting and I'll
+send you to prison!
+
+...Ack! Can't use my
+new law in battle.
+I'll have to fight!
+---
+[0xa116c2]	The rumors were true!
+These officials are
+out of control!
+---
+[0xa1172e]	You'll be stopping
+your capricious law-
+making or else!
+---
+[0xa1179e]	You should be ashamed
+to call yoursself an
+official!
+---
+[0xa1180a]	We have found you
+at last. Tell me, who
+is behind all this?
+---
+[0xa11880]	I can't believe you'd
+just change the laws
+on a whim! Really!
+---
+[0xa11903]	The law isn't yours
+to change, kupo!
+---
+[0xa11950]	You're the reason my
+antilaws are needed,
+creep!
+---
+[0xa119b2]	You have shamed the
+palace, and for that
+you must pay!
+---
+[0xa11a1c]	I can't believe you'd
+just make up laws
+as you please!
+---
+[0xa11b96]	The law is not for
+you to decide.
+---
+[0xa11bde]	Hope some time in
+prison restores
+your sense!
+---
+[0xa11c36]	Hmph. They weren't
+yourss to begin with!
+---
+[0xa11c8e]	Tell me— where did
+you get that blank
+card?
+---
+[0xa11cea]	You can think of all
+the trouble you've
+caused--in prison!
+---
+[0xa11d5e]	Your plans are done
+for, and the world is
+a better place, kupo!
+---
+[0xa11dda]	There will always be
+people like this in
+the world, sadly.
+---
+[0xa11e4e]	Repent in prison. It's
+not too late to change
+your life.
+---
+[0xa11ec4]	Your kind really
+rub me the wrong way!
+---
+[0xa11f56]	You'll be telling me
+where you got that
+blank card now.
+---
+[0xa11fcf]	Watch!? I'm
+innocent! What's
+wrong with kissing?
+---
+[0xa12034]	Kissing may be fine,
+but you can't make
+it into a law!
+---
+[0xa120a2]	That kind of attitude
+is causing a lot
+of grief out there.
+---
+[0xa12114]	People should be able
+to choosse who they
+kisss!
+---
+[0xa12174]	Couldn't you think of
+a better way to
+promote kissing?
+---
+[0xa121e6]	What's the point of
+kissing under duress?
+---
+[0xa1223e]	I'd kiss without a
+silly law, kupo!
+
+But no way do I
+want to be told
+what to do, kupo!
+---
+[0xa122d0]	Please don't make
+laws for such
+silly things!
+---
+[0xa12330]	I'd watch out for
+irritated women if
+I were you.
+---
+[0xa12392]	I understand what you
+mean, but isn't there
+a better way?
+---
+[0xa12402]	Nothing wrong, but
+read my lips— no
+new laws for you!
+---
+[0xa12472]	As long as it isn't
+ratified by the other
+judges, it's wrong.
+---
+[0xa124e8]	All I wanted was for
+people to be friends
+with me...
+---
+[0xa125c4]	If you wanted friends
+you could ask a clan
+for help...?
+---
+[0xa1262e]	Ssometimess, you have
+to take matterss into
+your own hands.
+---
+[0xa126a4]	Proper negotiation
+will get you further
+than inane laws.
+---
+[0xa1271c]	Then go out and
+make lots of
+friends!
+---
+[0xa127e6]	Where's the fun in
+forcing people to
+be your friend?
+---
+[0xa12852]	You should consider
+the effect of your
+actions well.
+---
+[0xa128bc]	Just tell them how
+you really feel. That
+works for me.
+---
+[0xa1296e]	Officials should
+always separate
+private from public.
+---
+[0xa12a68]	Yah hah hah! Isn't it
+fun to see everyone
+hitting each other?
+---
+[0xa12ae0]	Promoting violence
+is no laughing
+matter!
+---
+[0xa12b38]	I can see there's no
+helping you. Feel
+some pain yourself!
+---
+[0xa12baa]	Let's ssee how much
+you laugh when it'ss
+me hitting you!
+---
+[0xa12c1a]	It is wrong to
+delight in hurting
+others.
+---
+[0xa12c72]	Hurting people just
+to get your yucks
+off. You slime!
+---
+[0xa12ce2]	If you think its that
+fun, try hitting
+yourself, kupo!
+---
+[0xa12d50]	Then it's high
+time you got hit.
+---
+[0xa12d96]	I am shocked you
+find such things
+funny! You shall pay!
+---
+[0xa12e02]	If you knew real
+pain, you would
+never say that.
+---
+[0xa12e66]	What's so funny?
+You're just hurting
+people!
+---
+[0xa12ec4]	You seem to lack the
+basic qualities of
+an official.
+---
+[0xa12f6e]	Now you know how
+everyone in your
+region feels!
+---
+[0xa12fca]	Guess some things
+you have to feel
+for yourself, eh?
+---
+[0xa13078]	Have a kind heart
+towards others,
+alwasy.
+---
+[0xa13125]	So, reconsidered your
+law, kupo?
+---
+[0xa1316c]	Are all officials
+this dumb!?
+---
+[0xa131ae]	Repent behind bars,
+felon.
+---
+[0xa131ea]	I can't STAND people
+who hurt others.
+Bully!
+---
+[0xa13248]	There's a lot you
+can learn from pain.
+Another lesson?
+---
+[0xa132b2]	For an official to
+fall so far...I am
+responsible for this.
+---
+[0xa13324]	Reading and writing
+should be banned!
+Paperwork sickens me!
+---
+[0xa1339c]	If it's that annoying,
+why don't you just
+quit your job?
+---
+[0xa1340e]	I'm not that excited
+about paperwork,
+myself, but a law!?
+---
+[0xa13484]	But what about a
+good novel? Or love
+letterss...
+---
+[0xa134e6]	I cannot condone any
+law that would hinder
+knowledge.
+---
+[0xa13550]	You can't just ban
+something that bugs
+you!
+---
+[0xa135a8]	I totally agree, kupo!
+But I'm on a mission
+here. Sorry, kupo!
+---
+[0xa13622]	Just skip the
+paperwork! What's
+the big fuss?
+---
+[0xa13682]	Isn't that your job?
+It's wrong to shirk
+your duties.
+---
+[0xa136ec]	Reading's boring, but
+couldn't you think of
+a better law?
+---
+[0xa13760]	That doesn't sound
+like my kind of law.
+---
+[0xa137b4]	You don't seem to
+understand the
+weight of your crime.
+---
+[0xa13828]	S-Sorry. I'll do my
+paperwork, I promise!
+---
+[0xa13914]	I expect you to
+apologize to everyone
+...in writing!
+---
+[0xa1397c]	Yes, working hard is
+the best course for
+you to take.
+---
+[0xa139e8]	Don't go making any
+more laws all by
+yourself anymore, OK?
+---
+[0xa13a5a]	It was a good idea!
+Hopefully, they'll
+make a real law, kupo!
+---
+[0xa13ad6]	You were just taking
+your job too
+seriously! Relax!
+---
+[0xa13b44]	Be always diligent
+in your work.
+---
+[0xa13b8a]	I'm sure there's
+laws that people'd
+be happy about...
+---
+[0xa13c3a]	I have to put an end
+to people treating
+laws like toys!
+---
+[0xa13d36]	Wh-Who are you?
+What are you doing
+here?
+---
+[0xa13dd6]	How am I supposed
+to answer that
+question?
+---
+[0xa13fa0]	Sorry, can't answer
+that. Some idiot
+law, you know...
+---
+[0xa14012]	Clan !
+Here investigating
+unfair laws!
+---
+[0xa14066]	I can't answer that,
+isn't it against the
+law?
+---
+[0xa14148]	Grr...
+Why did it have to be
+me that got caught?
+---
+[0xa141f6]	You want to know
+the answer? Oops,
+sorry! Out of luck!
+---
+[0xa1426a]	It's not jusst you,
+sso come along
+quietly.
+---
+[0xa142c8]	I thought you did not
+like answers? Think it
+over yourself.
+---
+[0xa143ea]	Figure it out. I
+thought you didn't
+like answers?
+---
+[0xa14450]	Wrongdoers will be
+punished. It's as
+simple as that.
+---
+[0xa144be]	Everyone in town is
+suffering because of
+your law!
+---
+[0xa14526]	Well, now, I wonder?
+Why don't you try
+thinking for yourself?
+---
+[0xa1459e]	Why you? Do you mean
+there are others?
+Tell me!
+---
+[0xa145f4]	No jumping! No
+climbing stairs!
+No no no!
+---
+[0xa14642]	Gimme a break!
+You can't engage
+with a law like that!
+---
+[0xa146ae]	Check the books.
+There's no such
+law like that.
+---
+[0xa14916]	What sense is there
+in preventing
+everything?
+---
+[0xa1496e]	No no no, please!
+Can it with the
+fake laws.
+---
+[0xa149cc]	Hmm, I wonder if I
+can beat you without
+moving?
+---
+[0xa14a30]	It is taboo for a
+judge to make laws
+on a whim!
+---
+[0xa14abc]	You can't be free
+by restricting
+other people!
+---
+[0xa14b20]	I'm making a new law
+just for you—
+No "no"s !
+---
+[0xa14b80]	No one persson should
+have ssuch power over
+the lawss.
+---
+[0xa14be6]	I believe lawmaking
+should be left to
+the palace.
+---
+[0xa14c4a]	You could have made
+laws that make people
+happy, you know...
+---
+[0xa14d20]	Those who love power
+usually can't handle
+it.
+
+With a few
+exceptions,
+ of course.
+---
+[0xa14dc2]	Your goals and methods
+do not meet with
+official approval.
+---
+[0xa14e34]	Some laws should be
+honored, but you're
+way out of line!
+---
+[0xa14efa]	Tell me who gave you
+that blank card!
+You will confess!
+---

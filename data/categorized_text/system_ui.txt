@@ -1,0 +1,315 @@
+# ข้อความระบบ เซฟ/โหลด/เมนู  (313 รายการไม่ซ้ำ)
+
+[0x56588c]	Nutsy
+[0x565893]	Guard Patrol
+[0x5658ac]	Cyril Band
+[0x5658c1]	Sprohmknights
+[0x5658d0]	Clan Belmia
+[0x5658e7]	Clan Banisa
+[0x5658fe]	Gaja Band
+[0x565911]	Rangers
+[0x56591a]	Clan Marble
+[0x565931]	Kudik Beasts
+[0x565971]	Clan Clatz
+[0x565986]	Clan Dip
+[0x565997]	Koring Band
+[0x5659ae]	Clan Shalo
+[0x5659c3]	Aisen Ghosts
+[0x5659dc] x2	Roda Dragons
+[0x5659f5]	Antlions
+[0x5659ff]	Tribites
+[0x565a09]	Tricky Spirits
+[0x565a47]	Wild Monsters
+[0x565a62]	Gertai Band
+[0x565a79]	Ramble Band
+[0x565a90]	Zoara Sect
+[0x565aa5]	Lost Monsters
+[0x565ac0]	Tubola Bandits
+[0x565add]	Clan Hounds
+[0x565b1d]	Bloodthirsters
+[0x565b2d]	Doned Faction
+[0x565b48]	Wanted
+[0x565b75]	Clan Crow
+[0x565ba1]	Yellow Powerz
+[0x565bbc]	Blue Geniuses
+[0x565bd7]	Brown Rabbits
+[0x565bf2]	White Kupos
+[0x565c09]	Mythril Team
+[0x565c22]	Sprohm Writer
+[0x565c3d]	Smugglers
+[0x565c48]	Resistance
+[0x565c54] x86	dummy
+[0x565c5b]	Weapon Biter
+[0x565c74]	Poachers
+[0x565c7e]	Snow Fairy
+[0x565c93]	Mad Weaver
+[0x565ca8]	Postman
+[0x565cb1]	Clan Baham
+[0x565ebe]	Lizard Men!?
+[0x565ed7]	Ligrim
+[0x565ee0]	Queen Remedi
+[0x565ef9]	Llednar
+[0x565f02]	Mateus
+[0x565f0a]	Exodus
+[0x5661f8]	No symbol
+[0x56620b]	Surrounded by—
+[0x566228]	Pub
+[0x56622d]	Shop
+[0x566233]	Prison
+[0x56623b]	Card Keeper
+[0x566252]	Monster Bank
+[0x56626b]	Treasure Hunt
+[0x566286]	Discard item?
+[0x5662a9]	YES NO
+[0x5662bc]	Reward
+[0x5662c5]	Gil
+[0x5662ca]	Clan Pts—
+[0x5662dd]	points
+[0x5662e5]	Skill Lvl
+[0x5662f8]	Clan Level UP!
+[0x566315]	Skill Lvl UP Item!
+[0x566345]	Clan applicant!
+[0x566364]	Accept this person?
+[0x56638b]	Deny this person?
+[0x5663ae]	Remove this person?
+[0x5663de] x2	areas left.
+[0x56640e]	Liberate
+[0x566418]	Clear
+[0x566420]	Freed
+[0x566475]	No info available.
+[0x5664a7]	masterd
+[0x5664b5]	Skill level UP!
+[0x5664d4]	Too many items.
+[0x5664f3]	Choose item to discard.
+[0x566522]	OK
+[0x566528]	traded.
+[0x566539]	received.
+[0x56654c]	Equip Items
+[0x566563]	Pick Abilities
+[0x566580]	Change Jobs
+[0x566597]	No Abilities
+[0x5665b0]	Leave Clan
+[0x5665c7]	was taken!
+[0x5665dc]	hrs
+[0x5665e1]	min
+[0x5665e6]	No data
+[0x5665f5]	Resume Battle
+[0x566610]	Load
+[0x566616]	Pick slot to save.
+[0x56663b]	Pick slot to load.
+[0x566677]	Save complete.
+[0x566694]	Load complete.
+[0x5666b1]	Save failed!
+[0x5666ca]	Load failed!
+[0x5666e3]	Error in backup memory.
+[0x566712]	All areas freed!
+[0x566733]	Resume saved battle.
+[0x56675c]	Overwriting this slot.
+[0x566789]	Checking save data.
+[0x5667b0]	Mission Cleared
+[0x5667cf]	Dispatched unit returned.
+[0x566802]	mastered
+[0x56680c]	Place location symbol.
+[0x566839]	Select empty slot.
+[0x566875]	Auto
+[0x56687b]	Manual
+[0x566883]	Found
+[0x56688d]	is under attack!
+[0x566a00]	Arthur
+[0x566a08]	Ardin
+[0x566a0f]	Isaac
+[0x566a16]	Aksel
+[0x566a1d]	Azimov
+[0x566a25]	Alcest
+[0x566a2d]	Alexey
+[0x566a35]	Alek
+[0x566a3b]	Angell
+[0x566a43]	Anton
+[0x566a4a]	Anry
+[0x566a50]	Evor
+[0x566a56]	Iden
+[0x566a5c]	Ichbod
+[0x566a64]	Ivolt
+[0x566a6b]	Elija
+[0x566a72]	Ingg
+[0x566a78]	Vasil
+[0x566a7f]	Wilfred
+[0x566a88]	Wells
+[0x566a8f]	Werner
+[0x566a97]	Woolwort
+[0x566aa1]	Udvil
+[0x566aa8]	Istavan
+[0x566ab1]	Edmund
+[0x566ab9]	Emet
+[0x566abf]	Elias
+[0x566ac6]	Elvos
+[0x566acd]	Elnan
+[0x566ad4]	Elmon
+[0x566adb]	Yenke
+[0x566ae2]	Oigen
+[0x566ae9]	Augusto
+[0x566af2]	Ocon
+[0x566af8]	Oskar
+[0x566aff]	Odonel
+[0x566b07]	Olivar
+[0x566b0f]	Olint
+[0x566b16]	Orsiny
+[0x566b1e]	Olgan
+[0x566b25]	Carson
+[0x566b2d]	Guin
+[0x566b33]	Jareth
+[0x566b3b]	Karl
+[0x566b41]	Carrelo
+[0x566b4a]	Gavvar
+[0x566b52]	Cuthbert
+[0x566b5c]	Camus
+[0x566b63]	Carlos
+[0x566b6b]	Giger
+[0x566b72]	Kief
+[0x566b78]	Kilov
+[0x566b7f]	Kipper
+[0x566b87]	Cassidy
+[0x566b90]	Gallahan
+[0x566b9a] x2	Gilbert
+[0x566ba3]	Kingsley
+[0x566bad]	Cooper
+[0x566bb5]	Gustav
+[0x566bbd]	Grandi
+[0x566bc5]	Gillis
+[0x566bcd]	Cliffor
+[0x566bd6]	Crout
+[0x566bdd]	Graham
+[0x566be5]	Clay
+[0x566beb]	Crowe
+[0x566bf2]	Galor
+[0x566bf9]	Caines
+[0x566c01]	Georg
+[0x566c08]	Kestner
+[0x566c11]	Kenneth
+[0x566c1a]	Kemal
+[0x566c21]	Kent
+[0x566c27]	Cochran
+[0x566c30]	Cox
+[0x566c35]	Gotwald
+[0x566c3e]	Goodwin
+[0x566c47]	Godfrey
+[0x566c50]	Conner
+[0x566c58]	Conrad
+[0x566c60]	Simon
+[0x566c67]	Syrus
+[0x566c6e]	Sale
+[0x566c74]	Satir
+[0x566c7b]	Zenelly
+[0x566c84]	Sabatini
+[0x566c8e]	Safra
+[0x566c95]	Sammy
+[0x566c9c]	Sandath
+[0x566ca5]	Gelarto
+[0x566cae]	Gerome
+[0x566cb6]	Sigmund
+[0x566cbf]	Sharu
+[0x566cc6]	Shudmeyer
+[0x566cd1]	Schneider
+[0x566cdc]	Julian
+[0x566ce4]	Shultz
+[0x566cec]	Loki
+[0x566cf2]	Silac
+[0x566d02]	Skimble
+[0x566d0b]	Staring
+[0x566d14]	Stan
+[0x566d1a]	Stanz
+[0x566d21]	Stuart
+[0x566d29]	Spengler
+[0x566d33]	Smyth
+[0x566d3a]	Slamen
+[0x566d42]	Thane
+[0x566d49]	Zeeman
+[0x566d51]	Seth
+[0x566d57]	Thedoric
+[0x566d61]	Seneka
+[0x566d69]	Selm
+[0x566d6f]	Seleucos
+[0x566d79]	Soala
+[0x566d80]	Zoik
+[0x566d86]	Salsber
+[0x566d8f]	Thorton
+[0x566d98]	Sotel
+[0x566d9f]	Darcy
+[0x566da6]	Turner
+[0x566dae]	Tavana
+[0x566db6]	David
+[0x566dbd]	Douglas
+[0x566dc6]	Darios
+[0x566dce]	Darren
+[0x566dd6]	Cesare
+[0x566dde]	Chelney
+[0x566de7]	Chita
+[0x566dee]	Chibot
+[0x566df6]	Chaka
+[0x566dfd]	Chad
+[0x566e03]	Chandler
+[0x566e0d]	Chaucer
+[0x566e16]	Zwingley
+[0x566e20]	Deisel
+[0x566e28]	Deiter
+[0x566e30]	Deen
+[0x566e36]	Dickens
+[0x566e3f]	Dino
+[0x566e45]	Timothy
+[0x566e4e]	Devange
+[0x566e57]	Dave
+[0x566e5d]	Theodore
+[0x566e67]	Thenardi
+[0x566e71]	Tennesey
+[0x566e7b]	Devoe
+[0x566e82]	Duler
+[0x566e89]	Dylan
+[0x566e90]	Toynbee
+[0x566e99]	Domie
+[0x566ea0]	Tony
+[0x566ea6]	Tonio
+[0x566ead]	Toby
+[0x566eb3]	Thomson
+[0x566ebc]	Domenic
+[0x566ec5]	Travis
+[0x566ecd]	Trevor
+[0x566ed5]	Dwight
+[0x566edd]	Nat
+[0x566ee2]	Nabkov
+[0x566eea]	Nansen
+[0x566ef2]	Nikolai
+[0x566efb]	Neuman
+[0x566f03]	Nils
+[0x566f09]	Nusratt
+[0x566f12]	Nume
+[0x566f18]	Nate
+[0x566f1e]	Nevil
+[0x566f25]	Neksu
+[0x566f2c]	Neddy
+[0x566f33]	Nelin
+[0x566f3a]	Nelson
+[0x566f42]	Nero
+[0x566f48]	Nothclif
+[0x566f52]	Norbert
+[0x566f5b]	Nobel
+[0x566f62]	Noman
+[0x566f69]	Nol
+[0x566f6e]	Hardy
+[0x566f75]	Basil
+[0x566f7c]	Pablo
+[0x566f83]	Parish
+[0x566f8b]	Baldwin
+[0x566f94]	Barley
+[0x566f9c]	Hans
+[0x566fa2]	Heath
+[0x566fa9]	Peet
+[0x566faf]	Higgins
+[0x566fb8]	Victor
+[0x566fc0]	Visconti
+[0x566fca]	Bismark
+[0x566fd3]	Bjorn
+[0x566fda]	Bingley
+[0x566fe3]	Finnagan
+[0x566fed]	Phil
+[0x566ff3]	Foobar
+[0x566ffb]	Ford

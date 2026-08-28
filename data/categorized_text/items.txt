@@ -1,0 +1,723 @@
+# ชื่อไอเทม/อาวุธ/ชุดเกราะ  (721 รายการไม่ซ้ำ)
+
+[0x52336f]	Ahriman
+[0x523378]	Ice Flan
+[0x523389]	Blue Mage
+[0x52339c]	Red Mage
+[0x5233ad]	Assassin
+[0x5233b7]	Alchemist
+[0x5233c2]	Antlion
+[0x5233cb]	Cream
+[0x5233d2]	Vampire
+[0x5233db]	Blade Biter
+[0x5233f2] x2	Defender
+[0x5233fc]	Gadgeteer
+[0x523407]	Coeurl
+[0x52340f]	Gladiator
+[0x52341a]	Grenade
+[0x523423]	Black Mage
+[0x523438]	Illusionist
+[0x523445]	Goblin
+[0x52344d]	Thundrake
+[0x523458]	Thief
+[0x52345f]	Elementalist
+[0x52346d]	Juggler
+[0x523476]	Gunner
+[0x52347e]	Summoner
+[0x523488]	White Mage
+[0x52349d]	Sniper
+[0x5234a5]	Sprite
+[0x5234ad]	Sage
+[0x5234b3]	Soldier
+[0x5234bc]	Zombie
+[0x5234c4]	Titania
+[0x5234cd]	Fighter
+[0x5234d6]	Animist
+[0x5234df]	Time Mage
+[0x5234f2]	Morpher
+[0x5234fb]	Tonberry
+[0x523505]	Masterberry
+[0x523512]	Ninja
+[0x523519]	Paladin
+[0x523522]	Templar
+[0x52352b]	Hunter
+[0x523533]	Bishop
+[0x52353b]	Warrior
+[0x523544]	Jawbreaker
+[0x523550]	Fencer
+[0x523558]	Icedrake
+[0x523562]	Toughskin
+[0x52356d]	Floateye
+[0x523577]	Bomb
+[0x52357d]	White Monk
+[0x523592]	Beastmaster
+[0x52359f]	Mog Knight
+[0x5235b4]	Malboro
+[0x5235bd]	Big Malboro
+[0x5235d4]	Archer
+[0x5235dc]	Lamia
+[0x5235e3]	Dragoon
+[0x5235ec]	Lilith
+[0x5235f4]	Red Cap
+[0x523603]	Firewyrm
+[0x52360d]	Red Panther
+[0x523624]	Jelly
+[0x52362b]	Runeseeker
+[0x523637]	Hermetic
+[0x523641]	Biskmatar
+[0x52364c]	Ligrim
+[0x523655]	Totema
+[0x52365d]	Judgemaster
+[0x52366a]	Judge
+[0x523671]	New Kid
+[0x523680]	Librarian
+[0x52368b]	Class Head
+[0x5236a0]	PE Head
+[0x5236b5]	Nurse
+[0x5236bc]	Custodian
+[0x5236c7]	Mr. Leslaie
+[0x5236de]	Battle Queen
+[0x5236f7]	Avatar
+[0x5236ff]	Dephs
+[0x523706] x3	dummy
+[0x523714]	Burglar
+[0x52371d]	Box
+[0x523722]	Statue
+[0x52372a]	Sphere
+[0x523732]	Borzoi Capo
+[0x523749]	Borzoi Boss
+[0x523760]	Falgabird
+[0x52376b]	Naga
+[0x523771]	Dark Knight
+[0x523788]	Ark Knight
+[0x52379d]	Rukavi
+[0x5237a5]	World Wyrm
+[0x5237ba]	Ba Boss
+[0x5237c9]	Swordman
+[0x5237d3]	Inverlilith
+[0x5237e0]	Top Malboro
+[0x5237f7]	Blacksmith
+[0x523803]	Bladesmith
+[0x52380f]	Top Coeurl
+[0x523824]	Lost One
+[0x523835]	Ruin Ward
+[0x523848]	Dread Raven
+[0x52385f]	Mombomb
+[0x523868]	Redwings
+[0x523872]	Rune Knight
+[0x523889]	Queen Lamia
+[0x5238a0]	Adamantoise
+[0x5238ad]	Ochu
+[0x5238b3]	Neochu
+[0x5238bb]	Dread Lord
+[0x5238d0]	Kin
+[0x5238d5]	Hel Boss
+[0x5238e6]	Gelm Boss
+[0x5238f9]	Kagle Boss
+[0x52390e]	Fes Boss
+[0x52391f]	Swordmaster
+[0x52392c]	Mamaflan
+[0x523936]	Devilboro
+[0x523941]	Clan Borzoi
+[0x523958]	Official
+[0x523969]	Shortsword
+[0x523975]	Silver Sword
+[0x52398e]	Buster Sword
+[0x5239a7]	Burglar Sword
+[0x5239c2]	Gale Sword
+[0x5239d7]	Blood Sword
+[0x5239ee]	Restorer
+[0x5239f8]	Vitanova
+[0x523a02]	Mythril Sword
+[0x523a1d]	Victor Sword
+[0x523a36]	Onion Sword
+[0x523a4d]	Chirijiraden
+[0x523a5b]	Laglace Sword
+[0x523a76]	Sweep Blade
+[0x523a8d]	Shadow Blade
+[0x523aa6]	Sun Blade
+[0x523ab9]	Atmos Blade
+[0x523ad0]	Flametongue
+[0x523add]	Air Blade
+[0x523af0]	Icebrand
+[0x523afa]	Kwigon Blade
+[0x523b13]	Ogun Blade
+[0x523b28]	Pearl Blade
+[0x523b3f]	Paraiba Blade
+[0x523b5a]	Venus Blade
+[0x523b71]	Materia Blade
+[0x523b8c]	Mythril Blade
+[0x523ba7]	Ebon Blade
+[0x523bbc]	Adaman Blade
+[0x523bd5]	Ayvuir Red
+[0x523bea]	Ayvuir Blue
+[0x523c01]	Blue Saber
+[0x523c16]	Shamshir
+[0x523c20]	Aqua Saber
+[0x523c35]	Harpe
+[0x523c3c]	Manganese
+[0x523c47]	Mythril Saber
+[0x523c62]	Tulwar
+[0x523c6a]	Soulsaber
+[0x523c7f]	Apocalypse
+[0x523c8b]	Lionheart
+[0x523c96]	Ragnarok
+[0x523ca0]	Lohengrin
+[0x523cab]	SaveTheQueen
+[0x523cb9]	Arch Sword
+[0x523cce] x2	Excalibur
+[0x523cd9]	Mythril Brand
+[0x523d00]	Nagrarok
+[0x523d0a]	Sequence
+[0x523d14]	Barong
+[0x523d1c]	Ancient Sword
+[0x523d37]	DiamondSword
+[0x523d53]	Hardedge
+[0x523d5d]	Vigilante
+[0x523d68]	Zankplus
+[0x523d72]	Master Sword
+[0x523d8b]	Oblige
+[0x523d93]	Iceprism
+[0x523d9d]	Lurebreaker
+[0x523daa]	Samson Sword
+[0x523dc3]	Falchion
+[0x523dcd]	Predator
+[0x523dd7]	Striborg
+[0x523de1]	El Cid Sword
+[0x523dfa]	Claymore
+[0x523e04]	Vajra
+[0x523e0b]	Tabarise
+[0x523e15]	Rhomphaia
+[0x523e20]	Beastsword
+[0x523e2c]	Eclipse
+[0x523e35]	Estreledge
+[0x523e41]	Jack Knife
+[0x523e56]	Kris Knife
+[0x523e6b]	Khukuri
+[0x523e74]	Kard
+[0x523e7a]	Scramasax
+[0x523e85]	RondellDagger
+[0x523ea3]	Jambiya
+[0x523eac]	Zorlin Shape
+[0x523ec5]	Sword Breaker
+[0x523ee0]	Orichalcum
+[0x523eec]	Cinquedea
+[0x523ef7]	Mythril Knife
+[0x523f12]	Tonberrian
+[0x523f1e]	Tiptaptwo
+[0x523f29]	Stinger
+[0x523f32]	Estoc
+[0x523f39]	Fleuret
+[0x523f42]	Scarlette
+[0x523f4d]	Flamberge
+[0x523f58]	Silver Rapier
+[0x523f73]	Djinn Flyssa
+[0x523f8c]	Joyeuse
+[0x523f95]	Mage Masher
+[0x523fac]	Colichemarde
+[0x523fba]	Gupti Aga
+[0x523fcd]	Madu
+[0x523fd3]	Epeprism
+[0x523fdd]	Mythril Rapier
+[0x523ffa]	Last Letter
+[0x524011]	Diabolique
+[0x52401d]	Femme Fatale
+[0x524036]	Aerial Hole
+[0x52404d]	Ninja Knife
+[0x524064]	Murasame
+[0x52406e]	Ashura
+[0x524076]	Osafune
+[0x52407f]	Petalchaser
+[0x52408c]	Kotetsu
+[0x524095]	Kikuichimonji
+[0x5240c8]	Nosada
+[0x5240d0]	Masamune
+[0x5240da]	Zanmato
+[0x5240e3]	Mythril Epee
+[0x524115]	Charfire
+[0x52411f]	Silkmoon
+[0x524129]	White Staff
+[0x524140]	Guard Staff
+[0x524157]	Judge Staff
+[0x52416e]	Cure Staff
+[0x524183]	Pure Staff
+[0x524198]	Bless Staff
+[0x5241af]	Snake Staff
+[0x5241c6]	Spring Staff
+[0x5241df]	Garnet Staff
+[0x5241f8]	Cheer Staff
+[0x52420f]	Nirvana Staff
+[0x52422a]	Mythril Staff
+[0x524245]	Power Staff
+[0x52425c]	DreamWatcher
+[0x524278]	Rod
+[0x52427d]	Firewheel Rod
+[0x524298]	Thunder Rod
+[0x5242af]	Sleet Rod
+[0x5242c2]	Terre Rod
+[0x5242d5]	Force Rod
+[0x5242e8]	Flame Rod
+[0x5242fb]	Thor Rod
+[0x52430c]	Chill Rod
+[0x52431f]	Stardust Rod
+[0x524338]	Princess Rod
+[0x524351]	Mythril Rod
+[0x524368]	Heretic Rod
+[0x52437f]	Sapere Aude
+[0x524396]	Battle Mace
+[0x5243ad]	Energy Mace
+[0x5243c4]	Druid Mace
+[0x5243d9]	Sage Crosier
+[0x5243f2]	Morning Star
+[0x52440b]	Mandragora
+[0x524417]	Life Crosier
+[0x524430]	Lotus Mace
+[0x524445]	Scorpion Tail
+[0x524460]	Zeus Mace
+[0x524473]	Mythril Mace
+[0x52448c]	Cactus Stick
+[0x5244a5]	Vesper
+[0x5244ad]	Longbow
+[0x5244b6]	Char Bow
+[0x5244c7]	Thorn Bow
+[0x5244da]	Nail Bow
+[0x5244eb]	Silver Bow
+[0x524500]	Artemis Bow
+[0x524517]	Yoichi Bow
+[0x52452c]	Target Bow
+[0x524541]	Perseus Bow
+[0x524558]	Mythril Bow
+[0x52456f]	Crescent Bow
+[0x524588]	Malbow
+[0x524590]	Windslash Bow
+[0x5245ab]	Ranger Bow
+[0x5245c0]	Cranequin
+[0x5245cb]	Twin Bow
+[0x5245dc]	Hunt Bow
+[0x5245ed]	Fey Bow
+[0x5245fc]	Hades Bow
+[0x52460f]	Nike Bow
+[0x524620]	Master Bow
+[0x524681]	Mythril Shot
+[0x52469a]	Marduk Bow
+[0x5246af]	Gastra Bow
+[0x5246c4]	Arbalest
+[0x5246ce]	Javelin
+[0x5246d7]	Lava Spear
+[0x5246ec]	Gae Bolg
+[0x5246fd]	Ice Lance
+[0x524710]	Partisan
+[0x52471a]	Kain's Lance
+[0x524733]	Trident
+[0x524760]	Mythril Spear
+[0x52477b]	Odin Lance
+[0x524790]	Beastspear
+[0x52479c]	Bangaa Spike
+[0x5247b5]	Demon Bell
+[0x5247ca]	Glass Bell
+[0x5247df]	War Trumpet
+[0x5247f6]	Conch Shell
+[0x52480d]	Earth Bell
+[0x524822]	Black Quena
+[0x524839]	Satyr Flute
+[0x524850]	Fairy Harp
+[0x524865]	Aona Flute
+[0x52487a]	Heal Chime
+[0x52488f]	Blood Strings
+[0x5248aa]	Mythril Bell
+[0x5248c3]	Dark Fiddle
+[0x5248da]	Fell Castanets
+[0x5248f7]	Hard Knuckles
+[0x524912]	Rising Sun
+[0x524927]	Sick Knuckles
+[0x524942]	Dream Claws
+[0x52497f]	Cat Claws
+[0x524992]	Survivor
+[0x52499c]	White Fangs
+[0x5249b3]	Godhand
+[0x5249bc]	Tiger Fangs
+[0x5249d3]	Death Claws
+[0x5249ea]	Mythril Claws
+[0x524a05]	Greaseburst
+[0x524a12]	Magic Hands
+[0x524a29]	Goblin Soul
+[0x524a40]	Flan Soul
+[0x524a53]	Bomb Soul
+[0x524a66]	Dragon Soul
+[0x524a7d]	Lamia Soul
+[0x524a92]	Bug Soul
+[0x524aa3]	Panther Soul
+[0x524abc]	Malboro Soul
+[0x524ad5]	Eye Soul
+[0x524ae6]	Mythril Soul
+[0x524aff]	Dread Soul
+[0x524b14]	Rukavi Soul
+[0x524b2b]	Aiot Gun
+[0x524b3c]	Silver Cannon
+[0x524b57]	Riot Gun
+[0x524b68]	Chaos Rifle
+[0x524b7f]	Lost Gun
+[0x524b90]	Peacemaker
+[0x524b9c]	Giot Gun
+[0x524bad]	Longbarrel
+[0x524bb9]	Outsider
+[0x524bc3]	Mythril Gun
+[0x524bda]	Bindsnipe
+[0x524be5]	Calling Gun
+[0x524bfc]	Bronze Shield
+[0x524c17]	Round Shield
+[0x524c30]	Opal Shield
+[0x524c47]	Ice Shield
+[0x524c5c]	Flame Shield
+[0x524c75]	Aegis Shield
+[0x524c8e]	Genji Shield
+[0x524ca7]	Sacri Shield
+[0x524cc0]	Shijin Shield
+[0x524cdb]	Choco Shield
+[0x524cf4]	La Seraphica
+[0x524d0d]	Reverie Shield
+[0x524d2a]	Bronze Helm
+[0x524d41]	Iron Helm
+[0x524d54]	Opal Helm
+[0x524d67]	Cross Helm
+[0x524d7c]	Diamond Helm
+[0x524d95]	Genji Helm
+[0x524daa]	Parade Helm
+[0x524dc1]	Hanya Helm
+[0x524dd6]	Bangaa Helm
+[0x524ded]	Cachusha
+[0x524df7]	Barette
+[0x524e00]	Ribbon
+[0x524e08]	Feather Cap
+[0x524e1f]	Circlet
+[0x524e28]	Green Beret
+[0x524e3f]	Headband
+[0x524e49]	Wizard Hat
+[0x524e5e]	Gold Hairpin
+[0x524e77]	Thief Hat
+[0x524e8a]	Black Hat
+[0x524e9d]	White Hat
+[0x524eb0]	Acacia Hat
+[0x524ec5]	Tiara
+[0x524ecc]	Cuirass
+[0x524ed5]	Bronze Armor
+[0x524eee]	Iron Armor
+[0x524f03]	Platemail
+[0x524f0e]	Gold Armor
+[0x524f23]	Diamond Armor
+[0x524f3e]	Opal Armor
+[0x524f53]	Carabini Mail
+[0x524f6e]	Mirror Mail
+[0x524f85]	Dragon Mail
+[0x524f9c]	Genji Armor
+[0x524fb3]	Maximillian
+[0x524fc0]	Adaman Armor
+[0x524fd9]	Materia Armor
+[0x524ff4]	Peytral
+[0x524ffd]	Leather Garb
+[0x525016]	Chain Plate
+[0x52502d]	Adaman Vest
+[0x525044]	Survival Vest
+[0x52505f]	Brigandine
+[0x52506b]	Judo Uniform
+[0x525084]	Power Sash
+[0x525099]	Gaia Gear
+[0x5250ac]	Minerva Plate
+[0x5250c7]	Ninja Gear
+[0x5250dc]	Dark Gear
+[0x5250ef]	Wygar
+[0x5250f6]	Mirage Vest
+[0x52510d]	Rubber Suit
+[0x525124]	Bone Plate
+[0x525139]	Onlyone
+[0x525142]	Brint Set
+[0x525155]	Galmia Set
+[0x52516a]	Judge Coat
+[0x52517f]	Temple Cloth
+[0x525198]	Hempen Robe
+[0x5251af]	Silken Robe
+[0x5251c6]	Magus Robe
+[0x5251db]	Mistle Robe
+[0x5251f2]	Blaze Robe
+[0x525207]	Thunder Robe
+[0x525220]	Flurry Robe
+[0x525237]	White Robe
+[0x52524c]	Black Robe
+[0x525261]	Light Robe
+[0x525276]	Lordly Robe
+[0x52528d]	Silver Coat
+[0x5252a4]	Red Robe
+[0x5252b5]	Sage Robe
+[0x5252c8]	Magic Robe
+[0x5252dd]	Reaper Cloak
+[0x5252f6]	Battle Boots
+[0x52530f]	Spiked Boots
+[0x525328]	Dash Boots
+[0x52533d]	Red Boots
+[0x525350]	Feather Boots
+[0x52536b]	Germinas
+[0x525375]	Galmia Shoes
+[0x52538e]	Fairy Shoes
+[0x5253a5]	Caligula
+[0x5253af]	Ninja Tabi
+[0x5253c4]	Gauntlets
+[0x5253cf]	Thief Armlets
+[0x5253ea]	Bracers
+[0x5253f3]	Genji Armlets
+[0x52540e]	Fire Mitts
+[0x525423]	Bone Armlets
+[0x52543c]	Fortune Ring
+[0x525455]	Magic Ring
+[0x52546a]	Angel Ring
+[0x52547f]	Scarab
+[0x525487]	Ruby Earring
+[0x5254a0]	Star Armlet
+[0x5254b7]	Mindu Gem
+[0x5254ca]	Potion
+[0x5254d2]	HiPotion
+[0x5254dd]	XPotion
+[0x5254e7]	Ether
+[0x5254ee]	Elixir
+[0x5254f6]	Antidote
+[0x525500]	Eye Drops
+[0x525513]	Echo Screen
+[0x52552a]	Maiden Kiss
+[0x525541]	Soft
+[0x525547]	Holy Water
+[0x52555c]	Bandage
+[0x525565]	Cureall
+[0x52556e]	Phoenix Down
+[0x525587]	Magic Trophy
+[0x5255a0]	Fight Trophy
+[0x5255b9]	Sport Trophy
+[0x5255d2]	Elda's Cup
+[0x5255e7]	Ogma's Seal
+[0x5255fe]	Gold Vessel
+[0x525615]	Magic Medal
+[0x52562c]	Ancient Medal
+[0x525647]	Coast Medal
+[0x52565e]	Guard Medal
+[0x525675]	Friend Pin
+[0x52568a]	Master Brave
+[0x5256a3]	Badge
+[0x5256aa]	Rainbowite
+[0x5256b6]	Delta Fang
+[0x5256cb]	Cat's Tears
+[0x5256e2]	Dame's Blush
+[0x5256fb]	Thunderstone
+[0x525709]	Stormstone
+[0x525715]	Esteroth
+[0x52571f]	Ahriman Eye
+[0x525736]	Wyrmstone
+[0x525741]	Topaz Armring
+[0x52575c]	Zodiac Ore
+[0x525771]	Silvril
+[0x52577a]	Materite
+[0x525784]	Leestone
+[0x52578e]	Adamantite
+[0x52579a]	Spiritstone
+[0x5257a7]	Amber
+[0x5257ae]	Adaman Alloy
+[0x5257c7]	Mysidia Alloy
+[0x5257e2]	Crusite Alloy
+[0x5257fd]	Lodestone
+[0x525808]	Black Thread
+[0x525821]	White Thread
+[0x52583a]	Chocobo Skin
+[0x525853]	Magic Cloth
+[0x52586a]	Magic Cotton
+[0x525883]	Blood Shawl
+[0x52589a]	Ahriman Wing
+[0x5258b3]	Fairy Wing
+[0x5258c8]	Bomb Shell
+[0x5258dd]	Panther Hide
+[0x5258f6]	Tiger Hide
+[0x52590b]	Jerky
+[0x525912]	Gysahl Greens
+[0x52592d]	Chocobo Egg
+[0x525944]	Goldcap
+[0x52594d]	Life Water
+[0x525962]	Eldagusto
+[0x52596d]	Cyril Ice
+[0x525980]	Choco Bread
+[0x525997]	Choco Gratin
+[0x5259b0]	Kiddy Bread
+[0x5259c7]	GrownupBread
+[0x5259e3]	Malboro Wine
+[0x5259fc]	Gedegg Soup
+[0x525a13]	Ancient Text
+[0x525a2c]	Magic Vellum
+[0x525a45]	Justice Badge
+[0x525a60]	Friend Badge
+[0x525a79]	Runba's Tale
+[0x525a92]	The Hero Gaol
+[0x525aad]	Edaroya Tome
+[0x525ac6]	Homework
+[0x525ad0]	Encyclopedia
+[0x525ade]	Dictionary
+[0x525aea]	Monster Guide
+[0x525b05]	Secret Books
+[0x525b1e]	Sketchbook
+[0x525b2a]	Stuffed Bear
+[0x525b43]	Rat Tail
+[0x525b54]	Rabbit Tail
+[0x525b6b]	Danbukwood
+[0x525b77]	Moonwood
+[0x525b81]	Stradivari
+[0x525b8d]	Clock Post
+[0x525ba2]	Fountain Pen
+[0x525bbb]	Earplugs
+[0x525bc5]	Crystal
+[0x525bce]	Old Statue
+[0x525be3]	Neighbor Pin
+[0x525bfc]	Trichord
+[0x525c06]	Rusty Sword
+[0x525c1d]	Broken Sword
+[0x525c36]	Bent Sword
+[0x525c4b]	Rusty Spear
+[0x525c62]	Fire Sigil
+[0x525c77]	Water Sigil
+[0x525c8e]	Wind Sigil
+[0x525ca3]	Earth Sigil
+[0x525cba]	Mind Ceffyl
+[0x525cd1]	Body Ceffyl
+[0x525ce8]	Feather Badge
+[0x525d03]	Insignia
+[0x525d0d] x2	Ally Finder
+[0x525d3d]	Tranquil Box
+[0x525d56]	Loaded Dice
+[0x525d6d]	Snake Shield
+[0x525d86]	Stasis Rope
+[0x525d9d]	Mythril Pick
+[0x525db6]	Caravan Musk
+[0x525dcf]	Love Potion
+[0x525de6]	Tonberry Lamp
+[0x525e01]	Stilpool Scroll
+[0x525e20]	Flower Vase
+[0x525e37]	Dragon Bone
+[0x525e4e]	Animal Bone
+[0x525e65]	Skull
+[0x525e6c]	Helje Key
+[0x525e7f]	Clock Gear
+[0x525e94]	Gun Gear
+[0x525ea5]	Sprinkler
+[0x525eb0]	Silk Bloom
+[0x525ec5]	Moon Bloom
+[0x525eda]	Telaq Flower
+[0x525ef3]	Blue Rose
+[0x525f06]	White Flowers
+[0x525f21]	Blood Apple
+[0x525f38]	Magic Fruit
+[0x525f4f]	Power Fruit
+[0x525f66]	Vermillion
+[0x525f72]	Stolen Gil
+[0x525f87]	Ancient Bills
+[0x525fa2]	Ancient Coins
+[0x525fbd]	Skills
+[0x525fc5]	Techniques
+[0x525fd1]	Color Magic
+[0x525fe8]	Chivalry
+[0x525ff2]	Prayer
+[0x525ffa]	Defend
+[0x526002]	Elementals
+[0x52600e]	Hunt
+[0x526014]	Charge
+[0x52601c]	Time Magic
+[0x526031]	Aim
+[0x526036]	Sharpshoot
+[0x526042]	Gunmanship
+[0x52604e]	Steal
+[0x526055]	Corner
+[0x52605d]	Control
+[0x526066]	Morph
+[0x52606d]	Call
+[0x526073]	Summon
+[0x52607b]	Items
+[0x526082]	Fire
+[0x526088]	Ice
+[0x52608d]	Lightning
+[0x526098]	Holy
+[0x52609e]	Wind
+[0x5260bc]	Ganging Up
+[0x5260d1]	Full HP
+[0x5260f1]	Copycat
+[0x5260fa]	Fight
+[0x526101]	Target Area
+[0x526118]	Target All
+[0x52612d]	Swords
+[0x526135]	Blades
+[0x52613d]	Sabers
+[0x526145]	Knightswords
+[0x526153]	Greatswords
+[0x526160]	Broadswords
+[0x52616d]	Knives
+[0x526175]	Rapiers
+[0x52617e]	Katanas
+[0x526187]	Spears
+[0x52618f]	Instruments
+[0x52619c]	Knuckles
+[0x5261a6]	Soul
+[0x5261ac]	Missile
+[0x5261b5]	Dark
+[0x5261bb]	Staves
+[0x5261c3]	Rods
+[0x5261c9]	Maces
+[0x5261d0]	Bare Hands
+[0x52624e]	Healing
+[0x526257]	Petrify
+[0x526260]	Frog
+[0x526266]	Poison
+[0x52626e]	Confuse
+[0x526277]	Berserk
+[0x526280]	Silence
+[0x526289]	Charm
+[0x526290]	Bind
+[0x526296]	Addle
+[0x52629d]	Slow
+[0x5262a3]	Stop
+[0x5262a9]	Status
+[0x5262b1]	Shell
+[0x5262b8]	Protect
+[0x5262c1]	Haste
+[0x5262df]	Dmg— Bangaa
+[0x5262f8]	Dmg— Nu Mou
+[0x526328]	Dmg— Moogle
+[0x526341]	Dmg— Animal
+[0x52635a]	Law Cards
+[0x52636d]	NoClr Magic
+[0x526399] x6	R Antilaw
+[0x526417]	Allmighty
+[0x52644b]	Cyril
+[0x526452]	Sprohm
+[0x52645a]	Muscadet
+[0x526464]	Cadoan
+[0x52646c]	Baguba Port
+[0x526483]	Nubswood
+[0x52648d]	Giza Plains
+[0x5264a4]	Kudik Peaks
+[0x5264bb]	Uladon Bog
+[0x5264d0]	Jeraw Sands
+[0x5264e7]	Lutia Pass
+[0x5264fc]	Koringwood
+[0x526508]	Ulei River
+[0x52651d]	Aisenfield
+[0x526529]	Roda Volcano
+[0x526542]	Eluut Sands
+[0x526559]	Nargai Cave
+[0x526570]	Salikawood
+[0x52657c]	Delia Dunes
+[0x526593]	Gotor Sands
+[0x5265aa]	Ozmonfield
+[0x5265b6]	Deti Plains
+[0x5265cd]	Siena Gorge
+[0x5265e4]	Materiwood
+[0x5265f0]	Tubola Cave
+[0x526607]	Jagd Dorsa
+[0x52661c]	Jagd Helje
+[0x526631]	Jagd Ahli
+[0x526644]	Ambervale
+[0x52664f]	Kingmoon
+[0x526659]	Madmoon
+[0x526662]	Sagemoon
+[0x52666c]	Huntmoon
+[0x526676]	Bardmoon

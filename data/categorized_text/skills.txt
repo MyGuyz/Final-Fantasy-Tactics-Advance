@@ -1,0 +1,614 @@
+# ชื่อทักษะ/สกิล/ความสามารถ  (612 รายการไม่ซ้ำ)
+
+[0x5541b7]	Turn Order
+[0x5541cc]	Mission
+[0x5541d5] x3	Law Cards
+[0x5541e8]	Options
+[0x5541f1]	Flee
+[0x5541f7]	Save Now
+[0x554208]	Laws
+[0x55420e]	Move
+[0x554214]	Action
+[0x55421c]	Wait
+[0x554222]	Status
+[0x55422a]	Fight
+[0x554231]	Snowball
+[0x55423b] x6	Totema
+[0x554243]	Combo
+[0x55424a]	Party
+[0x554251]	Clan
+[0x554257]	Link
+[0x55425d]	Area List
+[0x554270]	System
+[0x554278]	Save
+[0x55427e]	Load
+[0x554284] x2	Back
+[0x55428a] x2	Release
+[0x554293]	Pardon
+[0x55429b] x3	Leave
+[0x5542a2]	Suspended
+[0x5542ad]	Bail
+[0x5542b3]	Sentence
+[0x5542bd]	Trade
+[0x5542c4]	Gossip
+[0x5542d3]	Buy
+[0x5542d8]	Sell
+[0x5542de] x2	Trade Items
+[0x5542f5] x2	List
+[0x554307]	Play
+[0x554316]	Rumors
+[0x55431e]	Missions
+[0x554328]	Quit Mission
+[0x554348]	Equip
+[0x55434f]	Abilities
+[0x55435a]	Change Jobs
+[0x554371]	Dismiss
+[0x55437a]	Set
+[0x554385]	Sort Units
+[0x55439a]	Sort Items
+[0x5543af]	Change
+[0x5543b7]	Confirm
+[0x5543c0]	Do it
+[0x5543cb]	Cancel
+[0x5543d3]	Yes
+[0x5543d8]	No
+[0x5543dc]	Mission List
+[0x5543f5]	Report
+[0x5543fd]	Clan Turf
+[0x554410] x2	Mission Item
+[0x554429]	Support Clan
+[0x554449]	Treasure Hunt
+[0x55446b]	OK
+[0x55446f]	Paid
+[0x554475] x2	Equipped
+[0x55447f]	Team Up
+[0x5544a5]	Trade Units
+[0x5544bc]	Unmorph
+[0x554548]	Plains
+[0x554550]	Forest
+[0x554558]	Desert
+[0x554560]	Marsh
+[0x554567]	Mountain
+[0x554571]	Cave
+[0x554577]	Town
+[0x55457d]	Jagd
+[0x554583]	Shop
+[0x554589]	Pub
+[0x55458e]	Prison
+[0x554596]	Card Keeper
+[0x5545ad]	Monster Bank
+[0x5545c6]	Combat
+[0x5545ce]	Magic
+[0x5545d5]	Smithing
+[0x5545df]	Craft
+[0x5545e6]	Appraise
+[0x5545f0]	Gather
+[0x5545f8]	Negotiate
+[0x554603]	Track
+[0x55460a] x2	Item
+[0x554610]	Blue Magic
+[0x554625]	Red Magic
+[0x554638]	Trick
+[0x55463f]	Control
+[0x554648]	Hunt
+[0x55464e]	Chivalry
+[0x554658]	Prayer
+[0x554660]	Song
+[0x554666]	Black Magic
+[0x55467d]	Sagacity Skill
+[0x55469a]	Phantasm Skill
+[0x5546b7]	Sacred Tech
+[0x5546ce]	Blaze
+[0x5546d5] x2	Sandstorm
+[0x5546e0]	Rot
+[0x5546e5]	Corner
+[0x5546ed]	Stunt
+[0x5546f4]	Gunmanship
+[0x554700]	Defend
+[0x554708]	Summon Magic
+[0x554721]	Stench
+[0x554729]	White Magic
+[0x554740]	Debilitate
+[0x55474c]	Spirit Magic
+[0x554765]	Battle Tech
+[0x55477c]	Monk Tech
+[0x55478f]	Sharpshoot
+[0x55479b]	Punch
+[0x5547a2]	Charge
+[0x5547aa]	Fighter Tech
+[0x5547c3]	Time Magic
+[0x5547d8]	Lunge Tech
+[0x5547ed]	Icewyrm
+[0x5547f6]	Morph
+[0x5547fd]	Melt
+[0x554803]	Ninja Skill
+[0x55481a]	Steal
+[0x554821]	Aim
+[0x554826]	Pandora
+[0x55482f]	Rake
+[0x554835]	SpellbladeTech
+[0x554855]	Gaze
+[0x55485b]	Call
+[0x554861]	Dragon Tech
+[0x554878]	Alchemy Skill
+[0x554893]	Grudge
+[0x55489b]	Rune
+[0x5548a1]	Hermetics
+[0x5548ac]	Dark Magic
+[0x5548c1]	Flair
+[0x5548c8]	Genesis
+[0x5548d1]	Wicca
+[0x5548d8]	Expulse
+[0x5548e1]	Magestorm
+[0x5548ec]	Hit
+[0x5548f1] x2	Chill
+[0x5548f8]	Scorch
+[0x554907]	Dragonblaze
+[0x554914]	Dragonbolt
+[0x554920]	Poison Fang
+[0x554937]	Adhere
+[0x55493f]	Crush
+[0x554946]	Malice
+[0x55494e]	Scratch
+[0x554957]	Reek
+[0x55495d]	Glare
+[0x554964]	Illude
+[0x55496c]	Fluoresce
+[0x554977]	Advanced Law
+[0x554990]	Judgement
+[0x55499b] x2	Blank Card
+[0x5549b0]	Damage MP
+[0x5549c7]	Turbo MP
+[0x5549d8]	Earth Heal
+[0x5549ed]	Aim— Armor
+[0x554a02]	Ice Breath
+[0x554a1d]	Blue Screw
+[0x554a32]	Red Spring
+[0x554a47]	Steal— Access.
+[0x554a64]	Mog Rush
+[0x554a75]	Devil Gaze
+[0x554a8a]	Nightmare
+[0x554a95]	Aim— Legs
+[0x554aa8]	Astra
+[0x554aaf]	Death Sickle
+[0x554ac8]	Mog Attack
+[0x554add]	Steal— Ability
+[0x554afa]	Ultima Charge
+[0x554b15]	Ultima Masher
+[0x554b30]	Ultima Shot
+[0x554b47]	Ultima Sword
+[0x554b60]	Ultima Blow
+[0x554b77]	FullLife
+[0x554b82]	Undead
+[0x554b8a]	Fireshot
+[0x554b94]	Capture
+[0x554b9d]	Zombify
+[0x554ba6]	Ifrit
+[0x554bad]	Rockbeast
+[0x554bcb]	Aim— Weapon
+[0x554be2]	Water
+[0x554be9]	Voodoo
+[0x554bf1]	Aim— Arm
+[0x554c02]	Whirlwind
+[0x554c0d]	Air Blast
+[0x554c20]	Aero
+[0x554c26]	Ether
+[0x554c2d]	XPotion
+[0x554c37]	Esuna
+[0x554c3e]	Elixir
+[0x554c46]	Oust
+[0x554c4c]	First Aid
+[0x554c5f]	Aura
+[0x554c65]	Ague
+[0x554c6b]	Warcry
+[0x554c73]	Maiden Kiss
+[0x554c8a]	Mog Guard
+[0x554c9d]	GuardOff
+[0x554ca8]	Carbuncle
+[0x554cb3]	Soundwave
+[0x554cbe]	Unspell
+[0x554cc7]	Nurse
+[0x554cce]	Counter
+[0x554cd7]	Addle
+[0x554cde]	Frogsong
+[0x554ce8]	Firebomb
+[0x554cf2]	Shadowbind
+[0x554cfe]	Monkey Grip
+[0x554d15]	Fire Veil
+[0x554d28]	Cover
+[0x554d2f]	Steal— Helm
+[0x554d46]	Munch
+[0x554d4d]	Body Slam
+[0x554d60]	Iceshot
+[0x554d69]	Yellow Spring
+[0x554d84]	Giga Flare
+[0x554d99]	Catch
+[0x554da0]	Aim— Vitals
+[0x554db7]	Resonate
+[0x554dc1]	Kirin
+[0x554dc8]	Gil Toss
+[0x554dd9]	Mug
+[0x554dde]	Steal— Gil
+[0x554df3]	Cheer
+[0x554dfa]	Metal Veil
+[0x554e0f]	Silver Disc
+[0x554e26]	Gold Battery
+[0x554e3f]	Soft
+[0x554e45]	Quicken
+[0x554e4e]	Air Render
+[0x554e63]	Bad Breath
+[0x554e78]	Kiss
+[0x554e7e]	Demi
+[0x554e84]	Quarter
+[0x554e8d]	Mythril
+[0x554e96]	Steal— JP
+[0x554ea9]	Black Ingot
+[0x554ec0]	Cure
+[0x554ec6]	Curaga
+[0x554ece]	Cura
+[0x554ed4]	Steal— EXP
+[0x554ee9]	Evil Gaze
+[0x554efc] x2	Weapon Atk
+[0x554f13]	Parley
+[0x554f1b]	Goblin
+[0x554f23]	Goblin Punch
+[0x554f3c]	Bug
+[0x554f41]	Confushot
+[0x554f4c]	Circle
+[0x554f54]	Sidewinder
+[0x554f60]	Aim— Wallet
+[0x554f77]	Silence
+[0x554f80]	Silenshot
+[0x554f8b]	Star Cross
+[0x554fa0]	Cuisine
+[0x554fa9]	Thunder
+[0x554fb2]	Bolt Sword
+[0x554fc7]	Bolt Breath
+[0x554fde]	Thundaga
+[0x554fe8]	Thundara
+[0x554ffd]	Shiva
+[0x555004]	Shell
+[0x55500b]	Aphonia
+[0x555014]	Greased Bolt
+[0x55502d]	Tail Wag
+[0x55503e]	Roulette
+[0x555048]	Blowup
+[0x555050]	Shining Air
+[0x555067]	Jump
+[0x55506d]	Judge
+[0x555074]	Absorb MP
+[0x555087]	Miasma
+[0x55508f]	Half MP
+[0x55509e]	Advice
+[0x5550a6]	Mog Lance
+[0x5550b9]	Water Veil
+[0x5550ce]	Stardust
+[0x5550d8]	Shadowstick
+[0x5550e5]	Stop
+[0x5550eb]	Stopshot
+[0x5550fc]	Speedbreak
+[0x555108]	Smile
+[0x55510f]	Featherblow
+[0x55511c]	Sliprain
+[0x555126]	Sleep
+[0x55512d] x3	Slow
+[0x555133]	Swallowtail
+[0x555140]	Holy Sign
+[0x555153]	Concentrate
+[0x555160]	Holy Water
+[0x555175]	Saint Cross
+[0x55518c]	Conceal
+[0x555195]	Reveal
+[0x55519d]	Soil Evidence
+[0x5551b8]	Draw Weapon
+[0x5551cf]	Soul Sphere
+[0x5551e6]	Last Breath
+[0x5551fd]	Geomancy
+[0x555207]	Revive
+[0x55520f]	Sonic Boom
+[0x555224]	Wild Tornado
+[0x55523d]	Swarmstrike
+[0x55524a]	Shieldbearer
+[0x555258]	Steal— Shield
+[0x555273]	Boost
+[0x55527a]	Mog Peek
+[0x55528b]	Checkmate
+[0x555296]	Suffocate
+[0x5552a1]	Charmshot
+[0x5552ac]	Chakra
+[0x5552b4]	Provoke
+[0x5552bd]	Chocobo Rush
+[0x5552d6]	Earth Render
+[0x5552ef]	Twister
+[0x5552f8]	Subdue
+[0x555300]	Death
+[0x555307]	Dispel
+[0x55530f]	Angel Whisper
+[0x55532a]	Tempest
+[0x555333]	Hibernate
+[0x55533e]	Toad
+[0x555344]	Poison Frog
+[0x55535b]	Antidote
+[0x555365]	Poison Claw
+[0x55537c]	Earth Veil
+[0x555391]	Friend
+[0x555399]	Dragon
+[0x5553a1]	Wyrmkiller
+[0x5553ad]	Dragon Force
+[0x5553c6]	Drain
+[0x5553cd]	Drain Touch
+[0x5553e4]	Tonberry
+[0x5553ee]	Nighthawk
+[0x5553f9]	Dagger
+[0x555401]	Mow Down
+[0x555412]	Throw
+[0x555419]	Bonecrusher
+[0x555426]	Chroma Gem
+[0x55543b]	Double Sword
+[0x555454]	Stare
+[0x55545b]	Rend
+[0x555461]	Goo
+[0x555466]	Take Aim
+[0x555477]	Piercethrough
+[0x555486]	Cupid
+[0x55548d]	Expert Guard
+[0x5554a6]	Bio
+[0x5554ab]	HiPotion
+[0x5554b6]	Tremor
+[0x5554be]	Exorcise
+[0x5554c8]	Backdraft
+[0x5554d3]	Far Fist
+[0x5554e4]	Strikeback
+[0x5554f0]	Barrier
+[0x5554f9]	Powerbreak
+[0x555505]	Bangaa Cry
+[0x55551a]	Panther
+[0x555523]	Bandage
+[0x55552c]	Hunting
+[0x555535]	Cureall
+[0x55553e]	Mog Aid
+[0x55554d]	Sheep Count
+[0x555564]	Hand Slap
+[0x555577]	Last Quicken
+[0x555590]	Last Berserk
+[0x5555a9]	Last Haste
+[0x5555be]	Fire
+[0x5555c4]	Fire Whip
+[0x5555d7]	Fire Sword
+[0x5555ec]	Fire Breath
+[0x555603]	Firaga
+[0x55560b]	Fira
+[0x555611]	Faster
+[0x555619]	Rockseal
+[0x555623]	Beatdown
+[0x55562d]	Phoenix
+[0x555636]	Phoenix Down
+[0x55564f]	Steal— Weapon
+[0x55566a]	Burial
+[0x555672]	Drop Weapon
+[0x555689]	Meteorite
+[0x555694]	Blind
+[0x55569b]	Blindshot
+[0x5556a6]	Blaster
+[0x5556af]	Blackout
+[0x5556b9]	Freezeblink
+[0x5556c6]	Blizzaga
+[0x5556d0]	Blizzard
+[0x5556da]	Ice Sword
+[0x5556ed]	Blizzara
+[0x5556f7]	Blitz
+[0x5556fe]	Flan
+[0x555704]	Manastrike
+[0x555710]	Flare
+[0x555717]	Break
+[0x55571e]	Flame Attack
+[0x555737]	Floateye
+[0x555741]	Protect
+[0x55574a]	Elementalshift
+[0x55575a]	Prominence
+[0x555766]	Haste
+[0x55576d]	Hastebreak
+[0x555779]	Heavy Dust
+[0x55578e]	Poison
+[0x555796]	Oblivion
+[0x5557a0] x2	Weapon Def
+[0x5557b7] x2	Knife
+[0x5557be]	Hurl
+[0x5557c4]	Potion
+[0x5557cc]	Holy
+[0x5557d2]	Holy Blade
+[0x5557e7]	Ball
+[0x5557ed]	Bomb
+[0x5557f3]	White Wind
+[0x555808]	White Flame
+[0x55581f]	Beso Toxico
+[0x555836]	Mighty Guard
+[0x55584f]	Mindbreak
+[0x55585a]	Magic Hammer
+[0x555873]	Magicbreak
+[0x55587f]	Catnip
+[0x555887]	Doom Archer
+[0x55589e]	Madeen
+[0x5558a6]	Matra Magic
+[0x5558bd]	Return Magic
+[0x5558d6] x2	Magic Pow
+[0x5558eb]	Defense
+[0x5558f4]	Raise
+[0x5558fb]	Reflex
+[0x555903]	Green Gear
+[0x555918]	Sensor
+[0x555920]	Mutilate
+[0x55592a]	Karma
+[0x555931]	Eye Drops
+[0x555944]	Meteor
+[0x55594c]	Immunity
+[0x555956]	Maintenance
+[0x555963]	Wood Veil
+[0x555976]	Malboro
+[0x55597f]	Return Fire
+[0x555996]	Block Arrows
+[0x5559af]	Echo Screen
+[0x5559c6]	Sacrifice
+[0x5559d1]	Unicorn
+[0x5559da]	Acid
+[0x5559e0]	Fairy
+[0x5559e7]	Night
+[0x5559ee]	Steal— Armor
+[0x555a07]	Learning
+[0x555a11]	Downsize
+[0x555a1b]	Lifebreak
+[0x555a26]	Rasp
+[0x555a2c]	Rush
+[0x555a32]	Lamia
+[0x555a39]	Ramuh
+[0x555a40]	Boltshot
+[0x555a4a]	Meltdown
+[0x555a54]	AutoRegen
+[0x555a60]	Reflect
+[0x555a69]	Limit Glove
+[0x555a80]	Lancet
+[0x555a88]	Wyrmtamer
+[0x555a93]	Dragonheart
+[0x555aa0]	Doublehand
+[0x555aac]	AutoLife
+[0x555ab7]	Life
+[0x555abd]	Mog Shield
+[0x555ae9]	LV Def-less
+[0x555b02]	LV Death
+[0x555b15]	LV?D Holy
+[0x555b28]	Doubleshot
+[0x555b34]	Doublecast
+[0x555b40]	Deluge
+[0x555b48]	Wild Swing
+[0x555b5d]	Ring
+[0x555b63]	Explode
+[0x555b6c]	Stillness
+[0x555b77]	Azoth
+[0x555b7e]	Omega
+[0x555b85]	Abyss
+[0x555b8c]	Life Render
+[0x555ba3]	Heart Render
+[0x555bbc]	Ripcircle
+[0x555bc7]	Furycircle
+[0x555bd3]	Lawshift
+[0x555bdd]	Amber Gleam
+[0x555bf4]	Alpha
+[0x555bfb]	Descent
+[0x555c04]	Magi
+[0x555c0a]	Spellbind
+[0x555c15]	Breath of God
+[0x555c30]	Lightspeed
+[0x555c3c]	Firestream
+[0x555c48]	Howl of Rage
+[0x555c61]	Presence
+[0x555c6b]	Logos
+[0x555c72]	Adrammalech
+[0x555c7f]	Mateus
+[0x555c87]	Ultima
+[0x555c8f]	Exodus
+[0x555c97]	Famfrit
+[0x555ca0]	Abate
+[0x555ca7] x2	Judge Sword
+[0x555cbe]	Bind
+[0x555cc4]	JP Gift
+[0x555cd3]	Yellow Clip
+[0x555d01]	Yellow Card
+[0x555d18]	Palaistra
+[0x555d38]	Blue Combo
+[0x555d4d]	Red Combo
+[0x555d60]	Hunt Combo
+[0x555d75]	Knight Combo
+[0x555d8e]	Pray Combo
+[0x555da3]	Black Combo
+[0x555dba]	Wise Combo
+[0x555dcf]	Sacred Combo
+[0x555de8]	Thief Combo
+[0x555dff]	Killer Combo
+[0x555e18]	Juggle Combo
+[0x555e31]	Gun Combo
+[0x555e44]	Defend Combo
+[0x555e5d]	SummonCombo
+[0x555e77]	White Combo
+[0x555e8e]	Spirit Combo
+[0x555ea7]	Combat Combo
+[0x555ec0]	Sniper Combo
+[0x555ed9]	Spell Combo
+[0x555ef0]	Charge Combo
+[0x555f09]	Fight Combo
+[0x555f20]	Animal Combo
+[0x555f39]	Time Combo
+[0x555f4e]	Lunge Combo
+[0x555f65]	Morph Combo
+[0x555f7c]	Ninja Combo
+[0x555f93]	Gadget Combo
+[0x555fac]	Bow Combo
+[0x555fbf]	Sword Combo
+[0x555fd6]	Beast Combo
+[0x555fed]	Monk Combo
+[0x556002]	Dragon Combo
+[0x55601b]	Gold Combo
+[0x556030] x111	Dummy
+[0x556339]	Sword
+[0x556341]	Sharp Sword?
+[0x55635a]	Bent Sword?
+[0x556371]	Rusty Sword?
+[0x55638a]	Big Sword?
+[0x55639f]	Heavy Sword?
+[0x5563c0]	Thin Sword?
+[0x5563d7]	Blade
+[0x5563df]	Old Staff?
+[0x5563fa]	Heavy Club?
+[0x556417]	Big Bow?
+[0x556428]	Spear
+[0x556430]	Instrument
+[0x55643d]	Gloves
+[0x556446]	Bauble
+[0x55644f]	Rusty Gun?
+[0x556464]	Shield
+[0x55646d]	Rusty Helm?
+[0x556484]	Old Cap?
+[0x556495]	Armor
+[0x55649d]	Clothes
+[0x5564ae]	Boots
+[0x5564b6]	Gauntlet
+[0x5564c1]	Trinket
+[0x5564d1]	Metal
+[0x5564d9]	Status Down
+[0x5564f0]	Monster Run
+[0x556507]	Item Fine
+[0x55651a]	Card Fine
+[0x55652d]	AP Fine
+[0x55653c]	EqpItem Fine
+[0x556555]	Volunteer
+[0x556560]	Gil Fine
+[0x556571]	HP MAX
+[0x55657e]	MP MAX
+[0x5565c8]	Magic Res
+[0x5565db]	Speed
+[0x5565e2]	Gil
+[0x5565e7]	No Award!
+[0x5565fa]	No AP!
+[0x556607]	No APAward!
+[0x556620]	All Items!
+[0x55669f]	No Abilities!
+[0x5566ba]	Nothing
+[0x5566c4]	No Monsters!
+[0x5566dd]	Color Mode
+[0x5566f2]	Cursor Type
+[0x556709]	Cursor Spd
+[0x55671e]	Message Spd
+[0x556735]	Attack Name
+[0x556752]	Judge Pts?
+[0x556767]	NonEqpItems
+[0x556775]	L BUTTON
+[0x556786]	Default
+[0x55678f]	LCD A
+[0x55679a]	LCD B
+[0x5567a5]	TV
+[0x5567a9]	Type A
+[0x5567b6]	Type B
+[0x5567c3]	Fast
+[0x5567c9]	Normal
+[0x5567dd]	Quick
+[0x5567e4]	ON
+[0x5567e8]	OFF

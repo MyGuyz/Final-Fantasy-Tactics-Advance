@@ -1,0 +1,1186 @@
+# ข้อความที่ถอดได้ไม่สมบูรณ์ (394 รายการ)
+# สาเหตุ: ยังมีรูปแบบบีบอัด/back-reference แบบฝังในสตริงที่ยังถอดไม่ออก (ไม่มี marker 0x32)
+# บรรทัดแรก = ที่อ่านออกบางส่วน / บรรทัด RAW = ผลถอดดิบพร้อม placeholder
+
+[0x49b407]	You cant efhei
+   RAW: You can{8001}{u42}{uD8}t{uA0}{u0D}{40:DB}{8001}{u42}{uE2}\n{u90}{u17}{40:E2}{8021}{40:D6}{8029}{u42}{uDB}e{802B}{u42}{uD8}f{8031}{u42}{uDD}h{803B}{u44}{uDC}e{80EC}{803F}{u42}{uDC}i{8031}{u44}{uE4}{40:61}{40:63}{u20}{u30}
+
+[0x49b767]	You cant e
+   RAW: You can{80F4}t{uA0}{u0B}{40:DB}{8001}{u42}{uE2}\n{u90}{u15}{40:E2}{801F}{40:D6}{8027}{u44}{uDB}e{80EC}{802B}{40:DC}{8001}{40:D8}{802D}{u44}{uEB}{40:61}{40:63}{u20}{u30}
+
+[0x49baa1]	You cant efhe
+   RAW: You can{8001}{u42}{uD8}t{uA0}{u0D}{40:DB}{8001}{u42}{uE2}\n{u90}{u17}{40:E2}{8021}{40:D6}{8029}{u42}{uDB}e{802B}{u42}{uD8}f{8031}{u42}{uDD}h{803B}{u48}{uDC}e{80E4}{40:61}{40:63}{u20}{u30}
+
+[0x49be57]	You cant efhe
+   RAW: You can{80F4}t{uA0}{u0B}{40:DB}{8001}{u42}{uE2}\n{u90}{u15}{40:E2}{801F}{40:D6}{8027}{u42}{uDB}e{8029}{u42}{uD8}f{802F}{u42}{uDD}h{8039}{u48}{uDC}e{80E4}{40:61}{40:63}{u20}{u30}
+
+[0x49ca20]	This mission requires the following Youre missing Youll need to bring both
+   RAW: This mission requires\nthe following{80EE}{40:70}{40:63}{40:25}{u16}\n{40:25}{u17}{40:70}{40:63}You{80F4}re missing{80EE}\n{40:25}{u15}{80E4} You{80F4}ll\nneed to bring both{80E4}{40:61}{40:63}
+
+[0x49cb7b]	This dpatc mnCelo
+   RAW: This {uA0}{u05}{40:CA}{8009}{u42}{uF6}d{u88}{u13}{u47}patc{8021}{u44}{uF6}\nm{u90}{u13}{40:DC}{802D}{u4A}{uD8}n{80E4}{40:70}{40:63}C{803D}{40:D8}{800F}{u42}{uDC}e{8041}{u88}{u17}{u88}{u07}{u42}{uCC}l{8039}{40:D7}{u90}{u33}{40:CE}{8037}{40:CB}{8005}{40:DB}{8061}{u42}{uDD}o{8067}{802B}{803F}{40:CD}{u90
+
+[0x49e647]	OK thatllo TksiSo you decided to drop by Ill let you in on some insider market info Hushhush
+   RAW: OK{80EC} that{8009}{u46}{uB8}{80F4}ll{8013}{u48}{uCD}o{80E4}\nT{u90}{u1B}{u44}{uD7}ks{8029}{40:CA}{802D}{40:D5}{8019}{40:DD}{u90}{u37}{u42}{uD4}i{8027}{u98}{u29}{u42}{WAIT}{40:63}{u20}So{80EC} you decided to\ndrop by{80EC} {40:25}I{80F4}ll let you in on\nsome insider market\ninfo{80E4} Hush{80FE}hush{80
+
+[0x49f7fa]	Trades are final and theres a trade fee of gilTrade YesNo
+   RAW: Trades are final{80EC}\nand there{80F4}s a trade\nfee of {40:25}{u3A} gil{80E4}{40:70}{40:63}Trade\n{40:67}{u04} {40:25}{u47}{80EA}\n{40:53}{u10}Yes{80F1}No{40:77}{40:63}
+
+[0x49fbb0]	Trades are final and theres a trade fee of gilTrade YesNo
+   RAW: Trades are final{80EC}\nand there{80F4}s a trade\nfee of {40:25}{u3A} gil{80E4}{40:70}{40:63}Trade\n{40:25}{u48}{80EA}\n{40:53}{u10}Yes{80F1}No{40:77}{40:63}
+
+[0x4b0231]	Those Nigwaersut vcDLlzxZvD
+   RAW: Those Nig{800F}{u44}{uDD}wa{800B}{u46}{uD5}ers{8019}{40:CA}{8007}{u88}{u21}{u46}{uD8}ut\n{8021}{40:D1}{u90}{u1B}{u88}{u35}{40:DC}{8035}{40:D7}{8037}{u90}{u05}{8045}{u42}{uCE}v{u90}{u37}{40:E2}{8051}{40:D7}{uB0}{u51}{40:E4}{8035}{40:BD}{8069}{40:D2}{806B}{u88}{u19}{40:CB}{8049}{u42}{uD7}c{807D}{40:EC}
+
+[0x4b032b]	The bestancnow sffyHcG EQYS CtwXnt
+   RAW: The best{8009}{u46}{uCD}anc{800F}{40:DB}{8017}{u42}{uD2}n{801D}{u44}{uDD}ow{8009}\n{802D}{u42}{uCA}s{802F}{40:D0}{8011}{40:D7}{u90}{u39}{u44}{uD8}ff{u98}{u23}{u90}{u29}{u98}{u4F}{40:CC}{8039}{u42}{uDD}y{8031}{u98}{u17}{805F}{8065}{40:CA}{8069}{8065}{8061}{u42}{uDB}{80E4}{u88}{s80}{u79}{u44}H{s80}{sF4
+
+[0x4b040f]	They satnulm nigs fr dmhX EugKd
+   RAW: They sa{u90}{u07}{40:DD}{8011}{u42}{uCA}t{8011}{u42}{uD8}n{8017}{u44}{uCF}ul{8001}{u42}{uFE}m{8011}{u88}{u13}{u46}\nnig{8039}{u42}{uDD}s{u90}{u39}{40:D8}{801B}{40:CE}{u90}{u39}{40:D2}{801B}{40:D0}{u90}{u4D}{40:CC}{804F}{40:DB}{8059}\n{u90}{u4F}{40:D9}{8001}{40:CE}{8037}{u88}{u2F}{u42}{uD2}f{806F}{40:E
+
+[0x4b0513]	What aree wchyopdbjh G P
+   RAW: What a{8003}{u44}{uD0}re{uA0}{u0F}{40:D9}{8017}{40:DB}{801B}{u42}{uCD}e{801D}{40:DD}{uA0}{u27}{u42}\nw{802F}{u42}{uDC}{80EB}{8031}{u88}{u3B}{u44}{uD2}ch{803D}{u88}{u37}{40:D6}{800D}{40:D7}{802F}{40:DC}{804D}{40:D6}{8047}{40:EC}{802D}{u88}{u37}{u44}{uCE}y{80F4}{u88}{u59}{8065}{u42}{uD5}o{8001}{40:D4}{
+
+[0x4b06fd]	The rainbowfuedl m dJhJ F
+   RAW: The rainbow{80FE}fu{8013}{u44}{uDB}ed{801D}{40:CC}{8015}{u88}{u0D}{u44}{uCA}l\n{8027}{40:DC}{8031}{40:DD}{uA0}{u39}{40:CF}{8039}{40:DC}{800D}{40:CE}{u88}{u05}{8049}{40:CA}{8045}{u42}{uD2}m{u90}{u2B} {u88}{u53}{8031}{uA8}{u2B}{40:E0}{u90}{u47}{u44}{uD5}d{80EC}{uA0}{u29}{u88}{u5D}{40:D8}{8077}{u42}{uCE
+
+[0x4b07e1]	Want aunstrod fil bee d LlLF Svr
+   RAW: Want a{8003}{u44}{uD0}un{u88}{u0B}{u41}s{8011}{u46}{uDC}tro{801F}{40:D0}{u90}{u13}{u46}{uD7}d\nf{u88}{u1D}{u98}{u31}{u90}{u25}{u88}{u37}{u44}{uE0}il{801D}{u44} be{u98}{u1F}{u41}{80EA}{802B}{40:B9}{804F}{u98}{u2B}{40:CB}{8049}{40:D2}{uA0}{u49}{u42}{uD6}e{806F}{40:DD}{8035}{40:D8}{8077}{40:D5}{803B}{40
+
+[0x4b08c1]	You caneingly strwdshu D FDDRdtFbdD
+   RAW: You can{8007}{40:D6}{8007}{u42}{uD4}e{8011}{40:CA}{u90}{u0B}{u52}{uE3}ingly\nstr{8031}{8011}{8033}{u42}{uDC}w{803D}{u44}{uDB}ds{8041}{40:E0}{8029}{u42}{uDD}h{804B}{u42}{uD3}u{u88}{u29}{802F}{40:CA}{8059}{40:D5}{u90}{u17}{40:DD}{8041}{u98}{u55}{40:CD}{uA0}{u59}{u88}{u6D}{40:CA}{8057}{40:D5}{8081}{u42}
+
+[0x4b128b]	That girlslw sndgnruoV Je
+   RAW: That girl{8009}{40:DD}{u98}{u13}{u43}{80F4}s{8017}{u44}{uCA}lw{8023}{40:E2}{800D}{u42}\ns{801D}{u44}{uCA}nd{802D}{u42}{uD7}g{8037}{u42}{uD8}n{uA0}{u33}{40:CE}{8045}{40:D9}{8045}{u42}{uCE}r{804F}{u42}{uD6}u{u88}{u2D}{8033}{40:CB}{u90}{u19}{40:CC}{8069}{40:D2}{804B}{40:D5}{8049}{40:E4}{806F}{40:B8}{805
+
+[0x4b3b0f]	Its hunea dldr bp H
+   RAW: It{80F4}s hun{800D}{40:D2}{8005}{40:D0}{800F}{u44}{uDC}ea{8005}{40:D8}{8015}{u42}{uEC}\n{800B}{u42}{uD7}d{8027}{40:DD}{8029}{40:CE}{802F}{40:D0}{802F}{u44}{uD2}ld{u90}{u3D}{u42}{uCA}r{u90}{u15}{40:D1}{802F}{u88}{u13}{u98}{u45}{u42}\nb{8045}{40:D0}{u90}{u53}{40:D7}{804F}{40:DB}{8067}{40:CC}{8051}{u42}{
+
+[0x4b3bf1]	Its hunea dldr mp owbPV H
+   RAW: It{80F4}s hun{800D}{40:D2}{8005}{40:D0}{800F}{u44}{uDC}ea{8005}{40:D8}{8015}{u42}{uEC}\n{800B}{u42}{uD7}d{8027}{40:DD}{8029}{40:CE}{802F}{40:D0}{802F}{u44}{uD2}ld{u90}{u3D}{u42}{uCA}r{u90}{u15}{40:D1}{802F}{u88}{u13}{u98}{u45}\n{u90}{u4D}{40:DD}{8049}{u42}{uDB}m{804F}{u88}{u17}{40:CA}{u88}{u0F}{806F}{
+
+[0x4b3ccf]	Its hunea dldr ptf H
+   RAW: It{80F4}s hun{800D}{40:D2}{8005}{40:D0}{800F}{u44}{uDC}ea{8005}{40:D8}{8015}{u42}{uEC}\n{800B}{u42}{uD7}d{8027}{40:DD}{8029}{40:CE}{802F}{40:D0}{802F}{u44}{uD2}ld{u90}{u3D}{u42}{uCA}r{u90}{u15}{40:D1}{802F}{u88}{u13}{u98}{u45}\n{8043}{u42}{uE1}p{8049}{u42}{uDB}t{8063}{40:CC}{804D}{40:D6}{u90}{u0F}{u88
+
+[0x4b3eac]	Got ahngekmp TKyFs
+   RAW: {80EB}\nGot a{8003}{u42}{uCC}h{801C}{40:D5}{8001}{u44}{uCE}ng{8005}{40:DB}{8019}{40:D1}{u88}{u07}{u41}e{8023}{40:DD}{u90}{u1F}{40:DD}{8035}{40:E0}{8044}{40:D7}{800F}{40:DC}{u90}{u15}{40:D8}{u90}{u1B}{u42}{uCA}k{u90}{u25}{40:E2}{8051}{40:DE}{8051}{40:D8}{8043}{8068}{u90}{u29}{40:CD}{8069}{u44}{uB8}{80
+
+[0x4b4041]	The palnd resiogkfnai ntsfkoMAec
+   RAW: The pal{8003}{40:CC}{u90}{u0D}{u44}{uCA}nd{8015}{40:DD}{u90}{u1D}{u48}\nresi{8003}{40:DD}{u90}{u1B}{uA8}{u25}{8017}{803B}{u42}{uD1}o{803B}{40:CD}{801F}{u42}{uD7}g{802D}{u88}{u23}{u42}{uD5}k{8031}{40:E4}{u90}f{u4D}{s90}{u4B}{40:F4}{sA0}{u39}{40:DC}{s80}{u39}{40:D6}{s90}{u61}{u44}n{s80}a{s80}i{s80}{u65
+
+[0x4b40f5]	The princeftom va atHmnhckoIAnqocer
+   RAW: The princ{u90}{u0D}{u46}{uD5}eft{8017}{u44}{uDC}om{800D}{40:DD}{8027}{u88}{u1F}{u42}{uD0}\n{u88}{u27}{8031}{u98}{u11}{40:DC}{803B}{u44}{uB8}va{8033}{40:D2}{uA0}{u3D}{40:E0}{u88}{u53}{u90}{u23}{u88}{u5B}\n{uA8}{u4D}{u41}{80E4}{u90}{u42}a{s80}t{s90}{u59}{u42}H{s80}{sF4}{s80}{u37}{s88}{u7B}{u42}m{s80}n{s
+
+[0x4b4287]	Did youearbtse pnnmsk fNgbh B
+   RAW: Did you{8007}{u46}{uD1}ear{8011}{u42}{uCA}b{u88}{u13}{u41}t{801D}{40:DD}{8017}{u48}{uD8}se\np{8021}{40:D8}{8005}{40:D5}{800D}{u98}{u19}{40:CA}{u90}{u23}{40:CD}{8049}{40:CE}{u90}{u4B}{u42}{uD2}n{uA0}{u33}{u88}{u2F}{u42}{uDC}n{805B}{40:E0}{803D}{40:DD}{8063}{u44}{uDB}ms{806F}{40:D8}{u90}{u23}{40:BB}{u8
+
+[0x4b4541]	This worldusn Wn t f dahY
+   RAW: {80F6}This world{800B}{u98}{u11}{40:D2}{800D}{u44}{uD5}us{8021}{u4A}{uD8}n{80E4}{80F6}\nW{8031}{u47}{uCE}n {40:72}{u03}{u90}{u36}{800C}{u41}t{8040}{40:D1}{8040}{40:D6}{801A}{40:EC}{u90}{u0B}{40:CE}{802A}{40:D5}{8028}{40:CF}{u90}{u1B}{40:DD}{u90}{u11} {u90}{u1F}{40:D6}{u90}{u68}{40:E2}{8072}{u42}{uD8}
+
+[0x4b47d1]	How arehings lmfdyK
+   RAW: How are{8007}{u4A}{uDD}hings{8015}{40:D0}{801D}{u90}{u0D}{8021}{40:E0}{8017}{801D}{u41}\n{u90}{u23}{u88}{u2B}{u42}{uCC}l{8037}{u42}{uD7}{80EA}{803F}{u44}{uB8}{80F4}m{8047}{40:CF}{u88}{u47}{u90}{u49}{40:DB}{8047}{40:D0}{804D}{40:DD}{8031}{40:D7}{uA0}{u65}{u42}{uD2}f{806B}{40:E2}{8073}{40:DE}{8073}{40:
+
+[0x4b4965]	Some cloy bsnal dw utLrV Za
+   RAW: Some {8007}{40:CF}{8001}{u42}{uD2}c{8003}{u42}{uCA}l{8011}{40:CC}{8007}{u98}{u1B}{u42}{uDD}o{8021}{u46}{uD6}y\nb{801D}{40:DB}{8001}{40:CA}{8029}{u42}{uD4}s{8039}{u42}{uD2}n{803F}{40:B6}{803B}{u42}{uE3}a{8049}{u42}{uBF}l{8041}{8015}{801D}\n{804B}{u42}{uD7}d{u98}{u43}{806B}{40:D4}{8069}{u42}{uCA}w{8061}
+
+[0x4b4a65]	This freengul yav topd wnD Rych
+   RAW: This {80F6}free{800B}{40:D4}{u88}{u13}{8001}{u44}{uD2}ng{801B}{u44}{uDB}ul{801B}{u42}{uF6}\n{uA0}{u2D}{u88}{u11}{u88}{u1D}{uA8}{u21}{u42}{uD6}y{8043}{40:D5}{804B}{40:CF}{8043}{40:EB}{804F}{40:B8}{8053}{u44}{uD1}av{8051}{u44}\nto{8063}{u42}{uDC}p{8061}{u42}{uD7}d{806F}{40:CA}{8051}{40:D5}{8077}{40:CD}{
+
+[0x4b4fcf]	What esfcls akyv bdump p Hmqi
+   RAW: What {8005}{u42}{uDB}e{8007}{40:DD}{8011}{u42}{uD8}s{u90}{u0B}{u42}{uD8}f{8001}{u42}{uD2}c{8003}{u46}{uCA}ls\n{800D}{40:D7}{802D}{40:C1}{8023}{u42}{uCD}a{uA0}{u2F}{8013}{u41}k{u90}{u05}{u42}{uD0}{80EA}{804B}{40:C3}{8055}{u46}{uCE}y{80F4}v{8053}{u42}\nb{8063}{40:D7}{8023}{u42}{uCE}d{8069}{u46}{uD3}ump{
+
+[0x4b50b5]	The judgoua ven pt l dNFdRnZ MW
+   RAW: The judg{u90}{u0B}{u44}{uE2}ou{8013}{u42}{uCC}a{8015}{40:D0}{8021}{40:DD}{8021}{40:D1}{800D}{u42}{uDC}\n{8023}{u46}{uD2}ven{8035}{40:DE}{8011} {800F}{u42}{uD6}p{8033}{u42}{uDB}t{8031}{40:D7}{802D}\n{801F}{40:DF}{8027}{40:CD}{u88}{u27}{8047}{u42}{uCE}{80E4}{8063}{40:B0}{8025}{40:D9}{8053}{40:DB}{u90}{u
+
+[0x4b6003]	Thank you Herss
+   RAW: Thank you{80EB}\nHer{8003}{40:EC}{8015}{40:DD}{8021}{u42}{uD2}s{801F}{u98}{u05}{u98}{u25}{u48}{uDB}s{80E4}{40:61}{40:63}{u20}{u10}
+
+[0x4b6ae3]	This clanrefo wondygdut
+   RAW: This clan{8009}{u46}{uD9}ref{8003}{40:DB}{u90}{u19}{u48}{uDD}o\nwo{8017}{40:D4}{8029}{u44}{uD2}nd{800D}{u88}{u0F}{u42}{uDC}{80E4}{803B}{40:B4}{8039}{40:DC}{8047}{u42}{uD5}y{8029}{8045}{u41}g{u90}{u3D}{u42}{uCE}d{8059}{40:E0}{8063}{40:CE}{u90}{u59}{u42}{uD8}u{804D}{u88}{u29}{40:CD}{8061}{40:E4}{8055}{
+
+[0x4b7253]	Much fearntlio nehry
+   RAW: Much fear{8005}{u42}{uCD}{80EC}{800F}{u4A}{uCA}ntlio{8009}{u42}{uDC}\n{8007}{40:CF}{8011}{u42}{uCE}n{802D}{40:D5}{u90}{u2D}{u42}{uDF}e{8039}{u42}{uDD}h{803B}{u42}{uD2}r{8023}{40:DC}{u90}{u37}{u42}{uCD}y{8051}{40:D7}{8051}{40:DC}{8043}{40:DC}{u90}{u23}{40:D8}{8063}{40:D1}{806D}{8055}{804B}{40:CF}{8055
+
+[0x4b7625]	Radic worshf ZtodBMonster usually found in the woods Ornery Use caution
+   RAW: Radic{8007}{u4C}{uD5} worsh{8013}{40:D9}{8001}{40:CE}{u88}{u0D}{8017}{u46}{uD8}f\nZ{801D}{40:CA}{801F}{u42}{uCA}{80E4}{802B}{40:C6}{803B}{u42}{uD7}t{8035}{u42}{uDD}o{803B}{40:CD}{802D}{40:DC}{800B}{40:DB}{8043}{40:E2}{802D}{40:DD}{8045}{40:CE}{uB0}{u53}{u42}{uD5}d{uB0}{u29}{40:DB}{uA0}{u29}{u88}{u6B}
+
+[0x4b77d3]	Only inheagds youd w msr p
+   RAW: Only in{8005}{u44}{uDD}he{800D}{u48}{uD3}agds{8019}{40:CC}{800B}{u48}{uD7}\nyou{8029}{40:CF}{u88}{u2B}{u41}d{8033}{40:CA}{u90}{u1D}{40:D5}{u90}{u1F}{u42} w{8043}{803F}{8029}{40:CB}{8029}{u88}{u09}{u42} m{8033}{u42}{uD7}s{8057}{u42}{uCE}r{u90}{u4D}{804B}{803B}{u42}\np{8011}{40:D8}{8005}{40:D5}{8019}{40
+
+[0x4b7eab]	The Prancib pule ts
+   RAW: The Pranci{8005}{40:D0}{8011}{40:B2}{8019}{40:D8}{800F}{u42}{uD8}b{8007}{u42}{uEE}\n{8023}{u46}{uD8}pul{8029}{40:DB}{8033}{40:CC}{u90}{u09}{40:D7}{803D}{40:E0}{803B}{u42}{uDD}e{8043}{u98}{u3D}\n{u90}{u3B}{40:D5}{8011}{40:E4}{805B}{40:C3}{8047}{40:E0}{805B}{40:DC}{803D}{40:CE}{u90}{u43}{8019}{8073}{40:
+
+[0x4b7f51]	The Longarer suibfwls
+   RAW: The Long{8009}{u44}{uB4}ar{8011}{40:C3}{8007}{u44}{uDF}er{8017}{u42}{uEE}\n{u98}{u29}{800D}{u44}{uCE}{80F4}s{8031}{40:D7}{801B}{u90}{u1F}{803D}{40:CA}{8041}{u44}{uDA}ui{802F}{40:DD}{802B}{40:D7}{8009}{40:D0}{8059}{40:DD}{u88}{u1B}{u90}{u05}{40:DD}{8067}{40:D2}{u90}{u37}{40:D1}{8069}{u42}{uDD}b{8059}{
+
+[0x4b808f]	The Sleingrog Oyubadk
+   RAW: The Sle{8001}{u46}{uD9}ing{8011}{u4C}{uB5}rog{80EE}\nO{8013}{u42}{uD5}y{8027}{u44}{uD9}ub{802F}{8025}{8035}{u44}{uB2}ad{8025}{40:CA}{8033}{40:E4}{8027}{40:B2}{8031}{40:D6}{u90}{u4F}{8055}{801B}{40:DB}{8059}{40:DD}{uA0}{WAIT}{40:CF}{uA0}{u4F}{40:DC}{804F}{40:CC}{u90}{u5B}{u42}{uCA}k{uB0}{u6D}{u98}{u4F
+
+[0x4b811b]	The Golden Sptsut a
+   RAW: The Golden{u90}{u0D}{40:D2}{800D}{u46}{uEE}\nSp{8019}{u44}{uDB}ts{8025}{40:CA}{8029}{40:DC}{801B}{40:D0}{u90}{u25}{u44}{uCC}ut{803B}{40:D5}{802D}{40:D4}{8045}{u42}\na{u90}{u3D}{8005}{801B}{40:D2}{u88}{u4B}{u90}{u1F}{40:DB}{805B}{40:E2}{801B}{40:D5}{u90}{u33}{40:D8}{805B}{u42}{uD7}{80E4}{805B}{40:B0}{8
+
+[0x4b889b]	What treuod nHmm It looks like theres something else here
+   RAW: What tre{800B}{u42}{uDC}u{u88}{u09}{8011}{u42}{uCC}o{800B}{u44}{uD5}d\n{8005}{40:D2}{u90}{u13}{u42}{uD2}n{802B}{40:E0}{8033}{40:D2}{u90}{u35}{40:D1}{8033}{u88}{u37}{u44}{uEA}{40:77}{40:63}{u20}Hmm{80EA} It looks like\nthere{80F4}s something\nelse here{80EB}{40:77}{40:63}{u20}
+
+[0x4b8a99]	fnLPFXXDVPjh was a big success We got a bonus
+   RAW: {s92}{u01}{sF0}{u01}{u4C}{u02}{s9C}{u02}{u02}{u03}{u46}{u03}{s90}{u03}f{u03}{u04}{u04}{u4C}{u04}{s90}{u04}n{u04}{u26}{u05}{u5E}{u05}{sA4}{u05}{sE8}{u05}{u34}{u06}{u76}{u06}L{u06}{sFE}{u06}{u48}{u07}{sA0}{u07}{sEA}{u07}{u2A}{u08}{u6C}{u08}P{u08}{u0C}{u09}{u52}{u09}{s96}{u09}{sEE}{u09}{u2E}{u0A}{u6C}{
+
+[0x4b96d0]	kupo was a kupo success
+   RAW: {40:21}{u01}{40:25}{u0C}{80EC} kupo{80EB}\n{40:67}{80FB}{40:25}{u1C}{80FC}\nwas a kupo success{80EB}{40:77}{40:63}
+
+[0x4b9834]	kupo was too hard kupo
+   RAW: {40:21}{u04}{40:25}{u0C} kupo{80E4}{80E4}{80E4}\n{40:67}{80FB}{40:25}{u1C}{80FC}\nwas too hard{80EC} kupo{80E4}{40:77}{40:63}
+
+[0x4b9a18]	here With me asleadertheresnoneed to fear right
+   RAW: {40:72}{u0A} here{80E4} With me\nas{40:3E}{u03}leader{80EC}{40:3E}{u03}ther{40:3C}{u01}e{80F4}s{40:3E}{u03}no{40:3E}{u03}need\nto fear{80EC} right{80EA}{40:77}{40:63}
+
+[0x4b9ba6]	here Sorry It was a total failure I thoughtIcouldmakeit
+   RAW: {40:72}{u0A} here{80E4} Sorry{80EB} It was\na total failure{80E4}{80E4}{80E4} I\nthought{40:3E}{u04}I{40:3E}{u04}could{40:3E}{u04}make{40:3E}{u04}it{80EB}{40:77}{40:63}
+
+[0x4b9c30]	Swain reporting Weve received a bonus for
+   RAW: {40:72}{u09} Swain reporting{80E4}\nWe{80F4}ve received a bonus\nfor{40:3E}{u03}{40:67}{80FB}{40:25}{u1C}{80FC}{80EB}{40:77}{40:63}
+
+[0x4b9e48]	Swain reporting did notgoaswellashoped
+   RAW: {40:72}{u09} Swain reporting{80E4}\n{40:67}{80FB}{40:25}{u1C}{80FC} did\nnot{40:3E}{u04}go{40:3E}{u04}as{40:3E}{u04}well{40:3E}{u04}as{40:3E}{u04}hoped{80E4}{40:77}{40:63}
+
+[0x4b9f2e]	Swain reporting IhavefailedbutIhave hope for next time
+   RAW: {40:72}{u09} Swain reporting{80E4}\nI{40:3E}{u04}have{40:3E}{u04}failed{80EC}{40:3E}{u04}but{40:3E}{u04}I{40:3E}{u04}have\nhope for next time{80EB}{40:77}{40:63}
+
+[0x4ba05a]	was a success Our clans lookingprettygoodeh
+   RAW: {40:67}{80FB}{40:25}{u1C}{80FC}{40:3E}{u03}was\na success{80E4} Our clan{80F4}s\nlooking{40:3E}{u04}pretty{40:3E}{u04}good{80EC}{40:3E}{u04}eh{80EA}{40:77}{40:63}
+
+[0x4ba18e]	How could this happen didntgosowellafterall
+   RAW: How could this happen{80EA}\n{40:67}{80FB}{40:25}{u1C}{80FC}\ndidn{80F4}t{40:3E}{u03}go{40:3E}{u03}so{40:3E}{u03}well{40:3E}{u03}after{40:3E}{u03}all{80E4}{40:77}{40:63}
+
+[0x4ba20d]	was a mess Im sorry Iknowyoutrustedme
+   RAW: {80FB}{40:25}{u1C}{80FC}{40:3E}{u03}was\na mess{80E4} I{80F4}m sorry{80EC}\nI{40:3E}{u04}know{40:3E}{u04}you{40:3E}{u04}trusted{40:3E}{u04}me{80E4}{80E4}{80E4}{40:77}{40:63}
+
+[0x4ba2f0]	backwithabonus was a big success
+   RAW: {40:72}{u0C}{40:3E}{u03}back{80EC}{40:3E}{u03}with{40:3E}{u03}a{40:3E}{u03}bonus{80EB}\n{40:67}{80FB}{40:25}{u1C}{80FC}{40:3E}{u03}was\na big success{80EB}{40:77}{40:63}
+
+[0x4ba50c]	here didntgowellThatisall
+   RAW: {40:72}{u0C} here{80E4}\n{40:67}{80FB}{40:25}{u1C}{80FC}\ndidn{80F4}t{40:3E}{u03}go{40:3E}{u03}well{80E4}{40:3E}{u03}That{40:3E}{u03}is{40:3E}{u03}all{80E4}{40:77}{40:63}
+
+[0x4ba568]	here was a total failure Sorry
+   RAW: {80E4}{80E4}{80E4}{40:72}{u0C} here{80E4}\n{40:67}{80FB}{40:25}{u1C}{80FC}{40:3E}{u03}was\na total failure{80E4} Sorry{80E4}{80E4}{80E4}{40:77}{40:63}
+
+[0x4ba96f]	PfJbfIt was nice meeting you
+   RAW: P{u01}{u30}{u02}{s8C}{u02}{sFE}{u02}{u72}{u03}f{u03}{u2C}{u04}{s90}{u04}J{u04}{u24}{u05}{s9C}{u05}{u08}{u06}{u6A}{u06}b{u06}{u2E}{u07}{s98}{u07}{u02}{u08}{u6C}{u08}f{u08}{u34}{u09}{s98}{u09}{sF2}{u09}{u4C}{u0A}{sA6}{u0A}{u10}{u0B}{u7A}{u0B}{sFF}{sFF}It was nice meeting\nyou{80EC} {40:25}
+
+[0x4bcf9c]	s Go Independent Yesterday master announced that the judicial system would hereafter operate independently of the palaceThis establishes the judicial system as a truly neutral entity free from palace politics The decision was made with the queens approval
+   RAW: {80FB}{40:72}{u17}s Go Independent{80FC}\nYesterday{80EC} {40:72}{u17}master\n{40:72}{u06} announced that the\njudicial system would\nhereafter operate\nindependently of the\npalace{80E4}{40:70}{40:63}This establishes the\njudicial system as a\ntruly neutral entity{80EC}\nfree from palace politics{80E4}\nThe 
+
+[0x4bf2d0]	The Clan Of The Century Our heroes have once again saved the day by defeating the monstrous Peace at last Long live Clan Clan
+   RAW: {80FB}The Clan Of The Century{80FC}\nOur heroes have once again\nsaved the day by defeating\nthe monstrous {40:72}{u27}{80EB}\nPeace{80EC} at last{80EB}\nLong live Clan {40:3C}{u02}{40:25}{u03}{80EB}\nClan {40:25}{u03}{80EB}{40:61}{40:63}
+
+[0x4c00ee]	Unfair s s are supposed to be the justice of the land but rumors have surfaced that immunity from the law is for saleThe judges deny the claims but we hear that the Watch board has agents looking into the matter
+   RAW: {80FB}Unfair {40:72}{u17}s{80EA}{80FC}\n{40:72}{u17}s are supposed to be\nthe justice of the land{80EC}\nbut rumors have surfaced\nthat immunity from the\nlaw is for sale{80E4}{40:70}{40:63}The judges deny the\nclaims{80EC} but we hear that\nthe {40:72}{u17}Watch board has\nagents looking into the\nmatter{80
+
+[0x4c0876]	Ability Types Action Abilities Standard actions like Black Magic or Monk Tech Reaction Abilities Dodging or striking back when attackedSupport Abilities Enhancement abilities such as Double Sword Combo Abilities Abilities triggered when an ally uses a combo
+   RAW: {80FB}{80EB} Ability Types {80EB}{80FC}\nAction Abilities{80EE}\n{40:3E}{u0A}Standard actions{80EC} like\n{40:3E}{u0A}Black Magic or Monk Tech{80E4}\nReaction Abilities{80EE}\n{40:3E}{u0A}Dodging or striking back\n{40:3E}{u0A}when attacked{80E4}{40:70}{40:63}Support Abilities{80EE}\n{40:3E}{u0A}Enhancement
+
+[0x4c3002]	Skill Levels There are eight kinds of skill levels Combat LZfhb Rlhsghmf BqZes ooqZhrd FZsgdq MdfnshZsd SqZbj
+   RAW: {80FB}{80EB} Skill Levels {80EB}{80FC}\nThere are eight kinds of\nskill levels{80EE}\n{40:67}{u86} Combat      {40:67}{u87}{40:3E}{s80}L{s80}Z{s80}f{s80}h{s80}b\n{40:67}{s88} {s80}R{s80}l{s80}h{s80}s{s80}g{s80}h{s80}m{s80}f     {40:67}{s89}{40:3C}{u01}{s80}B{s80}q{s80}Z{s80}e{s80}s\n{40:67}{s8A} {s80}{sB
+
+[0x4c3518]	Link Attach a Game Boy Advance Game Link cable to link with others You can fight together trade items and even trade clan members
+   RAW: {80FB}{80EB} Link {80EB}{80FC}\nAttach a Game Boy{u81}{uE6}\nAdvance Game Link{u81}{uE6}\ncable to link with others{80E4}\nYou can fight together{80EC}\ntrade items{80EC} and even\ntrade clan members{80EB}{40:61}{40:63}
+
+[0x4c3ef0]	Trade good IDd
+   RAW: Trade good {80F6}{40:25}{u05}{80F6}\nID{80F4}d{80EE} {40:67}{u02} {40:25}{u06}{40:63}
+
+[0x4c407d]	Too manyte Chc
+   RAW: Too many{8009}{u44}{uD2}te{800F}{u48}{uDC}{80E4}\nCh{u88}{u21}{800D}{40:CE}{uB8}{u1B}{802F}{40:DD}{u90}{u35}{40:CD}{802D}{u42}{uDC}c{803B}{40:DB}{800B}{u44}{uE4}{40:61}{40:63}{u20}{u20}
+
+[0x4c4feb]	You caneep yToi rsEL
+   RAW: You can{8007}{u44}{uDC}ee{800F}{40:D1}{8007}{u42}{uD5}p{8019}{40:CF}{8021}{u42}{uDB}\n{u88}{u1F}{u41}y{8029}{40:D0}{8029}{40:D6}{u90}{u23}{40:CC}{803B}{40:D6}{800B}{u88}{u19}{u4A}{uCD}{80E4}{40:70}{40:63}To{804D}{u42}{uDF}i{8047}{u42}{uE0}{80EC}{u90}{u59}{40:D1}{8063}{40:D8}{u88}{u59}{8067}{40:CA}{uE
+
+[0x4c537d]	Save gsndetu hlcCheck laws pertaining to the current battle
+   RAW: Save g{8009}{40:D6}{u90}{u09}{u42}{uCA}s{800F}{40:D2}{u90}{u05}{u44}{uCA}nd{801D}{u46}{uDB}etu{8007}{u42}{uD7}\n{8009}{40:D8}{8031}{u42}{uDD}h{u90}{u39}{40:DD}{802B}{u42}{uDD}l{u90}{u45}{u42}{uDC}c{u90}{u2B}{40:CE}{8037}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Check laws pertaining to\nthe current battl
+
+[0x4c543d]	Move unitacksr eDetermine what action a unit will take
+   RAW: Move unit{80E4}{800B}{40:B0}{8007}{u48}{uDD}acks{801B}{u42}{uCF}r{8027}{u42}{uD6}\n{801F}{40:D1}{u90}{u2D}{u42}{uDB}e{801F}{40:DB}{8037}{40:D1}{u88}{u35}{803F}{40:D6}{8049}{8015}{8049}{40:D8}{802F}{40:DD}{801F}{40:D7}{804B}{u42}{WAIT}{40:63}{u20}{u28}{u18}Determine what action\na unit will take{80E4}{
+
+[0x4c569f]	All aieshombo kIneysP
+   RAW: All a{u88}{u07}{u45}ies{800D}{40:E0}{8009}{u42}{uDD}h{8017}{u4A}{uCC}ombo\n{8023}{40:CB}{8021}{u88}{u25}{40:DD}{uB0}{u29}{40:CA}{8027}{40:DD}{803D}{u42}{uCC}k{8045}{40:DD}{802D}{40:D0}{8043}{803B}{8049}{u4A}{uDB}{80E4}{40:70}{40:63}In{8057}{40:CF}{8001}{40:CE}{804F}{u88}{u3B}{u42}{uDF}e{uD0}{u65}{40:
+
+[0x4c5741]	Change utqpmt s joDisplay information about Clan
+   RAW: Change u{8009}{u42}{uD2}t{8009}{u42}{uCE}q{800D}{u44}{uD2}pm{800B}{u46}{uD7}t{80EC}\n{8029}{40:CB}{801F}{40:D5}{u88}{u23}{8027}{u42}{uCE}s{8015}{u44} jo{8017}{u98}{u0B}{40:CE}{8029}{u46}{uCC}{80E4}{40:61}{40:63}{u20}{u28}{u18}Display information about\nClan {40:25}{u03}{80E4}{40:61}{40:63}
+
+[0x4c57e9]	Use aaminko dlheDlouhtx
+   RAW: Use a{8003}{u44}{uB6}am{u90}{u0D}{u46}{uBB}ink{8017}{u42}{uDD}o{u90}{u05}{40:DB}{801B}{40:CD}{8029}\n{8023}{u42}{uD7}d{8031}{u42}{uD9}l{802F}{40:E2}{803B}{40:E0}{802D}{u42}{uDD}h{uA0}{u45}{40:CF}{802B}{u42}{uD2}e{u88}{u25}{u47}{80E4}{40:70}{40:63}D{u90}{u43}{40:E0}{8013}{u42}{uD5}l{u88}{u6B}{uA0}{u41
+
+[0x4c5971]	Load seean ruhtReturn to title screen Unsaved games are lost
+   RAW: Load s{8007}{u42}{uDF}e{u90}{u0B}{40:D0}{8013}{u42}{uD6}e{8015}{40:CD}{801D}{u42}{uDD}a{801F}{u42}{uCA}n{8027}{u42}\nr{8023}{u42}{uDC}u{uA0}{u1F}{u42}{uE0}h{8033}{8013}{8041}{40:E2}{804B}{40:DE}{8049}{40:D5}{8045}{u42}{uCF}t{8053}{40:D8}{8007}{u46}{uCF}{80E4}{40:61}{40:63}{u20}{u28}{u18}Return to tit
+
+[0x4c5c05]	Get tipsboud ed
+   RAW: Get tips{8009}{u46}{uCA}bou{uA0}{u15}{40:DB}{801F}{u42}{uD7}d{8019}\n{8021}{40:D7}{u90}{u29}{u42}{uD1}e{8031}{40:D5}{8029}{40:E0}{8039}{40:CC}{8031}{u42}{uDB}d{8043}{40:D6}{u90}{u09}{40:D4}{u88}{u51}{u45}{80E4}{40:61}{40:63}{u20}
+
+[0x4c5d0b]	You wtware gilT eDisplay list of captured monsters
+   RAW: You w{8007}{u44}{uD7}{80F4}t{800B}{40:D4}{8009}{u42}{uD8}w{u90}{u15}{u42}{uD1}a{u90}{u13}{u42}{uDD}r{8009}{u46}{uCD}e\ng{8033}{40:D8}{800B}{40:DC}{8037}{40:CA}{8017}{40:CE}{803F}{40:DE}{803D}{u44}{uDD}il{804B}{40:E2}{uA0}{u53}{40:CB}{8015}{u48}{uE2}{80EB}{40:70}{40:63}T{8049}{u88}{u27}{40:D6}{806F}{u
+
+[0x4c5ed9]	You cannlyture mrhyChdListen to rumors in the pub
+   RAW: You can{8007}{u46}{uD8}nly{uA0}{u11}{u48}{uD9}ture{uA0}{u19}{u44}{uCE}\nm{u90}{u23}{40:DC}{8019}{u42}{uCE}r{u90}{u31}{40:CF}{803F}{40:CE}{803F}{u42}{uCC}h{8049}{u42}{uDD}y{8037}{u48}{uCE}{80E4}{40:70}{40:63}C{uC0}{u45}{40:D2}{805B}{40:D0}{806B}{8069}{8075}{u42}{uDD}h{uA0}{u41}{805F}{8073}{u88}{u41}{4
+
+[0x4c5fb7]	Take onis t
+   RAW: Take on{8005}{40:CA}{8009}{u44}{uD6}is{8001}{40:D2}{u88}{u13}{u41}{80EC}{801B}{40:CF}{801D}{u42}{uDB}\n{802B}{u88}{u23}{40:D2}{8015}{u90}{u11}{8029}{u42}{uCA}t{u98}{u27}{u90}{u25}{40:CE}{8001}{u44}{uE4}{40:61}{40:63}{u20}
+
+[0x4c600b]	Cancel SedReturn to the world map
+   RAW: Cancel {u88}{u0B}{8005}{40:D8}{8011}{40:D0}{8005}{40:D2}{u88}{u07}{8015}{40:D6}{8009}{40:DC}{8001}{40:D2}{u90}{u19}{u44}{uE4}\nS{8023}{u42}{uD6}e{8031}{40:CC}{u90}{u3F}{40:D7}{8033}{40:DD}{803F}{40:CB}{uC0}{u13}{u90}{u53}{8001}{u42}{uCE}d{8033}{u42}{WAIT}{40:63}{u20}{u18}{u18}Return to the world map{
+
+[0x4c611d]	Change jobsllquipd sRemove unit from clan
+   RAW: Change jobs{80E4}{800B}{u44}{uB0}ll{8013}{u48}{uCE}quip{8001}{u44}{uCE}d\n{800B}{40:DD}{8015}{u42}{uD6}s{8031}{40:CB}{801F}{40:CC}{8035}{40:D6}{u90}{u3F}{40:DE}{8049}{uE0}{u2F}{804B}{u42}{WAIT}{40:63}{u20}{u18}{u18}Remove unit from clan{80E4}{40:61}{40:63}
+
+[0x4c63e9]	Display fn eYdnwhDisplay information about linked friends clan
+   RAW: Display {8007}{u88}{u0F}{40:DD}{8009}{u42}{uD8}f{800F}{40:D6}{u90}{u1F}{40:DC}{8025}{u44}{uD8}n\n{802D}{u42}{uDD}e{8015}{u48}{uDC}{80E4}{40:70}{40:63}Y{8027}{40:DE}{u90}{u27}{u98}{u3F}{40:CD}{u90}{u4F}{40:CC}{804D}{u42}{uDB}d{804F}{u44}{uDE}nw{805B}{40:D7}{u90}{u37}{40:CD}{uC8}{u41}{u90}{CLEAR}{40:D7
+
+[0x4c68e1]	Use allPoumn Dv ntfg
+   RAW: Use all{8007}{u42}{uB9}P{800D}{u42}{uDD}o{8013}{u44}{uDC}um{8001}{u42}{uD8}n{u90}{u13}{40:D1}{8029}\n{8005}{u88}{u15}{40:CA}{uA0}{u13}{40:D8}{802B}{40:CE}{u90}{u0F}{u4D}{uEC} {40:72}{u12}{80E4}{40:70}{40:63}D{8014}{u88}{u52}{40:DC}{u88}{u5A}{805E}{u88}{u30}{40:DC}{806A}{u42}{uD2}v{uA0}\n{u88}{u56}{u44
+
+[0x4c6983]	Use allPoumn bgdrcDvf
+   RAW: Use all{8007}{u42}{uB9}P{800D}{u42}{uDD}o{8013}{u44}{uDC}um{8001}{u42}{uD8}n{u90}{u13}{40:D1}{8029}{u42}\nb{802B}{u42}{uD7}g{8031}{40:CA}{u98}{u29}{802D}{40:CE}{8027}{u42}{uCA}{80EC}{8047}{u44}{uB0}dr{804D}{u88}{u37}{u88}{u53}{u42}{uCE}c{8037}{u46}{uE4}{40:70}{40:63}D{8027}{u88}{u67}{40:DC}{u88}{u6F}
+
+[0x4c6a39]	Use allPoumn nuiDfg
+   RAW: Use all{8007}{u42}{uB9}P{800D}{u42}{uDD}o{8013}{u44}{uDC}um{8001}{u42}{uD8}n{u90}{u13}{40:D1}{8029}{u44}\nnu{802F}{u88}{u15}{u88}{u07}{8029}{802D}{40:CE}{8027}{u42}{uCA}{80EC}{8047}{40:C4}{8047}{u42}{uDD}i{u90}{u0F}{u46}{uE4}{40:70}{40:63}D{801D}{u88}{u5D}{40:DC}{u88}{u65}{u90}{u39}{40:CA}{8073}{40:D
+
+[0x4c6ae3]	Use allPoumn vieraxDntfg
+   RAW: Use all{8007}{u42}{uB9}P{800D}{u42}{uDD}o{8013}{u44}{uDC}um{8001}{u42}{uD8}n{u90}{u13}{40:D1}{8029}{u4A}\nviera{u98}{u27}{802B}{40:CE}{8025}{u42}{uCA}{80EC}{8045}{u42}{uB4}x{802D}{40:CD}{8037}{u48}{uDC}{80E4}{40:70}{40:63}D{802B}{u88}{u5B}{40:DC}{u88}{CLEAR}{8067}{u88}{u29}{40:DC}{8073}{40:D2}{8047}{
+
+[0x4c6b8d]	Use allPoumn g Dvntf
+   RAW: Use all{8007}{u42}{uB9}P{800D}{u42}{uDD}o{8013}{u44}{uDC}um{8001}{u42}{uD8}n{u90}{u13}{40:D1}{8029}\n{u90}{u0F}{u42}{uD8}g{802F}{u88}{u37}{8029}{802D}{40:CE}{8027}{u4F}{uCA}{80EC} {40:72}{u16}{80E4}{40:70}{40:63}D{8014}{u88}{u54}{40:DC}{u88}{u5C}{8060}{u88}{u20}{40:DC}{806C}{u42}{uD2}v{uA0}{PAGE}{u88
+
+[0x4c6cc1]	Sell anduyts pchedoYou can find missions to take on here
+   RAW: Sell and{8007}{u44}{uCB}uy{800F}{u42}{uD2}t{801B}{u44}{uD6}s{80EC}{uB0}{u1D}{u42}\np{801D}{u44}{uDB}ch{802F}{u42}{uDC}e{8037}{40:DD}{800F}{u42}{uCA}d{u90}{u0B}{u42}{uD0}o{8001}{40:CD}{8033}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}You can find missions\nto take on here{80E4}{40:61}{40:63}
+
+[0x4c6dd1]	Trade lnd thiutCaptured monsters are kept in this facility
+   RAW: Trade l{8009}{40:E0}{8007}{40:CC}{8011}{40:DB}{8013}{40:DC}{8013}{u44}{uCA}nd{801B}{40:CB}{8027}{40:CE}{8029}{u46}{uD4}\nth{uD0}{u2F}{u42}{uE0}i{u90}{u13}{u44}{uD8}ut{8047}{40:D9}{8029}{40:D7}{8055}{40:D5}{8029}{u46}{uE2}{80EB}{40:61}{40:63}{u20}{u28}{u18}Captured monsters are\nkept in this facility{8
+
+[0x4c7213]	Converts HPameoP DstkfDoubles MP use for better damage and hit rate
+   RAW: Converts HP{8005}{u44}{uCD}am{8003}{u42}{uD0}e{8013}{u42}{uDD}o{8019}{u4A}{uBC}P{80E4}\n{80F7}D{8035}{u42}{uCE}s{8039}{u42}{uF4}t{8033}{40:E0}{8045}{u42}{uDB}k{803D}{u42}{uD2}f{u98}{u29}{u90}{u0B}{u88}{u4F}{u46}{uA6}{80F8}{40:61}{40:63}{u20}{u28}{u18}Doubles MP use for better\ndamage and hit rate{80E4
+
+[0x4c74e7]	Fulforce at DinGaze silences and inflicts darkness
+   RAW: Ful{8001}{u50}{uFE}force at{8001}{40:CA}{800D}{u46}{uD4}{80E4}\nD{8011}{40:D6}{8015}{u44}{uD0}in{8005}{40:EC}{8023}{40:CB}{8039}{40:DD}{802B}{u88}{u11}{u88}{u29}{40:CC}{8049}{40:DB}{u90}{u39}{40:CE}{8033}{u42}{WAIT}{40:63}{u20}{u28}{u18}Gaze silences and inflicts\ndarkness{80E4}{40:61}{40:63}
+
+[0x4c794f]	Revis KOdn hlPoDeoControls zombies and vampires
+   RAW: Revi{8003}{u4C}{uCE}s KO{80F4}d{8009}{u42}{uDE}n{8017}{u42}{uDD}{80EC}{8015}{40:CA}{800B}{u44}{uCD}\nh{802D}{u42}{uCA}l{u90}{u29}{u42}{uB7}P{802F}{u42}{uDD}o{8035}{40:D6}{8021}{u48}{uE1}{80E4}{40:70}{40:63}D{uC0}{u23}{40:CD}{8039}{u88}{u1B}{u42}{uD0}e{uB0}{u2B}{u42}{uE3}o{802F}{40:CB}{8073}{8071}{803
+
+[0x4c7ee3]	Use itemXpo HlsPDobPurifying light es status ailments
+   RAW: Use item{80EE}{800B}{u48}{uF6}X{80FE}po{8013}{40:D2}{8005}{u46}{uD7}{80F6}\nH{801F}{u44}{uCA}ls{802D}{u44}{uA7}{80AB}{80A6}{8035}{u4A}{uB7}P{80E4}{40:70}{40:63}D{uC0}{u1D}{40:CD}{8027}{40:D6}{802B}{40:D0}{u90}{u59}{u42}{uDD}o{805F}{40:E3}{804D}{u42}{uD6}b{8067}{40:CE}{8071}{u44}{uE4}{40:61}{40:63}{u2
+
+[0x4c7faf]	Use item HP DoSweeps monsters from the field of battle
+   RAW: Use item{80EE}{800B}{40:F6}{8009}{40:D5}{8011}{40:E1}{8015}{u46}{uDB}{80F6}\nH{801B}{40:CA}{8013}{40:DC}{8029}{u46}{uB7}P {u81}{u08}{8033}{40:BC}{u88}{u09}{8037}{40:D8}{803F}{40:D6}{801F}{u48}{uE1}{80E4}{40:70}{40:63}D{uC0}{u2D}{40:CD}{8037}{u88}{u1B}{40:D0}{u90}{u65}{u98}{u2B}{u42}{uE3}o{8069}{40:CB
+
+[0x4c87e7]	Crushes wponth fMPowerful slam Damages attacking unit as well
+   RAW: Crushes w{8007}{u46}{uCA}pon{uA0}{u0F}{u44}{uD2}th{8019}{u88}{u23}{40:CA}{802D}{u42}{uD9}\n{8011}{40:CE}{802F}{u98}{u17}{40:CA}{8029}{40:CD}{8039}{u88}{u33}{u88}{u3D}{u42}{uDB}f{8051}{40:D5}{804B}{40:D3}{8049}{40:E0}{805B}{u46}{uE4}{40:70}{40:63}M{u98}{u53}{u90}{u3B}{40:DB}{8069}{40:DD}{8067}{40:D4}{
+
+[0x4c8a9f]	Back sworduiveo DlSummons Kirin to gradually heal HP
+   RAW: Back sword{800B}{u48}{uDA}uive{800F}{40:DC}{801B}{u44}{uDD}o\n{8027}{40:DB}{8011}{40:CA}{800D}{40:CE}{802F}{u88}{u0B}{40:DC}{8031}{40:D7}{8041}{40:D7}{8043}{u48}{uCE}{80E4}{40:70}{40:63}D{8039}{40:DC}{8055}{u42}{uCB}l{u88}{u21}{u90}{u3D}{40:CA}{8057}{40:D0}{804D}{40:DD}{8023}{u42}{WAIT}{40:63}{u20}{u
+
+[0x4c8bbd]	Dames tnd ciSteals gil from enemy
+   RAW: Dam{8003}{u48}{uD0}es t{800F}{40:DB}{u90}{u0D}{40:DD}{800D}{u44}{uCA}nd{8015}{40:DC}{8017}{40:CE}{8029}{40:D5}{8023}{u42}\nc{u90}{u23}{u42}{uDB}i{8033}{u88}{u1D}{40:D0}{8009}{u46}{uD5}{80E4}{40:61}{40:63}{u20}{u18}{u18}Steals gil from enemy{80E4}{40:61}{40:63}
+
+[0x4c9187]	Heals aotfP DeobiSteals experience points from enemy
+   RAW: Heals a{8003}{u44}{uD5}ot{800B}{u42}{uD8}f{8011}{u48}{uB7}P{80E4}\nD{uC0}{u25}{40:CD}{802F}{40:D6}{8033}{u42}{uD0}e{8033}{u42}{uDD}o{8039}{40:E3}{8035}{u44}{uD6}bi{804D}{40:DC}{8031}{u42}{WAIT}{40:63}{u20}{u28}{u18}Steals experience points\nfrom enemy{80E4}{40:61}{40:63}
+
+[0x4c9231]	Fiendh prls meouImproves weapon attacks to deal more damage
+   RAW: Fiend{8007}{u48}{uDC}h pr{8011}{40:DC}{u90}{u15}{40:CC}{801B}{40:E4}{8013}{40:B3}{8023}{u46}{uCA}ls\n{8029}{u42}{uCA}m{800D}{u42}{uD0}e{802D}{40:CA}{u88}{u3B}{8035}{u42}{uCC}o{8045}{u42}{uCF}u{u90}{u39}{40:DC}{8035}{u42}{WAIT}{40:63}{u20}{u28}{u18}Improves weapon attacks\nto deal more damage{80E4}{40:
+
+[0x4c92f1]	Convies targ lfControls goblins and red caps
+   RAW: Convi{8005}{u4E}{uCC}es targ{800D}{40:DD}{u90}{u0D}{u44}{uD8}\nl{801B}{40:CA}{8027}{40:CE}{u90}{u1F}{40:D1}{u90}{u07}{40:CF}{8035}{40:CE}{8019}{40:CD}{8033}{u42}{uD8}f{8039}{40:CB}{8039}{40:DD}{803F}{u88}{u2D}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Controls goblins and\nred caps{80EB}{40:61}{40:63}
+
+[0x4c93d7]	Contrs ai jbsDamages and confuses target
+   RAW: Contr{8007}{u46}{uD5}s a{u90}{u0F}{u42}{uD5}i{u90}{u19}{uA8}{u11}{u44}{uCD}\nj{801B}{u42}{uE0}b{802B}{40:CE}{8025}{40:D4}{8005}{u48}{uDB}s{80E4}{40:61}{40:63}{u20}{u28}{u18}Damages and confuses\ntarget{80E4}{40:61}{40:63}
+
+[0x4c9ab1]	The rouleti Omcnqd
+   RAW: The roulet{8001}{u88}{u11}{40:CD}{800B}{u42}{uCC}i{u90}{u07}{40:DC}{8021}{40:E0}{8029}{u42}{uD8}\n{8011}{u88}{u0D}{u44}{uBA}O{80F4}{8023}{40:E4}{u90}{40:CF}{s80}{u3F}{40:D2}{s80}{u3B}{u42}m{s80}c{s80}{u4B}{u42}n{s80}q{s80}{u51}{40:CF}{s80}{u51}{u46}d{s80}{sEA}{40:61}{40:63}{u20}{u2A}{u18}
+
+[0x4c9cff]	Cal forthumo dendsCuts the amount of MP used for abilities by half
+   RAW: Cal{8001}{u4C}{uDC} forth{800B}{40:D2}{u88}{u15}{8013}{u44}{uD1}um{u90}{u17}{u88}{u21}{u46}{uDD}o\nd{8033}{40:D6}{8037}{u42}{uD0}e{8035}{u44}{uCA}nd{803D}{40:D9}{803D}{u42}{uD2}s{8043}{40:D7}{u90}{u29}{40:CA}{804B}{8021}{804F}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Cuts the amount of MP used\nfor abili
+
+[0x4c9dd1]	Ofr advicen RsrlSpecial mog knight lunge Can hit faraway enemies
+   RAW: Of{8001}{u50}{uCE}r advice{800D}{u42}{uD8}n{8013}{40:DD}{8015}{40:CC}{8005}{u88}{u15}{u46}{uDC}{80E4}\nR{8027}{40:D2}{800B}{u42}{uCE}s{8033}{u42}{uCC}r{8031}{u98}{u1F}{u42}{uCA}l{8045}{40:D1}{u88}{u0F}{804D}{40:DB}{804F}{40:DD}{8059}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Special mog knight lunge{80E4
+
+[0x4c9fd1]	Stops elfme TargncDamages and stops target
+   RAW: Stops {8009}{u42}{uD1}e{8007}{u42}{uCF}l{8013}{40:E0}{8011}{u42}{uD8}f{u90}{u17}{u50}{uD2}me{80E4}\nTarg{800D}{40:DD}{8031}{40:D2}{u90}{u37}{u42}{uDE}n{8015}{40:CB}{8035}{u88}{u3D}{804F}{804B}{u42}{uCA}c{8059}{u44}{uE4}{40:61}{40:63}{u20}{u18}{u18}Damages and stops target{80E4}{40:61}{40:63}
+
+[0x4ca283]	Med with rcgp
+   RAW: Med{8001}{40:D5}{8007}{u4A}{uDC} with{8009}{40:DD}{8009}{40:D6}{801D}{40:F4}{u90}{u17}{40:CF}{8021}{40:D8}{801D}{u44}{uEC}\nr{u90}{u33}{u42}{uDE}c{802B}{u42}{uD7}g{u90}{u2B}{40:CA}{8015}{40:D0}{804B}{40:DD}{uA0}{u2F}{u42}{uDC}p{8059}{u88}{u5B}{u44}{uE4}{40:61}{40:63}{u20}{u2A}{u18}
+
+[0x4ca6cf]	Reduc rian lyfkSends energy through body to revive KOd unit
+   RAW: Reduc{8007}{u44}{uDC} r{u88}{u07}{u41}i{8003}{u44}{uDD}an{u88}{u17}{u41}\n{800B}{40:D8}{801B}{u42}{uCE}l{802D}{40:D6}{8031}{40:D7}{801D}{u88}{u2D}{u42}{uCB}y{8033}{40:D8}{8027}{40:CE}{803B}{u88}{u1D}{40:DF}{u90}{u25}{u46}{uE4}{40:70}{40:63}{80FB}{8041}{40:CB}{804D}{u42}{uCB}{u81}{u03}{8049}{40:DE}{80
+
+[0x4ca9eb]	Det rad bynAttack capable of ending all life Dooms target
+   RAW: Det{8003}{40:CC}{8005}{u46}{uDC} ra{8003}{40:CE}{8009}{40:D2}{u90}{u17}{40:D6}{u90}{u15}{40:D1}{8025}{u48}{uD5}d\nby{8025}{u42}{uCE}n{u90}{u1B}{u88}{u0B}{40:DE}{800B}{u88}{u2B}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Attack capable of ending\nall life{80E4} Dooms target{80E4}{40:61}{40:63}
+
+[0x4cae21]	Angelic sh btowurDStorm Deals lightning damage to all enemies
+   RAW: Angelic s{8007}{u44}{uD0}h{80E4}{800B}{40:B7}{8017}{40:CA}{8019}{40:DC}{u90}{u0B}{40:BF}{801D}{40:CA}{802D}{u44}{uCD}\nb{8031}{u46}{uDC}tow{u90}{u1D}{u42}{uCA}u{u90}{u0D}{u42}{uFE}r{8031}{40:D2}{8045}{40:CE}{8041}{u44}{PAGE}{40:63}D{uC0}{u43}{40:CD}{804D}{40:D6}{8051}{806F}{8069}{803D}{806F}{40:E3}{8
+
+[0x4caf0b]	Hibernate y ssVhTurns target into a frog
+   RAW: Hibernate {8005}{40:D8}{8005}{40:DB}{8015}{40:D6}{8019}{u46}{uCD}y\ns{801B}{u88}{u1F}{u42}{uDE}s{8021}{40:CA}{8035}{40:D5}{u90}{u1D}{40:D7}{8033}{u48}{uDC}{80E4}{40:70}{40:63}V{801D}{40:D5}{8047}{u88}{u4D}{40:CA}{8055}{40:D5}{u90}{u4D}{u42}{uE0}h{u90}{u2D}{u88}{u59}{40:CA}{8047}{8015}{806F}{40:D9}{80
+
+[0x4cb06b]	Pois clawtes d Earth jutsu Damages and slows target
+   RAW: Pois{8005}{u4A}{uD7} claw{8009}{u42}{uCA}t{8001}{40:CA}{8011}{40:D4}{8017}{40:CD}{8015}{40:D6}{8019}{u46}{uD0}es\n{8023}{u42}{uD7}d{802F}{40:D9}{uB8}{u3D}{8017} {u90}{u31}{40:DB}{u90}{u25}{u46}{uDD}{80E4}{40:61}{40:63}{u20}{u28}{u18}Earth jutsu{80E4} Damages\nand slows target{80E4}{40:61}{40:63}
+
+[0x4cb29d]	Steals rgh ourPEvil touch Drains and absorbs HP from target
+   RAW: Steals {800B}{u44}{uCA}rg{8011}{u42}{uDD}{80F4}{u90}{u11}{40:DC}{801F}{40:DB}{8021}{40:D7}{8015}{u46}{uDD}h{80EC}\n{802D}{40:CD}{8001}{40:D2}{u88}{u13}{u90}{u33}{40:D8}{8039}{u46}{uE2}our{8043}{u48}{uB7}P{80E4}{40:61}{40:63}{u20}{u28}{u18}Evil touch{80E4} Drains and\nabsorbs HP from target{80E4}{40:61
+
+[0x4cb83d]	Shot tgha CsnyPrevents all MP and HP damage for one turn
+   RAW: Shot t{8009}{40:DB}{800B}{u44}{uDE}gh{uA0}{u0F}{40:CE}{8017}{8005}{u41}a{8019}{u46}{uDD}{80E4}\nC{802F}{u88}{u0D}{u42}{uD6}s{8033}{u42}{uCE}n{801D}{u42}{uD6}y{801B}{u42}{WAIT}{40:63}{u20}{u20}{u28}{u18}Prevents all MP and HP\ndamage for one turn{80E4}{40:61}{40:63}
+
+[0x4cb94f]	Use itemhpo HlsPDob
+   RAW: Use item{80EE}{800B}{u42}{uF6}h{800F}{u44}{uFE}po{8015}{40:D2}{8005}{u46}{uD7}{80F6}\nH{8021}{u44}{uCA}ls{802F}{u42}{uAB}{80A6}{8035}{u4A}{uB7}P{80E4}{40:70}{40:63}D{uC0}{u1B}{40:CD}{8025}{40:D6}{8029}{40:D0}{u90}{u59}{u42}{uDD}o{805F}{40:E3}{804B}{u42}{uD6}b{8067}{40:CE}{8071}{u44}{uE4}{40:61}{40:63
+
+[0x4cbd13]	Use itembandur lFelling blow delivered with style Earns more JP
+   RAW: Use item{80EE}{800B}{u48}{uF6}band{8005}{40:D0}{8015}{40:F6}{801F}{u44}{uB2}ur{8021}{u42}{uDC}\n{802B}{40:D6}{8029}{40:D8}{8025}{u42}{uD2}l{8039}{40:E3}{u90}{u41}{u90}{u31}{8049}{40:CD}{804B}{40:DC}{803F}{40:CB}{801B}{u46}{uCE}{80E4}{40:61}{40:63}{u20}{u28}{u18}Felling blow delivered\nwith style{80E4}
+
+[0x4cbf51]	Take turnmdly so
+   RAW: Take turn{8009}{u42}{uD2}m{8001}{u42}{uCE}d{8009}{40:CA}{8017}{u44}{uCE}ly{u90}{u17}{u44}{uCF}\ns{8019}{40:DF}{801D}{40:DB}{uB0}{u17}{u42}{uE0}o{803B}{40:D7}{802F}{u88}{u33}{u44}{uE4}{40:61}{40:63}{u20}{u2A}{u18}
+
+[0x4cc287]	Seals tgnn CfAggressive attack Low hit rate but very damaging
+   RAW: Seals t{8009}{u42}{uDB}g{8011}{40:DD}{800D}{u42}{uD2}n{8013}{40:DC}{8015}{u42}{uD8}n{8025}{u44}{uE4}\nC{802B}{40:DE}{8013}{40:CE}{u90}{u2F}{40:D9}{u88}{u29}{8031}{u42}{uD2}f{802D}{40:CC}{8047}{40:DD}{8035}{u88}{u2D}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Aggressive attack{80E4} Low hit\nrate{80EC} but 
+
+[0x4cc3d1]	Use itempho ROdDlobSteals weapon held by enemy
+   RAW: Use item{80EE}{800B}{u46}{uF6}pho{800F}{40:D7}{8017}{40:E1}{801D}{40:CD}{800D}{40:E0}{800D}{u44}{uF6}\nR{8027}{40:DF}{802F}{40:DF}{802F}{40:DC}{8039}{u46}{uBA}O{80F4}d{8043}{40:DE}{u90}{u2F}{u48}{uDD}{80E4}{40:70}{40:63}D{804F}{u42}{uCA}l{u90}{u23}{40:CD}{8009}{40:D6}{800D}{40:D0}{u90}{u6B}{u42}{uDD}
+
+[0x4cca6f]	Spews fireomh lControls floateyes and ahrimans
+   RAW: Spews fire{u90}{u09}{u44}{uDB}om{8013}{40:E0}{8013}{u42}{uDD}h{8019}{u42}{uD7}\n{8009}{40:D8}{8027}{40:CD}{8031}{u42}{uCA}l{uD0}{u31}{40:CD}{8011}{40:D6}{8015}{40:D0}{804D}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Controls floateyes and\nahrimans{80E4}{40:61}{40:63}
+
+[0x4ccb6f]	Randomly shiftsee ngSuns power Deals fire damage to all enemies
+   RAW: Randomly shifts{800D}{u42}{uDB}e{8011}{40:D2}{8015}{40:DD}{u90}{u29}{u44}{uCC}e\n{801B}{40:D8}{8029}{40:CE}{8031}{40:CE}{8037}{40:CE}{8041}{u98}{u2D}{u42}{uD2}n{8041}{u88}{u29}{u42}{uDB}g{8039}{u46}{uDD}{80E4}{40:61}{40:63}{u20}{u28}{u18}Sun{80F4}s power{80E4} Deals fire\ndamage to all enemies{80E4}{4
+
+[0x4ccc95]	Slows targepd Lobs a chunk of earth to damage and immobilize
+   RAW: Slows targe{8009}{40:E4}{800F}{40:C2}{8011}{u42}{uD8}p{u90}{u1B}{40:D1}{801B}{40:DC}{8021}{u44}{uCE}d\n{uD0}{u29}{40:DC}{802B}{u42}{WAIT}{40:63}{u20}{u28}{u18}Lobs a chunk of earth to\ndamage and immobilize{80E4}{40:61}{40:63}
+
+[0x4ccd91]	Atck e rgReduces damage from weapon attacks
+   RAW: At{8001}{u46}{uCA}ck {800B}{40:D8}{u90}{u05}{u42}{uD1}e{800D}{8005}{8019}{u44}{uCD}{80E4}\n{8027}{40:CD}{8009}{40:D5}{8011}{40:DC}{u90}{u27}{u44}{uCA}rg{801F}{40:DD}{801D}{u42}{WAIT}{40:63}{u20}{u28}{u18}Reduces damage from\nweapon attacks{80E4}{40:61}{40:63}
+
+[0x4ccecd]	Use itempo HlsPDobEmits a holy light to deal damage
+   RAW: Use item{80EE}{800B}{u44}{uF6}po{800F}{40:D2}{8005}{u46}{uD7}{80F6}\nH{801B}{u44}{uCA}ls{8029}{u42}{uA8}{80AB}{802F}{u4A}{uB7}P{80E4}{40:70}{40:63}D{uC0}{u1B}{40:CD}{8025}{40:D6}{8029}{40:D0}{u90}{u53}{u42}{uDD}o{8059}{40:E3}{804B}{u42}{uD6}b{8061}{40:CE}{806B}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}E
+
+[0x4cd12f]	Touch asentleis PRaises weapon def and magic res for one battle
+   RAW: Touch as{8005}{u4A}{uD0}entle{uB0}{u13}{40:CA}{801D}{u44}{uD4}is{8001}{u44}{uE4}\nP{8035}{u88}{u0D}{40:D8}{8029}{u88}{u33}{40:DD}{803B}{40:DB}{u90}{u39}{40:DD}{801F}{u42}{WAIT}{40:63}{u20}{u28}{u18}Raises weapon def{80E4} and\nmagic res{80E4} for one battle{80E4}{40:61}{40:63}
+
+[0x4cd445]	Increas de tyRaises weapon def and magic res for one turn
+   RAW: Increas{8005}{u44}{uDC} d{800B}{40:D6}{800F}{u44}{uD0}e\n{800D}{u88}{u1B}{u42}{uD5}t{8019}{u42}{uCB}y{801F}{u98}{u1B}{40:D2}{8037}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Raises weapon def{80E4} and\nmagic res{80E4} for one turn{80E4}{40:61}{40:63}
+
+[0x4cd70b]	Use itemrop Cusn
+   RAW: Use item{80EE}{800B}{40:F6}{8009}{40:E2}{u90}{u15}{u46}{uCD}rop{8023}{u46}{uF6}\nCu{800F}{u42}{uCE}s{u90}{u19}{40:CA}{801B}{u42}{uD4}n{u88}{u0F}{8043}{u44}{uE4}{40:61}{40:63}{u20}{u2A}{u18}
+
+[0x4cd811]	Ensures pdt tlrWood jutsu Damage and immobilize target
+   RAW: Ensures {8005}{40:DA}{800D}{u42}{uD2}p{8001}{u42}{uCE}d{8011}{u42}{uD2}t{801B}{40:D6}{u90}{u1D}{40:CA}{u88}{u27}{u41}\n{8033}{u42}{uD8}t{802D}{40:DC}{801B}{u42}{uD8}l{803B}{40:D7}{803B}{u42}{uD8}r{8041}{40:CD}{u88}{u49}{8033}{40:DB}{8023}{40:E2}{u88}{u43}{u45}{80E4}{40:61}{40:63}{u20}{u28}{u18}Wood j
+
+[0x4cd917]	Catch wh dkDodge bow and longbow attacks
+   RAW: Catch {8009}{40:DB}{8001}{u42}{uD8}w{800B}{u42}{uDC}h{8009}{40:DD}{u90}{u15}{u88}{u05}{40:E2}{8017}{u42}{uDE}\n{802D}{u42}{uD7}d{uB0}{u1F}{u98}{u21}{40:D2}{u90}{u27}{40:CB}{8049}{u48}{uCC}k{80E4}{40:61}{40:63}{u20}{u28}{u18}Dodge bow and longbow\nattacks{80E4}{40:61}{40:63}
+
+[0x4cd9ab]	Use itemhon Cul
+   RAW: Use item{80EE}{800B}{40:F6}{8009}{u44}{uCC}ho{8017}{40:DC}{8009}{40:DB}{8019}{u4A}{uCE}n{80F6}\nCu{u90}{u0F}{40:DC}{u90}{u1B}{u42}{uD2}l{u90}{u19}{40:CC}{803B}{u44}{uE4}{40:61}{40:63}{u20}{u2A}{u18}
+
+[0x4cdd77]	Fulon bh PsackControls lamias and liliths
+   RAW: Ful{8001}{u48}{uFE}on b{u98}{u0F}{8009}{40:DB}{8019}{u48}{uDC}h{80E4}\nP{uA0}{u0B}{u42}{uCE}s{8023}{u42}{uDD}a{801D}{40:D0}{800D}{40:DD}{u90}{u31}{u44}{uCA}ck{8027}{u42}{WAIT}{40:63}{u20}{u28}{u18}Controls lamias\nand liliths{80E4}{40:61}{40:63}
+
+[0x4cdf11]	Automac regs HPheReflects white red time and black magic
+   RAW: Automa{8007}{u42}{uD2}c{8007}{40:D5}{8001}{u48}{uE2} reg{8003}{40:D7}{8007}{40:DB}{u90}{u1F}{u48}{uCE}s\nHP{801D}{u42}{uE0}h{u88}{u1B}{8027}{40:E2}{803F}{40:DE}{802F}{40:DD}{8043}{u42}{uD4}e{8039}{40:CD}{804D}{u88}{u51}{u88}{u3D}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Reflects white{80EC} red{80EC} ti
+
+[0x4cdfd7]	Deals hye oifAbsorbs HP from target
+   RAW: Deals h{u90}{u0B}{u42}{uDF}y{800B}{40:CD}{8015}{40:D6}{8019}{u42}{uD0}e{8019}{40:E0}{u90}{u1B}{u44}{uD7}\no{800B}{40:D7}{802B}{u44}{uD5}if{u90}{u1B}{40:D2}{u90}{u3B}{40:DD}{803D}{40:DB}{u90}{u4B}{40:DD}{u88}{u29}{8055}{u46}{uCD}{80E4}{40:61}{40:63}{u20}{u18}{u18}Absorbs HP from target{80E4}{40:61}{40
+
+[0x4ce81b]	Breaks htith DeoPFaster than light Damages surrounding units
+   RAW: Breaks h{u90}{u0B}{u42}{uDB}t{800B}{u46}{uE0}ith{8015}{40:CF}{uA0}{u15}{u44}{uE4}\nD{u90}{u2D}{40:D5}{u90}{u2D}{40:CD}{8037}{40:D6}{803B}{u42}{uD0}e{803B}{u42}{uDD}o{8041}{u42}{uBC}P{8027}{u42}{WAIT}{40:63}{u20}{u28}{u18}Faster than light{80E4}\nDamages surrounding units{80E4}{40:61}{40:63}
+
+[0x4cec21]	Scoring flame dgetReduces the speed of surrounding units
+   RAW: Scor{8005}{u54}{uD1}ing flame{80E4}{800D}{40:B3}{8007}{40:CA}{8011}{u44}{uDC}\nd{u90}{u17}{u44}{uCA}ge{8027}{802F}{802D}{40:CA}{8031}{u42}{uDC}t{8043}{40:CA}{8041}{40:D0}{8047}{40:DD}{8043}{40:D5}{u90}{u4D}{u88}{u41}{u42}{WAIT}{40:63}{u20}{u28}{u18}Reduces the speed of\nsurrounding units{80E4}{40:61}{
+
+[0x4cee5f]	Morph intoela je Morph into bombs and grenades
+   RAW: Morph into{u90}{u09}{u42}{uCC}e{8011}{u44}{uCF}la{8015}{u48}{uDC}{80EC}\nje{800F}{40:D5}{8027}{40:CE}{u90}{u11} {u90}{u1B}{40:CD}{8039}{40:CC}{8043}{40:CE}{8029}{40:D6}{8029}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Morph into bombs and\ngrenades{80E4}{40:61}{40:63}
+
+[0x4ceefd]	Morph intohukes fy Morph into lamias and liliths
+   RAW: Morph into{8009}{u44}{uDD}hu{800D}{40:CD}{801B}{u4C}{uCA}kes{80EC}\nf{8023}{40:DB}{800D}{u42}{uE0}y{8035}{40:D6}{u90}{u15} {8021}{8029}{u90}{u3F}{40:CC}{8029}{uC8}{u33}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Morph into lamias\nand liliths{80E4}{40:61}{40:63}
+
+[0x4cef9d]	Morph into jbs
+   RAW: Morph into{8009}{40:CA}{u90}{u09}{40:D5}{8011}{40:D8}{8013}{40:DC}{uA0}{u11}{u44}{uCD}\nj{801B}{u42}{uE0}b{8033}{40:CE}{8025}{40:D4}{8005}{u48}{uDB}s{80E4}{40:61}{40:63}{u20}{u2A}{u18}
+
+[0x4cf0cb]	Skips judgennce lwSlash to damage and steal JP
+   RAW: Skips judge{80F4}{u90}{u0F}{40:DD}{800F}{u42}{uDB}n{8019}{u48}{uD8}nce\n{8013}{40:D8}{8029}{u42}{uCA}l{8001}{u42}{uD8}w{8035}{40:D5}{800D}{u88}{u07}{40:DF}{8047}{40:D8}{u90}{u0D}{40:DD}{u90}{u09}{u46}{uD7}{80E4}{40:61}{40:63}{u20}{u28}{u18}Slash to damage and\nsteal JP{80E4}{40:61}{40:63}
+
+[0x4cf16f]	Imbiles and tgGive own JP to a deserving friend
+   RAW: Im{8001}{u46}{uD8}bil{8003}{u4C}{uE3}es and{8007}{40:CD}{8017}{40:DC}{800D}{40:CB}{801D}{u88}{u19}{u42}\nt{801B}{u42}{uDB}g{8027}{40:DD}{8027}{40:CF}{803B}{40:DB}{u90}{u2F}{40:DB}{8015}{803B}{801F}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Give own JP to\na deserving friend{80E4}{40:61}{40:63}
+
+[0x4cf40f]	Use itemspo a
+   RAW: Use items{800B}{40:D5}{800D}{40:D4}{u90}{u15}{u44}{uF6}po{8019}{40:D2}{8005}{u46}{uD7}{80F6}\na{8007}{40:CD}{u90}{u19}{u88}{u09}{u88}{u19}{40:CD}{u90}{u21}{u42}{uCE}{80E4}{801F}{u42}{WAIT}{40:63}{u20}{u2A}{u18}
+
+[0x4cf553]	Beastmr cod CisHunter command Use your hunting skills to fight
+   RAW: Beastm{uA0}{u07}{u48}{uCE}r co{8011}{u88}{u13}{u48}{uD7}d{80E4}\nC{8011}{40:D7}{8027}{40:DB}{8019}{40:D5}{8021}{40:DF}{8037}{u42}{uDB}i{8027}{u42}{uDE}s{8031}{40:D6}{u90}{u1F}{uA0}{u41}{8051}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Hunter command{80E4} Use your\nhunting skills to fight{80E4}{40:61}{40:6
+
+[0x4cf853]	Templar codse dwBomb command Attack enemies with fire
+   RAW: Templar co{800F}{40:D6}{800D}{u44}{uD7}d{80E4}{8011}{u46}{uC4}se\n{801F}{u42}{uD2}d{8021}{u88}{u1B}{40:D0}{800B}{40:CC}{802D}{u90}{u25}{8035}{40:E2}{8035}{40:DE}{u90}{u3F}{u42}{uDC}w{8041}{40:DB}{u90}{u3B}{u42}{WAIT}{40:63}{u20}{u28}{u18}Bomb command{80E4} Attack\nenemies with fire{80E4}{40:61}{40:63}
+
+[0x4cf9b3]	Asn comndr fhtpJuggler command Attack with hoops and balls
+   RAW: As{8001}{40:CA}{u90}{u05}{u4A}{uD2}n com{8001}{u46}{uCA}nd{80E4}{8011}{40:B2}{8011}{40:DB}{800D}{u46}{uCE}r\nf{801F}{40:CE}{8027}{u98}{u2D}{40:CA}{8031}{40:DD}{8039}{u44}{uD0}ht{803D}{u42}{uDC}p{803F}{40:DD}{8037}{u42}{WAIT}{40:63}{u20}{u28}{u18}Juggler command{80E4} Attack\nwith hoops and balls{80E4}
+
+[0x4cfb3b]	Sumner c the
+   RAW: Sum{8001}{u4A}{uD8}ner c{800B}{u88}{u11}{40:CA}{8011}{u42}{uCD}{80E4}{8011}{uC0}{u23}{u41}\n{801F}{40:DB}{8029}{u42}{uCA}t{8039}{u88}{u09}{40:DC}{8033}{40:CF}{8013}{8035}{803D}{u44}{uDD}he{8045}{40:CE}{u98}{u09}{802B}{u44}{uE4}{40:61}{40:63}{u20}
+
+[0x4cfe01]	Sniper comtret fslGoblin command Hit foes with a powerful punch
+   RAW: Sniper com{8001}{40:CA}{8015}{u42}{uCD}{80E4}{8011}{u44}{uC2}tr{8021}{u42}{uD4}e{801F}{u46}{uCA}t\nf{8025}{u44}{uCE}{80F4}s{8031}{40:D0}{8039}{40:CA}{8021}{40:EC}{u90}{u0B}{u42}{uD2}l{u90}{u09}{u90}{u3F}{804F}{40:D5}{805B}{40:CF}{805B}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Goblin command{80E4} Hit fo
+
+[0x4cff9d]	Time godp thcfelFencer command Use quick lunging sword attacks
+   RAW: Time {8005}{u42}{uCA}g{u90}{u09}{u42}{uCC}o{8013}{u88}{u0F}{u44}{uD7}d{80E4}{801B}{40:C6}{801B}{u48}{uDB}p\nth{u90}{u2D}{40:CF}{802D}{40:CB}{8013}{u42}{uD2}c{803B}{u42}{uD8}f{8041}{40:DD}{uB0}{u4B}{40:D2}{8027}{u44}{uDC}el{8027}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Fencer command{80E4} Use quick{80E
+
+[0x4d0185]	Ninja comhth srThief command Steal with nimble hands
+   RAW: Ninja com{8001}{40:CA}{8011}{u42}{uCD}{80E4}{8011}{40:B5}{801D}{u44}{uD0}ht{801D}{40:E0}{8029}{u44}{uDD}h\n{8005}{40:CE}{802B}{u42}{uD1}s{8033}{u42}{uCF}r{u88}{u35}{803D}{u88}{u41}{40:CF}{8041}{40:DB}{801D}{u88}{u35}{40:D7}{8051}{40:D5}{uB0}{u4B}{u42}{WAIT}{40:63}{u20}{u28}{u18}Thief command{80E4} St
+
+[0x4d04df]	Alchemist ande tmfTonberry command Attack with a vengeance
+   RAW: Alchemist {800F}{40:D8}{800D}{u48}{uD6}and{80E4}{8011}{40:B2}{8021}{u88}{u0D}{u46}{uD0}e\nt{u88}{u2F}{8027}{40:CF}{8027}{u42}{uDB}m{8031}{u42}{uD8}f{8037}{u88}{u31}{40:DD}{801D}{40:CE}{8015}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Tonberry command{80E4} Attack\nwith a vengeance{80E4}{40:61}{40:63}
+
+[0x4d065f]	Biskmat cod gv pBiskmatar command Use ancient sword techs
+   RAW: Biskmat{8003}{u46}{uDB} co{800F}{u88}{u11}{u44}{uD7}d{80E4}{8011}{40:C4}{8023}{u42}{uCE}\n{800F}{u42}{uCE}g{u90}{u29}{u42}{uD2}v{8011}{u42} p{802B}{40:E0}{8015}{40:DB}{8019}{40:CD}{803B}{u88}{u47}{40:D0}{8053}{40:CC}{8037}{u42}{WAIT}{40:63}{u20}{u28}{u18}Biskmatar command{80E4} Use\nancient sword tech
+
+[0x4d071f]	Ligr comndld theLigrim command Magic shaped from desires
+   RAW: Li{80FE}gr{8007}{u48}{uD6} com{8001}{u46}{uCA}nd{80E4}{8011}{40:C6}{8021}{u4C}{uCE}ld\nthe{8025}{40:D9}{u98}{u2F}{8025}{40:D5}{8033}{40:E0}{8033}{40:DB}{u88}{u21}{8049}{40:D9}{803F}{40:E0}{802F}{40:DB}{803B}{u42}{WAIT}{40:63}{u20}{u28}{u18}Li{80FE}grim command{80E4} Magic\nshaped from desires{80E4}{40
+
+[0x4d09bf]	Grenade com suFirewyrm command Unleash the dragonblaze
+   RAW: Grenade com{8001}{40:CA}{8013}{u42}{uCD}{80E4}{8011}{40:B4}{801D}{40:DF}{8023}{40:D5}{8019}{u46}{uD9}\nsu{8033}{40:DB}{8027}{40:DE}{u90}{u23}{40:D2}{803D}{40:D0}{8039}{40:CA}{u90}{u49}{40:CA}{8043}{8011}{8049}{40:CF}{8019}{u88}{u5B}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Firewyrm command{80E4} Unleash
+
+[0x4d0bfb]	Masterby comnd AkiCoeurl command Lunge with sharp poison claws
+   RAW: Masterb{u90}{u05}{u4A}{uDB}y com{8001}{u4A}{uCA}nd{80E4}\nA{8025}{40:DD}{802D}{u42}{uCC}k{801F}{u42}{uE0}i{8035}{40:D1}{8029}{40:DE}{u90}{u17}{803F}{8035}{u88}{u2F}{40:D5}{8019}{40:CC}{804F}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Coeurl command{80E4} Lunge with\nsharp poison claws{80E4}{40:61}{40:63}
+
+[0x4d0cbf]	Big malborodpew Ahriman command Weaken foes with evil gaze
+   RAW: Big malboro{800F}{40:CC}{8009}{40:D6}{u90}{u15}{u44}{uD7}d{80E4}{8021}{u48}{uC2}pew\n{8007}{40:D8}{8035}{40:DC}{802B}{40:D7}{8039}{u90}{u21}{8041}{40:CE}{801D}{40:DB}{804D}{40:CE}{804D}{u88}{u1B}{40:DE}{u90}{u39}{40:DC}{803B}{u42}{WAIT}{40:63}{u20}{u28}{u18}Ahriman command{80E4} Weaken\nfoes with evil
+
+[0x4d1045]	Bang moun Her
+   RAW: Bang{8005}{u48}{uCA} mou{800F}{40:DD}{8015}{u42}{uD2}n{8011}{40:DD}{8011}{40:E0}{8021}{u44}{uE4}\nH{801D}{u42}{uD6}e{u98}{u15}{u90}{u1B}{40:D1}{u90}{u0D}{u42}{uD9}r{802D}{40:DC}{803B}{u88}{u27}{u42}{WAIT}{40:63}{u20}{u2A}{u18}
+
+[0x4d10f5]	Nu monheeatf kgcMoogle town with a large mercantile airship port
+   RAW: Nu mo{u90}{u07}{40:DD}{8007}{u44}{uE0}n{80E4}{8013}{u44}{uC3}he{801B}{u46}{uDC}eat{8025}{u46}{uD8}f\nk{801F}{u88}{u25}{40:D5}{8017}{u42}{uCD}g{u90}{u23}{40:CA}{8033}{40:CD}{u90}{u07}{u42}{uD5}c{u88}{u37}{8051}{40:E2}{8045}{u42}{WAIT}{40:63}{u20}{u28}{u18}Moogle town with a large\nmercantile airship po
+
+[0x4d1335]	Hot sandslnh rgevMuchtraveled pass with the occasional roadshop
+   RAW: Hot sands{800B}{u42}{uCB}l{8015}{40:E0}{8015}{u42}{uD2}n{801B}{u42}{uDD}h{8009}{u42}{uDC}\n{8017}{u46}{uCA}rge{802F}{u88}{u35}{40:CD}{u90}{u09}{40:CE}{8013}{u88}{u43}{u98}{u2D}{u42}{uB8}v{804B}{40:D5}{803B}{40:CC}{8027}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Much{80FE}traveled pass{80EC} with\nthe occa
+
+[0x4d16af]	The crpgfsn wA pt
+   RAW: The c{8007}{u44}{uD2}rp{8005}{u42}{uD7}g{8011}{u42}{uD8}f{8017}{40:CB}{u90}{u15}{u42}{uCD}s{u90}{u23}{u44}{uCA}n\n{8005}{u42}{uD5}w{800B}{40:E2}{u90}{u15}{40:CB}{u90}{u3F}{8045}{801D}{8029}{uA0}{u0B}{40:DB}{800F}{u46}{uE4}{40:70}{40:63}A{8033} {8039}{40:CB}{u88}{u3D}{8049}{40:D8}{805F}{40:CE}{u90}{u2
+
+[0x4d1a29]	These cavn midyLawless jagd A deserted town
+   RAW: These cav{u88}{u0D}{800B}{40:E0}{8015}{40:DB}{u90}{u15}{u42}{uD8}n{8019}{u46}{uCE}\nmi{800B}{u42}{uCE}d{802B}{40:CF}{8017}{40:DB}{8033}{40:DD}{u90}{u3F}{40:D2}{u90}{u0B}{u42}{uD6}y{u90}{u0F}{40:DB}{8027}{u46}{uD5}{80E4}{40:61}{40:63}{u20}{u28}{u18}Lawless {80F6}jagd{80E4}{80F6}\nA deserted town{80E4}{
+
+[0x4d1ccf]	Easily chnedmbo tRanged combo ability for hunters
+   RAW: Easily ch{800F}{u46}{uD2}ned{u90}{u0F}{u48}{uD8}mbo\n{8027}{40:CB}{u90}{u27}{u42}{uD2}t{u90}{u2B}{40:CF}{801B}{40:DB}{8033}{40:DB}{uA0}{u2B}{40:D6}{8049}{40:D0}{8037}{u46}{uDC}{80E4}{40:61}{40:63}{u20}{u28}{u18}Ranged combo ability\nfor hunters{80E4}{40:61}{40:63}
+
+[0x4d1fa7]	Easily chnedmbo tugLongrange combo ability for gunners
+   RAW: Easily ch{800F}{u46}{uD2}ned{u90}{u0F}{u48}{uD8}mbo\n{8027}{40:CB}{u90}{u27}{u42}{uD2}t{u90}{u2B}{40:CF}{801B}{40:DB}{8033}{u44}{uD3}ug{8001}{40:D5}{8033}{40:DB}{804B}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Long{80FE}range combo ability\nfor gunners{80E4}{40:61}{40:63}
+
+[0x4d2053]	Easily chnedmbo t Ranged combo ability for summoners
+   RAW: Easily ch{800F}{u46}{uD2}ned{u90}{u0F}{u48}{uD8}mbo\n{8027}{40:CB}{u90}{u27}{u42}{uD2}t{u90}{u2B}{40:CF}{801B}{40:DB}{8033}{40:CD}{802B}{40:CF}{802F}{40:D7}{u90}{u09}{40:DB}{804D}{u46}{uE4} {40:61}{40:63}{u20}{u28}{u18}Ranged combo ability\nfor summoners{80E4}{40:61}{40:63}
+
+[0x4d2319]	Easily chnedmbo tgFailproof combo ability for animists
+   RAW: Easily ch{800F}{u46}{uD2}ned{u90}{u0F}{u48}{uD8}mbo\n{8027}{40:CB}{u90}{u27}{u42}{uD2}t{u90}{u2B}{40:CF}{801B}{40:DB}{u90}{u07}{u42}{uD2}g{8037}{40:DD}{8033}{40:DB}{804B}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Failproof combo ability\nfor animists{80E4}{40:61}{40:63}
+
+[0x4d265b]	Very silhnmbo tkFailproof combo ability for dragoons
+   RAW: Very {8007}{u46}{uCA}sil{u90}{u0D}{u42}{uCC}h{800F}{u42}{uD2}n{801F}{40:CD}{u90}{u0F}{u48}{uD8}mbo\n{8027}{40:CB}{u90}{u27}{u42}{uD2}t{u90}{u39}{40:CF}{801B}{40:DB}{8041}{40:E0}{8033}{u88}{u13}{40:CE}{804D}{40:D6}{802F}{u42}{uD7}k{8051}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Failproof combo ability\nfo
+
+[0x4d2abb]	This swordeaut hS
+   RAW: This sword{800B}{u98}{u11}{u48}{uCB}eaut{8021}{40:CF}{8007}{40:D5}{8001}{u42}{uE2}\n{802F}{40:D7}{800B}{40:CA}{8037}{u88}{u2B}{40:E0}{803F}{u42}{uDD}h{u90}{u41}{40:D2}{8023}{40:DF}{8035}{u48}{uDB}{80E4}{40:70}{40:63}S{uA8}{u53}{u45}{80F1}{80A7}{80FE}{806B}{40:CA}{803B}{u44}{uCD}{40:61}{40:63}{u20}
+
+[0x4d2f59]	This swordaue ftSn
+   RAW: This sword{800B}{u42}{uE0}a{u90}{u13}{u42}{uCB}u{8011}{u42}{uD2}e{u90}{u15}{40:CF}{u88}{u1F}{u41}\n{8007}{40:CE}{801F}{40:DB}{8033}{u42}{uD8}f{8039}{u42}{uD2}t{u90}{u41}{40:D9}{803F}{40:E0}{802B}{u48}{uDB}{80E4}{40:70}{40:63}S{uA8}{u51}{u45}{80F1}{80A7}{80FE}{8069}{u42}{uCA}n{805F}{u42}{WAIT}{40:63}{
+
+[0x4d379b]	The roaols gnB
+   RAW: The {u88}{u05}{u43}ro{8009}{u4A}{uB6}aol{80F4}s{8017}{40:CB}{8017}{40:D5}{800F}{40:DF}{801F}{u42}{uCD}\n{8023}{u42}{uD2}g{8033}{u42}{uDD}{80FE}{8039}{u42}{uCA}n{8015}{u88}{u25}{40:D5}{8035}{40:CD}{8043}{u46}{uE4}{40:70}{40:63}B{uB0}{u0F}{u42}{uF1}{80A7}{uC0}{u29}{u42}{WAIT}{40:63}{u20}{uCD}{u2A}{u18}
+
+[0x4d3805]	The roaols ftnB
+   RAW: The {u88}{u05}{u43}ro{8009}{u4A}{uB6}aol{80F4}s{8017}{40:CB}{8017}{40:D5}{800F}{40:DF}{801F}{u42}{uCD}\n{8017}{u46}{uCE}ft{80FE}{8037}{u42}{uCA}n{8013}{u88}{u23}{40:D5}{8033}{40:CD}{8041}{u46}{uE4}{40:70}{40:63}B{uB0}{u0F}{u42}{uF1}{80A7}{uC0}{u29}{u42}{WAIT}{40:63}{u20}{CLEAR}{u2A}{u18}
+
+[0x4d3f47]	Only theuestfgs ma dH
+   RAW: Only the{u90}{u07}{u48}{uDB}uest{8015}{u42}{uD8}f{801B}{40:D4}{8025}{u42}{uD2}g{8021}{u48}{uDD}s\nma{u90}{u33}{40:E0}{8015}{40:CE}{803F}{40:CD}{uA0}{u3F}{40:D2}{801D} {8039}{40:E0}{8037}{u4A}{uDB}d{80E4}{40:70}{40:63}H{8045}{u98}{CLEAR}{40:BA}{uC8}{u47}{uB0}{u25}{u44}{uF1}{80A7}{80FE}{807D}{40:CA}{80
+
+[0x4d415b]	This legdarywot fvJgsH
+   RAW: This leg{8003}{u48}{uD7}dary{8013}{u44}{uDC}wo{800B}{40:CD}{u90}{u0B}{u88}{u21}{u46}{uD9}t\nf{u88}{u15}{8033}{40:E2}{8033}{u88}{u2B}{u42}{uDC}{80E4}{8041}{40:BD}{802B}{40:E0}{8049}{40:D2}{8023}{u88}{u4F}{u42}{uD2}v{8053}{801B}{u88}{u45}{40:70}{40:63}{s80}J{s80}{u5D}{40:D2}{s80}{u65}{u42}g{s80}sH{u5B}
+
+[0x4d4385]	This sword eyG lDm
+   RAW: This sword{800B}{u98}{u11}{40:CA}{uA0}{u17}{40:DD}{8015}{40:CA}{8025}{40:D0}{802B}{u42}{uDD}\n{8017}{40:D7}{u90}{u25}{u42}{uD1}e{8023}{u42}{uDF}y{uB0}{u2B}{8019}{u90}{u3D}{40:DB}{8049}{u88}{u09}{40:CB}{8043}{u48}{uDB}{80E4}{40:70}{40:63}G{805B}{u88}{u2F}{40:DD}{uB8}{u69}{u45}{80F1}{80A8}{80FE}{8081}{
+
+[0x4d453b]	Only masterword dhpGKO
+   RAW: Only master{800D}{u48}{uDC}word{8013}{40:D6}{8013}{40:D7}{uA0}{u21}{u42}{uE2}\n{8019}{40:D2}{8025}{u42}{uD5}d{8035}{u42}{uDD}h{800D}{40:DC}{803F}{40:E0}{8039}{u42}{uCA}p{8035}{u48}{uD7}{80E4}{40:70}{40:63}G{803F}{u88}{u13}{40:DD}{uC0}{u4D}{u44}{uF1}{80A8}{80FE}{8033}{40:CA}{8077}{40:CD}{804B}{40:FB}{
+
+[0x4d4665]	This swordat nIcelF
+   RAW: This sword{800B}{u42}{uE0}a{u90}{u13}{40:CA}{8017}{40:D0}{801F}{u44}{uCF}t\n{8005}{40:DB}{8021}{40:D6}{uA0}{u17}{u42}{uDC}n{802F}{40:E0}{8039}{40:CF}{802D}{40:D2}{8039}{u4C}{uE2}{80E4}{40:70}{40:63}Ice{8051}{40:B6}{804D}{40:CE}{8049}{40:DD}{uB8}{u5B}{u45}{80F1}{80A8}{80FE}{8073}{40:CA}{803D}{40:CD}{8
+
+[0x4d4afd]	This swordular eBn
+   RAW: This sword{800B}{u98}{u11}{40:D9}{800F}{u48}{uD9}ular{8021}{40:CF}{u88}{u1F}{u41}\n{802F}{40:DD}{u90}{u31}{40:D5}{8039}{40:D0}{803F}{40:DD}{803D}{u42}{uE0}e{uA8}{u0D}{u47}{80E4}{40:70}{40:63}B{804B}{40:D8}{8039}{40:CD}{uB8}{u59}{u45}{80F1}{80A8}{80FE}{8071}{u42}{uCA}n{8067}{u42}{WAIT}{40:63}{u20}{u6F
+
+[0x4d5523]	Sword thlan fsFehThrusting sword with a wavy bladeRapierhand
+   RAW: Sword {8009}{u44}{uD2}th{8009}{40:CA}{800D}{40:CB}{8015}{u42}{uD2}l{8001}{u44}{uD2}an{8019}{u44}{uEC}\nf{8023}{40:CE}{802F}{40:E2}{802F}{40:CC}{u90}{u21}{u42}{uD6}s{8041}{40:D7}{u90}{u31}{40:D5}{8029}{40:CD}{801F}{u46}{uE4}{40:70}{40:63}F{804F}{u42}{uDB}e{8059}{40:C1}{8041}{40:D9}{uA0}{u39}{u46}{uF1}
+
+[0x4d5697]	Sword madeoecl isnghW Sword named after the joy of victoryRapierhand
+   RAW: Sword made{8009}{u42}{uDD}o{800F}{u44}{uDB}ec{8013}{u42}{uD5}l{801D}{u42}{uCA}\n{8017}{u44}{uE0}is{801F}{u44}{uD2}ng{8033}{u42}{uE0}h{8011}{40:DB}{8023}{uB8}{u11}{u88}{u1B}{u48}{uCD}{80E4}{40:70}{40:63}W{u98}{u0D}{805D}{40:C1}{805D}{40:D9}{803D}{40:CE}{806D}{u44}{uF1}{80A7}{80FE}{8039}{40:CA}{u90}{u1
+
+[0x4d582b]	Sword madeosv nRh BSword with a Yshaped pommelRapierhand
+   RAW: Sword made{8009}{u42}{uDD}o{800F}{40:D9}{8017}{u42}{uCE}s{8003}{u42}{uDB}v{8017}\n{u90}{u0F}{40:CA}{8011}{u42}{uD8}n{802F}{40:D2}{u90}{u05}{40:CB}{8035}{40:DD}{8031}{40:D5}{802B}{u46}{uE4}{40:70}{40:63}R{8047}{40:D9}{801D}{u88}{u37}{u46}{uF1}{80A7}{80FE}h{8059}{40:D7}{8063}{u42}\n{80FB}{8007}{40:DE}{8
+
+[0x4d5ca9]	This njawordane uyK
+   RAW: This n{8007}{u44}{uD7}ja{800B}{u48}{uDC}word{8017}{u44}{uCC}an{801F}{u46}{uCB}e\nu{801B}{40:CE}{u90}{u17}{40:CF}{u88}{u21}{8037}{40:D6}{u88}{u1F}{u41}y{8041}{40:D9}{801D}{40:DB}{8005}{40:D8}{u90}{u23}{u48}{uDC}{80E4}{40:70}{40:63}K{803F}{40:DD}{u90}{u23}{u46}{uCA}{80F1}{80A7}{80FE}{8071}{u88}{u31}{u4
+
+[0x4d653b]	This staffucky RnL
+   RAW: This staff{800B}{40:E0}{8009}{uA8}{u13}{u46}{uDB}uck{8021}{u46}{uCB}y\nR{8025}{40:D6}{8013}{u42}{uD1}{80F4}{u90}{u37}{40:D5}{803F}{40:D0}{8045}{u42}{uDD}n{8049}{40:D7}{800B}{u46}{uE4}{40:70}{40:63}L{uE8}{u17}{8063}{40:C2}{uA8}{CLEAR}{u45}{80F1}{80A7}{80FE}{807B}{40:CA}{8035}{u44}{uCD}{40:61}{40:63}{u
+
+[0x4d6a1b]	This staffroc p gdSnd
+   RAW: This staff{800B}{u44}{uD9}ro{800F}{u42}{uCE}c{8015}{u88}{u1D}{40:DD}{8027}{u42}{uCE}\n{8025}{40:D5}{8015}{u42}{uCE}p{8031}{40:D8}{u90}{u2B}{u98}{u19}{u42} g{8031}{u4A}{uD8}d{80E4}{40:70}{40:63}S{uA8}{u4D}{u45}{80F1}{80A7}{80FE}{8065}{u48}{uCA}nd{40:61}{40:63}{u20}{uFE}{u2A}{u18}
+
+[0x4d715d]	Mace the owfngyd
+   RAW: Mace th{800B}{40:DD}{8009}{40:CC}{8013}{40:D7}{8011}{u42}{uCF}e{8001}{40:D5}{uA0}{u1B}{u42}{uCE}\n{8011}{u44}{uD5}ow{802D}{u42}{uD8}f{8033}{u42}{uCE}n{8023}{u4A}{uDB}gy{80E4}{40:70}{40:63}{uA8}{u4F}{u45}{80F1}{80A7}{80FE}{u90}{u51}{u46}{uD7}d{40:61}{40:63}{u20}{40:2A}{u18}
+
+[0x4d7a39]	Some chintegd tp bBl
+   RAW: Some {8005}{u48}{uCA}chin{8003}{u42}{uDC}t{8013}{u42}{uCD}e{8009}{u42}{uD2}g{8013}{u46}{uCE}d\nt{u90}{u21}{40:DC}{802F}{u88}{u29}{40:D0}{802F}{u42}{uFE}p{8043}{40:E0}{8029}{40:DB}{u90}{u23}{u42} b{u90}{u0F}{u46}{uE4}{40:70}{40:63}B{u90}{u1B}{u42}{uF1}{80A8}{8027}{40:D1}{8061}{40:D7}{u90}{u45}{40:AB}{
+
+[0x4d8331]	This tronger lGa
+   RAW: This {uA0}{u05}{40:CA}{8009}{u4E}{uDC}tronger{801B}{40:DF}{u88}{u07}{8017}{40:D2}{u88}{u15}{u41}\n{801B}{40:CF}{uA0}{u2B}{40:CC}{8027}{40:D6}{8001}{u88}{u17} {8009}{40:E2}{803B}{40:D1}{803D}{u42}{uD2}l{8053}{40:CB}{8045}{u48}{uE0}{80E4}{40:70}{40:63}G{8053}{u42}{uCE}a{805B}{u98}{u15}{u44}{uF1}{80A8}{
+
+[0x4d83c9]	This bowaoe eGr
+   RAW: This bow{8007}{u98}{u0D}{u42}{uDC}a{8017}{40:CD}{8017}{u42}{uDD}o{801D}{40:CC}{8027}{40:D8}{8021}{u44}{uDC}e\n{8013}{40:D1}{8007} {8031}{u42}{uD7}e{u90}{u3D}{40:E0}{u88}{u1F}{u90}{u07}{40:D2}{8011}{40:D5}{u90}{u39}{40:D2}{803B}{u48}{uE4}{40:70}{40:63}Gr{8027}{40:CA}{804B}{u90}{u65}{u45}{80F1}{80A8}{8
+
+[0x4d8461]	This gntowtrg coeGle
+   RAW: This g{8007}{u44}{uCA}nt{800B}{u44}{uCB}ow{8013}{u98}{u19}{u44}{uDC}tr{8011}{u44}{uD7}g\n{801B}{40:DE}{u90}{u23}{40:CD}{8037}{40:CF}{8001}{u42}{uD2}c{8011}{40:D5}{u90}{u37}{u42}{uDD}o{8049}{u88}{u13}{u4A}{uDB}e{80E4}{40:70}{40:63}G{u90}{u0B}{40:CA}{8043}{u90}{u55}{u45}{80F1}{80A8}{80FE}{8075}{u88}{u6
+
+[0x4d873d]	The breathfvaps cIdl
+   RAW: The breath{800D}{u42}{uD8}f{8013}{40:C2}{801B}{u44}{uD2}va{801F}{40:D4}{801D}{u46}{uCE}ps\n{u88}{u23}{8017}{40:DC}{8035}{u42}{uD2}c{u90}{u3D}{40:DC}{8019}{u88}{u3D}{40:DB}{u90}{u0B}{40:D1}{u88}{u09}{802B}{u46}{uE4}{40:70}{40:63}I{uA0}{u23}{40:C2}{uA8}{u23}{u45}{80F1}{80A7}{80FE}{u90}{u25}{u42}{uD7}d{
+
+[0x4d87d1]	Spear with erwn l
+   RAW: Spear with{8009}{40:CA}{800D}{40:D1}{u90}{u17}{40:CD}{8017}{40:DC}{8023}{40:D5}{u88}{u1B}{u41}\n{u90}{u07}{u42}{uD4}e{u88}{u23}{u41}r{8001}{u42}{uD8}w{8039}{40:CF}{u90}{u43}{803B}{804B}{40:DB}{802F}{u44}{uE4}{40:70}{40:63}{uB8}{u5B}{u45}{80F1}{80A7}{80FE}{8051}{u42}{uCA}n{8051}{u42}\n{80A8}{800D}{40:D
+
+[0x4d908f]	Many mtersel iIPo
+   RAW: Many m{8009}{u48}{uDC}ters{800F}{40:D1}{8019}{u42}{uDF}e{8019}{u42}{uD9}l{8025}{40:E2}{8019}{u42}{uCD}\n{8021}{u42}{uD1}i{u90}{u21}{801D}{802B}{u88}{u3B}{40:CF}{8021}{40:DE}{u90}{u3B}{u46}{uE4}{40:70}{40:63}I{8053}{u88}{u4B}{40:DB}{8015}{40:D6}{8051}{40:D7}{8057}{u44}{uF1}{80A7}{80FE}{u90}{u55}{40:D7
+
+[0x4d911d]	The clearingfs blHyDm
+   RAW: The clear{800B}{u46}{uDB}ing{u98}{u05}{801B}{u42}{uD8}f{8021}{40:DD}{8029}{u46}{uD2}s\nb{8029}{u42}{uD5}l{8035}{803B}{8033}{40:D5}{8015}{u98}{u1F}{u88}{u49}{40:DC}{802F}{40:DE}{804D}{u46}{uE4}{40:70}{40:63}H{803D}{u42}{uD5}y{8061}{40:B8}{8053}{40:DC}{8045}{40:DB}{801D}{40:D6}{806B}{40:D7}{8051}{u44}{
+
+[0x4d91bd]	This rpen stoIdbPm
+   RAW: This {8007}{u44}{uCA}rp{8009}{40:CC}{8009}{40:D7}{8011}{40:CD}{800F}{40:CA}{801D}{u88}{u0B}{u46}{uD6}en{80F4}{8029}{u44}\nst{8029}{u88}{u0F}{40:D0}{8009}{40:D1}{803B}{40:E0}{8043}{u98}{u09}{u88}{u07}{u88}{u4D}{u42}{uDC}o{u90}{u1F}{u46}{uE4}{40:70}{40:63}I{803B}{u98}{u35}{40:DE}{uA0}{u49}{u46}{uDD}{80
+
+[0x4d9261]	The mytilnsel gtofIu
+   RAW: The myt{800B}{u44}{uDB}il{800F}{u42}{uD2}n{8015}{u88}{u11}{u42}{uD2}s{801F}{u44}{uCB}el{8019}{u42}\ng{8021}{40:DF}{800D}{u88}{u15}{u42}{uD2}t{u98}{u05}{u90}{u23}{u44}{uDC}of{u90}{u11}{u88}{u45}{40:D7}{8029}{u46}{uE4}{40:70}{40:63}I{800B}{40:DC}{805D}{u42}{uDB}u{8067}{40:CE}{8019}{u46}{uDD}{80F1}{80A7
+
+[0x4d937f]	These casouik fDk
+   RAW: These ca{8009}{40:DD}{8005}{40:D7}{8013}{u42}{uDD}s{8013}{u44}{uDC}ou{800F}{40:CD}{801F}{u44}{uD5}ik{8029}\n{8023}{8035}{8031}{40:CF}{801D}{40:D8}{8031}{40:CF}{8039}{40:D5}{801F}{u88}{u31}{u42}{uD8}f{804B}{40:CD}{8055}{40:CA}{u90}{u27}{u46}{uE4}{40:70}{40:63}D{805B}{u42}{uDB}k{8065}{40:B8}{805D}{u88}
+
+[0x4d9477]	The sunsat trycF
+   RAW: The sun{80F4}s{800B}{8011}{u43}at{8015}{40:D2}{8013}{40:CF}{8019}{40:DC}{8011}{u44}{uDC}\nt{u90}{u1B}{800D}{8031}{40:CF}{801D}{u44}{uCE}ry{803D}{40:D4}{803B}{u42}{uDE}c{8007}{40:D5}{u90}{u1F}{u46}{uE4}{40:70}{40:63}F{803F}{40:DB}{u90}{u5D}{40:BA}{uE0}{u1F}{u44}{uF1}{80A7}{80FE}{8079}{40:CA}{8073}{u44
+
+[0x4d96ad]	These powfuln aigtdyK
+   RAW: These pow{800D}{u46}{uDB}ful{8011}{u42}{uD4}n{8009}{40:CC}{8007}{40:D5}{u88}{u25}{u43}\na{801D}{u88}{u2B}{u44}{uD5}ig{803B}{40:DD}{8037}{40:CA}{8025}{40:CD}{803F}{u42}{uDC}t{8037}{u4C}{uDB}dy{80E4}{40:70}{40:63}K{uD8}{u3F}{u45}{80F1}{80A7}{80FE}{8071}{u98}{u31}{u42}{WAIT}{40:63}{u20}{u2A}{u18}
+
+[0x4d9723]	These knucwt faroI
+   RAW: These knuc{8007}{40:D5}{u90}{u13}{40:F4}{8013}{u42}{uF6}w{8021}{u42}{uD2}t{8021}{u44}\nfa{8023}{40:D0}{802F}{40:F6}{802F}{u42}{uCB}r{8019}{800F}{803B}{u42}{uD0}o{8001}{40:CD}{8045}{40:D5}{uA0}{u43}{u46}{uE4}{40:70}{40:63}I{804F}{u88}{u5B}{40:BA}{uE0}{u5B}{u44}{uF1}{80A7}{80FE}{807B}{u88}{u4F}{u44}{uC
+
+[0x4d98a1]	Knuckles with aDkh
+   RAW: Knuckles with{8009}{40:CE}{8011}{40:DB}{800D}{40:CE}{8015}{40:DB}{801D}{u42}{uCD}\n{8029}{u42}{uD5}a{8023}{u48}{uDC}{80E4}{40:70}{40:63}D{800D}{u42}{uDB}k{8037}{uE0}{u49}{u47}{80F1}{80A7}{80FE}h{802D}{40:D7}{8039}{u42}{WAIT}{40:63}{u20}{uD0}{u2A}{u18}
+
+[0x4d99ef]	Knuckles soightw you
+   RAW: Knuckles so{8005}{u4A}{uD5}ightw{8017}{uA0}{u0B}{u47}\nyou{8025}{40:CF}{8007}{40:DB}{8021}{40:CE}{8015} {8025}{40:D1}{803D}{u42}{uE2}{80F4}{8013}{40:CE}{8043}{40:D8}{8055}{u44}{uE4}{40:70}{40:63}{uE8}{u5F}{u45}{80F1}{80A7}{80FE}{8057}{40:CA}{8077}{u44}{uCD}{40:61}{40:63}{u20}{u2A}{u18}
+
+[0x4d9ea9]	Ahrimankd soulo detsDk Mythril magically formed into a soulSoulhand
+   RAW: Ahrimank{8009}{u4E}{uD7}d soul{80E4}{800B}{u4A}{uC2}o \nde{8001}{u42}{uD9}{80EC}{801F}{u42}{uD2}t{u90}{u25}{u88}{u11}{u42}{uD6}s{8031}{40:CB}{8031}{40:DD}{8001}{40:D8}{804B}{40:D5}{8029}{40:DC}{8043}{u46}{uE4}{40:70}{40:63}D{805B}{u42}{uDB}k{u98}{u49}{u90}{u55}{u44}{uF1}{80A7}{80FE}{8079}{u88} {40:CD
+
+[0x4da01d]	This soullndr teS
+   RAW: This soul{8009}{40:D1}{8009}{u42}{uE0}l{u90}{u15}{u44}{uCA}nd{801D}{u42}{uD0}r{uB0}{u15}\n{8015}{u88}{u31}{40:DD}{u90}{u29}{40:DE}{801B}{40:D1}{803F}{u42}{uD2}t{8045}{u42}{uE0}e{8029}{40:CE}{u90}{u39}{40:D5}{8059}{40:DF}{800F}{u46}{uE4}{40:70}{40:63}S{u98}{u5F}{u45}{80F1}{80A7}{80FE}{8075}{u98}{u59}{
+
+[0x4da095]	This spleea yondG l
+   RAW: This s{8007}{u46}{uD6}ple{800D}{40:CF}{8015}{u44}{uDB}ea{8005}{40:D6}{801D}{u88}{u23}\n{u90}{u0F}{u42}{uDC}y{802D}{u42}{uDD}o{8033}{40:DE}{8035}{u88}{u2D}{u44}{uCA}nd{8043}{40:CC}{u88}{u3D}{u90}{u0D}{u46}{uE4}{40:70}{40:63}G{8021}{u46}{uD7}{80F1}{80A7}{80FE}{8067}{u98}{u25}{u42}\n{80AE}{800D}{40:D9}{u
+
+[0x4da11d]	This gunsepl rodtGle
+   RAW: This gun{8007}{u44}{uDE}se{u90}{u11}{u42}{uDC}p{8009}{40:CC}{801F}{u4A}{uCA}l{80EC}\nro{u88}{u25}{u41}d{8021}{40:CD}{8033}{40:CB}{8033}{40:D5}{801B}{u42}{uCE}t{8035}{u46}{uE4}{40:70}{40:63}G{u90}{u21}{u44}{uF1}{80A7}{80FE}{805B}{40:CA}{u88}{u2D}{8039}{40:AD}{800D}{40:D9}{u90}{u0D}{u42}{uCE}l{806D}{40
+
+[0x4da1a1]	This gunaongl fddG e
+   RAW: This gun{8007}{u42}{uD1}a{u90}{u0F}{40:CA}{8013}{u46}{uD5}ong{801D}{40:CB}{8015}{40:DB}{8001}{u46}{uCE}l\nf{8017}{40:DB}{u88}{u23}{u41}d{8001}{u42}{uCE}d{u90}{u0B}{40:CC}{8001}{40:DE}{8025}{u88}{u09}{u48}{uE2}{80E4}{40:70}{40:63}G{u88}{u55}{u45}{80F1}{80A7}{80FE}{u90}{u59}{40:D7}{802B}{u42}\n{80AE}{80
+
+[0x4da22d]	This longanp agetGudl
+   RAW: This long{8009}{40:DB}{8011}{40:CF}{800F}{40:CE}{8015}{u44}{uCC}an{801D}{40:CD}{8015}{u46}{uD8}p\na{802B}{40:DD}{8015}{u46}{uDB}get{8039}{40:D2}{u90}{u21}{40:DC}{800D}{40:CC}{u90}{u43}{40:CD}{800B}{u48}{uE4}{40:70}{40:63}Gu{8053}{u44}{uF1}{80A7}{80FE}{8067}{8049}{u41}d{8041}{40:AE}{800D}{40:D9}{u90}{
+
+[0x4da457]	This famoudo wkGle
+   RAW: This famou{u90}{u0D}{40:D0}{8007}{40:D7}{8015}{u98}{u1B}{40:DC}{801B}{u42}{uD2}d{8025}{u44}{uDD}o\n{8029}{u42}{uD5}w{802F}{40:E2}{u90}{u39}{u88}{u41}{40:DD}{u90}{u2B}{40:DD}{u90}{u49}{40:D6}{8049}{u4A}{uDB}k{80E4}{40:70}{40:63}G{u88}{u49}{u45}{80F1}{80A7}{80FE}{806B}{40:CA}{800B}{40:CD}{8041}{40:AE}{
+
+[0x4da4e3]	This gunased G le
+   RAW: This gun{8007}{u42}{uE0}a{u90}{u0F}{u46}{uDE}sed{8019}{40:D2}{u90}{u17}{40:CA}{801D}\n{u88}{u1B}{8017}{u98}{u05}{8017}{802B}{40:DD}{803F}{40:D8}{8009}{u46}{uE4}{40:70}{40:63}G{u88}{u45}{u45}{80F1}{80A7}{80FE}{8059}{8033}{8041}{u42}\n{80AF}{800D}{40:D9}{u90}{u0D}{u42}{uCE}l{806B}{40:DB}{u90}{u19}{u46}{
+
+[0x4da817]	This magld offurIwkLF
+   RAW: This mag{800B}{40:CC}{800B}{40:DC}{u90}{u15}{u44}{uCE}ld{8019}{u88}{u15}{40:DF}{800D}{u48}{uDC}\noff{802D}{40:CA}{8031}{40:DD}{u90}{u3B}{u42}{uD7}{80EC}{803D}{40:CC}{8019}{u98}{u2D}{u44}{uCA}ur{804B}{u46}{uE4}{40:70}{40:63}I{8019}{40:CE}{805D}{40:C2}{uD0}{u51}{u42}{uF7}w{805D}{u46}{uCA}k{80EE}L{807F}
+
+[0x4dac03]	This sldfuck waftrS
+   RAW: This s{u90}{u09}{u44}{uCE}ld{800D}{u42}{uD8}f{8013}{40:D0}{8007}{40:D8}{u90}{u0F}{u4C}{uD5}uck\nwa{u90}{u2F}{40:CA}{u90}{u1F}{u44}{uD2}ft{803D}{u42}{uCF}r{8033}{40:D6}{8047}{40:DD}{8051}{40:CE}{uA0}{u3B}{40:CD}{8055}{u46}{uE4}{40:70}{40:63}S{uC0}{u5D}{u42}{WAIT}{40:63}{u20}{u2A}{u18}
+
+[0x4dadd3]	This lmadeo covH
+   RAW: This {8007}{u44}{uCE}lm{8005}{40:DD}{800D}{u98}{u13}{u46}{uD6}ade{801D}{u4A}{uDD}o\ncov{8027}{40:DB}{u90}{u11}{8031}{8037}{40:E0}{8041}{40:D8}{8039}{u88}{u25}{40:CF}{802F}{40:CC}{8047}{u46}{uE4}{40:70}{40:63}H{uC0}{u51}{u42}{WAIT}{40:63}{u20}{u2A}{u18}
+
+[0x4dae35]	This lmr bu aH
+   RAW: This {8007}{u44}{uCE}lm{8005}{40:DD}{800D}{u98}{u13}{u42}{uD9}r{801D}{40:CC}{8019}{u46}{uE2}\nbu{u90}{u1B}{40:DF}{8029}{40:DB}{8011} {801D}{u88}{u33}{u42}{uD2}a{801B}{40:D5}{803F}{u46}{uE4}{40:70}{40:63}H{uC0}{u49}{u42}{WAIT}{40:63}{u20}{u2A}{u18}
+
+[0x4daf01]	Helm withargemson pdFrightful helm in the shape of a demonHelmet
+   RAW: Helm with{8009}{40:CA}{800D}{u48}{uD5}arge{8019}{40:CC}{8009}{u4C}{uD2}mson\np{8031}{40:DE}{800F}{u42}{uCE}{80E4}{8037}{40:C4}{8017}{u42}{uCE}d{8041}{40:D2}{801D}{u88}{u2D}{40:CE}{8039}{40:CE}{802F}{802D}{8053}{40:CE}{8037}{u44}{uE4}{40:70}{40:63}{uA8}{u6B}{8071}{u44}{uDD}{40:61}{40:63}{u20}{u28}{u18
+
+[0x4db1ff]	This womenn fllR ASturdy cap with a long featherHat
+   RAW: This women{80F4}{u90}{u0F}{40:DB}{8017}{40:CB}{8001}{u42}{uD8}n{u90}{u1D}{40:CA}{8011}{40:CD}{8029}\n{8027}{u42}{uCF}f{8031}{u44}{uCA}ll{u90}{u07}{40:D2}{8009}{u98}{u3B}{u48}{uDD}{80E4}{40:70}{40:63}R{uC0}{u3D}{u42}\n{80FB}{8055}{40:DE}{u88}{u2D}{u43}{80FC}A{uA0}{u35}{40:DC}{802B}{40:CA}{802F}{40:DE}{
+
+[0x4db341]	This tenoose wplH
+   RAW: This {8007}{u42}{uCA}t{8007}{u98}{u0D}{40:D0}{8015}{u44}{uDF}en{8019}{u42}{uDD}o{u90}{u05}{u4A}{uD1}ose\nw{8033}{800F}{8035}{40:CA}{8039}{u42}{uDC}p{8029}{40:CC}{8047}{u42}{uCA}l{8049}{40:D6}{u88}{u51}{8029}{40:D2}{802F}{u48}{uD7}{80E4}{40:70}{40:63}H{u90}{u5D}{u42}{WAIT}{40:63}{u20}{u2A}{u18}
+
+[0x4db3af]	This adbdvo focuH
+   RAW: This {8007}{u46}{uCE}adb{8005}{u42}{uD7}d{8011}{40:DC}{8011}{u42}{uDB}v{8017}{u88}{u1F}{u4C}{uDD}o\nfocu{uA0}{u11}{8033}{u90}{u27}{40:D9}{8043}{40:DB}{8047}{u48}{uDD}{80E4}{40:70}{40:63}H{8049}{u44}{uDD}{40:61}{40:63}{u20}{u2A}{u18}
+
+[0x4db40d]	This potedap cdH
+   RAW: This po{8009}{u46}{uD7}ted{800F}{u44}{uCC}ap{8017}{u98}{u1D}{u44}{uCA} \n{8013}{40:D5}{8015}{40:DC}{8001}{u42}{uD2}c{8033}{40:E0}{803B}{40:E3}{8027}{u44}{uDB}d{80F4}{u90}{u45}{40:D1}{8035}{u48}{uDD}{80E4}{40:70}{40:63}H{u88}{u0B}{u43}{40:61}{40:63}{u20}{u90}{u2A}{u18}
+
+[0x4db921]	This armoreth lgA
+   RAW: This armor{800B}{u98}{u11}{u44}{uDC}et{8019}{40:E0}{8021}{u44}{uDD}h\n{8011}{40:D9}{u90}{u27}{u42}{uD4}l{8035}{u42}{uD7}g{8037}{40:CD}{803F}{40:CA}{u90}{u39}{40:D7}{800B}{u48}{uDC}{80E4}{40:70}{40:63}A{uB0}{u4D}{u42}{WAIT}{40:63}{u20}{u2A}{u18}
+
+[0x4dbbb5]	This armorest KnA
+   RAW: This armor{800B}{u42}{uCB}e{u90}{u0F}{u88}{u17}{40:DD}{8021}{40:CE}{801F}{40:CC}{801F}{u46}{uCE}st\n{8025}{40:CF}{8031}{40:F6}{u90}{u3D}{u88}{u1B}{40:BB}{803D}{u88}{u19}{u44} Kn{804F}{40:D0}{8055}{u4A}{uDD}{80E4}{80F6}{40:70}{40:63}A{uB0}{u59}{u42}{WAIT}{40:63}{u20}{u2A}{u18}
+
+[0x4dc011]	These blutav dEng
+   RAW: These blu{u90}{u09}{40:CC}{8009}{u42}{uD8}t{u98}{u1B}{8019}{u44}{uD1}av{8023}\n{8023}{40:CE}{802F}{40:D7}{uA0}{u2D}{u88}{u39}{803B}{u41}d{u90}{u3D}{40:E2}{8043}{u90}{u33}{804B}{40:CE}{8031}{40:DB}{u90}{u41}{u46}{uE4}{40:70}{40:63}E{uA8}{u0F}{8067}{40:B2}{uB0}{u5D}{u44}{uD2}ng{8055}{40:FB}{805F}{40:CB
+
+[0x4dc275]	These clotmr aynHg
+   RAW: These clot{u98}{u11}{800F}{40:DC}{801B}{u42}{uD2}m{8001}{u44}{uCE}r\n{8009}{40:E2}{8029}{40:DD}{8013}{u42}{uCC}a{802B}{u42}{uD5}y{8035}{u42}{uD2}n{803B}{u90}{u35}{8043}{40:D5}{8031}{40:D0}{8053}{u48}{uDD}{80E4}{40:70}{40:63}H{8051}{u98}{u27}{40:B2}{uB0}{u5D}{8031}{u45}g{40:61}{40:63}{u20}{802A}{u18}
+
+[0x4dc43b]	The latestromm dgnB C
+   RAW: The latest{800D}{u46}{uCF}rom{u90}{u09}{u42}{uCA}m{8017}{u44}{uCD}\nd{u90}{u1F}{u44}{uD2}gn{8029}{40:DB}{8035}{u42}{uF6}B{8029}{40:D2}{800F}{u4C}{uDD}{80E4}{80F6} {40:70}{40:63}C{804D}{40:D8}{804D}{40:D1}{u90}{u19}{u44}{uD0}{40:61}{40:63}{u20}{u2A}{u18}
+
+[0x4dc76b]	This robeldn feF a
+   RAW: This robe{8009}{40:E0}{8009}{u44}{uDE}ld{8015}{40:D7}{8015}{40:DD}{801D}{40:CB}{8011}{u44}{uDB}n\n{802D}{40:D7}{802D}{40:DD}{8037}{u88}{u2B}{40:D6}{803D}{40:CD}{8001}{40:D5}{u90}{u39}{u42}{uD8}f{8049}{40:CA}{804D}{40:CF}{8055}{u4A}{uDB}e{80E4}{40:70}{40:63}F{u98}{u0D}{8065}{40:C1}{uA0}{u65}{u44}\n{80F
+
+[0x4dc7f3]	This robeu oerL R s
+   RAW: This robe{8009}{u42}{uDD}u{800D}{40:D7}{u90}{u15}{40:D5}{801D}{40:D0}{8023}{40:DD}{800F}{40:D2}{8013}{u42}{uD0}\n{u90}{u07}{u42}{uDD}o{8033}{40:D9}{8033}{u44}{uE0}er{803F}{40:CF}{803F}{u88}{u07}{40:D2}{803F}{u88}{u4F}{u88}{u17}{40:CA}{8055}{801D}{u47}{80E4}{40:70}{40:63}L{uF0}{u4B}{u42} R{uA0}{u75}{u
+
+[0x4dca0b]	This beauto pvxR
+   RAW: This beaut{800F}{40:CF}{8007}{40:D5}{8013}{u42}{uDB}o{u88}{u17}{u43}\np{800B}{u42}{uCE}v{8023}{40:D7}{8021}{u88}{u2F}{u42}{uCE}x{803B}{u88}{u31}{40:DC}{u90}{u33}{40:D8}{8019}{u46}{uE4}{40:70}{40:63}R{uA0}{u35}{u42}{WAIT}{40:63}{u20}{40:2A}{u18}
+
+[0x4dcac1]	This coatyst lveryRe
+   RAW: This coat{8009}{40:D1}{8007}{u88}{u11}{40:CA}{8015}{u46}{uD6}yst{8023}{40:CC}{801D}{u42}{uD5}\n{800D}{u4A}{uD2}lvery{8037}{40:DC}{u90}{u41}{40:D6}{8029}{u88}{u11}{u46}{uE4}{40:70}{40:63}R{804B}{u46}{uCB}e{40:61}{40:63}{u20}{u2A}{u18}
+
+[0x4dd279]	These colfults biA
+   RAW: These col{8003}{u46}{uDB}ful{8011}{40:CA}{800B}{40:D6}{8013}{u44}{uCE}ts{uA0}{u0F}{u44}{uCE}\nb{8033}{40:CA}{8023}{u42}{uDD}i{u98}{u2B}{8037}{40:E2}{u90}{u2F}{40:CD}{u90}{u3F}{40:D7}{8053}{u48}{uCD}{80E4}{40:70}{40:63}A{uD0}{u43}{u42}{WAIT}{40:63}{u20}{u2A}{u18}
+
+[0x4dd36b]	Armlets defni bodcksRing set with a stone of powerAccessory nullSleepDoom
+   RAW: Armlets {800B}{u44}{uCA}de{8009}{u42}{uD8}f{800F}{u44}{uCA}ni{u90}{u15}{u44}{uD5}\nb{8015}{40:D7}{u90}{u1D}{u42}{uDD}o{802D}{40:E0}{802D}{u42}{uDB}d{u98}{u2D}{uA0}{u2F}{40:DD}{8049}{u4C}{uCA}cks{80E4}{40:70}{40:63}{uE0}{CLEAR}{u42}{WAIT}{40:63}{u20}{u28}{u18}Ring set with a stone\nof power{80E4}{40:70
+
+[0x4dd789]	The legdsay oulfAc PfyFCDkRLRtMagical brew that heals wounded flesh
+   RAW: The leg{8003}{u44}{uD7}ds{800F}{u44}{uDC}ay{8017}{40:DD}{801F}{40:D2}{u90}{u11}{u88}{u05}\n{u90}{u0F}{u88}{u2F}{u46}{uDC}oul{8039}{u42}{uD8}f{803F}{40:BC}{8025}{u88}{u3B}{u4A}{uDE}{80E4}{40:70}{40:63}Ac{8001}{40:CE}{8047}{u88}{u29}{40:DB}{804B}{u42}\n{80FB}{805D}{8033}{806B}{u42}{uFC}P{806F}{40:DD}{80
+
+[0x4dd907]	The mosten avlThis draught restores lost magical power
+   RAW: The most{8009}{40:D9}{8009}{u44}{uDD}en{uC0}{u0D}{40:D2}{801D}{u46}{uD7}\nav{8003}{u42}{uD2}l{8009}{40:CB}{8005}{u46}{uCE}{80E4}{40:61}{40:63}{u20}{u28}{u18}This draught restores\nlost magical power{80E4}{40:61}{40:63}
+
+[0x4dd9a7]	This fabulorgh nd
+   RAW: This fabulo{8005}{u88}{u11}{u42}{uCD}r{8013}{u42}{uDE}g{8023}{40:DD}{8021}{40:CB}{8019}{u44}{uDD}h\n{8033}{40:CE}{802D}{40:D5}{u90}{u37}{u44}{uCA}nd{803F}{40:DB}{8013}{40:DC}{801F}{40:D8}{u98}{u09}{8051}{40:D6}{8051}{40:D0}{805D}{u46}{uCC}{80E4}{40:61}{40:63}{u20}{u2A}{u18}
+
+[0x4dda13]	This potn tf
+   RAW: This pot{800B}{u42}{uD8}n{800D}{u98}{u13}{40:CA}{u90}{u0B}{8005}{u90}{u19}{40:CD}{u90}{u21}{u42}{uCE}\n{8027}{40:D8}{8031}{40:D6}{8031}{u42}{uDC}t{803B}{40:CF}{803B}{40:DB}{800F}{u88}{u47}{u42}{uD8}f{uA0}{u4D}{8057}{u88}{u4D}{u45}{80E4}{40:61}{40:63}{u20}{802A}{u18}
+
+[0x4de21b]	Yelwish j AbhgaBloodfeeding monster Turns prey into undead
+   RAW: Yel{8001}{u4C}{uD8}wish j{uA0}{u13}{40:E2}{800B}{40:D6}{8019}{40:D7}{8017}{40:DD}{8027}{u48}{uDB}{80E4}\nAb{8027}{40:D8}{800D}{8007}{802D}{40:D5}{8037}{u42}{uD0}h{8021}{40:D7}{8041}{u42}{uD7}g{8041}{u42}{uCD}a{8039}{40:CA}{8017}{40:CE}{8033}{u42}{WAIT}{40:63}{u20}{u28}{u18}Blood{80FE}feeding monster{
+
+[0x4de34d]	DEFBang elit TrdorJuGDTGadgeteers who carry tricks in Pandora boxesJob requirements Thief Aability x
+   RAW: {80FB}DEF{80FC}Bang{8005}{u4A}{uCA} elit{8007}{u48}{uDC}{80E4}\nTr{801F}{40:D2}{8021}{u42}{uCE}d{801F}{u44}{uCF}or{8027}{40:CD}{8029}{40:CF}{802D}{40:D7}{8027}{40:CE}{8029}{u44}{PAGE}{40:63}J{801B}{40:CB}{8043}{40:DB}{8045}{u42}{uDA}u{8047}{u88}{u09}{40:D6}{u90}{u25}{40:DD}{804F}{40:EE}{804F}{40:C6}{
+
+[0x4ded2f]	SLDMasters h owndepDark magic animates these walking corpses
+   RAW: {80FB}SLD{80FC}Masters {u90}{u09}{u42}{uCC}h{uA0}{u0B}{u44}{uD8} \n{801F}{u44}{uD5}ow{801D}{u44}{uCA}nd{8025}{40:CD}{8035}{40:D6}{8039}{u42}{uD0}e{8033}{u42}{uD8}p{8001}{40:D8}{801B}{40:CE}{801F}{40:DD}{804F}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Dark magic animates these\nwalking corpses{80E4}{40:61}
+
+[0x4dee41]	FGTMasters ef mywdJANMMoogle that borrows strength from animals
+   RAW: {80FB}FGT{80FC}Masters {8009}{u42}{uD1}e{8007}{40:DE}{8015}{u88}{u07}{u46}{uD8}f\nm{8025}{u42}{uD7}y{801F}{u42}{uDC}w{8013}{u42}{uDB}d{u90}{u2D}{40:CF}{u88}{u0B}{u98}{u25}{800B}{40:CE}{8023}{8035}{u47}{80E4}{40:70}{40:63}J{803B}{40:CB}{8051}{40:DB}{805B}{40:DA}{804F}{40:D2}{u90}{u09}{40:D6}{u90}{u25}
+
+[0x4df3f5]	BISUses hling dfeJuyWARBangaa fighter that uses handed weapons
+   RAW: {80FB}BIS{80FC}Uses h{8007}{u4A}{uCA}ling{80EC}{8011}{40:CA}{800B}{40:CD}{uB0}{u0F}\n{801D}{u42}{uD7}d{8029}{u42}{uD8}f{8001}{40:CE}{8027}{40:DC}{802D}{u42}{uDF}e{803D}{40:D6}{803B}{40:D0}{803B}{u48}{uCC}{80E4}{40:70}{40:63}J{8025}{40:CB}{8055}{40:DB}{805D}{u42}{uDA}u{8055}{u88}{u09}{40:D6}{u90}{u35}
+
+[0x4df513]	Toughest antli FENUses a rapier for accurate elegant combat
+   RAW: Toughest antli{8019}{u42}{uD7}{80E4}{8011}{40:B1}{800B}{40:DD}{u88}{u1F}{u41}\n{u88}{u13}{uA0}{u23}{40:CD}{802B}{40:CD}{803D}{u88}{u37}{u42}{uD7}{80F4}{u90}{u3B}{40:D5}{8045}{u88}{u43}{40:D0}{8055}{u44}{uE4}{40:61}{40:63}{u20}{u48}{u28}{u18}{80FB}FEN{80FC}Uses a rapier for\naccurate{80EC} elegant comb
+
+[0x4df8c9]	Disturbg cah gffnPowerful malboro that smells even worse
+   RAW: Disturb{800B}{u46}{uD7}g c{800D}{u42}{uCE}a{uA0}{u17}{40:CE}{8011}{u42}{uDD}h{u88}{u0F}{u43}\ng{8031}{40:DF}{801D}{40:DC}{8027}{u44}{uD8}ff{802F}{40:DA}{803F}{40:D2}{8045}{u88}{u29}{u42}{uCA}n{u90}{u19}{40:CD}{801D}{u46}{uDB}{80E4}{40:61}{40:63}{u20}{8028}{u18}Powerful malboro that\nsmells even worse{
+
+[0x4dfa55]	DRGExperts wie sblumpJobrPowerful lamias that delight in taking life
+   RAW: {80FB}DRG{80FC}Experts wi{8009}{40:D1}{8009}{8005}{u45}e\ns{u90}{u1F}{40:CA}{8021}{40:E4}{801F}{u44}{uB0}bl{8017}{u88}{u1F}{40:D8}{802F}{u46}{uD3}ump{8039}{40:D1}{8039}{40:D0}{8033}{u4A}{uE4}{40:70}{40:63}Job{804F}{40:DB}{805B}{40:DA}{8023}{40:D2}{u90}{u09}{40:D6}{8069}{40:D7}{u88}{u69}{u41}{80EE}{80
+
+[0x4e0071]	Student rpoible kglStudent usually a boy who cleans up after PE
+   RAW: Student r{8009}{u44}{uDC}po{800F}{u48}{uDC}ible{8017}{40:CF}{8011}{u42}{uDB}\n{802D}{u42}{uCA}k{8017}{u42}{uD7}g{802D}{40:D6}{u88}{u15}{8039}{uA8}{u0F}{40:DB}{8037}{u42}{uD5}l{8047}{40:CC}{8027}{8009}{u45}{80E4}{40:61}{40:63}{u20}{8028}{u18}Student {80F7}usually a boy{80F8}\nwho cleans up after PE{80E
+
+[0x4e04f1]	Magic spheredo wLieutenant in the Clan Borzoi criminal group
+   RAW: Magic{8007}{u4E}{uD5} sphere{800D}{40:DE}{800F}{u42}{uCE}d{8017}{u44}{uDD}o\n{801B}{u42}{uD8}w{u88}{u1D}{8029}{40:D6}{uE0}{u39}{40:CD}{8035}{40:DF}{u90}{u49}{40:CE}{8045}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Lieutenant in the Clan\nBorzoi criminal group{80E4}{40:61}{40:63}
+
+[0x4e067b]	These coldtu mig
+   RAW: These cold{80FE}{8011}{40:E2}{8015}{40:CD}{u90}{u13}{40:DB}{801F}{u44}{uCA}tu{u90}{u09}{u42}{uDC}\n{8027}{u42}{uCA}m{u90}{u31}{u42}{uE0}i{8019}{40:D1}{803B}{8005}{u90}{u43}{40:C1}{u88}{u37}{u90}{u17}{u42}{uD7}g{8057}{u44}{uE4}{40:61}{40:63}{u20}{u2A}{u18}
+
+[0x4e0743]	Knight swornola BfcDemon that wields mighty dark powers
+   RAW: Knight sworn{800B}{u42}{uDD}o{8011}{u44}{uB2}la{800F}{u42}\nB{u90}{u19}{40:E3}{801F}{u42}{uD2}{80E4}{802B}{u42}{uBE}f{8023}{40:CE}{u90}{u2B}{u42}{uCA}c{u90}{u3F}{40:CA}{802D}{40:D8}{8051}{40:CE}{8021}{u42}{WAIT}{40:63}{u20}{u28}{u18}Demon that wields mighty\ndark powers{80E4}{40:61}{40:63}
+
+[0x4e0981]	Swordsmiths tel glPowerful coeurl One blow from its claws kills
+   RAW: Swordsmiths {u90}{u07}{u42}{uCA}t{u90}{u09}{40:DB}{8009}{u46}{uDF}el\n{u90}{u1F}{40:DB}{8031}{u42}{uDE}g{8029}{u88}{u07}{u88}{u23}{40:B8}{801F}{u42}{uCA}l{803F}{40:CC}{8027}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Powerful coeurl{80E4} One blow\nfrom its claws kills{80E4}{40:61}{40:63}
+
+[0x4e0c09]	Knight whpecl oedThankfully these powerful lamia are few in Ivalice
+   RAW: Knight w{800B}{u42}{uDD}h{8009}{u46}{uDC}pec{801B}{u42}{uCA}l{8019}{40:D6}{8007}{40:D0}{8029}{u42}{uCC}\n{802D}{40:CE}{8015}{u42}{uDB}{u81}{u16}{8031}{u42}{uD0}o{8001}{40:CD}{uD0}{u3B}{8041}{u41}e{u90}{u43}{40:E0}{801D}{u48}{uDB}d{80E4}{40:61}{40:63}{u20}{u20}{u28}{u18}Thankfully{80EC} these powerful
+
+[0x4e0d2f]	Ofho alb NndnvcePowerful ochu Smells even worse
+   RAW: Of{8001}{u44}{uDC}ho{8001}{u42}{uDD} {8007}{40:CF}{8005}{40:DD}{8011}{40:CE}{800D}{u46}{uD6}alb{801D}{40:DB}{8021}{u46}{uDC}{80E4}\nN{uA0}{u29}{40:CF}{8033}{u44}{uDE}nd{8035}{u42}{uD2}n{803B}{u42}{uB8}v{u90}{u2F}{u44}{uD2}ce{802B}{u42}{WAIT}{40:63}{u20}{u28}{u18}Powerful ochu{80E4} Smells\neven worse{
+
+[0x4e1b05]	R Penaltyor suclitGmR Penalty for a successfulSteal Aabilities
+   RAW: {80FB}R{80AA}{80FC} Penalty{800F}{u44}{uCF}or{8017}{u48}{uCA}\nsuc{8001}{40:CE}{8009}{40:DC}{8019}{u42}{uDE}l{8031}{u44}{uD1}it{8039}{40:E0}{u88}{u07}{800D}{u48}{uEE}{40:70}{40:63}{80F6}G{802D}{u42}{uD7}m{804B}{40:D7}{8039}{u88}{u25}{u42}{uD9}{80F6}{8045}{u42}{uB0}{80FE}{805F}{40:CB}{8035}{40:D5}{u90
+
+[0x4e1bfd]	R Penaltyor suclitCR Penalty for a successfulControl Aabilities
+   RAW: {80FB}R{80AB}{80FC} Penalty{800F}{u44}{uCF}or{8017}{u48}{uCA}\nsuc{8001}{40:CE}{8009}{40:DC}{8019}{u42}{uDE}l{8031}{u44}{uD1}it{8039}{40:E0}{u88}{u07}{800D}{u48}{uEE}{40:70}{40:63}{80F6}C{u88}{u39}{804B}{40:CE}{8005}{40:F6}{8059}{u42}{uB0}{80FE}{8057}{40:CB}{802D}{40:D5}{u90}{u29}{40:D2}{u90}{u47}{u4
+
+[0x4e24e3]	R Penaltyor suclitAgedR Penalty for a sword hit
+   RAW: {80FB}R{80AB}{80FC} Penalty{800F}{u44}{uCF}or{8017}{u48}{uCA}\nsuc{8001}{40:CE}{8009}{40:DC}{8019}{u42}{uDE}l{8031}{u44}{uD1}it{8039}{40:E0}{u88}{u07}{800D}{u48}{uEE}{40:70}{40:63}A{80FE}{8045}{40:CB}{801B}{40:D5}{u90}{u17}{40:D2}{u88}{u35}{u88}{u47}{8051}{40:CF}{8063}{40:CC}{u90}{u13}{u42}{uD7}g{805
+
+[0x4e2a0b]	R Penaltyor suclitA R Penalty for petrifying
+   RAW: {80FB}R{80AC}{80FC} Penalty{800F}{u44}{uCF}or{8017}{u48}{uCA}\nsuc{8001}{40:CE}{8009}{40:DC}{8019}{u42}{uDE}l{8031}{u44}{uD1}it{8039}{40:E0}{u88}{u07}{800D}{u48}{uEE}{40:70}{40:63}A{80FE}{8045}{40:CB}{801B}{40:D5}{u90}{u17}{40:D2}{u88}{u35}{805F}{u88}{u21}{40:CA}{802F}\n{8037}{40:CE}{u88}{u67}{8073}{4
+
+[0x4e31bf]	R Penaltyor suclitOegrR Penalty for using an antilaw card
+   RAW: {80FB}R{80AC}{80FC} Penalty{800F}{u44}{uCF}or{8017}{u48}{uCA}\nsuc{8001}{40:CE}{8009}{40:DC}{8019}{u42}{uDE}l{8031}{u44}{uD1}it{8039}{40:E0}{u88}{u07}{800D}{u46}{uEE}{40:70}{40:63}O{8039}{40:CF}{u90}{u4B}{40:DC}{801F}{u42}{uDF}e{u88}{u43}{803D}{40:DD}{802D}{40:D8}{u88}{u15}{804F}{u42}{uCA}g{8069}{40:
+
+[0x4e39bb]	R Penaltyor suclitGmR Penalty for a successfulSteal Aabilities
+   RAW: {80FB}R{80AA}{80FC} Penalty{800F}{u44}{uCF}or{8017}{u48}{uCA}\nsuc{8001}{40:CE}{8009}{40:DC}{8019}{u42}{uDE}l{8031}{u44}{uD1}it{8039}{40:E0}{u88}{u07}{800D}{u48}{uEE}{40:70}{40:63}{80F6}G{802D}{u42}{uD7}m{804B}{40:D7}{8039}{u88}{u25}{u42}{uD9}{80F6}{8045}{u42}{uB0}{80FE}{805F}{40:CB}{8035}{40:D5}{u90
+
+[0x4e3ab3]	R Penaltyor suclitCR Penalty for a successfulControl Aabilities
+   RAW: {80FB}R{80AB}{80FC} Penalty{800F}{u44}{uCF}or{8017}{u48}{uCA}\nsuc{8001}{40:CE}{8009}{40:DC}{8019}{u42}{uDE}l{8031}{u44}{uD1}it{8039}{40:E0}{u88}{u07}{800D}{u48}{uEE}{40:70}{40:63}{80F6}C{u88}{u39}{804B}{40:CE}{8005}{40:F6}{8059}{u42}{uB0}{80FE}{8057}{40:CB}{802D}{40:D5}{u90}{u29}{40:D2}{u90}{u47}{u4
+
+[0x4e4399]	R Penaltyor suclitAgedR Penalty for a sword hit
+   RAW: {80FB}R{80AB}{80FC} Penalty{800F}{u44}{uCF}or{8017}{u48}{uCA}\nsuc{8001}{40:CE}{8009}{40:DC}{8019}{u42}{uDE}l{8031}{u44}{uD1}it{8039}{40:E0}{u88}{u07}{800D}{u48}{uEE}{40:70}{40:63}A{80FE}{8045}{40:CB}{801B}{40:D5}{u90}{u17}{40:D2}{u88}{u35}{u88}{u47}{8051}{40:CF}{8063}{40:CC}{u90}{u13}{u42}{uD7}g{805
+
+[0x4e48c1]	R Penaltyor suclitA R Penalty for petrifying
+   RAW: {80FB}R{80AC}{80FC} Penalty{800F}{u44}{uCF}or{8017}{u48}{uCA}\nsuc{8001}{40:CE}{8009}{40:DC}{8019}{u42}{uDE}l{8031}{u44}{uD1}it{8039}{40:E0}{u88}{u07}{800D}{u48}{uEE}{40:70}{40:63}A{80FE}{8045}{40:CB}{801B}{40:D5}{u90}{u17}{40:D2}{u88}{u35}{805F}{u88}{u21}{40:CA}{802F}\n{8037}{40:CE}{u88}{u67}{8073}{4
+
+[0x4e5075]	R Penaltyor suclitOegrR Penalty for using an antilaw card
+   RAW: {80FB}R{80AC}{80FC} Penalty{800F}{u44}{uCF}or{8017}{u48}{uCA}\nsuc{8001}{40:CE}{8009}{40:DC}{8019}{u42}{uDE}l{8031}{u44}{uD1}it{8039}{40:E0}{u88}{u07}{800D}{u46}{uEE}{40:70}{40:63}O{8039}{40:CF}{u90}{u4B}{40:DC}{801F}{u42}{uDF}e{u88}{u43}{803D}{40:DD}{802D}{40:D8}{u88}{u15}{804F}{u42}{uCA}g{8069}{40:
+
+[0x4e9aed]	This pusterlot fadkfWnDP
+   RAW: This p{8007}{u42}{uD7}{80F4}{u90}{u0B}{u4A}{uD5}uster{8019}{40:E0}{8021}{u42}{uD5}l{8023}{u4C}{uD7}ot\nfad{801D}{40:E4}{8037}{40:BC}{800B}{u42}{uDB}k{8041}{u42}{uD8}f{8047}{40:CF}{800D}{40:D2}{8039}{40:D7}{8021}{40:DC}{u90}{u5D}{40:D9}{8027}{u44}{PAGE}{40:63}W{804F}{40:CA}{8067}{u42}{uD8}n{806F}{40:B
+
+[0x4e9ba7]	Only thosefuear cvsWD MP
+   RAW: Only those{800B}{u42}{uD8}f{8011}{u42}{uD3}u{800F}{40:DD}{801B}{u46}{uD1}ear{800B}\n{8005}{u42}{uCE}c{800F}{u42}{uD2}v{u90}{u2B}{u88}{u37}{u42}{uD2}s{uA0}{u25}{40:DB}{8043}{40:F4}{u90}{u0D}{40:D6}{8033}{40:CD}{8035}{u48}{uD5}{80E4}{40:70}{40:63}W{u90}{u43}{40:D9}{8063}{40:D7}{806D}{40:B0}{806F}{u4C}{
+
+[0x4ea119]	Only threefss awnxiWp MPR
+   RAW: Only three{800B}{u42}{uD8}f{uA0}{u11}{u42}{uCE}s{u90}{u11}{40:D0}{8019}{u46}{uD6}s\na{u88}{u25}{802F}{40:D4}{8039}{u44}{uD8}wn{u90}{u3B}{40:D8}{8041}{u44}{uCE}xi{802F}{u48}{uDD}{80E4}{40:70}{40:63}W{804D}{u42}{uCA}p{804D}{u88}{u23}{40:B0}{8061}{u47}{uD4}{40:3E}{u03}{80EE}{u81}{u11}{806E}{40:B3}{806A}
+
+[0x4eae71]	Only theead soWDP
+   RAW: Only the{8007}{u46}{uCD}ead{8011}{40:D6}{8007}{u88}{u19}{40:E0}{u90}{u11}{u42}{uDB}\n{u90}{u23}{u42}{uD2}s{uA0}{u25}{u42}{uD6}o{803D}{40:CB}{803F}{40:D8}{8009}{u42}{uCD}{80FE}{803B}{40:E2}{u90}{u43}{40:DC}{804B}{40:CA}{8037}{u48}{uD5}{80E4}{40:70}{40:63}W{u90}{u53}{40:D9}{u88}{u2F}{8069}{40:B0}{806B}
+
+[0x4ebeeb]	Only opiesxtf thedarWDPHDZhd l
+   RAW: Only {80AA}{8003}{u4A}{uCC}opies{8011}{u42}{uCE}x{800B}{u42}{uDC}t{801D}{u48}{uD8}f\nth{u88}{u1B}{u41}e{802F}{u46}{uB4}dar{8031}{40:E2}{8007}{40:D7}{8041}{40:DC}{803F}{40:DB}{803D}{40:D9}{8027}{40:DE}{8019}{u88}{u29}{u46}{uE4}{40:70}{40:63}W{8051}{40:CA}{8059}{40:D8}{u90}{u27}{40:B0}{8047}{u4C}{uD4}{
+
+[0x4ec795]	This cloter suynWnD MP
+   RAW: This clo{8005}{u42}{uD4}t{8007}{u44}{uE0}er{8015}{40:D9}{801D}{40:D5}{8019}{40:CA}{u90}{u0D}{40:E0}{8007}{u44}{uDC}\ns{8023}{u42}{uDB}u{u88}{u2D}{8039}{u42}{uCB}y{803F}{40:D5}{8047}{40:D0}{804D}{u42}{uDD}n{8051}{40:D7}{800B}{u46}{uE4}{40:70}{40:63}W{8049}{40:CA}{8047}{u42}{uD8}n{8065}{40:B0}{805D}{u4
+
+[0x4ecce5]	This swordaet WDPR
+   RAW: This sword{800B}{u42}{uD1}a{u90}{u13}{u42}{uCB}e{8001}{40:D7}{uA0}{u09}{u42}{uCA}t{u90}{u0D}\n{u90}{u17}{40:E2}{802D}{40:D7}{u90}{u2D}{40:DB}{8025}{40:CC}{803B}{40:D0}{800F}{40:D2}{8023}{40:D2}{u90}{u19}{u46}{uE4}{40:70}{40:63}W{u90}{u37}{40:D9}{u88}{u2B}{8063}{40:B0}{8041}{u4C}{uD4}{40:3E}{u03}{80EE
+
+[0x4ed12b]	The worldsev tsWD MPR
+   RAW: The world{800B}{u42}{uD2}s{8011}{u44}{uDB}ev{8003}{40:CA}{8015}{40:CE}{uA0}{u17}{u44}{uD7}\nt{8031}{u98}{u21}{40:CC}{8031}{u42}{uE2}s{8011}{u88}{u23}{40:F4}{u90}{u35}{40:CD}{8035}{40:D9}{u90}{u23}{u48}{uDC}{80E4}{40:70}{40:63}W{u90}{u43}{40:D9}{805F}{40:D7}{8067}{40:B0}{803F}{u4C}{uD4}{40:3E}{u03}{80
+
+[0x4ed1d3]	This powerrystaln fWD MPR
+   RAW: This power{800B}{u4C}{uCC}rystal{801B}{40:D0}{800F}{u42}{uCA}n{800F}{u42}{uDC}\n{u88}{u13}{u90}{u15}{u42}{uD8}f{8037}{40:D2}{u90}{u15}{u88}{u0D}{40:E0}{8021}{803F}{u41}{80F4}{u90}{u4F}{40:E0}{u88}{u57}{805D}{40:CE}{8047}{u46}{uE4}{40:70}{40:63}W{805D}{40:CA}{u90}{u67}{40:D7}{806F}{40:B0}{805D}{u4C}{u
+
+[0x4ed3f1]	These glast odWonD MP
+   RAW: These gla{800B}{800D}{u41}s{800F}{40:D6}{800D}{40:D4}{u90}{u19}{u44}{uD2}t\n{8027}{u88}{u1D}{40:E2}{8029}{u42}{uDD}o{802F}{40:CF}{8017}{u42}{uD7}d{8039}{40:CA}{8039}{40:D5}{8025}{u88}{u49}{u46}{uE4}{40:70}{40:63}W{u90}{u2D}{u44}{uD9}on{8059}{40:B0}{8031}{u4C}{uD4}{40:3E}{u03}{80EE}{80FE}{40:3E}{u08}D
+
+[0x4ed48f]	These glast todoWD MP
+   RAW: These gla{800B}{800D}{u41}s{800F}{40:D6}{800D}{40:D4}{u90}{u19}{u42}{uD2}t{801F}{40:CE}{u90}{u1D}{u46}{uE2}\nto{802F}{40:CF}{8017}{u42}{uD7}d{8039}{40:DC}{8011}{u42}{uDB}o{800D}{40:D0}{804D}{40:DB}{804B}{40:CA}{804B}{40:D5}{8037}{u88}{u5B}{u46}{uE4}{40:70}{40:63}W{u90}{u3F}{40:D9}{u88}{u25}{806B}{40:
+
+[0x4ed53d]	Those waznts brvcWpD MP
+   RAW: Those w{u88}{u0B}{8007}{u44}{uD0}az{u90}{u11}{u44}{uD2}nt{u90}{u13}{40:DD}{8027}{u46}{uD2}s\nb{802F}{40:E1}{802D}{u42}{uCA}r{u90}{u35}{40:CF}{803F}{8009}{u41}v{8003}{40:DB}{8045}{40:DC}{8035}{40:D5}{800F}{u42}{uD7}c{8015}{u48}{uCD}{80E4}{40:70}{40:63}W{8021}{u42}{uCA}p{806B}{40:D7}{8069}{40:B0}{8055}
+
+[0x4edd9b]	This keyadef strgWpD MP HJfb
+   RAW: This key{8007}{u46}{uD6}ade{8011}{u42}{uD8}f{8017}{40:CB}{8007}{40:D7}{u90}{u0F}{u88}{u27}{u46}\nstr{8023}{u42}{uD7}g{8031}{40:D5}{u90}{u33}{40:E0}{8033}{40:DB}{8039}{u46}{uE4}{40:70}{40:63}W{8049}{u42}{uCA}p{u88}{u37}{8057}{40:B0}{802F}{u4C}{uD4}{40:3E}{u03}{80EE}{80FE}{40:3E}{u08}D{8067}{40:CF}{u90
+
+[0x4ee97d]	Sharpbled s BuyontSword with a curved blade Buy to inspect closer
+   RAW: Sharp{80FE}bl{800B}{u48}{uCD}ed s{8013}{40:CE}{u90}{u1B}{u48}{uE4}\nBuy{8015}{u42}{uDD}o{801B}{u42}{uD2}n{uA0}{u1F}{u42}{uCC}t{802B}{40:CC}{8039}{40:D8}{8031}{40:CE}{u90}{u2D}{u42}{WAIT}{40:63}{u20}{u28}{u18}Sword with a curved blade{80E4}\nBuy to inspect closer{80E4}{40:61}{40:63}
+
+[0x4eec13]	Master ordis BuyontlVery old staff Buy to inspect closer
+   RAW: Master {8009}{u46}{uE0}ord{8013}{u42}{uD6}i{8017}{u44}{uD1}{80F4}s{8019}{u98}{u17}{u4A}{uD4}{80E4}\nBuy{802D}{u42}{uDD}o{8033}{u42}{uD2}n{8041}{40:D9}{8041}{u42}{uCC}t{8043}{u42}{uCC}l{8043}{40:DC}{u88}{u51}{802D}{u42}{WAIT}{40:63}{u20}{u28}{u18}Very old staff{80E4}\nBuy to inspect closer{80E4}{40:61}
+
+[0x4eeff5]	Welus rtyh BontRusty unfamiliar helmet Polish before using
+   RAW: Wel{8001}{u44}{uFE}us{800B}{u44}{uCD}{80EC} {8005}{u46}{uD2}rty{800B}{u42}{uDC}h{800D}{u88}{u25}{u46}{uCD}{80E4}\nB{8029}{u88}{u17}{u42}{uDD}o{8029}{u42}{uD2}n{8037}{40:D9}{8045}{u42}{uCC}t{8039}{40:CC}{804D}{40:D8}{u90}{u49}{40:DB}{802D}{u42}{WAIT}{40:63}{u20}{u28}{u18}Rusty{80EC} unfamiliar helmet{
+
+[0x4ef0bd]	Old batr BuyonsptWellused armor Buy to inspect closer
+   RAW: Old bat{8001}{u42}{uCE}r{8003}{u88}{u11}{40:D1}{u90}{u11}{u48}{uE4}\nBuy{8023}{u42}{uDD}o{8029}{u46}{uD2}nsp{8029}{u42}{uCC}t{8039}{40:CC}{8041}{40:D8}{8011}{u88}{u39}{u44}{uE4}{40:61}{40:63}{u20}{u28}{u18}Well{80FE}used armor{80E4}\nBuy to inspect closer{80E4}{40:61}{40:63}
+
+[0x9c1c15]	You dtave topize gr
+   RAW: You d{8007}{u44}{uD7}{80F4}t{800B}{u4C}{uD1}ave\nto{801B}{u42}{uCA}p{8025}{40:D5}{8029}{u53}{uD0}ize{80EC} {40:72}{u03}{80E4}{40:70}{40:63}{uB0}{u42}{uA0}{u36}{uB0}{u46}{u98}{u52}{u88}{u46}{40:CA}{805A}{40:E2}{804C}{40:D1}{803E}{u42}{uD7}g{806E}{u42}{uE0}r{u90}{PAGE}{40:D0}{8043}{u43}{WAIT}{40:63}
+
+[0x9c217d]	So thendusfs You l
+   RAW: So the{8007}{u44}{uCE}nd{800F}{u44}{uD3}us{8015}{u42}{uD2}f{8003}{u44}{uCE}s\n{uB0}{u23}{40:D6}{8025}{40:CA}{8027}{u4C}{uDC}{80EA}{40:70}{40:63}You{8043}{40:D0}{8033}{40:E2}{8029} {801D}{40:DB}{804D}\n{8053}{40:D8}{8009}{40:DB}{8045}{u42}{uCB}l{805B}{u44}{uEB}{40:61}{40:63}{u20}{u20}
+
+[0x9c23be]	This snowball fight is over Colin I want you to come with me hows your forehead
+   RAW: This snowball fight\nis over{80EB}{40:70}{40:63}{40:72}{u0E}{80EC} Colin{80EC}\n{40:72}{u0F}{80FE}{80FE}I want you\nto come with me{80E4}{40:70}{40:63}{40:72}{u03}{80EC} how{80F4}s your\nforehead{80EA}{40:61}{40:63}
+
+[0x9c386d]	ksZ nqmz RctrjZldHsqdkhbWow a magic book I wish I could use magic
+   RAW: {80E4}{u90}{u4C}{sB0}{s80}k{s80}s{s80}Z {s80}n{s80}q{s80}{u03}{u46}m{s80}z\n{s80}R{s90}{u09}{u44}c{s80}t{s80}r{s80}{u19}{u46}j{s80}Z{s80}l{s80}d{s80}{u01}{40:D5}{s80}{u09}{s90}{u37}{u47}{40:70}{40:63}{s80}H{s80}s{s80}{u37}{40:DC}{s80}{u25}{u42}q{s80}d{s90}{u09}{40:D8}{s80}{u31}{s88}{u37}{40:DC}{s80}{
+
+[0x9c406a]	Heya Its me yer pops Randell hick
+   RAW: Heya{80EC} {40:72}{u03}{80EB} \nIt{80F4}s me{80EC} yer pops{80EB}\n{40:72}{u06} Randell{80EB} {u81}{u09}hick{u81}{u09}{40:61}{40:63}
+
+[0x9c5918]	Kupo There y
+   RAW: Kupo{80EB}\nThere y{8013}{40:DE}{8007}{40:CA}{u88}{u0F}{u41}{80EC}{8011}{40:D4}{uB0}{u29}{u43}{WAIT}{40:63}
+
+[0x9c67cf]	I candlyee ysWuI think our meeting like this was no accident kupoStick with me and Ill help you out OK kupo
+   RAW: I can{8007}{40:D1}{8007}{u46}{uDB}dly{8015}{u42}{uCB}e{8009}{40:D2}{8005}{u44}{uDF}e\n{8009}{40:DD}{802B}{u44}{uD6}ys{u90}{u19}{u48}{uCF}{80E4}{40:70}{40:63}W{u90}{u37}{u88}{u1B}{40:DC}{8041}{u42}{uD8}u{803F}{40:CD}{8055}{u88}{u59}{40:CD}{800F}{u44}{uEA}{40:61}{40:63}{u20}{40:21}{u03}I think our meet
+
+[0x9c71f0]	Uhoh dont tell me you dont know about thoseThe laws today forbid the use of all items kupoAlways be sure to check the laws or youll be sorry
+   RAW: {40:21}{u03}Uh{80FE}oh{80EC} don{80F4}t tell\nme you don{80F4}t know\nabout those{80EB}{40:70}{40:63}{40:21}{u02}The laws today\nforbid the use of\nall items{80EC} kupo{80EB}{40:70}{40:63}{40:21}{u02}Always be sure to\ncheck the laws{80EC}\nor you{80F4}ll be sorry{80EB}{40:61}{40:63}
+
+[0x9c74b1]	Infraction LbmsAll tKupo The slammer I hope I never get sent there
+   RAW: Infraction {8005}{u44}{uCF}\nL{8015}{40:E0}{800D}{40:CF}{8015}{u42}{uDB}b{801D}{40:CD}{8001}{40:D2}{8031}{40:D0}{8023}{40:D2}{802F}{u50}{uCE}ms{80EB}{40:70}{40:63}All{803B}{40:DF}{u90}{u45}{40:D5}{8051}{40:DD}{u90}{u37}{40:DC}{804F}{40:E0}{8059}{u88}{u1D}\n{8045}{40:CE}{805F}{40:DC}{8039}{u42}{uD7}t{8
+
+[0x9c780c]	Collect judge pointsThat way you can use combos with other clan membersIt makes engagements a snap kupo
+   RAW: {40:21}{u01}Collect judge\npoints{80EB}{40:70}{40:63}{40:21}{u02}That way you can\nuse {80F6}combos{80F6} with\nother clan members{80E4}{40:70}{40:63}{40:21}{u02}It makes engagements\na snap{80EC} kupo{80EB}{40:61}{40:63}
+
+[0x9c7975]	xhRVFLRKupo You find any good missions kupo
+   RAW: x{u01}{u74}{u02}h{u02}{u18}{u03}{u60}{u03}R{u03}{u2A}{u04}{u4A}{u04}{u04}{u05}{u6A}{u05}V{u05}{s92}{u06}{s98}{u06}{s9E}{u06}{sA4}{u06}{sAA}{u06}{sB0}{u06}F{u06}L{u06}R{u06}{sFF}{sFF}{40:21}{u02}Kupo{80EA}\nYou find any good \nmissions{80EC} kupo{80EA}{40:61}{40:63}
+
+[0x9c822d]	Hey ths somneThis isnt what I asked forI want Colemans thesis not Dalileis
+   RAW: Hey{80EC} th{800B}{40:DB}{800F}{u4A}{uF4}s\nsom{801D}{u44}{uD8}ne{uD0}{u1F}{u44}{uEB}{40:61}{40:63}{u20}This isn{80F4}t what\nI asked for{80EB}{40:70}{40:63}I want Coleman{80F4}s\nthesis{80EC} not\nDalilei{80F4}s{80EB}{40:61}{40:63}
+
+[0x9c87d2]	Are allhes u
+   RAW: Are all{8007}{u42}{uDD}h{u90}{u0F}{40:D9}{8011}{u46}{uD0}es\n{u98}{u13}{u88}{u27}{u41}{80EC}{8029}{u42}{uD4}u{801D}{u47}{uD8}{80EA}{40:61}{40:63}
+
+[0x9c8cd3]	Hey Thosewor sIt bkPhew its all hereNow to return this to its rightful owner
+   RAW: Hey{80EB} Those{800B}{u44}{uDD}wo{8013}{u42}{uCA}r{800F}\n{800F}{40:D1}{uA0}{u17}{8007}{8023}{u42}{uD2}s{uA0}{u0D}{40:D2}{803F}{40:DF}{u90}{u13}{u46}{uEB}{40:70}{40:63}I{8049}{40:D0}{8047}{40:DD}{8043}{40:CA}{u98}{u0B}{u90}{u11}{u42}{uCE}t{8047}{40:D2}{8005}{u42} b{8057}{u42}{uCC}k{8075}{u42}{WAIT}{4
+
+[0x9c93b7]	FTfvZfvnWeve got you now you bunch of twobit swindlers
+   RAW: {s8A}{u01}F{u01}T{u01}f{u01}{sF2}{u01}{LZSS_FAIL}{u7C}{u03}v{u03}{u56}{u04}{u7E}{u04}{sE6}{u04}{sF6}{u04}{u5E}{u05}{s86}{u05}{u28}{u06}{s84}{u06}Z{u06}{u3A}{u07}{sA8}{u07}{u64}{u08}{u48}{u09}{s86}{u09}f{u09}v{u09}{u30}{u0A}{u48}{u0A}{s90}{u0A}n{u0A}{u2C}{u0B}{s80}{u0B}{s9C}{u0B}{u48}{u0C}{u68}{u0C}{
+
+[0x9c95e9]	Theyre notr fdsNah just a bunch of bandits living around hereDont worry
+   RAW: They{80F4}re not{8007}{40:E2}{8007}{u46}{uDE}r\nf{8019}{40:D2}{8023}{u46}{uD7}ds{80EC}{8023}{40:CA}{uA0}{u2B}{40:DD}{uA0}{u3B}{u44}{uEA}{40:61}{40:63}{u20}Nah{80EC} just a bunch\nof bandits living\naround here{80E4}{40:70}{40:63}Don{80F4}t worry{80EC}\n{40:25}
+
+[0x9ca862]	is and is All you can do is what seems right to you kupo
+   RAW: {40:21}{u04}{40:25} is\n{40:25}{80EC} and\n{40:72}{u04} is {40:72}{u04}{80EB}{40:70}{40:63}{40:21}{u02}All you can do\nis what seems\nright to you{80EC} kupo{80EB}{40:61}{40:63}
+
+[0x9caa5d]	Gwar g Listen to that thing howlMaybe the monsters around here really have gone mad
+   RAW: Gwar{8001}{u44}{uD1}{80EB}\n{800F}{40:DE}{u90}{u0D}{u42}{uDB}g{8017}{u42}{uD4} {u98}{u07}{801B}{u42}{WAIT}{40:63}{u20}Listen to that\nthing howl{80EB}{40:70}{40:63}Maybe the monsters\naround here really\nhave gone mad{80E4}{80E4}{80E4}{40:61}{40:63}
+
+[0x9cab6b]	Do monstersd likehfKupo We get jobs like this every once in a while
+   RAW: Do monsters{8011}{40:D0}{uA0}{u17}{u4C}{uCA}d\nlike{8029}{u42}{uDD}h{800B}{u88}{u21}{u42}{uD8}f{u90}{u2F}{u46}{uD7}{80EA}{40:61}{40:63}{u20}{40:21}{u03}Kupo{80E4}{80E4}{80E4} We get jobs\nlike this every\nonce in a while{80E4}{40:61}{40:63}{u30}
+
+[0x9cac70]	There aumb of
+   RAW: There a{uA8}{u07}{800B}{u46}{uD7}umb{u88}{u1B}{u45}\nof{801F}{40:DD}{u90}{u2B}{40:D8}{802D}{40:D2}{8033}{u42}{uDC}{80EC}{8033}{40:D4}{8027}{40:D9}{801F}{u44}{uE4}{40:70}{40:63}{u88}{u50}{40:B8}{u90}{u16}{40:CF}{u88}{u26}{8052}{40:D8}{8048}{40:CE}{u90}{u28}{u88}{u4A}{40:D5}{u90}{u38}{40:DF}{806C}\n{u98
+
+[0x9cb3d3]	TXnRTRzxdZBdFRXdjpvLooks like a normal river to meI dont see any warping or bending at all
+   RAW: {s92}{u01}T{u01}{u06}{u02}{u16}{u02}{s92}{u02}{sE8}{u02}{u1C}{u03}{LZSS_FAIL}{LZSS_FAIL}{u52}{u05}X{u05}n{u05}{u2A}{u06}{s92}{u06}R{u06}{u08}{u07}{u38}{u07}{s9E}{u07}{sF2}{u07}{u5A}{u08}T{u08}{u4C}{u09}{u7E}{u09}{u04}{u0A}R{u0A}{sE8}{u0A}{u56}{u0B}{s86}{u0B}z{u0B}{sF6}{u0B}{s80}{u0C}{sFE}{u0C}{u56}{
+
+[0x9ccb15]	This coulde myneI to rys
+   RAW: This could{800B}{u48}{uCB}e\nmy{8017}{u42}{uD8}n{8015}{u88}{u09}{40:CC}{802B}{40:CA}{800D}{u4A}{uCC}e{80E4}{40:70}{40:63}I{8037}{u88}{u13}{40:DF}{802F}{u44} to{8047}{40:CF}{804F}{40:D7}{8045}\n{800F}{40:D1}{u90}{u17}{40:D8}{u98}{u09}{u41}r{u90}{u65}{u44}{uDB}ys{802B}{40:CA}{806B}{u46}{uDC}{80EB}{40:61
+
+[0x9ccbbd]	TBfXxrjbXDfZBlI cant believe they strengthened the laws again
+   RAW: T{u01}{u56}{u02}{sA6}{u02}{u1E}{u03}{sA6}{u03}{u10}{u04}{u56}{u04}B{u04}{u20}{u05}{u70}{u05}{s94}{u05}{sB0}{u05}{u06}{u06}f{u06}{u1A}{u07}X{u07}{u2A}{u08}{u58}{u08}x{u08}{u58}{u09}r{u09}{u68}{u0A}{u12}{u0B}{s8A}{u0B}j{u0B}{u1A}{u0C}{u7A}{u0C}b{u0C}{u7C}{u0D}{s9E}{u0D}{u24}{u0E}{u34}{u0E}{u60}{u0E}X{
+
+[0x9cd749]	That guys Ieoim
+   RAW: That guy{80F4}s {40:72}{u0A}{80EB}{80EA}\nI{8018}{u88}{u20}{u42}{uDF}e{8022}{u42}{uDD}o{8028}{40:DC}{uB0}{u0F}{u4B}{uD1}im{80EB}{40:61}{40:63}
+
+[0x9ce6a9]	Your ste For trading law cards yes Its still hushhushIf theres a card youre looking for drop on by
+   RAW: Your st{800B}{u46}{uDB}e{80EA}\n{u98}{u17}{8015}{40:DB}{801D}{40:D7}{801D}{40:CA}{uE0}{u21}{u42}{WAIT}{40:63}{u20}For trading law\ncards{80EC} yes{80EB} It{80F4}s\nstill hush{80FE}hush{80E4}{40:70}{40:63}If there{80F4}s a card\nyou{80F4}re looking for{80EC}\ndrop on by{80EB}{40:61}{40:63}{u20}
+
+[0x9ce839]	The rains getting worse Better watch my footing
+   RAW: {sA0}{u01}{u5A}{u02}{u60}{u02}{u66}{u02}{sFF}{sFF}The rain{80F4}s getting\nworse{80E4} Better\nwatch my footing{80E4}{40:61}{40:63}{u20}
+
+[0x9cebb3]	Its warpingSgdltrs ZButterflies What are butterflies doing here
+   RAW: It{80F4}s warping{80E4}{u88}{u49}{40:70}{40:63}{s80}S{s80}g{s80}d{s80}{u19}{40:CE}{s80}{u23}{u46}l{s80}t{s80}r{s80}s{s80}{u2D}{40:CB}{s80}{u0F}{u42}\n{s80}Z{s80}{u37}{40:CC}{s80}{u35}{40:E2}{s88}{u15}{s80}{u3F}{40:D5}{s80}{u47}{sA0}{u2D}{u45}{s80}{sEB}{40:61}{40:63}{u20}Butterflies{80EA}\nWhat are but
+
+[0x9cf047]	Whos tr Why are you making me remember those things Stop itI said stop it
+   RAW: Who{80F4}s t{800B}{u42}{uCE}r{8003}{u42}{uEA}\n{u98}{u19}{8015}{40:D2}{uB0}{u1B}{40:CA}{8021}{40:EB}{801B}{u42}{WAIT}{40:63}{u20}Why are you making\nme remember those\nthings{80EA} Stop it{80EB}{40:70}{40:63}I said{80EC} stop it{80EB}{40:61}{40:63}{u20}
+
+[0x9cf6fb]	Now tornese an
+   RAW: Now to{u90}{u05}{u44}{uDE}rn{u90}{u0F}{u48}{uD1}ese\n{801B}{40:DB}{u90}{u0B}{u42}{uD9}a{8011}{8013}{8023}{40:DC}{8033}{u48}{uD2}n{80EB}{40:61}{40:63}{u20}{u20}
+
+[0x9cf777]	Thank yououch felpA magic forestMaybe this has something to do with the crystals too
+   RAW: Thank you{8007}{u42}{uDC}o{800D}{u4A}{uD6}uch\nf{8017}{40:DB}{uA8}{u1F}{u90}{u09}{u4C}{uD1}elp{80EB}{40:61}{40:63}{u20}A magic forest{80E4}{80E4}{80E4}{40:70}{40:63}Maybe this has\nsomething to do with\nthe crystals{80EC} too{80E4}{40:61}{40:63}
+
+[0x9cf893]	A giantmd cstuIofsYou here looking for the emerald tooThe Academy pulls out and before the echoes even fadeWham In come the clans like a pack of hyenas
+   RAW: A giant{800B}{u42}{uCE}m{8003}{40:DB}{800F}{u46}{uD5}d\nc{800B}{u44}{uE2}st{u90}{u11}{40:EC}{802D}{u42}{uD1}u{8003}{u46}{uEA}{40:70}{40:63}I{803D}{u42}{uE0}o{803B}{40:CD}{u88}{u35}{804B}{u42}{uD2}f{u90}{u05}{u44}{uDD}{80F4}s{805B}{u88}{u1B}{40:CE}{8047}{40:D8}{u90}{u17}{40:DD}{803D}{40:D8}{804D}{40:C
+
+[0x9cff6a]	Ivalice isnt a desert its a snowy country townEverything went crazy This isnt the real worldThis is s fantasy world Its like a game
+   RAW: Ivalice isn{80F4}t a\ndesert{u81}{u16} it{80F4}s a\nsnowy{80EC} country town{80EB}{40:70}{40:63}Everything went\ncrazy{80EB} This isn{80F4}t\nthe real world{80FE}{80FE}{40:70}{40:63}This is {40:72}{u03}{80F4}s\nfantasy world{80E4}{80E4}{80E4}\nIt{80F4}s like a game{80EB}{40:61}{40:63}
+
+[0x9d0b8f]	The princs loeLet us say that you are right and there are two worldsHow much then is this other world worth to you
+   RAW: The princ{u90}{u0D}{u48}{uD2}s\nlo{8001}{40:D4}{u90}{u17}{40:D0}{8023}{40:CF}{800F}{40:DB}{802B}{u44}{uD6}e{80E4}{u90}{u44}{sEA}{40:61}{40:63}{u20}Let us say that you\nare right and there\nare two worlds{80E4}{40:70}{40:63}How much{80EC} then{80EC} is\nthis {80F6}other world{80F6}\nworth to you{80EA}{40:
+
+[0x9d1106]	is an apprentice gadgeteerAnd he just finished building the airship of his dreams
+   RAW: {40:21}{u03}{40:72}{u0B} is an\napprentice\ngadgeteer{80E4}{80E4}{80E4}{40:70}{40:63}{40:21}{u03}And he just finished\nbuilding the airship\nof his dreams{80E4}{40:61}{40:63}
+
+[0x9d11bb]	Kupo But on her maiden voyage kupo
+   RAW: Kupo{80EB} But on her\nmaiden voyage{80E4}{80E4}{80E4}\n{u81}{u09}kupo{u81}{u09}{40:61}{40:63}
+
+[0x9d134f]	H jmnvvgdqdx Ztofcqr hmnWell then theres no problem All we have to do is goIts not that simple kupoThis reminds me I havent told you about jagds yet
+   RAW: {s80}H {s80}j{s80}m{s80}n{s80}v{s80}{u09}{u48}v{s80}g{s80}d{s80}q{s80}d{s80}{u15}{40:DD}{s90}{u0B}{u44}x\n{s80}Z{s88}{u11}{u41}{s80}{sEC}{s90}{u29}{u42}t{s80}o{s80}{u2B}{u44}{sEB}{40:70}{40:63}{s88}{u3E}{40:B9}{s80}{u1C}{u42}f{s80}c{s80}{u44}{40:B3}{s80}{u42}{u42}q{s80}r{s80}{u2C}{40:EB}{s80}{u52}{40
+
+[0x9d1df7]	Rtqd sghmfonHkkvZq xaZzHey kid You know what this place isIf you want to live youll turn around and go home Now
+   RAW: {s80}R{s80}t{s80}q{s80}d {s80}s{s80}g{s80}h{s80}m{s80}f{s80}{sEC}{s80}{u0D}{40:D4}{s80}{u17}{u48}o{s80}n{s80}{sEB}{40:70}{40:63}{s88}{u28}{u46}H{s80}{sF4}{s80}k{s80}k{s80}{u28}{40:CB}{s90}{u2E}{u42}v{s80}Z{s80}{u2E}{40:DD}{s98}{LZSS_FAIL}{u2C}{u44}q\n{s80}x{s80}{u34}{40:DE}{s80}{u4E}{s80}{u4A}{s80}{u
+
+[0x9d22d5]	rLpX You made it back safely kupoAnd you caught the bad guys too Kupo kupo kupo
+   RAW: r{u01}{u44}{u02}L{u02}{sFA}{u02}{sAE}{u03}{sEC}{u03}{u34}{u04}{sE6}{u04}{u44}{u05}{s84}{u05}{sA6}{u05}{u24}{u06}p{u06}{u34}{u07}{u5A}{u07}{s80}{u07}X{u07}{sF6}{u07}{LZSS_FAIL}{u78}{u09}{u2A}{u0A}{s8A}{u0A}{sFF}{sFF}{40:21}{u01}{40:25}{80EB}\nYou made it back\nsafely{80EC} kupo{80EB}{40:70}{40:63}{40:2
+
+[0x9d287d]	A merchantde spSdxknne zlIll be handling everything from source to storeIll let you know if something good comes in kupo
+   RAW: A merchant{8011}{40:DD}{800F}{u48}{uCA}de\ns{8017}{u44}{uD2}p{80E4}{u88}{u45}{40:70}{40:63}{s80}S{s80}{u29}{u42}d{s80}x{s90}{u39}{40:DE}{s80}{u1F}{s88}{u31}{40:CC}{s80}{u3B}{40:DB}{s80}{u45}{s88}{u15}{u42}k{s80}n{s80}{u41}{40:DC}{s80}{u3B}{u42}n{s80}e{s80}{u5F}{s88}{u4B}{40:DB}{s80}{u4B} {s80}{u47}{4
+
+[0x9d3ead]	What isre nooWhy do you want to stay here so muchI can understand why would want to I guess but you
+   RAW: What is{8005}{40:DD}{800F}{u4A}{uCE}re\nno{u90}{u19}{u42}{uDD}o{801F}{40:DE}{800F}{40:CD}{u90}{u1B}{40:DC}{8025}{40:CA}{u90}{u0D}{u44}{uEA}{40:61}{40:63}{u20}Why do you want\nto stay here so\nmuch{80EA}{40:70}{40:63}I can understand why\n{40:72}{u03} would want to{80EC}\nI guess{80EC} but you{80EA}{40:61
+
+[0x9d400b]	Dont thaeIyi pWell I hope you two dont get in trouble for helping meI wouldnt want bounties on your heads too
+   RAW: Don{80F4}t tha{800D}{40:D4}{800B}{u4A}{uD6}e{80E4}{40:70}{40:63}I{8019}{40:E0}{8017}{40:DC}{uC0}{u27}{u44}{uDB}yi{8037}{u42}{uD0}\n{8035}{40:D8}{803B}{40:D1}{802F}{u42}{uD5}p{8045}{40:E2}{8051}{40:DE}{803B}{u42}{WAIT}{40:63}{u20}Well{80EC} I hope you two\ndon{80F4}t get in trouble\nfor helping me{80E4}
+
+[0x9d411f]	Wel ifhome gswavn Yes I think thats what wed probably do
+   RAW: Wel{8001}{u46}{uEC} if{8005}{u42}{uDD}h{8013}{40:E2}{800F}{u48}{uCC}ome\n{8021}{40:D8}{800B}{40:D4}{8021}{u42}{uD7}g{8029}{40:CF}{8019}{40:DB}{8031}{u42}{uDE}s{8039}{u44}{PAGE}{40:63}w{8047}{40:F4}{u88}{u49}{8047}{40:D3}{u90}{u17}{40:DD}{8051}{u44}{uD1}av{8041}{u88}{u55}{40:D8}{8047}{40:DD}{8031}{u42
+
+[0x9d4aaf]	I dontare GimYnvIm doing all I canWere going to do a search of every town nextHurry or the world will break and ththen I
+   RAW: I don{80F4}t{800B}{u48}{uCC}are{80EC}{8017}{40:BF}{800B}{40:D9}{800F}{u44}{uEB}\nG{8013}{u88}{u1F}{u44}{uD1}im{8033}{40:D7}{8033}{40:E0}{8019}{u44}{PAGE}{40:63}Y{803F}{40:DE}{803F}{8037}{804D}{40:DD}{8023}{u88}{u07}{40:DC}{8009}{40:DB}{u90}{u59}{40:D0}{804F}{800D}{8045}{40:D3}{8027}{40:CD}{u88}{u0F}{
+
+[0x9d5625]	Just doneh cahKY
+   RAW: Just don{80F4}{u90}{u0B}{u42}{uD5}e{u90}{u13}{u42}{uDD}h{8009}{u46}{uD6}\nca{800D}{u42}{uCC}h{8029}{40:E2}{8029}{u42}{uDE}{80EC}{8033}{u4A}{uBE}K{80EA}{40:70}{40:63}Y{u88}{u13}{8045}{40:E0}{uB0}{u27}\n{uA0}{u27}{40:DB}{805F}{40:CE}{8051}{u46}{uCF}{80E4}{40:61}{40:63}{u20}{u20}
+
+[0x9d5ced]	The judgemast knowsClimI want you to call Judgemaster nowHe knows who I am He can identify me
+   RAW: The judgemast{8009}{u4C}{uDB}\nknows{8023}{40:D6}{801D}{u46}{uEB}{40:70}{40:63}C{8023}{u42}{uD5}l{8037}{u44}{uD1}im{u90}{u07}{802F}{803D}{40:EC}{8033}{u88}{u0B}{40:F4}{uA0}{u1F}{u88}{u47}{u98}{u29}{40:E2}{8047}{40:DE}{803F}{u42}{WAIT}{40:63}{u20}I want you to call\nJudgemaster {40:72}{u06}\nnow{80EB}{4
+
+[0x9d6061]	Its eawYouso erri ydYou can explain everything at your leisurein prison
+   RAW: It{80F4}s {8007}{u42}{uD1}e{8007}{u50}{uD5}aw{80E4}{40:70}{40:63}You{801B}{40:CC}{8013}{40:D7}{u90}{u07}{40:D1}{8011}{u42}{uD8}s{u90}{u29}{u44}{uDD}o\n{801B}{u88}{u11}{u44}{uD9}er{8039}{40:DD}{u90}{u43}{u42}{uD8}r{8051}{40:D7}{803D}{40:DD}{uA0}{u49}{40:C3}{u88}{u5D}{u41}i{u90}{u17}{40:CF}{uB0}{u27}{4
+
+[0x9d78bc]	master no Youre s dad dont you remember the real world
+   RAW: {40:72}{u17}master{80FE}{80FE}\nno{80EC} {40:72}{u06}{80EB}{40:70}{40:63}You{80F4}re {40:72}{u03}{80F4}s dad{u81}{u16}\ndon{80F4}t you remember\nthe real world{80EA}{40:61}{40:63}
+
+[0x9d7bef]	Are youuan getK
+   RAW: Are you{8007}{u42}{uDC}u{uE0}{u11}{u4C}{uCC}an\nget{8029}{40:D1}{8029}{40:D6}{u90}{u33}{u44}{uBE}K{80EC}{803B}{40:B3}{8021}{u46}{uCD}{80EA}{40:61}{40:63}{u20}{u20}
+
+[0x9d7cf9]	That cqtmj rld
+   RAW: That{80E4}{u90}{40:DD}{s98}{u0D}{u4F} {s80}c{s80}q{s80}t{s80}m{s80}j{s80}{sEA}\n{sB0}{u25}{u42}{sF4}{s80}r{s80}{u1B}{u42}l{s80}d{s80}{u15}{u42}{u61}{40:63}{u20}
+
+[0x9d9363]	BHNHes late You sure that kid was telling the truth
+   RAW: {s8A}{u01}{sAC}{u01}{u04}{u02}{u76}{u02}{sE6}{u02}{u1A}{u03}{u64}{u03}B{u03}H{u03}N{u03}{sFF}{sFF}{80E4}{80E4}{80E4}He{80F4}s late{80E4} You\nsure that kid was\ntelling the truth{80EA}{40:61}{40:63}{u30}
+
+[0x9d95d9]	How didheyn IleWav
+   RAW: How did{8007}{u46}{uDD}hey{8011}{u42}{uD4}n{u90}{u1B}{u42}\nI{801F}{40:E0}{8027}{u42}{uDE}l{u90}{u23}{u42}{uCB}e{8031}{u88}{u27}{40:DB}{802B}{u46}{uEA}{40:70}{40:63}W{8037}{40:D8}{8047}{40:CC}{uC0}{u27}{u44}{uD1}av{802B}\n{8055}{40:D8}{uA0}{u3B}{u98}{u5F}{40:D6}{8035}{u42}{WAIT}{40:63}{u20}{u20}
+
+[0x9d9a05]	Yes Heay linfoFu htHe tell you anything else His name Where to find him
+   RAW: Yes{8001}{u46}{uE4} He{8005}{u42}{uE0}a{u88}{u11}{800F}{40:DF}{801B}{u44}{uDB}y\n{8013}{u42}{uCE}l{8001}{u48}{uFE}info{8017}{40:D6}{8039}{u4A}{uCD}{80EB}{40:70}{40:63}Fu{8017}{40:D7}{802B}{u42} h{u90}{u45}{40:CD}{8029}{40:CD}{802B}{u42}{uF4}t{803F}{40:CC}{8015}{40:CA}{804B}{40:D0}{u90}{WAIT}{40:DE}{u
+
+[0x9d9bcd]	vfFDH Its so quiet my ears are starting to hurt
+   RAW: {sA6}{u01}v{u01}{s98}{u02}f{u02}{sE6}{u02}{sFE}{u02}{u4A}{u03}F{u03}{u44}{u04}D{u04}{u18}{u05}H{u05}{sEA}{u05}{sFA}{u05}{u42}{u06}{u5E}{u06}{u1C}{u07}{u7A}{u07}{sA4}{u07}{sF6}{u07}{u3A}{u08}{u5C}{u08}{sF4}{u08}{u3C}{u09}\n{u09}{u74}{u09}{u7A}{u09}{s80}{u09}{sFF}{sFF}It{80F4}s so quiet{80EC} my\nears a
+
+[0x9da36f]	You areuisc tv
+   RAW: You are{u88}{u07}{800B}{u46}{uD7}uis{8013}{u42}{uD7}c{8015}\n{u90}{u09}{40:CD}{8025}{40:D6}{8019}{u42}{uDC}t{802F}{40:CB}{u90}{u2D}{8033}{8013}{u42}{uD8}v{8007}{u46}{uCD}{80E4}{40:61}{40:63}{u20}{u20}
+
+[0x9da639]	The tomaf ns
+   RAW: The to{8003}{u44}{uCE}ma{800D}{u42}{uD8}f{u90}{u13}{u88}{u1B}\n{8021}{40:DE}{u88}{u17}{u45}ns{80E4}{u88}{u43}{40:61}{40:63}{u20}{u30}
+
+[0x9da6d5]	Why noteave ik s
+   RAW: Why not{8007}{u4C}{uD5}eave\ni{uA0}{u11}{u42}{uD2}k{800F} {uA0}{u0F}{u48}{uD2}s{80EA}{40:61}{40:63}{u20}{u10}
+
+[0x9db940]	Well the official name is Audience Day kupoBut since everybody tries to bring the fanciest giftthey call it Gift Day
+   RAW: {40:21}{u03}Well{80EC} the official\nname is {80F6}Audience\nDay{80EC}{80F6} kupo{80E4}{40:70}{40:63}{40:21}{u03}But since everybody\ntries to bring the\nfanciest gift{80EC}{40:70}{40:63}{40:21}{u03}they call it\n{80F6}Gift Day{80E4}{80F6}{40:61}{40:63}
+
+[0x9dbb31]	What ouele witWell if your gift is good enough you might have a chanceIf I went I might be able to meet I have to tryThen Ill ask to help us kupoHes good with his handshe could make a fine gift for us
+   RAW: What {8005}{u44}{uCB}ou{u90}{u0B}{u42}{uD9}e{800B}{u4C}{uD9}le\nwit{8027}{uA8}{u1D}{40:CC}{8027}{40:D7}{8001}{40:CE}{8009}{40:DD}{801B}{u88}{u0D}{u46}{uDC}{80EA}{40:61}{40:63}{u20}{40:21}{u03}Well{80EC} if your gift\nis good enough{80EC} you\nmight have a chance{80E4}{40:61}{40:63}If I went{80EC} I mig
+
+[0x9dc1fb]	nrtIll need some for work and some to give to I guess this is enough materites going to make something great I know itHey that streetear kids info was goodLook at how much materite hes carryingThatll fetch a pretty gil Materite is scarce of late
+   RAW: {sA2}{u01}{u14}{u02}{u7C}{u02}n{u02}{u02}{u03}{u24}{u03}{u48}{u03}{sB0}{u03}r{u03}{u7C}{u04}{s8C}{u04}{u5C}{u05}{s92}{u05}{sA2}{u05}{u36}{u06}t{u06}{u08}{u07}{s94}{u07}{sA6}{u07}{u5A}{u08}{u0A}{u09}{u22}{u09}{u64}{u09}{u08}{u0A}{u0E}{u0A}{u14}{u0A}{sFF}{sFF}I{80F4}ll need some for\nwork and some to\ng
+
+[0x9ddc4d]	This ms lxlZ
+   RAW: This{80E4}{u90}{sA0}{u0D}{u41} {s90}{u13}{u4A}m{s80}{sF4}{s80}s\n{s80}l{s80}x{s80}{u11}{u42}l{s80}Z{s90}{u03}{u4C}{sEC} {40:72}{u09}{s80}{sEB}{40:61}{40:63}
+
+[0x9de765]	You dtao beher pig
+   RAW: You d{8007}{u44}{uD7}{80F4}t{800B}{u42}{uE0}a{800B}{u88}{u09}{u48}{uDD}o\nbe{8021}{40:DC}{8015}{u42}{uCD}{80EC}{u98}{u2B}{8031}{40:E2}{u88}{u39}{u45}{80EA}{40:70}{40:63}{u98}{u45}{803D}{40:CD}{8049}{40:DB}{803D}{u46}{uDD}her{8057}{u88}{u3B}\n{800D}{u42}{uCA}p{8001}{40:E2}{u90}{u3F}{u44}{uDB}ig{8021}{4
+
+[0x9deadc]	I sent for he should be here soonHold out until he arrives
+   RAW: I sent for {40:72}{u06}{u81}{u16}\nhe should be\nhere soon{80E4}{40:70}{40:63}Hold out until\nhe arrives{80EB}{40:61}{40:63}
+
+[0x9e0087]	Youre ght seLMythril ore ehYou dont waste time with the easy jobs do youAye find some of that and your clan will be famousActually theres another reason Im looking for someIm hoping to lure my brother in so I can talk to himYour brother Why not just ask him to talk to you
+   RAW: You{80F4}re {8005}{u4A}{uD2}ght{80EC}\n{8019}{40:CF}{8013}{40:CC}{u90}{u21}{u4C}{uDB}se{80E4}{40:70}{40:63}L{8009}{40:DD}{8033}{40:DC}{8031}{40:D0}{u88}{u0B}{u90}{u07}{40:D8}{803B}{40:D7}{803D}{u44}{uEB}{40:61}{40:63}{u20}Mythril ore{80EC} eh{80EA}{40:70}{40:63}You don{80F4}t waste\ntime with the easy
+
+[0x9e1458]	sigh I guess we just have to sit and wait
+   RAW: {u81}{u09}sigh{u81}{u09}\nI guess we just have\nto sit and wait{80E4}{40:61}{40:63}
+
+[0x9e2d5f]	And s her som
+   RAW: And {40:72}{u03}{80F4}s her{8003}{u48}{uEC}\nsom{800F}{40:E0}{uB0}{u15}{40:E4}{u88}{u44}{40:61}{40:63}
+
+[0x9e30ad]	What s cdIve nullified the fortune law the queen put on youYou are no longer invincible This reeks of foul play If you werent a judge
+   RAW: What{80EA} {uA8}{u0B}{8009}{u44}{uD2}s\n{8015}{40:D1}{u90}{u09}{u42} c{8023}{u44}{uDB}d{80EB}{8027}{u42}{WAIT}{40:63}{u20}I{80F4}ve nullified the\n{80F6}fortune{80F6} law the\nqueen put on you{80E4}{40:70}{40:63}You are no longer\ninvincible{80EC} {40:72}{u0D}{80E4}{40:61}{40:63}{80E4}{80E4}{80E4}This r
+
+[0x9e4349]	But gdxkk ohbjnmXqdaZhmfPZu
+   RAW: But{80E4}{u90}{40:CB}{s88}{u0B}{u41} {s80}{u0F}{u54}g{s80}d{s80}x{s80}{sF4}{s80}k{s80}k\n{s80}o{s80}h{s80}b{s80}j{s80}{u19}{u42}n{s80}m{s80}{u1F}{40:D6}{s80}{u1D}{s90}{u31}{u45}{40:61}{40:63}{s80}X{s80}{u15}{40:DE}{s80}{u2B}{u42}q{s80}d{s80}{u3B}{40:CE}{s80}{u1D}{u42}a{s80}Z{s80}{u0D}{40:DB}{s80}{u05
+
+[0x9e4445]	Part ofe undet wso
+   RAW: Part of{8005}{u4C}{uD6}e\nunde{8019}{u42}{uDC}t{8021}{u88}{u0D}{u46}{uDC}{80E4}{40:61}{40:63}{u11}{40:31}{u42} w{u90}{u25}{u42}{uDD}s{803D}{u42}{uDD}o{804F}{40:D0}{u90}{u05}{40:D1}{8057}{8053}{u98}{u3B}{u20}
+
+[0x9e482d]	HvbzBxDZbDSnow Whats it doing snowing hereIthink the world is trying to go back the way it wasIt was snowing the day it changedI guess
+   RAW: H{u01}v{u01}{sFC}{u01}{u6A}{u02}{u0A}{u03}{u4A}{u03}{u72}{u03}{sEA}{u03}{s96}{u04}{u48}{u05}{s86}{u05}{u26}{u06}{u6C}{u06}b{u06}{u66}{u07}{u76}{u07}{u26}{u08}{s80}{u08}{s9A}{u08}z{u08}{u16}{u09}{u5E}{u09}B{u09}{u6A}{u0A}{s8E}{u0A}{u08}{u0B}{u1A}{u0B}{u5E}{u0B}{s82}{u0B}x{u0B}{u0A}{u0C}{u66}{u0C}D{u0
+
+[0x9e52bd]	But thisorld xSonc
+   RAW: But this{8009}{u4E}{uE0}orld{80FE}{80FE}\n{8015}{u88}{u1F}{40:DC}{8021}{40:D2}{8015}{40:D5}{802B}{u42}{uCE}x{u88}{u2B}{8033}{u4A}{uDC}{80EB}{40:70}{40:63}So{uA0}{u43}{40:CE}{804B}{40:D9}{803F}{u44}{uD2}nc{u90}{u0D}{40:D6}{8061}{803D}{8049}{uC8}{u43}{40:CB}{u90}{u29}{802F}{806B}{40:CE}{8045}{u42}{WAIT
+
+[0x9e5d2d]	nRfvRWow your hair really is as white as snowYou arent going to dye it anymore
+   RAW: {s9E}{u01}n{u01}{u7E}{u02}{u18}{u03}R{u03}{u78}{u04}f{u04}{u1E}{u05}{u42}{u05}{u68}{u05}{sAC}{u05}v{u05}{u4A}{u06}{u5A}{u06}{u72}{u06}{s88}{u06}{s9A}{u06}R{u06}{u0A}{u07}{u34}{u07}{u54}{u07}{sAC}{u07}{u26}{u08}{sFF}{sFF}Wow{80EC} your hair\nreally is as\nwhite as snow{80EB}{40:70}{40:63}You aren{80F4}
+
+[0x9e71ab]	Drop byfe lenghThar What are you going to do
+   RAW: Drop by{8005}{u42}{uD2}f{800B}{40:E2}{8013}{40:DE}{8013}{u42}{uCF}e{8001}{u44}{uD5}\nl{8019}{u42}{uD4}e{8027}{40:D0}{802F}{u44}{uD2}ng{8033}{40:E0}{802F}{u42}{uDD}h{803D}{40:D6}{8029}{u4A}{uE4}{40:70}{40:63}Tha{801F}{40:D4}{uD0}{u47}{u42}{uD8}r{u90}{u4F}{u88}{u39}{40:CD}{uA0}{u3F}\n{u88}{u3B}{u90}{u53
+
+[0x9e798b]	You kn IveehiMayld r
+   RAW: You kn{8009}{u53}{uE0}{80EC} {40:72}{u09}{80E4}\nI{80F4}ve{801C}{u42}{uCB}e{8001}{40:D7}{8026}{u44}{uDD}hi{802A}{40:D4}{u90}{u05}{40:D0}{8027}{u48}{PAGE}{40:63}May{u88}{u25}{8048}{40:E0}{u90}{u31}{40:CC}{u88}{u56}{u43}ld{8050}\n{801B}{40:F4}{uC8}{u60}{uA0}{u29}{u42}{uCF}r{804B}{8057}{8025}{u47}{uDC}{8
+
+[0x9e7a0b]	Friends Xnt eXsgYeah I mean we had our troubles in the pastBut why not
+   RAW: Friends{80E4}{u90}{u4E}{sEA}\n{s80}X{s80}n{s80}t{s80}{sEC} {s80}eX{u21}{s80}{u0F}{40:E0}{s80}{u2F}{u42}s{s80}g{s80}{u19}{40:D6}{s80}{u37}{u44}{sEA}{40:61}{40:63}{u20}Yeah{80E4}\nI mean{80EC} we had our\ntroubles in the past{80E4}{40:70}{40:63}But{80EC} why not{80EA}{40:61}{40:63}{u20}
+
+[0x9e7b59]	Friends Butmns bkrdvdvzIdo not think that would be possible
+   RAW: Friends{80E4} But{80E4}{u90}{u4A}m{s80}n{s80}s\n{s80}b{s80}k{s80}{u09}{u42}r{s80}d{s80}{u1F}{40:CF}v{u31}{u42}{u70}{40:63}{s80}{u45}{40:CA}{s80}{u47}{u42}d{s80}v{s80}{u49}{40:D5}{s80}{u2B}{u44}z{40:61}{40:63}{u20}I{80E4}{80E4}{80E4}do not think\nthat would be\npossible{80E4}{40:61}{40:63}{u10}
+
+[0x9e7d19]	lVXLlzThanks Its hard to find people for these snowy missionsOh right nobody here would be used to the snow would theyI remember how hard it was after I moved
+   RAW: l{u01}{40:02}{s86}{u02}{u16}{u03}{s96}{u03}{u12}{u04}{sA0}{u04}{u06}{u05}{u42}{u05}{u5E}{u05}{sAE}{u05}V{u05}{u1C}{u06}{u48}{u06}X{u06}{u68}{u07}{s80}{u07}{u06}{u08}L{u08}{u14}{u09}{u24}{u09}{sA0}{u09}{sE6}{u09}{u5E}{u0A}{sA6}{u0A}l{u0A}{u3C}{u0B}{s80}{u0B}{u38}{u0C}{s8A}{u0C}z{u0C}{sFF}{sFF}Thanks{
+
+[0x9e87f1]	With yourlanImgl jfe
+   RAW: With your{8009}{u52}{uCC}lan{80E4}{40:70}{40:63}I{80F4}m{801F}{40:DC}{8013}{40:E2}{802D}{u42}{uD7}g{802D}{u88}{u15}{u46}{uD5}l\nj{8037}{8015}{8041}{u42}{uD2}f{uA8}{u47}{804F}{40:D5}{8059}{u42}{uD4}e{8045}{u42}{WAIT}{40:63}{u20}{u20}
+
+[0x9e8ddf]	An antliov RhtyeOh one of those big white grubs as big as your arm
+   RAW: An antlio{u90}{u0F}{40:D5}{8011}{u42}{uDB}v{8017}{u44}{uE4}\nR{8017}{u44}{uD0}ht{8029}{u98}{u1F}{u42}{uD6}y{8035}{u42}{uD1}e{8039}{40:CD}{8023}{u42}{WAIT}{40:63}{u20}Oh{80EC} one of those big\nwhite grubs as big\nas your arm{80E4}{80E4}{80E4}{40:61}{40:63}
+
+[0x9ebf65]	rzpbrOur income has gone up ten percent from last monthOf course the blank card laws are to thankBut I think the seals of immunity are helping tooI like those numbers What about the other regions
+   RAW: {sAC}{u01}{u12}{u02}{u74}{u02}{u04}{u03}{u2E}{u03}r{u03}{u30}{u04}{sEE}{u04}{u10}{u05}{u6C}{u05}{u2E}{u06}z{u06}{s82}{u07}{u54}{u08}{u64}{u08}{u70}{u08}{s94}{u08}{u38}{u09}{u7A}{u09}p{u09}{sA4}{u0A}b{u0A}{s8E}{u0B}{u04}{u0C}{u6A}{u0C}r{u0C}{sEE}{u0C}{s88}{u0D}{u34}{u0E}{s88}{u0E}{sE6}{u0E}{sFF}{sFF}
+
+[0x9ec93c]	Sorry to barge in all of a sudden like thisWere with Clan Were here to meet you at master s request
+   RAW: Sorry to barge in\nall of a sudden\nlike this{80E4}{40:70}{40:63}We{80F4}re with\nClan {40:25}{u03}{80E4}{40:70}{40:63}We{80F4}re here to meet\nyou at {40:72}{u17}master\n{40:72}{u06}{80F4}s request{80E4}{40:61}{40:63}
+
+[0x9ed5ff]	A misonhat beWeve been asked to find out whether you are being unfairYou mean the rumors of me playing favorites PleaseWhat ever could I hope to gain from fixing an engagement
+   RAW: A mis{8001}{u46}{uD2}on{80EA}{8011}{u48}{uC6}hat\n{u90}{u1B}{40:D0}{800D}{40:DD}{8027}{40:DD}{uA0}{u15}{u44} be{8027}{u42}{WAIT}{40:63}{u20}We{80F4}ve been asked to\nfind out whether you\nare being unfair{80E4}{40:61}{40:63}You mean the rumors\nof me playing\nfavorites{80EA} Please{80EB}{40:70}{40:63}Wha
+
+[0x9edab9]	TxrvlNpXpAs you know judges in Cyril and Bagubahave been sent to prisonThey were abusing their power as judges
+   RAW: {sA0}{u01}\n{u02}{sEC}{u02}{s88}{u03}{u30}{u04}T{u04}{u2A}{u05}x{u05}{sA0}{u06}{sB0}{u06}{s8A}{u07}{sF0}{u07}{u5A}{u08}{sA6}{u08}{u36}{u09}{s92}{u09}r{u09}{u12}{u0A}{u4A}{u0A}{u62}{u0A}{u08}{u0B}{u64}{u0B}{u0A}{u0C}{u7E}{u0C}{sF6}{u0C}{s84}{u0D}v{u0D}{u4A}{u0E}{s84}{u0E}{u4C}{u0F}l{u0F}{u2E}{u10}{s9C
+
+[0x9ee44f]	The judgnr ofs
+   RAW: The judg{u90}{u0B}{u42}{uD2}n{8011}{40:CC}{8019}{u42}{uCA}r{u90}{u13}{u44}\nof{8025}{40:DD}{uA0}{u2D}{40:D9}{8017}{u42}{uD2}s{8015}{u48}{uD7}{80EB}{80EA}{40:61}{40:63}{u20}{u20}
+
+[0x9eea09]	You knld asneMydge
+   RAW: You kn{8009}{u42}{uE0}{80EC}{800B}{40:E2}{uA0}{u13}{40:CC}{u88}{u1B}{u47}ld\na{8007}{40:E0}{8005}{u42}{uE2}s{802D}{40:D3}{8035}{u42}{uD2}n{8037}{u4A}{uD6}e{80EA}{40:70}{40:63}M{8023}{u42}{uD7}y{u90}{u1D}{u44}{uDE}dg{8019}{u88}{u2B}{40:D1}{803B}{u42}{uDF}e{u90}{u2B}{40:CA}{8017}{40:CE}{804D}{40:DD}{u9
+
+[0x9ef461]	So theylk younUmso where do I come into the pictureArent you enough of a mediator by yourself
+   RAW: So they{u90}{u09}{u44}{uCA}lk{800D}{u48}{uCD}\nyou{801F}{u42}{uD2}n{8023}{u88}{u29}{40:D2}{802B}{40:EC}{uB0}{u31}{u46}{uD7}{80EA}{40:61}{40:63}{u20}Um{80E4}{80E4}{80E4}so where do\nI come into the\npicture{80EA}{40:70}{40:63}Aren{80F4}t you enough\nof a mediator by\nyourself{80EA}{40:61}{40:63}
+
+[0x9f0245]	So hlday yingPay me Oh Im fine really You dont have to pay meI already got paid for the mission anywayYeah but I feel like I should give you something after all
+   RAW: So{80EC} h{8007}{40:E0}{8007}{40:DC}{u90}{u09}{u44}{uDE}ld{8015}{40:B8}{8019}{u48}{uD9}ay\ny{u88}{u17}{8029}{40:CF}{8031}{40:DB}{u90}{u31}{40:CE}{8025}{u46}{uD9}ing{8041}{40:D6}{800F}{u44}{uEA}{40:61}{40:63}{u20}Pay me{80EA} Oh{80EC} I{80F4}m fine{80EC}\nreally{80E4} You don{80F4}t\nhave to pay me{80E4
+
+[0x9f3adb]	Were Clan d w tious
+   RAW: We{80F4}re\nClan {40:25}{u03}{80EC}{40:70}{40:63}{u88}{u0E}{u45}d w{uB0}{u26}{u42} t{8024}{u42}{uD4}i{8019}{40:D0}{8019}{u44}{uE2}ou{803C}{u88}{u0F}{40:EC}{8029}{40:B6}{8042}{40:CB}{8001}{u88}{u39}{40:CA}{8039}{40:B1}{805C}{40:D8}{8033}{40:D1}{8068}{u49}{uDB}s{80EB}{40:61}{40:63}
+
+[0x9f3f5d]	Were Clan You cbst yn
+   RAW: We{80F4}re\nClan {40:25}{u03}{80E4}{40:70}{40:63}You c{u98}{u18}{u41}b{800F}{u44}{uCA}st{8013}{40:CA}{u90}{u0D}{40:DE}{800B}{u42}\ny{u90}{u09}{40:DB}{8029}{40:CE}{800B}{40:CE}{8031}{40:D2}{u90}{u2F}{40:D9}{805A}{40:D2}{802F}{u42}{uD8}n{8051}{u43}{WAIT}{40:63}
+
+[0x9f3fcd]	Were Clan You th
+   RAW: We{80F4}re\nClan {40:25}{u03}{80E4}{40:70}{40:63}You{uA0}{u20}{u44} th{802A}{u88}{u11}{40:D0}{8009}{u4B}{uEC}\n{40:72}{40:80}{uEB}{40:61}{40:63}{u20}{u30}
+
+[0x9f4770]	I didnt really want to come here but we gotta do this gulp
+   RAW: I didn{80F4}t really want\nto come here{80EC} but we\ngotta do this{80E4} {u81}{u09}gulp{u81}{u09}{40:61}{40:63}
+
+[0x9f4d7c]	DDark Duke Kupopo But I guess we gotta dowhatwegottakupo
+   RAW: {40:21}{u02}D{80FE}Dark Duke{80EA} Kupopo{80EB}\nBut{80EC} I guess we gotta\ndo{40:3E}{u04}what{40:3E}{u04}we{40:3E}{u04}gotta{80EC}{40:3E}{u04}kupo{80E4}{40:61}{40:63}
+
+[0x9f4ed7]	Eh Wtent sloubyThe games up We know youre guilty so give it backWho said anything about a ruby Guilty conscience got you
+   RAW: Eh{80EA} W{8007}{u42}{uCA}t{uA0}{u0B}{40:CE}{8011}{u88}{u0F}{u4C}{uDF}en{80F4}t\ns{801D}{u42}{uD8}l{u88}{u11}{802F}{u42}{uD7}o{8035}{u4C}{uDB}uby{80EB}{40:61}{40:63}{u20}The game{80F4}s up{80EB}\nWe know you{80F4}re guilty{80EC}\nso give it back{80EB}{40:61}{40:63}Who said anything\nabout a ruby{80EA} G
+
+[0x9f6000]	hisss Ill never forgive you Painbringer
+   RAW: {u81}{u09}hisss{u81}{u09}\nI{80F4}ll never forgive\nyou{80EB} Pain{80FE}bringer{80EB}{40:61}{40:63}
+
+[0x9f6437]	The magewyrmsd sllo
+   RAW: The magewyrm{8011}{u42}{uD2}s{8017}{40:CD}{8013}{u44}{uCA}d\n{801F}{40:D7}{8007}{u42} s{8031}{u44}{uCA}ll{8035}{40:DB}{u88}{u25}{u90}{u3F}{u42}{uD7}o{u90}{u45}{40:D8}{803D}{u46}{uCE}{80E4}{40:61}{40:63}{u20}{u30}
+
+[0x9f67cd]	The Salikaerds gst Gmxntlt The keeplords ghost Well Gaols not here Guess Ill fight youThe keeplords ghost With Gaol gone its up to us kupo
+   RAW: The Salika{800D}{u42}{uBA}e{8001}{40:D9}{8011}{u4C}{uD8}rd{80F4}s\ng{802B}{u46}{uD8}st{80E4}{u88}{u47} {40:70}{40:63}{s80}G{s80}{u23}{40:E0}{s80}{u41}{40:D6}{s80}{u41}{u42}m{s80}x{s80}{u4B}{40:E2}{s80}{u3D}{40:CA}{s80}{u37}{40:DC}{s90}{u0B}{u42}n{s80}t{s80}{u3B}{u42}l{s80}t{s88}{u39}{s80}{u69}{40:D1}
+
+[0x9f75ed]	I wonderfhegl vsWe finally finished them off I wonder what lies aheadWe finally finished them off Wonder what liess ahead
+   RAW: I wonder{800D}{u42}{uD2}f{8013}{u44}{uDD}he{801B}{40:D6}{801B}{u44}{uD8}gl{800D}{u42}\nv{801D}{40:D5}{800B}{40:CA}{8011}{u88}{u1D}{40:D5}{802D}{u42}{uCE}s{8043}{40:CB}{803D}{40:E2}{uA0}{u47}{u44}{uEA}{40:61}{40:63}{u20}We finally finished\nthem off{80E4} I wonder\nwhat lies ahead{80EA}{40:61}{40:63}We 
+
+[0x9f7727]	I wonderfhegl vsFinally we finished them off I wonder what could lie aheadWe did it kupo Now we can find s legendary village
+   RAW: I wonder{800D}{u42}{uD2}f{8013}{u44}{uDD}he{801B}{40:D6}{801B}{u44}{uD8}gl{800D}{u42}\nv{801D}{40:D5}{800B}{40:CA}{8011}{u88}{u1D}{40:D5}{802D}{u42}{uCE}s{8043}{40:CB}{803D}{40:E2}{uA0}{u47}{u44}{uEA}{40:61}{40:63}{u20}Finally{80EC} we finished\nthem off{80EB} I wonder\nwhat could lie ahead{80EA}{40:61
+
+[0x9f82cf]	Well aveht udgYoure caught and you still wont speak Creepy
+   RAW: We{80F4}ll {8005}{u46}{uCE}ave{800B}{u42}{uDD}h{u90}{u07}{40:DB}{801F}{u44}{uDC}t\n{8011}{40:D8}{uC0}{u17}{u46}{uD3}udg{u90}{u1D}{u44}{uE4}{40:61}{40:63}{u20}You{80F4}re caught{80EC} and\nyou still won{80F4}t speak{80EA}\nCreepy{80E4}{80E4}{80E4}{40:61}{40:63}{8032}
+
+[0x9f8381]	Got y WellvehogStill silent You will speak in prison Id wagerWell thats over I leave the rest up to the judgesWell thats finally over kupo The judges will take care of you
+   RAW: Got y{8007}{u4E}{uDE}{80EB}\nWe{80F4}ll{8015}{40:D5}{800B}{u44}{uCA}ve{8021}{u42}{uDD}h{u90}{u07}{40:DB}{801F}{40:DC}{8001}{40:DD}{802B}{u42}{uDD}o{uC0}{u19}{40:D3}{8041}{u42}{uCD}g{uA0}{u1F}{u44}{uE4}{40:61}{40:63}{u20}Still silent{80EA}\nYou will speak in\nprison{80EC} I{80F4}d wager{80E4}{40:61}{40:
+
+[0x9f864f]	No wayreoing thKupopo Im ready to win this tourney kupo
+   RAW: No way{8007}{u44}{uCA}re{u90}{u0F}{u88}{u05}{u4C}{uD0}oing\nt{u90}{u27}{40:D5}{8011}{40:DC}{u90}{u21}{u42}{uDD}h{801B}{40:DC}{803B}{40:D8}{8021}{u46}{uCE}{80EB}{40:61}{40:63}{u20}{40:21}{u01}Kupopo{80EB}\nI{80F4}m ready to win\nthis tourney{80EC} kupo{80EB}{40:61}{40:63}{u2D}{u11}
+
+[0x9fa13d]	Some pelid thnAtgZudm
+   RAW: Some pe{800B}{u42}{uD9}l{u90}{u0D}{u44}{uCD}id{8015}{40:D5}{8007}{40:D4}{801F}{u44}\nth{u90}{u27}{u42}{uDC}n{8033}{u42}{uE0}{80E4}{u88}{u47}{40:70}{40:63}{s80}A{s80}t{s80}{u1D}{40:EC}{s80}{u43}{40:E2}{s80}{u4D}{40:DE}{s90}{u23}{40:D1}{s88}{u09}{s80}{u4B}{s88}{u43}{u44}g{s80}Z{s80}u{s90}{u43}{40:D0}{s
+
+[0x9fa3c8]	ProfessorWeare Clan Weve come to help
+   RAW: Professor{40:3E}{u04}{40:72}{u47}{80EA}{40:3E}{u04}We{40:3E}{u04}are\nClan {40:25}{u03}{80E4}\nWe{80F4}ve come to help{80E4}{40:61}{40:63}
+
+[0x9fa47e]	Professor kupo Were Clan kupoWere here to help you kupo
+   RAW: {40:21}{u02}Professor {40:72}{u47}{80EC}\nkupo{80EA} We{80F4}re Clan\n{40:25}{u03}{80EC} kupo{80EB}{40:70}{40:63}We{80F4}re here to help\nyou{80EC} kupo{80EB}{40:61}{40:63}
+
+[0x9fb237]	Now whereldt nggg
+   RAW: Now where{800B}{40:CC}{8013}{u44}{uDE}ld{8017}{40:DD}{8017}{u44}{uCA}t\n{801B}{u44}{uD2}ng{802B}{40:CB}{8029}{40:E4}{u90}{u44}{sEA}{40:70}{40:63}{sA0}{u0B}{40:E4}{s80}{u23}{u42}{sB0}{s80}g{s80}{u4B}{s88}{u31}{u42}g{s80}{sEB}{s80}{u55}{40:B7}{sB0}{u53}{40:D2}{s80}{u43}{s88}{u05}{40:DC}{s80}{u17}{u42}{
+
+[0x9fb2a7]	Got toinda r Gdhr
+   RAW: Got to{8005}{u46}{uCF}ind{u90}{u0F}{u42}{uD1}a{8019}{u42}\nr{u90}{u13}{u42}{uD0}{80E4}{u88}{u43}{40:70}{40:63}{s98}{u09}{s80}{u0B}{u44}\n{s80}G{s80}d{s80}{u1F}{40:CE}{s80}{u3F}{40:D2}{s90}{u45}{u48}h{s80}r{s80}{sEB}{40:61}{40:63}{u20}
+
+[0x9fb3b3]	Got toinda r Gdhr
+   RAW: Got to{8005}{u46}{uCF}ind{u90}{u0F}{u42}{uD1}a{8019}{u42}\nr{u90}{u13}{u42}{uD0}{80E4}{u88}{u43}{40:70}{40:63}{s98}{u09}{s80}{u0B}{u44}\n{s80}G{s80}d{s80}{u1F}{40:CE}{s80}{u3F}{40:D2}{s90}{u45}{u48}h{s80}r{s80}{sEB}{40:61}{40:63}{u20}
+
+[0x9fb40c]	Got toinda rup JGdhr
+   RAW: Got to{8005}{u46}{uCF}ind{u90}{u0F}{u42}{uD1}a{8019}{u42}\nr{u90}{u13}{u42}{uD0}{80EC}{8025}{u44}{uD4}up{8031}{40:E4}{u88}{u43}{40:70}{40:63}{s98}{u09}{s80}{u0B}{u45}\n{40:21}{u01}{s80}J{sA0}{u1E}{s88}{u22}{40:EB}{s80}{u54}{u42}G{s80}d{s80}{u3E}{40:CE}{s80}{u5E}{40:D2}{s90}{u64}{u42}h{s80}r{s80}{u17}{
+
+[0x9fbdb5]	The oasisu beyd Theress a sspring there Weve found the oassiss
+   RAW: The oasis{800B}{u98}{u05}{u42}{uD3}u{8011}{u48}{uDD}\nbey{8021}{u44}{uD7}d{80EB}{802B}{40:BB}{800F}{u42}{uDD}{80F4}{u90}{u2B}{40:D0}{8039}{u44}{uEB}{40:61}{40:63}{u20}{80E4}{80E4}{80E4}{80EB} There{80F4}ss a\nsspring there{80EB} We{80F4}ve\nfound the oassiss{80EB}{40:61}{40:63}
+
+[0x9fbec7]	Thers apng WeouaTheres a spring there kupo Weve found the oasis kupo
+   RAW: Ther{8003}{u46}{uF4}s a{8003}{u42}{uDC}p{8011}{u44}{uD2}ng{8011}{40:DD}{uB0}{u21}{u44}{uEB}\nW{u90}{u29}{u42}{uDF}e{802B}{u44}{uCF}ou{8025}{40:CD}{uA8}{u25}{803F}{u42}{uD8}a{803F}{40:D2}{8043}{u44}{uEB}{40:61}{40:63}{u20}{40:21}{u01}There{80F4}s a spring\nthere{80EC} kupo{80EB} We{80F4}ve\nfound the oa
+
+[0x9fd581]	First Ieafs bngWlk mYour turf I hope youre prepared to defend it
+   RAW: First I{8003}{u44}{uD1}ea{8011}{40:CD}{800F}{u42}{uD8}f{8015}{40:DD}{8013}{u46}{uD2}s\nb{801B}{u44}{uD2}ng{802B}{40:CA}{8007}{40:E2}{8021}{40:D7}{802F}{40:F4}{801D}{u88}{u27}{40:DE}{8049}{u48}{uCF}{80EB}{40:70}{40:63}W{u90}{u17}{u42}{uD5}l{8057}{8037}{u90}{u47}{u42}{uCA}k{uA0}{u3F}\n{u90}{u55}{40:CA}{
+
+[0x9fecef]	You canh r uAre we Well try saying that after you beat usYeah ssure Youre not too impresssive yourself kid
+   RAW: You can{8007}{40:DC}{8007}{40:E2}{800F}{u42}{uDD}h{8011}{u42}{uDD}\n{8017}{40:CF}{800D}{u42}{uCE}r{8025}{40:E2}{uA0}{u2D}{40:CB}{800F}{u88}{u1D}{u42} u{8031}{u44}{uEB}{40:61}{40:63}{u20}Are we{80EA} Well{80EC} try\nsaying that after\nyou beat us{80EB}{40:61}{40:63}Yeah{80EC} ssure{80E4} You{80F4}re\nnot
+
+[0x9ff3c5]	We knowidt Just
+   RAW: We know{8009}{40:E2}{8007}{40:DE}{8011}{u44}{uCD}id{8019}{u4E}{uD2}t{80EB}\nJust{802B}{40:CA}{801B}{40:D6}{u88}{u17}{uB0}{u1D}{u42}{WAIT}{40:63}{u20}{u30}
+
+[0xa0184b]	Who dounk re
+   RAW: Who d{u90}{u05}{u44}{uE2}ou{800D}{40:DD}{8015}{u46}{uD2}nk\n{uB0}{u13}{u48}{uCA}re{80EB}{80EA}{802D}{40:B6}{8009}{40:DD}{8035}{40:F4}{8011}{u46}{uD6}{80EB}{40:61}{40:63}{u20}{u30}
+
+[0xa02917]	Where didll bomLook at all of them Where did they all come fromYipess Jusst looking at them ssingess my sskinThe fire will spread if they enter Cadoan We must stop them
+   RAW: Where did{8007}{u44}{uCA}ll{800F}{40:DD}{u90}{u1B}{40:DC}{801B}{u46}\nbom{8005}{40:DC}{8027}{40:CC}{u90}{u0B}{u88}{u31}{40:CF}{8039}{u88}{u17}{u44}{uEA}{40:61}{40:63}{u20}Look at all of them{80EB}\nWhere did they all\ncome from{80EA}{40:61}{40:63}Yipess{80EB} Jusst looking\nat them ssingess my\nsskin{80E
+
+[0xa04853]	The earthgi Hbnz
+   RAW: The earth{800B}{40:B5}{800B}{u42}{uD5}g{8011}{u42}{uCB}i{8015}{u42}{uCD}\n{801D}{40:D7}{8007} {u88}{u21}{uF0}{u2F}{40:DC}{8025}{40:D0}{8029}{u42}{uD5}{80E4}{u88}{u45}{40:70}{40:63}{s80}H{sA0}{u2B}{40:D2}{s80}{u37}{40:D4}{s80}{u5F}{s88}{u0F}{40:DC}{s80}{u65}{s88}{u6B}{40:CA}{s80}{u4F}{u42}b{s80}n{s80}
+
+[0xa04983]	The earthgi HduZ bn
+   RAW: The earth{800B}{40:B5}{800B}{u42}{uD5}g{8011}{u42}{uCB}i{8015}{u42}{uCD}\n{801D}{40:D7}{8007} {u88}{u21}{uF0}{u2F}{40:DC}{8025}{40:D0}{8029}{u42}{uD5}{80E4}{u88}{u45}{40:70}{40:63}{s80}H{s80}{u53}{40:CB}{s80}{u55}{40:D5}{s80}{u41}{u42}d{s80}u{s90}{u63}{s88}{u13}{40:DC}{s80}{u69}{s88}{u6F}{u42}Z {s80}
+
+[0xa073ba]	We did it kupo So much for Clan Borzoi andtheRedwingskupo
+   RAW: {40:21}{u01}We did it{80EC} kupo{80EB} So\nmuch for Clan Borzoi\nand{40:3E}{u04}the{40:3E}{u04}Redwings{80EC}{40:3E}{u04}kupo{80EB}{40:61}{40:63}
+
+[0xa07a3f]	Watch whoouus This is most surprisingWe are nothing but courteous to our fellow clansWe certainly dont want to get in your way Lets be friendsWhats the big idea kupo Why cant we be friends kupo
+   RAW: Watch who{8007}{u44}{uE2}ou{800F}{40:CA}{8017}{u44}{uCC}us{8001}{u42}{uCE}\n{8015}{40:CF}{uA0}{u25}{u88}{u33}{40:EC}{8031}{40:CB}{801D}{40:CD}{8001}{u46}{uE2}{80EB}{40:61}{40:63}{u20}This is most\nsurprising{80EB}{40:70}{40:63}We are nothing but\ncourteous to our\nfellow clans{80E4}{40:61}{40:63}We cert
+
+[0xa0806a]	Youmaybetoughwhere you come from but not here misster
+   RAW: You{40:3E}{u04}may{40:3E}{u04}be{40:3E}{u04}tough{40:3E}{u04}where\nyou come from{80EC} but\nnot here{80EC} misster{80EB}{40:61}{40:63}
+
+[0xa08127]	You mayegh tellos
+   RAW: You may{8007}{u42}{uCB}e{800D}{40:DD}{u88}{u15}{u47}gh{80EC}\n{8013}{u42}{uDE}t{8023}{u48}{uE0}e{80F4}ll{802F}{u42}{uCD}o{8035}{u88}{u25}{40:DB}{u98}{u35}{u41}s{8035}{u44}{uEB}{40:61}{40:63}{u20}{u20}
+
+[0xa09045]	Cart menShell come out if we usse a little painful perssuassion
+   RAW: Car{8001}{u46}{uD8}t{80EA} {uE0}{u0F}\n{801F}{u44}{uD8}me{8019}{u42}{uD8}n{u90}{u05}{40:DE}{8029}{u44}{uEB}{40:61}{40:63}{u20}She{80F4}ll come out\nif we usse a little\npainful perssuassion{80E4}{40:61}{40:63}{u20}
+
+[0xa0a0f7]	This urn Lem
+   RAW: This {uA0}{u05}{u44}{uD8}ur{800D}{40:CC}{8017}{u42}{uCA}n{8007}{u48}{uCE}{80FE}{80FE}\nL{8009}{u42}{uDD}{80F4}{u90}{u2B}{40:CC}{801B}{40:D9}{800D}{802B}{u41}e{803B}{40:DD}{8045}{u48}{uCE}m{80EB}{40:61}{40:63}{u20}
+
+[0xa0a8e5]	We wonr thaiWere the oness who sspared your livess
+   RAW: We won{80EB}{8009}{u98}{u0F}{u42}{uCD}r{8011}{40:DF}{801B}\n{8019}{u42}{uDE}t{8023}{u42}{uDD}h{u90}{u2B}{u42}{uCB}a{802B}{u42}{uCD}i{8011}{40:DC}{8033}{u42}{WAIT}{40:63}{u20}We{80F4}re the oness\nwho sspared your\nlivess{80EB}{40:61}{40:63}
+
+[0xa0b21e]	I can still fight collapse
+   RAW: I can still{80E4}{80E4}{80E4}\nfight{80E4}{80E4}{80E4}\n{u81}{u09}collapse{u81}{u09}{40:61}{40:63}
+
+[0xa0b755]	Wht went qnWe won I wonder if we can beat our next opponent too
+   RAW: Wh{80FE}{u90}{u05}{u4E}{uCA}t went{80E4}{u88}{u41}\n{s80}{u0F}{u42}q{s80}n{s80}{u11}{40:D0}{s98}{u11}{u45}{s80}{sEA}{40:61}{40:63}{u20}We won{80EB} I wonder\nif we can beat our\nnext opponent{80EC} too{80EA}{40:61}{40:63}{u20}
+
+[0xa0d9c1]	There must difnolGot the antilaw We got nothing to fear in engagementsGot the antilaw Im ready to take on any foessRebelling against the court cannot be the only solutionAll right Now we can engage without a single worryI dislike the idea of rebelling against the court kupo
+   RAW: There must{8009}{40:CB}{u90}{u0F}{u48}{uCA}\ndif{8001}{u90}{u23}{u41}n{u90}{u1D}{u44}{uDC}ol{802B}{40:DD}{801B}{40:D8}{8013}{40:E4}{u88}{u43}{40:61}{40:63}{u20}Got the antilaw{80EB}\nWe got nothing to\nfear in engagements{80EB}{40:61}{40:63}Got the antilaw{80EB}\nI{80F4}m ready to take\non any foess{80EB
+
+[0xa11a8f]	Bad isn ustheNo judge will side with you understand You act alone
+   RAW: Bad is{8005}{40:CB}{u88}{u0D}{u41}{80EC}{800F}{u42}{uCA}n{8017}\n{u98}{u11}{801F}{u46}{uD6}ust{u90}{u23}{40:CE}{802F}{40:D9}{800F}{40:D7}{u88}{u35}{u43}he{8033}{u44}{uE4}{40:61}{40:63}{u20}No judge will side\nwith you{80EC} understand{80EA}\nYou act alone{80EB}{40:61}{40:63}{8032}
+
+[0xa13887]	Wel thatrs neWell as long as you realize you did wrong
+   RAW: Wel{8001}{u4A}{uEC} that{8009}{u42}{uE0}r{8009}{u44}{uD9}s\n{uC0}{u15}{u44}{uD8}ne{8027}{40:DE}{8019}{u44}{uE4}{40:61}{40:63}{u20}Well{80EC} as long as you\nrealize you did\nwrong{80E4} {40:61}{40:63}
+
+[0xa14717]	Got smething agrIs that a blank card I would hope it does not get completedI wont be held to a law that doesnt make any sense
+   RAW: Got s{8001}{u54}{uD8}mething\nag{8003}{u88}{u0D}{u88}{u1F}{u88}{u27}{u42}{uCD}r{u90}{u15}{40:D8}{8037}{u88}{u15}{u44}{uEA}{40:61}{40:63}{u20}Is that a blank card{80EA}\nI would hope it does\nnot get completed{80E4}{40:61}{40:63}I won{80F4}t be held to\na law that doesn{80F4}t\nmake any sense{80EB}{40:61}
+

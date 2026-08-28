@@ -1,0 +1,15 @@
+# ป้ายสถานะ/ธาตุ UI สั้น  (13 รายการไม่ซ้ำ)
+
+[0x391787]	Clan activity suspended—
+[0x3917b8]	days
+[0x3917d4]	Rate
+[0x3917dd] x2	Rank
+[0x3917e6]	Cards
+[0x391806]	FIRE
+[0x39180f]	WND
+[0x391816]	ERT
+[0x39181d]	WTR
+[0x391824]	ICE
+[0x39182b]	LGT
+[0x391832]	HLY
+[0x391839]	DRK
