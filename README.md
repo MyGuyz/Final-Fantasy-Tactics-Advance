@@ -2,7 +2,7 @@
 
 เอกสารส่งต่องาน (handoff) สำหรับคนที่จะมาทำต่อ
 
-**สถานะ:** แกะข้อความออกมาได้แล้ว **88.4%** — ยังไม่เริ่มแปล และยังหาฟอนต์ไม่เจอ
+**สถานะ:** แกะข้อความออกมาได้แล้ว **88.4%** — ยังไม่เริ่มแปล ฟอนต์เจอ ROM offset ต้นข้อมูลแล้วแต่ยังถอด compression scheme ไม่ครบ
 
 ---
 
@@ -14,12 +14,12 @@
 | ระบบบีบอัด LZ77 / LZSS / embedded-LZSS | ✅ ถอดได้ทั้ง 3 แบบ |
 | แกะข้อความออกมา | 🟡 **3,017 / 3,411 บรรทัด (88.4%)** — เหลือ 394 บรรทัด |
 | จัดหมวดหมู่ข้อความ | ✅ 10 หมวด |
-| หาตำแหน่งฟอนต์ในเกม | ❌ **ยังหาไม่เจอ** |
+| หาตำแหน่งฟอนต์ในเกม | 🟡 เจอ ROM offset ต้นข้อมูล (`0x08405EAA`) + ฟังก์ชันวาดกลิฟแล้ว เหลือถอด compression scheme |
 | แปลเป็นไทย | ❌ ยังไม่เริ่ม |
 | ฝังฟอนต์ไทย + แปะข้อความกลับ | ❌ ยังไม่เริ่ม |
 
 **งานถัดไปที่ควรทำ 2 อย่าง** (ทำพร้อมกันได้ ดู [ROADMAP_TO_100.md](ROADMAP_TO_100.md)):
-1. หาฟอนต์ + เก็บ 394 บรรทัดที่เหลือ → ใช้ emulator (mGBA) เป็นทางที่ชัวร์ที่สุด
+1. ถอด compression scheme ของฟอนต์ให้ครบ (รู้ ROM offset ต้นข้อมูล `0x08405EAA` และฟังก์ชันวาดกลิฟแล้ว — ดูหัวข้อ "ปัญหา 2" ด้านล่าง) + เก็บ 394 บรรทัดที่เหลือ → ใช้ headless mGBA + watchpoint (build เองจาก source ได้ ไม่ต้องมี GUI)
 2. เริ่มแปล 88.4% ที่ได้แล้วคู่ขนานไปเลย ไม่ต้องรอ
 
 ---
@@ -153,8 +153,12 @@ a-z = 0xCB - 0xE4
 | `0x00569104` | ตารางทรัพยากรสไปรต์ (record ละ 88 ไบต์) |
 | `0x0014186C` | wrapper `CpuSet` (753 จุดเรียก) |
 | `0x00141868` | wrapper `CpuFastSet` (91 จุดเรียก) |
-| `0x0014188C` | wrapper `LZ77UnCompVram` (**5 จุดเรียก — ไล่ครบแล้ว**) |
-| `0x00141890` | wrapper `LZ77UnCompWram` (58 จุดเรียก — **ยังไม่ไล่**) |
+| `0x0014188C` | wrapper `LZ77UnCompVram` (**5 จุดเรียก — ไล่ครบแล้ว ไม่มีฟอนต์**) |
+| `0x00141890` | wrapper `LZ77UnCompWram` — **แก้ไข:** สแกนจริงเจอ **19 จุดเรียก** (ไม่ใช่ 58 ตามที่เคยบันทึกผิด) ไล่ static แล้วไม่เจอฟอนต์ |
+| `0x08405EAA` | **ข้อมูลกลิฟฟอนต์ (ยืนยันด้วย watchpoint ตอนรันจริง — น่าจะกลางตาราง ไม่ใช่จุดเริ่ม)** 🟡 |
+| `0x0800555C–0x08005570` | โค้ดฟังก์ชัน byte-copy loop ของตัวถอดฟอนต์ (อ่าน ROM → เขียน WRAM) |
+| `0x0800543C` | ฟังก์ชัน "วาดกลิฟ" ระดับกลาง (เรียก loop ด้านบน) |
+| `0x080CB800–0x080CB8B4` | ฟังก์ชันวาดข้อความระดับสูง (เรียก `0x0800543C`) |
 
 **ย่านข้อความหลัก:**
 - `0x9C0000–0xA20000` — บทสนทนาเนื้อเรื่อง (ส่วนใหญ่บีบอัด)
@@ -188,13 +192,40 @@ B มีกลุ่มพิเศษแทรกเพิ่ม 1 ชุดต
 
 **ยังไม่รู้:** หน่วยของ offset (ไบต์ input? output? ตัวอักษร?) และความหมายที่แน่นอนของ 4 บิตบน
 
-### ปัญหา 2: หาฟอนต์ไม่เจอ
+### ปัญหา 2: หาฟอนต์ — 🟡 คืบหน้ามาก (เจอตำแหน่งจริงใน ROM แล้ว รอถอด compression scheme)
 
-ไล่ `LZ77UnCompVram` ครบทั้ง 5 จุดแล้ว เจอแค่โลโก้ไตเติล + ภาพพื้นหลัง + สไปรต์ **ไม่มีฟอนต์**
+**อัปเดตล่าสุด:** ไล่ `LZ77UnCompVram` ครบ 5 จุดแล้วไม่เจอฟอนต์ (เจอแค่โลโก้/พื้นหลัง/สไปรต์ ตามที่บันทึกไว้เดิม) — ตัวเลข "58 จุด" ของ `LZ77UnCompWram` ที่เคยบันทึกไว้ไม่ถูกต้อง (สแกนจริงด้วย `find_bl_callers` เจอแค่ **19 จุด**) และ static analysis (ทั้ง brute-force pattern scan และ capstone disassembly) หาไม่เจอฟอนต์เลยแม้แต่บล็อกเดียวจากในบรรดา 3,371 บล็อก LZ77 มาตรฐาน + 615 บล็อก LZSS ของเกมเองที่ scan ได้ทั้ง ROM
 
-สรุปว่าฟอนต์น่าจะไปทาง `LZ77UnCompWram` (58 จุด) หรือ copy ตรงผ่าน `CpuSet` (753 จุด) ซึ่งเยอะเกินจะไล่มือ
+**เปลี่ยนวิธีมาใช้ dynamic analysis แทน** — build mGBA core + Python bindings แบบ headless (ไม่ต้องมี GUI, compile จาก source เอง) รันเกมจริงพร้อม watchpoint ดักการเขียนหน่วยความจำ ผลที่ได้ (ยืนยันด้วยภาพจริงจาก VRAM ตอนรัน ไม่ใช่การเดา):
 
-**ทางแก้ที่เร็วที่สุด:** เปิด mGBA → Tools → Game State Views → Tile Viewer ตอนมีกล่องข้อความบนจอ จะเห็นฟอนต์ทันที (รายละเอียดใน [ROADMAP_TO_100.md](ROADMAP_TO_100.md))
+1. **ฟอนต์ไม่ได้เก็บเป็น tile sheet สำเร็จรูปแบบ LZ77/LZSS ธรรมดา** — มันถูก**ประกอบขึ้นที่ runtime ด้วย CPU** (ldrb/strb loop ทีละไบต์ ไม่ผ่าน BIOS decompress หรือ DMA) อธิบายได้ว่าทำไม static scan ทุกแบบถึงหาไม่เจอมาตลอด
+2. **ข้อมูลต้นฉบับกลิฟอยู่ที่ ROM offset `0x08405EAA` เป็นต้นไป** (ยืนยันด้วย watchpoint จับ source-register ตอน CPU copy ทีละไบต์เข้า WRAM scratch buffer `0x02003CB0`) — แต่ **นี่ไม่ใช่จุดเริ่มตารางฟอนต์แน่ๆ** (น่าจะอยู่กลางตาราง เข้าถึงผ่าน index จาก charcode) ต้องหาจุดเริ่มตารางจริงเพิ่ม
+3. **รูปแบบการบีบอัด — เจอแล้ว: คือ LZSS-01 ตัวเดียวกับที่มีอยู่แล้วใน `tools/lzss01.py`!** (อย่างน้อยส่วน opcode "literal copy") ตรวจสอบด้วยการดึง copy-run 236 ครั้งจาก watchpoint log มาเทียบกับสูตร `n = (ctrl_byte & 0x3F) + 1` เมื่อ `ctrl_byte & 0xC0 == 0x40` (เหมือน `tools/lzss01.py` บรรทัด `elif b & 0x40: cnt = (b & 0x3F) + 1`) — **ตรงสูตรครบ 236/236 รอบ ไม่มีข้อยกเว้น** แต่ตัว stream นี้**ไม่มี header `0x01` + ขนาด 4 ไบต์แบบมาตรฐาน** ก่อนหน้า (แปลว่าฟังก์ชันวาดฟอนต์เรียก decoder ตัวนี้ตรงๆ โดยรู้ขนาดปลายทางอยู่แล้วจากที่อื่น ไม่ต้องอ่าน header) — ตัวควบคุมไบต์แรกอยู่ที่ ROM `0x08405EA9` (ค่า `0x4E` = copy 15 ไบต์ พอดีกับ 15 ไบต์แรกที่เห็นจริงใน WRAM) — **ยังไม่ครบ:** ส่วน "skip/gap" ระหว่าง run (เช่น opcode `0x20`-prefix fill-zero หรือ back-reference `0x80`-prefix) ยังไม่ verify ครบ ลองรัน decoder เต็มรูปแบบ (เอา `lzss_decompress_ex` เดิมมาปรับให้ไม่ต้องอ่าน header) แล้วเจอ error ที่ back-reference opcode (`NEG_TMP80`) หลัง 39 ไบต์ — น่าจะเป็นเพราะ font render มีหลาย "pass" ทับกัน (เช่น outline + fill) ไม่ใช่ stream เดียวรวด ต้องแยกวิเคราะห์เพิ่ม
+4. **ฟังก์ชันที่เกี่ยวข้อง** (ROM offset, ยืนยันด้วย disassembly จริงผ่าน capstone):
+   - `0x0800555C–0x08005570` — byte-copy loop ตัวใน (อ่าน ROM → เขียน WRAM buffer)
+   - `0x0800543C` — ฟังก์ชัน "วาดกลิฟ" ระดับกลาง (เรียก loop ด้านบน)
+   - `0x080CB800–0x080CB8B4` — ฟังก์ชันวาดข้อความระดับสูง (เรียก `0x0800543C`)
+   - ปลายทาง: WRAM scratch `0x02003CB0` → `CpuSet` (SWI `0x0B`) → VRAM `0x06009C00` / `0x06014800` / `0x06015800`
+5. **ยืนยันด้วยตา:** render buffer WRAM ตอนแสดงหน้าจอ New/Load Game เห็นตัวอักษร "Aa" และข้อความ "New" "Ent(er)" "OK" ชัดเจน
+
+**ขั้นต่อไป:** ใช้ watchpoint เดิมแต่ตั้งดักตั้งแต่ CPU เริ่มวาด**ตัวอักษรตัวแรกหลังบูตเครื่อง** (เร็วกว่านี้ในเกม) เพื่อไล่ backward หา index/pointer table ที่แปลง character code → offset ในตาราง และถอด RLE scheme ให้ครบ — วิธีการทั้งหมด (headless mGBA build + watchpoint) ใช้ซ้ำได้เลย ไม่ต้องเริ่มใหม่
+
+**วิธี build mGBA headless เอง** (ไม่มีใน repo นี้ เพราะเป็น external tool ไม่ใช่โค้ดโปรเจกต์ — ต้อง clone/build ใหม่ทุกครั้งที่ session ใหม่):
+```bash
+git clone --depth 1 https://github.com/mgba-emu/mgba /path/to/mgba
+cd /path/to/mgba && mkdir build && cd build
+# ต้องมี: cmake, gcc/g++, swig, python3-dev, cffi (pip), cached_property (pip)
+# และ libavcodec/avfilter/avformat/avutil/swscale/swresample -dev (สำคัญมาก — ไม่งั้น
+# libmgba.so จะขาด symbol EReaderScanLoadImageA และ Python bindings import ไม่ขึ้น
+# เพราะโค้ด e-reader scan ทั้งไฟล์ถูก #ifdef USE_FFMPEG ครอบไว้โดยไม่จำเป็น)
+cmake -DBUILD_QT=OFF -DBUILD_SDL=OFF -DBUILD_PYTHON=ON -DBUILD_LTO=OFF ..
+make -j$(nproc)
+```
+**กับดักที่เจอ** (เผื่อคนถัดไปเจอซ้ำ):
+- ต้อง apt install ffmpeg dev libs ให้ครบ (`libavcodec-dev libavformat-dev libavutil-dev libswscale-dev libswresample-dev libavfilter-dev`) ไม่งั้น `USE_FFMPEG` จะเงียบๆ ปิดตัวเองแม้ตั้ง `ON` ไว้
+- **ห้าม**เขียนโปรแกรม C ที่ include header ของ mgba โดยไม่ใส่ `-D` flag ชุดเดียวกับที่ build จริง (ดึงจาก `compile_commands.json`) — struct `mCore` มี field เปลี่ยนตาม macro พวกนี้ ถ้า `-D` ไม่ตรงจะได้ struct offset ผิด (`core->init` อ่านได้ค่า garbage แล้ว segfault) นี่คือบั๊กเดียวกับที่ cffi Python binding ของ mgba เจอ เพราะมันไม่ได้ parse header ด้วย macro ชุดเดียวกับตอน compile จริง — วิธีแก้คือเขียนโปรแกรม C คุยกับ `libmgba.so` ตรงๆ (ไม่ผ่าน Python binding) แล้วใส่ `-D` ให้ตรงเป๊ะ
+
+**วิธีตั้ง watchpoint** (mGBA มี debugger API พร้อมใช้): `mDebuggerInit` → `mDebuggerAttach(core)` → สร้าง `mDebuggerModule` ของตัวเอง (ใส่ callback `entered`) → `mDebuggerAttachModule` → `platform->setWatchpoint(...)` ระบุช่วง address ที่จะดัก ตอน callback ทำงาน อ่าน register ได้จาก `((struct ARMCore*)core->cpu)->gprs[0..15]` (มี `ARM_PC`/`ARM_LR`/`ARM_SP` เป็น constant) แล้วต้องตั้ง `module->isPaused = false;` ก่อน return ไม่งั้นเกมจะหยุดค้าง
 
 ---
 
