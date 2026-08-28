@@ -1,4 +1,4 @@
-# บทสนทนาเนื้อเรื่อง/คัตซีน/บทพูดตัวละคร (ส่วนใหญ่บีบอัด LZSS ฝังใน)  (1839 รายการไม่ซ้ำ)
+# บทสนทนาเนื้อเรื่อง/คัตซีน/บทพูดตัวละคร (ส่วนใหญ่บีบอัด LZSS ฝังใน)  (1843 รายการไม่ซ้ำ)
 
 [0x9c16ee]	Aww, man!
 Why do I get stuck
@@ -703,6 +703,13 @@ easy enough.
 ---
 [0x9c7a5b]	When can you
 start, kupo?
+---
+[0x9c7ab0]	Let's get ready,
+then.
+
+I want to make your
+first mission a
+success, kupo!
 ---
 [0x9c7b4e]	We'll have to deal
 with these monsters
@@ -2025,6 +2032,10 @@ repair your airship.
 [0x9d24ac]	No, it's OK. The
 clan already got
 its cut. Go ahead.
+---
+[0x9d2514]	Take it, kupo. It's
+going to cost a lot
+to fix her up...
 ---
 [0x9d25ca]	In order to fix her,
 I'd have to borrow
@@ -6449,6 +6460,10 @@ Let's get going.
 I'm sure your
 friend is waiting!
 ---
+[0x9fcf00]	It's over, kupo!
+Let's get going
+before more come!
+---
 [0x9fcfa2]	I wonder where
 Temil planted
 those flowers?
@@ -6512,6 +6527,10 @@ leave.
 [0x9fd6ca]	We really need that
 amber. Sorry, but
 we're not leaving!
+---
+[0x9fd73e]	We need amber, kupo!
+And this isn't
+anyone's turf!
 ---
 [0x9fd7b2]	Grr... And we had
 all that amber to

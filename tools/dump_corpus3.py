@@ -37,8 +37,12 @@ def decode_raw(buf):
             i += 2
         elif b == 0x40 and i + 1 < L:
             nx = buf[i + 1]
-            out.append(' ' if nx == 0x73 else (NL if nx == 0x6E else '{40:%02X}' % nx))
-            i += 2
+            if nx == 0x21 and i + 2 < L:
+                out.append('{VOICE:%02X}' % buf[i + 2])
+                i += 3
+            else:
+                out.append(' ' if nx == 0x73 else (NL if nx == 0x6E else '{40:%02X}' % nx))
+                i += 2
         elif b == 0x00:
             i += 1
         elif b == 0x6E:
@@ -99,6 +103,10 @@ def decode_buf(buf, start, depth=0):
                 continue
             if b == 0x40 and pos + 1 < L:
                 nx = buf[pos + 1]
+                if nx == 0x21 and pos + 2 < L:
+                    out.append('{VOICE:%02X}' % buf[pos + 2])
+                    pos += 3
+                    continue
                 out.append(' ' if nx == 0x73 else (NL if nx == 0x6E else '{40:%02X}' % nx))
                 pos += 2
                 continue
@@ -135,6 +143,10 @@ def decode_buf(buf, start, depth=0):
                 continue
             if b == 0x40 and pos + 1 < L:
                 nx = buf[pos + 1]
+                if nx == 0x21 and pos + 2 < L:
+                    out.append('{VOICE:%02X}' % buf[pos + 2])
+                    pos += 3
+                    continue
                 out.append(' ' if nx == 0x73 else (NL if nx == 0x6E else '{40:%02X}' % nx))
                 pos += 2
                 continue

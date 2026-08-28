@@ -1,4 +1,4 @@
-# ข้อความที่ถอดได้ไม่สมบูรณ์ (394 รายการ)
+# ข้อความที่ถอดได้ไม่สมบูรณ์ (386 รายการ)
 # สาเหตุ: ยังมีรูปแบบบีบอัด/back-reference แบบฝังในสตริงที่ยังถอดไม่ออก (ไม่มี marker 0x32)
 # บรรทัดแรก = ที่อ่านออกบางส่วน / บรรทัด RAW = ผลถอดดิบพร้อม placeholder
 
@@ -124,12 +124,6 @@
 
 [0x4b8a99]	fnLPFXXDVPjh was a big success We got a bonus
    RAW: {s92}{u01}{sF0}{u01}{u4C}{u02}{s9C}{u02}{u02}{u03}{u46}{u03}{s90}{u03}f{u03}{u04}{u04}{u4C}{u04}{s90}{u04}n{u04}{u26}{u05}{u5E}{u05}{sA4}{u05}{sE8}{u05}{u34}{u06}{u76}{u06}L{u06}{sFE}{u06}{u48}{u07}{sA0}{u07}{sEA}{u07}{u2A}{u08}{u6C}{u08}P{u08}{u0C}{u09}{u52}{u09}{s96}{u09}{sEE}{u09}{u2E}{u0A}{u6C}{
-
-[0x4b96d0]	kupo was a kupo success
-   RAW: {40:21}{u01}{40:25}{u0C}{80EC} kupo{80EB}\n{40:67}{80FB}{40:25}{u1C}{80FC}\nwas a kupo success{80EB}{40:77}{40:63}
-
-[0x4b9834]	kupo was too hard kupo
-   RAW: {40:21}{u04}{40:25}{u0C} kupo{80E4}{80E4}{80E4}\n{40:67}{80FB}{40:25}{u1C}{80FC}\nwas too hard{80EC} kupo{80E4}{40:77}{40:63}
 
 [0x4b9a18]	here With me asleadertheresnoneed to fear right
    RAW: {40:72}{u0A} here{80E4} With me\nas{40:3E}{u03}leader{80EC}{40:3E}{u03}ther{40:3C}{u01}e{80F4}s{40:3E}{u03}no{40:3E}{u03}need\nto fear{80EC} right{80EA}{40:77}{40:63}
@@ -816,19 +810,13 @@
    RAW: Kupo{80EB}\nThere y{8013}{40:DE}{8007}{40:CA}{u88}{u0F}{u41}{80EC}{8011}{40:D4}{uB0}{u29}{u43}{WAIT}{40:63}
 
 [0x9c67cf]	I candlyee ysWuI think our meeting like this was no accident kupoStick with me and Ill help you out OK kupo
-   RAW: I can{8007}{40:D1}{8007}{u46}{uDB}dly{8015}{u42}{uCB}e{8009}{40:D2}{8005}{u44}{uDF}e\n{8009}{40:DD}{802B}{u44}{uD6}ys{u90}{u19}{u48}{uCF}{80E4}{40:70}{40:63}W{u90}{u37}{u88}{u1B}{40:DC}{8041}{u42}{uD8}u{803F}{40:CD}{8055}{u88}{u59}{40:CD}{800F}{u44}{uEA}{40:61}{40:63}{u20}{40:21}{u03}I think our meet
-
-[0x9c71f0]	Uhoh dont tell me you dont know about thoseThe laws today forbid the use of all items kupoAlways be sure to check the laws or youll be sorry
-   RAW: {40:21}{u03}Uh{80FE}oh{80EC} don{80F4}t tell\nme you don{80F4}t know\nabout those{80EB}{40:70}{40:63}{40:21}{u02}The laws today\nforbid the use of\nall items{80EC} kupo{80EB}{40:70}{40:63}{40:21}{u02}Always be sure to\ncheck the laws{80EC}\nor you{80F4}ll be sorry{80EB}{40:61}{40:63}
+   RAW: I can{8007}{40:D1}{8007}{u46}{uDB}dly{8015}{u42}{uCB}e{8009}{40:D2}{8005}{u44}{uDF}e\n{8009}{40:DD}{802B}{u44}{uD6}ys{u90}{u19}{u48}{uCF}{80E4}{40:70}{40:63}W{u90}{u37}{u88}{u1B}{40:DC}{8041}{u42}{uD8}u{803F}{40:CD}{8055}{u88}{u59}{40:CD}{800F}{u44}{uEA}{40:61}{40:63}{u20}{VOICE:03}I think our meetin
 
 [0x9c74b1]	Infraction LbmsAll tKupo The slammer I hope I never get sent there
    RAW: Infraction {8005}{u44}{uCF}\nL{8015}{40:E0}{800D}{40:CF}{8015}{u42}{uDB}b{801D}{40:CD}{8001}{40:D2}{8031}{40:D0}{8023}{40:D2}{802F}{u50}{uCE}ms{80EB}{40:70}{40:63}All{803B}{40:DF}{u90}{u45}{40:D5}{8051}{40:DD}{u90}{u37}{40:DC}{804F}{40:E0}{8059}{u88}{u1D}\n{8045}{40:CE}{805F}{40:DC}{8039}{u42}{uD7}t{8
 
-[0x9c780c]	Collect judge pointsThat way you can use combos with other clan membersIt makes engagements a snap kupo
-   RAW: {40:21}{u01}Collect judge\npoints{80EB}{40:70}{40:63}{40:21}{u02}That way you can\nuse {80F6}combos{80F6} with\nother clan members{80E4}{40:70}{40:63}{40:21}{u02}It makes engagements\na snap{80EC} kupo{80EB}{40:61}{40:63}
-
 [0x9c7975]	xhRVFLRKupo You find any good missions kupo
-   RAW: x{u01}{u74}{u02}h{u02}{u18}{u03}{u60}{u03}R{u03}{u2A}{u04}{u4A}{u04}{u04}{u05}{u6A}{u05}V{u05}{s92}{u06}{s98}{u06}{s9E}{u06}{sA4}{u06}{sAA}{u06}{sB0}{u06}F{u06}L{u06}R{u06}{sFF}{sFF}{40:21}{u02}Kupo{80EA}\nYou find any good \nmissions{80EC} kupo{80EA}{40:61}{40:63}
+   RAW: x{u01}{u74}{u02}h{u02}{u18}{u03}{u60}{u03}R{u03}{u2A}{u04}{u4A}{u04}{u04}{u05}{u6A}{u05}V{u05}{s92}{u06}{s98}{u06}{s9E}{u06}{sA4}{u06}{sAA}{u06}{sB0}{u06}F{u06}L{u06}R{u06}{sFF}{sFF}{VOICE:02}Kupo{80EA}\nYou find any good \nmissions{80EC} kupo{80EA}{40:61}{40:63}
 
 [0x9c822d]	Hey ths somneThis isnt what I asked forI want Colemans thesis not Dalileis
    RAW: Hey{80EC} th{800B}{40:DB}{800F}{u4A}{uF4}s\nsom{801D}{u44}{uD8}ne{uD0}{u1F}{u44}{uEB}{40:61}{40:63}{u20}This isn{80F4}t what\nI asked for{80EB}{40:70}{40:63}I want Coleman{80F4}s\nthesis{80EC} not\nDalilei{80F4}s{80EB}{40:61}{40:63}
@@ -845,14 +833,11 @@
 [0x9c95e9]	Theyre notr fdsNah just a bunch of bandits living around hereDont worry
    RAW: They{80F4}re not{8007}{40:E2}{8007}{u46}{uDE}r\nf{8019}{40:D2}{8023}{u46}{uD7}ds{80EC}{8023}{40:CA}{uA0}{u2B}{40:DD}{uA0}{u3B}{u44}{uEA}{40:61}{40:63}{u20}Nah{80EC} just a bunch\nof bandits living\naround here{80E4}{40:70}{40:63}Don{80F4}t worry{80EC}\n{40:25}
 
-[0x9ca862]	is and is All you can do is what seems right to you kupo
-   RAW: {40:21}{u04}{40:25} is\n{40:25}{80EC} and\n{40:72}{u04} is {40:72}{u04}{80EB}{40:70}{40:63}{40:21}{u02}All you can do\nis what seems\nright to you{80EC} kupo{80EB}{40:61}{40:63}
-
 [0x9caa5d]	Gwar g Listen to that thing howlMaybe the monsters around here really have gone mad
    RAW: Gwar{8001}{u44}{uD1}{80EB}\n{800F}{40:DE}{u90}{u0D}{u42}{uDB}g{8017}{u42}{uD4} {u98}{u07}{801B}{u42}{WAIT}{40:63}{u20}Listen to that\nthing howl{80EB}{40:70}{40:63}Maybe the monsters\naround here really\nhave gone mad{80E4}{80E4}{80E4}{40:61}{40:63}
 
 [0x9cab6b]	Do monstersd likehfKupo We get jobs like this every once in a while
-   RAW: Do monsters{8011}{40:D0}{uA0}{u17}{u4C}{uCA}d\nlike{8029}{u42}{uDD}h{800B}{u88}{u21}{u42}{uD8}f{u90}{u2F}{u46}{uD7}{80EA}{40:61}{40:63}{u20}{40:21}{u03}Kupo{80E4}{80E4}{80E4} We get jobs\nlike this every\nonce in a while{80E4}{40:61}{40:63}{u30}
+   RAW: Do monsters{8011}{40:D0}{uA0}{u17}{u4C}{uCA}d\nlike{8029}{u42}{uDD}h{800B}{u88}{u21}{u42}{uD8}f{u90}{u2F}{u46}{uD7}{80EA}{40:61}{40:63}{u20}{VOICE:03}Kupo{80E4}{80E4}{80E4} We get jobs\nlike this every\nonce in a while{80E4}{40:61}{40:63}{u30}
 
 [0x9cac70]	There aumb of
    RAW: There a{uA8}{u07}{800B}{u46}{uD7}umb{u88}{u1B}{u45}\nof{801F}{40:DD}{u90}{u2B}{40:D8}{802D}{40:D2}{8033}{u42}{uDC}{80EC}{8033}{40:D4}{8027}{40:D9}{801F}{u44}{uE4}{40:70}{40:63}{u88}{u50}{40:B8}{u90}{u16}{40:CF}{u88}{u26}{8052}{40:D8}{8048}{40:CE}{u90}{u28}{u88}{u4A}{40:D5}{u90}{u38}{40:DF}{806C}\n{u98
@@ -896,9 +881,6 @@
 [0x9d0b8f]	The princs loeLet us say that you are right and there are two worldsHow much then is this other world worth to you
    RAW: The princ{u90}{u0D}{u48}{uD2}s\nlo{8001}{40:D4}{u90}{u17}{40:D0}{8023}{40:CF}{800F}{40:DB}{802B}{u44}{uD6}e{80E4}{u90}{u44}{sEA}{40:61}{40:63}{u20}Let us say that you\nare right and there\nare two worlds{80E4}{40:70}{40:63}How much{80EC} then{80EC} is\nthis {80F6}other world{80F6}\nworth to you{80EA}{40:
 
-[0x9d1106]	is an apprentice gadgeteerAnd he just finished building the airship of his dreams
-   RAW: {40:21}{u03}{40:72}{u0B} is an\napprentice\ngadgeteer{80E4}{80E4}{80E4}{40:70}{40:63}{40:21}{u03}And he just finished\nbuilding the airship\nof his dreams{80E4}{40:61}{40:63}
-
 [0x9d11bb]	Kupo But on her maiden voyage kupo
    RAW: Kupo{80EB} But on her\nmaiden voyage{80E4}{80E4}{80E4}\n{u81}{u09}kupo{u81}{u09}{40:61}{40:63}
 
@@ -909,7 +891,7 @@
    RAW: {s80}R{s80}t{s80}q{s80}d {s80}s{s80}g{s80}h{s80}m{s80}f{s80}{sEC}{s80}{u0D}{40:D4}{s80}{u17}{u48}o{s80}n{s80}{sEB}{40:70}{40:63}{s88}{u28}{u46}H{s80}{sF4}{s80}k{s80}k{s80}{u28}{40:CB}{s90}{u2E}{u42}v{s80}Z{s80}{u2E}{40:DD}{s98}{LZSS_FAIL}{u2C}{u44}q\n{s80}x{s80}{u34}{40:DE}{s80}{u4E}{s80}{u4A}{s80}{u
 
 [0x9d22d5]	rLpX You made it back safely kupoAnd you caught the bad guys too Kupo kupo kupo
-   RAW: r{u01}{u44}{u02}L{u02}{sFA}{u02}{sAE}{u03}{sEC}{u03}{u34}{u04}{sE6}{u04}{u44}{u05}{s84}{u05}{sA6}{u05}{u24}{u06}p{u06}{u34}{u07}{u5A}{u07}{s80}{u07}X{u07}{sF6}{u07}{LZSS_FAIL}{u78}{u09}{u2A}{u0A}{s8A}{u0A}{sFF}{sFF}{40:21}{u01}{40:25}{80EB}\nYou made it back\nsafely{80EC} kupo{80EB}{40:70}{40:63}{40:2
+   RAW: r{u01}{u44}{u02}L{u02}{sFA}{u02}{sAE}{u03}{sEC}{u03}{u34}{u04}{sE6}{u04}{u44}{u05}{s84}{u05}{sA6}{u05}{u24}{u06}p{u06}{u34}{u07}{u5A}{u07}{s80}{u07}X{u07}{sF6}{u07}{LZSS_FAIL}{u78}{u09}{u2A}{u0A}{s8A}{u0A}{sFF}{sFF}{VOICE:01}{40:25}{80EB}\nYou made it back\nsafely{80EC} kupo{80EB}{40:70}{40:63}{VOICE:
 
 [0x9d287d]	A merchantde spSdxknne zlIll be handling everything from source to storeIll let you know if something good comes in kupo
    RAW: A merchant{8011}{40:DD}{800F}{u48}{uCA}de\ns{8017}{u44}{uD2}p{80E4}{u88}{u45}{40:70}{40:63}{s80}S{s80}{u29}{u42}d{s80}x{s90}{u39}{40:DE}{s80}{u1F}{s88}{u31}{40:CC}{s80}{u3B}{40:DB}{s80}{u45}{s88}{u15}{u42}k{s80}n{s80}{u41}{40:DC}{s80}{u3B}{u42}n{s80}e{s80}{u5F}{s88}{u4B}{40:DB}{s80}{u4B} {s80}{u47}{4
@@ -965,11 +947,8 @@
 [0x9da6d5]	Why noteave ik s
    RAW: Why not{8007}{u4C}{uD5}eave\ni{uA0}{u11}{u42}{uD2}k{800F} {uA0}{u0F}{u48}{uD2}s{80EA}{40:61}{40:63}{u20}{u10}
 
-[0x9db940]	Well the official name is Audience Day kupoBut since everybody tries to bring the fanciest giftthey call it Gift Day
-   RAW: {40:21}{u03}Well{80EC} the official\nname is {80F6}Audience\nDay{80EC}{80F6} kupo{80E4}{40:70}{40:63}{40:21}{u03}But since everybody\ntries to bring the\nfanciest gift{80EC}{40:70}{40:63}{40:21}{u03}they call it\n{80F6}Gift Day{80E4}{80F6}{40:61}{40:63}
-
 [0x9dbb31]	What ouele witWell if your gift is good enough you might have a chanceIf I went I might be able to meet I have to tryThen Ill ask to help us kupoHes good with his handshe could make a fine gift for us
-   RAW: What {8005}{u44}{uCB}ou{u90}{u0B}{u42}{uD9}e{800B}{u4C}{uD9}le\nwit{8027}{uA8}{u1D}{40:CC}{8027}{40:D7}{8001}{40:CE}{8009}{40:DD}{801B}{u88}{u0D}{u46}{uDC}{80EA}{40:61}{40:63}{u20}{40:21}{u03}Well{80EC} if your gift\nis good enough{80EC} you\nmight have a chance{80E4}{40:61}{40:63}If I went{80EC} I mig
+   RAW: What {8005}{u44}{uCB}ou{u90}{u0B}{u42}{uD9}e{800B}{u4C}{uD9}le\nwit{8027}{uA8}{u1D}{40:CC}{8027}{40:D7}{8001}{40:CE}{8009}{40:DD}{801B}{u88}{u0D}{u46}{uDC}{80EA}{40:61}{40:63}{u20}{VOICE:03}Well{80EC} if your gift\nis good enough{80EC} you\nmight have a chance{80E4}{40:61}{40:63}If I went{80EC} I might
 
 [0x9dc1fb]	nrtIll need some for work and some to give to I guess this is enough materites going to make something great I know itHey that streetear kids info was goodLook at how much materite hes carryingThatll fetch a pretty gil Materite is scarce of late
    RAW: {sA2}{u01}{u14}{u02}{u7C}{u02}n{u02}{u02}{u03}{u24}{u03}{u48}{u03}{sB0}{u03}r{u03}{u7C}{u04}{s8C}{u04}{u5C}{u05}{s92}{u05}{sA2}{u05}{u36}{u06}t{u06}{u08}{u07}{s94}{u07}{sA6}{u07}{u5A}{u08}{u0A}{u09}{u22}{u09}{u64}{u09}{u08}{u0A}{u0E}{u0A}{u14}{u0A}{sFF}{sFF}I{80F4}ll need some for\nwork and some to\ng
@@ -1068,7 +1047,7 @@
    RAW: I didn{80F4}t really want\nto come here{80EC} but we\ngotta do this{80E4} {u81}{u09}gulp{u81}{u09}{40:61}{40:63}
 
 [0x9f4d7c]	DDark Duke Kupopo But I guess we gotta dowhatwegottakupo
-   RAW: {40:21}{u02}D{80FE}Dark Duke{80EA} Kupopo{80EB}\nBut{80EC} I guess we gotta\ndo{40:3E}{u04}what{40:3E}{u04}we{40:3E}{u04}gotta{80EC}{40:3E}{u04}kupo{80E4}{40:61}{40:63}
+   RAW: {VOICE:02}D{80FE}Dark Duke{80EA} Kupopo{80EB}\nBut{80EC} I guess we gotta\ndo{40:3E}{u04}what{40:3E}{u04}we{40:3E}{u04}gotta{80EC}{40:3E}{u04}kupo{80E4}{40:61}{40:63}
 
 [0x9f4ed7]	Eh Wtent sloubyThe games up We know youre guilty so give it backWho said anything about a ruby Guilty conscience got you
    RAW: Eh{80EA} W{8007}{u42}{uCA}t{uA0}{u0B}{40:CE}{8011}{u88}{u0F}{u4C}{uDF}en{80F4}t\ns{801D}{u42}{uD8}l{u88}{u11}{802F}{u42}{uD7}o{8035}{u4C}{uDB}uby{80EB}{40:61}{40:63}{u20}The game{80F4}s up{80EB}\nWe know you{80F4}re guilty{80EC}\nso give it back{80EB}{40:61}{40:63}Who said anything\nabout a ruby{80EA} G
@@ -1095,16 +1074,13 @@
    RAW: Got y{8007}{u4E}{uDE}{80EB}\nWe{80F4}ll{8015}{40:D5}{800B}{u44}{uCA}ve{8021}{u42}{uDD}h{u90}{u07}{40:DB}{801F}{40:DC}{8001}{40:DD}{802B}{u42}{uDD}o{uC0}{u19}{40:D3}{8041}{u42}{uCD}g{uA0}{u1F}{u44}{uE4}{40:61}{40:63}{u20}Still silent{80EA}\nYou will speak in\nprison{80EC} I{80F4}d wager{80E4}{40:61}{40:
 
 [0x9f864f]	No wayreoing thKupopo Im ready to win this tourney kupo
-   RAW: No way{8007}{u44}{uCA}re{u90}{u0F}{u88}{u05}{u4C}{uD0}oing\nt{u90}{u27}{40:D5}{8011}{40:DC}{u90}{u21}{u42}{uDD}h{801B}{40:DC}{803B}{40:D8}{8021}{u46}{uCE}{80EB}{40:61}{40:63}{u20}{40:21}{u01}Kupopo{80EB}\nI{80F4}m ready to win\nthis tourney{80EC} kupo{80EB}{40:61}{40:63}{u2D}{u11}
+   RAW: No way{8007}{u44}{uCA}re{u90}{u0F}{u88}{u05}{u4C}{uD0}oing\nt{u90}{u27}{40:D5}{8011}{40:DC}{u90}{u21}{u42}{uDD}h{801B}{40:DC}{803B}{40:D8}{8021}{u46}{uCE}{80EB}{40:61}{40:63}{u20}{VOICE:01}Kupopo{80EB}\nI{80F4}m ready to win\nthis tourney{80EC} kupo{80EB}{40:61}{40:63}{u2D}{u11}
 
 [0x9fa13d]	Some pelid thnAtgZudm
    RAW: Some pe{800B}{u42}{uD9}l{u90}{u0D}{u44}{uCD}id{8015}{40:D5}{8007}{40:D4}{801F}{u44}\nth{u90}{u27}{u42}{uDC}n{8033}{u42}{uE0}{80E4}{u88}{u47}{40:70}{40:63}{s80}A{s80}t{s80}{u1D}{40:EC}{s80}{u43}{40:E2}{s80}{u4D}{40:DE}{s90}{u23}{40:D1}{s88}{u09}{s80}{u4B}{s88}{u43}{u44}g{s80}Z{s80}u{s90}{u43}{40:D0}{s
 
 [0x9fa3c8]	ProfessorWeare Clan Weve come to help
    RAW: Professor{40:3E}{u04}{40:72}{u47}{80EA}{40:3E}{u04}We{40:3E}{u04}are\nClan {40:25}{u03}{80E4}\nWe{80F4}ve come to help{80E4}{40:61}{40:63}
-
-[0x9fa47e]	Professor kupo Were Clan kupoWere here to help you kupo
-   RAW: {40:21}{u02}Professor {40:72}{u47}{80EC}\nkupo{80EA} We{80F4}re Clan\n{40:25}{u03}{80EC} kupo{80EB}{40:70}{40:63}We{80F4}re here to help\nyou{80EC} kupo{80EB}{40:61}{40:63}
 
 [0x9fb237]	Now whereldt nggg
    RAW: Now where{800B}{40:CC}{8013}{u44}{uDE}ld{8017}{40:DD}{8017}{u44}{uCA}t\n{801B}{u44}{uD2}ng{802B}{40:CB}{8029}{40:E4}{u90}{u44}{sEA}{40:70}{40:63}{sA0}{u0B}{40:E4}{s80}{u23}{u42}{sB0}{s80}g{s80}{u4B}{s88}{u31}{u42}g{s80}{sEB}{s80}{u55}{40:B7}{sB0}{u53}{40:D2}{s80}{u43}{s88}{u05}{40:DC}{s80}{u17}{u42}{
@@ -1116,13 +1092,13 @@
    RAW: Got to{8005}{u46}{uCF}ind{u90}{u0F}{u42}{uD1}a{8019}{u42}\nr{u90}{u13}{u42}{uD0}{80E4}{u88}{u43}{40:70}{40:63}{s98}{u09}{s80}{u0B}{u44}\n{s80}G{s80}d{s80}{u1F}{40:CE}{s80}{u3F}{40:D2}{s90}{u45}{u48}h{s80}r{s80}{sEB}{40:61}{40:63}{u20}
 
 [0x9fb40c]	Got toinda rup JGdhr
-   RAW: Got to{8005}{u46}{uCF}ind{u90}{u0F}{u42}{uD1}a{8019}{u42}\nr{u90}{u13}{u42}{uD0}{80EC}{8025}{u44}{uD4}up{8031}{40:E4}{u88}{u43}{40:70}{40:63}{s98}{u09}{s80}{u0B}{u45}\n{40:21}{u01}{s80}J{sA0}{u1E}{s88}{u22}{40:EB}{s80}{u54}{u42}G{s80}d{s80}{u3E}{40:CE}{s80}{u5E}{40:D2}{s90}{u64}{u42}h{s80}r{s80}{u17}{
+   RAW: Got to{8005}{u46}{uCF}ind{u90}{u0F}{u42}{uD1}a{8019}{u42}\nr{u90}{u13}{u42}{uD0}{80EC}{8025}{u44}{uD4}up{8031}{40:E4}{u88}{u43}{40:70}{40:63}{s98}{u09}{s80}{u0B}{u45}\n{VOICE:01}{s80}J{sA0}{u1E}{s88}{u22}{40:EB}{s80}{u54}{u42}G{s80}d{s80}{u3E}{40:CE}{s80}{u5E}{40:D2}{s90}{u64}{u42}h{s80}r{s80}{u17}{u4
 
 [0x9fbdb5]	The oasisu beyd Theress a sspring there Weve found the oassiss
    RAW: The oasis{800B}{u98}{u05}{u42}{uD3}u{8011}{u48}{uDD}\nbey{8021}{u44}{uD7}d{80EB}{802B}{40:BB}{800F}{u42}{uDD}{80F4}{u90}{u2B}{40:D0}{8039}{u44}{uEB}{40:61}{40:63}{u20}{80E4}{80E4}{80E4}{80EB} There{80F4}ss a\nsspring there{80EB} We{80F4}ve\nfound the oassiss{80EB}{40:61}{40:63}
 
 [0x9fbec7]	Thers apng WeouaTheres a spring there kupo Weve found the oasis kupo
-   RAW: Ther{8003}{u46}{uF4}s a{8003}{u42}{uDC}p{8011}{u44}{uD2}ng{8011}{40:DD}{uB0}{u21}{u44}{uEB}\nW{u90}{u29}{u42}{uDF}e{802B}{u44}{uCF}ou{8025}{40:CD}{uA8}{u25}{803F}{u42}{uD8}a{803F}{40:D2}{8043}{u44}{uEB}{40:61}{40:63}{u20}{40:21}{u01}There{80F4}s a spring\nthere{80EC} kupo{80EB} We{80F4}ve\nfound the oa
+   RAW: Ther{8003}{u46}{uF4}s a{8003}{u42}{uDC}p{8011}{u44}{uD2}ng{8011}{40:DD}{uB0}{u21}{u44}{uEB}\nW{u90}{u29}{u42}{uDF}e{802B}{u44}{uCF}ou{8025}{40:CD}{uA8}{u25}{803F}{u42}{uD8}a{803F}{40:D2}{8043}{u44}{uEB}{40:61}{40:63}{u20}{VOICE:01}There{80F4}s a spring\nthere{80EC} kupo{80EB} We{80F4}ve\nfound the oasi
 
 [0x9fd581]	First Ieafs bngWlk mYour turf I hope youre prepared to defend it
    RAW: First I{8003}{u44}{uD1}ea{8011}{40:CD}{800F}{u42}{uD8}f{8015}{40:DD}{8013}{u46}{uD2}s\nb{801B}{u44}{uD2}ng{802B}{40:CA}{8007}{40:E2}{8021}{40:D7}{802F}{40:F4}{801D}{u88}{u27}{40:DE}{8049}{u48}{uCF}{80EB}{40:70}{40:63}W{u90}{u17}{u42}{uD5}l{8057}{8037}{u90}{u47}{u42}{uCA}k{uA0}{u3F}\n{u90}{u55}{40:CA}{
@@ -1146,7 +1122,7 @@
    RAW: The earth{800B}{40:B5}{800B}{u42}{uD5}g{8011}{u42}{uCB}i{8015}{u42}{uCD}\n{801D}{40:D7}{8007} {u88}{u21}{uF0}{u2F}{40:DC}{8025}{40:D0}{8029}{u42}{uD5}{80E4}{u88}{u45}{40:70}{40:63}{s80}H{s80}{u53}{40:CB}{s80}{u55}{40:D5}{s80}{u41}{u42}d{s80}u{s90}{u63}{s88}{u13}{40:DC}{s80}{u69}{s88}{u6F}{u42}Z {s80}
 
 [0xa073ba]	We did it kupo So much for Clan Borzoi andtheRedwingskupo
-   RAW: {40:21}{u01}We did it{80EC} kupo{80EB} So\nmuch for Clan Borzoi\nand{40:3E}{u04}the{40:3E}{u04}Redwings{80EC}{40:3E}{u04}kupo{80EB}{40:61}{40:63}
+   RAW: {VOICE:01}We did it{80EC} kupo{80EB} So\nmuch for Clan Borzoi\nand{40:3E}{u04}the{40:3E}{u04}Redwings{80EC}{40:3E}{u04}kupo{80EB}{40:61}{40:63}
 
 [0xa07a3f]	Watch whoouus This is most surprisingWe are nothing but courteous to our fellow clansWe certainly dont want to get in your way Lets be friendsWhats the big idea kupo Why cant we be friends kupo
    RAW: Watch who{8007}{u44}{uE2}ou{800F}{40:CA}{8017}{u44}{uCC}us{8001}{u42}{uCE}\n{8015}{40:CF}{uA0}{u25}{u88}{u33}{40:EC}{8031}{40:CB}{801D}{40:CD}{8001}{u46}{uE2}{80EB}{40:61}{40:63}{u20}This is most\nsurprising{80EB}{40:70}{40:63}We are nothing but\ncourteous to our\nfellow clans{80E4}{40:61}{40:63}We cert
