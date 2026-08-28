@@ -1,8 +1,8 @@
 # FFTA — ดัชนีหมวดหมู่ข้อความที่แปลได้
 
-อัปเดตรอบที่ 3: **พบและแก้ช่องโหว่สำคัญ** — ข้อความจำนวนมากถูกบีบอัดด้วย FFTA LZSS ฝังในสตริง (control code `0x32`) ซึ่งรอบก่อนหน้าถอดไม่ออก ทำให้ **บทสนทนาเนื้อเรื่องหลักหายไปเกือบทั้งหมด** รอบนี้ implement ตัวถอดแล้ว กู้คืนมาได้ **1,491 บรรทัดใหม่**
+อัปเดตรอบที่ 4: ตรวจสอบ 81 รายการที่เคย "ยังไม่จัดหมวด" แล้วสรุปว่าเป็น false positive จากการสแกนทั้งหมด (ดู `data/categorized_text/unclassified.txt`) — ไม่ใช่ backlog ที่ต้องแปล จึงตัดออกจากตารางนี้
 
-รวมทั้งหมด 5,361 บรรทัดไม่ซ้ำ จาก 55,960 สตริงที่สแกนได้
+รวมทั้งหมด 5,280 บรรทัดไม่ซ้ำ (จัดหมวดสมบูรณ์แล้ว) + 394 บรรทัดถอดไม่สมบูรณ์ (`_INCOMPLETE_needs_work.txt`) จาก 55,960 สตริงที่สแกนได้
 
 รูปแบบไฟล์: `[offset] ข้อความ` (มี `xN` ถ้าพบซ้ำ N ครั้ง)
 
@@ -18,4 +18,4 @@
 | [status_labels.txt](categorized_text/status_labels.txt) | ป้ายสถานะ/ธาตุ UI สั้น | 13 |
 | [battle_log.txt](categorized_text/battle_log.txt) | ข้อความระบบการต่อสู้ + คำอธิบายเอฟเฟกต์ | 298 |
 | [rumor_body.txt](categorized_text/rumor_body.txt) | เนื้อหาข่าวลือ Ivalice + ข้อความภารกิจ (ปนกัน) | 392 |
-| [unclassified.txt](categorized_text/unclassified.txt) | ยังไม่จัดหมวด — ต้องตรวจด้วยตา | 81 |
+| [_INCOMPLETE_needs_work.txt](categorized_text/_INCOMPLETE_needs_work.txt) | ถอดได้ไม่สมบูรณ์ — รอไข compression scheme อีกแบบ (ดู README.md "ปัญหา 1") | 394 |
